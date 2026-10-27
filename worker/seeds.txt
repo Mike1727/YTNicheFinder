@@ -1,0 +1,64 @@
+# Стартовые запросы для поиска аномальных видео у молодых каналов.
+# Один запрос на строку. Чем конкретнее тема, тем больше шансов увидеть маленькие каналы.
+# Новые запросы можно дописывать: воркер сам берёт те, что запускались давнее всего.
+# Если ищешь не на английском, смени RELEVANCE_LANGUAGE в .env и замени запросы на свой язык.
+
+# история
+ancient greek generals
+byzantine empire history
+roman republic documentary
+medieval siege warfare
+viking age history
+ottoman empire rise and fall
+forgotten battles of history
+world war 2 untold stories
+cold war espionage stories
+lost civilizations mystery
+history of ancient trade routes
+medieval daily life
+ancient medicine and surgery
+
+# мифология и религия
+norse mythology stories
+egyptian mythology explained
+history of secret societies
+
+# деньги и бизнес
+company collapse documentary
+history of banking crisis
+how famous scams worked
+dividend investing for beginners
+side hustle ideas that work
+history of luxury brands
+
+# true crime и загадки
+unsolved disappearances
+cold case documentary
+famous heists history
+mysterious shipwrecks
+
+# наука и техника
+deep sea creatures
+space mysteries explained
+engineering disasters
+how ancient technology worked
+military technology history
+retro technology history
+history of video games
+
+# психология и философия
+stoic philosophy lessons
+dark psychology explained
+history of philosophy
+
+# география, путешествия, культура
+abandoned places documentary
+hidden towns of europe
+how countries make money
+cultural traditions explained
+architecture history
+
+# природа
+extinct animals documentary
+dangerous animals explained
+car brand history

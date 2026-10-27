@@ -1,0 +1,6 @@
+worker/.env
+worker/data.db
+worker/run.log
+worker/.venv/
+__pycache__/
+*.pyc

@@ -1,0 +1,18 @@
+{
+ "generated_at": "2026-10-27T10:34:01Z",
+ "quota": {
+  "day": "2026-10-27",
+  "used": 204,
+  "budget": 9000
+ },
+ "pending": 0,
+ "thresholds": {
+  "max_channel_age_days": 60,
+  "max_subs": 10000,
+  "min_outlier_views": 50000,
+  "max_channels": 30,
+  "hard_max_subs": 1000000,
+  "min_top_views": 100000
+ },
+ "niches": []
+}

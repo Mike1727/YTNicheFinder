@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex">
+<title>Свободные ниши YouTube</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=Literata:opsz,wght@7..72,500..700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #eef1f4;
+    --surface: #ffffff;
+    --ink: #14212b;
+    --muted: #566672;
+    --line: #d5dce2;
+    --pass: #0e7c66;
+    --weak: #96660f;
+    --fail: #a33b3b;
+    --bar-subs: #8a9aa6;
+    --focus: #1d5fd1;
+    --sans: "Golos Text", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --serif: "Literata", Georgia, "Times New Roman", serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #10181f;
+      --surface: #172129;
+      --ink: #e6edf2;
+      --muted: #93a4b0;
+      --line: #28353f;
+      --pass: #3cc9a5;
+      --weak: #e0b04f;
+      --fail: #e58585;
+      --bar-subs: #6f808c;
+      --focus: #7fb0ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 400 16px/1.5 var(--sans);
+  }
+  a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 3px; }
+  a:hover { text-decoration-color: currentColor; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+
+  .wrap { max-width: 880px; margin: 0 auto; padding: 28px 16px 64px; }
+
+  .top h1 {
+    font: 600 clamp(1.6rem, 5vw, 2.2rem)/1.15 var(--serif);
+    margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .summary { margin: 0; color: var(--muted); max-width: 62ch; }
+  .summary strong { color: var(--ink); font-weight: 600; }
+
+  .controls {
+    display: flex; flex-wrap: wrap; gap: 10px 12px;
+    margin: 22px 0 18px;
+    align-items: center;
+  }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); overflow: hidden; }
+  .seg button {
+    font: 500 0.9rem var(--sans);
+    padding: 8px 12px; border: 0; background: transparent; color: var(--muted);
+    cursor: pointer; min-height: 40px;
+  }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+  select, input[type="search"] {
+    font: 400 0.95rem var(--sans);
+    color: var(--ink); background: var(--surface);
+    border: 1px solid var(--line); border-radius: 8px;
+    padding: 8px 10px; min-height: 40px;
+  }
+  input[type="search"] { flex: 1 1 160px; min-width: 0; }
+
+  .list { display: grid; gap: 14px; }
+
+  .niche {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-left: 5px solid var(--line);
+    border-radius: 6px;
+    padding: 16px 16px 6px;
+  }
+  .niche[data-status="pass"] { border-left-color: var(--pass); }
+  .niche[data-status="weak"] { border-left-color: var(--weak); }
+  .niche[data-status="fail"] { border-left-color: var(--fail); }
+
+  .head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
+  .name { font: 600 1.2rem/1.3 var(--serif); margin: 0; overflow-wrap: anywhere; }
+  .verdict { font: 600 0.85rem var(--sans); white-space: nowrap; padding-top: 3px; }
+  [data-status="pass"] .verdict { color: var(--pass); }
+  [data-status="weak"] .verdict { color: var(--weak); }
+  [data-status="fail"] .verdict { color: var(--fail); }
+  .path { margin: 4px 0 0; color: var(--muted); font-size: 0.9rem; }
+
+  /* главный элемент: спрос против конкуренции */
+  .gap { display: grid; grid-template-columns: 1fr; gap: 8px; margin: 16px 0 12px; }
+  .gap-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; align-items: baseline; }
+  .gap-row .label { color: var(--muted); font-size: 0.85rem; }
+  .gap-row .val { font: 600 1.05rem var(--sans); font-variant-numeric: tabular-nums; }
+  .track { grid-column: 1 / -1; height: 10px; background: color-mix(in srgb, var(--line) 55%, transparent); border-radius: 2px; overflow: hidden; }
+  .track > span { display: block; height: 100%; border-radius: 2px; }
+  .track.views > span { background: var(--pass); }
+  .track.subs > span { background: var(--bar-subs); }
+
+  .facts { display: flex; flex-wrap: wrap; gap: 4px 20px; margin: 0 0 12px; padding: 0; color: var(--muted); font-size: 0.9rem; }
+  .facts div { display: flex; gap: 6px; }
+  .facts dt { margin: 0; }
+  .facts dd { margin: 0; color: var(--ink); font-weight: 500; font-variant-numeric: tabular-nums; }
+
+  .flags { margin: 0 0 12px; padding-left: 18px; font-size: 0.9rem; }
+  .flags li { margin: 2px 0; }
+  .flags .bad { color: var(--fail); }
+  .flags .note { color: var(--weak); }
+
+  details { border-top: 1px solid var(--line); }
+  summary {
+    cursor: pointer; padding: 11px 0; font-weight: 500; font-size: 0.92rem; color: var(--muted);
+    list-style: none; min-height: 44px; display: flex; align-items: center;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::before { content: "+"; display: inline-block; width: 1.2em; font-weight: 600; }
+  details[open] > summary::before { content: "−"; }
+  .more { padding: 0 0 14px; font-size: 0.92rem; }
+  .more h3 { font: 600 0.95rem var(--sans); margin: 14px 0 6px; }
+  .more p { margin: 4px 0; color: var(--muted); max-width: 70ch; }
+  .more ul { margin: 0; padding-left: 18px; }
+  .more li { margin: 3px 0; overflow-wrap: anywhere; }
+
+  .comp { display: grid; gap: 0; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .comp-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; padding: 8px 10px; }
+  .comp-row + .comp-row { border-top: 1px solid var(--line); }
+  .comp-row .sub { color: var(--muted); font-size: 0.85rem; grid-column: 1 / -1; overflow-wrap: anywhere; }
+  .comp-row .n { font-variant-numeric: tabular-nums; font-weight: 500; text-align: right; }
+
+  .empty { padding: 28px 18px; border: 1px dashed var(--line); border-radius: 6px; color: var(--muted); background: var(--surface); }
+  .empty strong { color: var(--ink); }
+  .empty code { font-size: 0.9em; background: var(--bg); padding: 1px 5px; border-radius: 3px; }
+
+  footer { margin-top: 28px; color: var(--muted); font-size: 0.85rem; max-width: 70ch; }
+
+  @media (min-width: 720px) {
+    .wrap { padding-top: 48px; }
+    .niche { padding: 18px 20px 6px; }
+    .gap { margin: 18px 0 14px; }
+  }
+</style>
+</head>
+<body>
+<main class="wrap">
+  <header class="top">
+    <h1>Свободные ниши YouTube</h1>
+    <p class="summary" id="summary">Загружаю результаты…</p>
+  </header>
+
+  <div class="controls">
+    <div class="seg" role="group" aria-label="Фильтр по результату" id="statusSeg">
+      <button type="button" data-v="pass" aria-pressed="true">Подходят</button>
+      <button type="button" data-v="weak" aria-pressed="false">Слабый сигнал</button>
+      <button type="button" data-v="fail" aria-pressed="false">Не прошли</button>
+      <button type="button" data-v="all" aria-pressed="false">Все</button>
+    </div>
+    <label class="visually-hidden" for="sort" style="position:absolute;left:-9999px">Сортировка</label>
+    <select id="sort">
+      <option value="score">Сначала лучший score</option>
+      <option value="views">Сначала больше просмотров</option>
+      <option value="channels">Сначала меньше каналов</option>
+      <option value="young">Сначала больше молодых каналов с хитами</option>
+      <option value="new">Сначала новые находки</option>
+    </select>
+    <input type="search" id="q" placeholder="Поиск по названию ниши" aria-label="Поиск по названию ниши">
+  </div>
+
+  <div class="list" id="list"></div>
+  <footer id="foot"></footer>
+</main>
+
+<script>
+(function () {
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const nf = new Intl.NumberFormat('ru', { notation: 'compact', maximumFractionDigits: 1 });
+  const full = new Intl.NumberFormat('ru');
+  const fmt = (n) => (n == null ? 'скрыто' : nf.format(n));
+  const LABEL = { pass: 'Подходит', weak: 'Слабый сигнал', fail: 'Не прошла' };
+
+  // ссылки строим только из id, чтобы не доверять строкам из файла
+  const chUrl = (id) => 'https://www.youtube.com/channel/' + encodeURIComponent(id);
+  const vidUrl = (id) => 'https://www.youtube.com/watch?v=' + encodeURIComponent(id);
+  const searchUrl = (q) => 'https://www.youtube.com/results?search_query=' + encodeURIComponent(q) + '&sp=CAM%253D';
+
+  // логарифмическая шкала: 100 -> 0%, 10 млн -> 100%
+  const bar = (n) => {
+    const v = Math.max(n || 0, 1);
+    return Math.max(2, Math.min(100, ((Math.log10(v) - 2) / 5) * 100));
+  };
+
+  const state = { status: 'pass', sort: 'score', q: '', data: null };
+
+  function ago(iso) {
+    if (!iso) return '';
+    const d = Math.round((Date.now() - new Date(iso).getTime()) / 3600000);
+    if (d < 1) return 'меньше часа назад';
+    if (d < 48) return d + ' ч назад';
+    return Math.round(d / 24) + ' дн. назад';
+  }
+
+  function card(n) {
+    const m = n.market || {};
+    const flags = []
+      .concat((n.reasons || []).map((t) => '<li class="bad">' + esc(t) + '</li>'))
+      .concat((n.notes || []).map((t) => '<li class="note">' + esc(t) + '</li>'))
+      .join('');
+    const path = (n.path || []).length ? '<p class="path">' + esc(n.path.join(' / ')) + '</p>' : '';
+    const queries = (n.queries || []).map((q) =>
+      '<li><a href="' + searchUrl(q) + '" target="_blank" rel="noopener">' + esc(q) + '</a></li>').join('');
+    const subq = (n.sub_queries || []).map((q) =>
+      '<li><a href="' + searchUrl(q) + '" target="_blank" rel="noopener">' + esc(q) + '</a></li>').join('');
+    const comps = (n.competitors || []).map((c) =>
+      '<div class="comp-row"><a href="' + chUrl(c.id) + '" target="_blank" rel="noopener">' + esc(c.title) + '</a>' +
+      '<span class="n">' + fmt(c.subs) + ' подп.</span>' +
+      '<span class="sub">лучшее видео: <a href="' + vidUrl(c.best_id) + '" target="_blank" rel="noopener">' +
+      esc(c.best_title) + '</a>, ' + fmt(c.best_views) + ' просм.' +
+      (c.age_days != null ? ', канал ' + c.age_days + ' дн.' : '') + '</span></div>').join('');
+    const cs = n.channel_stats || {};
+    const bv = n.best_video || {};
+
+    return '<article class="niche" data-status="' + esc(n.status) + '">' +
+      '<div class="head"><h2 class="name">' + esc(n.niche) + '</h2>' +
+      '<span class="verdict">' + esc(LABEL[n.status] || n.status) + '</span></div>' + path +
+      '<div class="gap" aria-hidden="false">' +
+        '<div class="gap-row"><span class="label">Лучшее видео ниши, просмотры</span>' +
+        '<span class="val">' + fmt(m.top_views) + '</span>' +
+        '<div class="track views"><span style="width:' + bar(m.top_views).toFixed(1) + '%"></span></div></div>' +
+        '<div class="gap-row"><span class="label">Самый крупный канал, подписчики</span>' +
+        '<span class="val">' + fmt(m.max_subs) + '</span>' +
+        '<div class="track subs"><span style="width:' + bar(m.max_subs).toFixed(1) + '%"></span></div></div>' +
+      '</div>' +
+      '<dl class="facts">' +
+        '<div><dt>Каналов в нише</dt><dd>' + esc(m.n_channels) + '</dd></div>' +
+        '<div><dt>Видео за год</dt><dd>' + esc(m.n_videos) + '</dd></div>' +
+        '<div><dt>Молодых каналов с хитами</dt><dd>' + esc(m.young_hits) + '</dd></div>' +
+        '<div><dt>Score</dt><dd>' + full.format(n.score || 0) + '</dd></div>' +
+      '</dl>' +
+      (flags ? '<ul class="flags">' + flags + '</ul>' : '') +
+      '<details><summary>Подробности и проверка вручную</summary><div class="more">' +
+        '<h3>Канал, по которому нашли нишу</h3>' +
+        '<p><a href="' + chUrl(n.channel_id) + '" target="_blank" rel="noopener">' + esc(n.channel_title) + '</a>: ' +
+        fmt(n.subs) + ' подп., создан ' + esc(n.channel_created) + ' (' + esc(n.channel_age_days) + ' дн.), ' +
+        'лучшее видео <a href="' + vidUrl(bv.id) + '" target="_blank" rel="noopener">' + esc(bv.title) + '</a> ' +
+        'набрало ' + fmt(bv.views) + '. Просмотры в ' + esc(n.ratio) + ' раз выше подписчиков, ' +
+        'видео от ' + fmt((state.data.thresholds || {}).min_outlier_views) + ' на канале: ' + esc(cs.hits) + ' из ' + esc(cs.videos) + '.</p>' +
+        '<h3>Запросы, по которым считали конкурентов</h3>' +
+        (n.llm ? '' : '<p>Запросы подобраны автоматически по тегам и заголовкам, без нейросети. Открой их и убедись, что выдача про ту же тему.</p>') +
+        '<ul>' + queries + '</ul>' +
+        '<h3>Конкуренты в нише</h3><div class="comp">' + comps + '</div>' +
+        (subq ? '<h3>Идеи для спуска глубже</h3><ul>' + subq + '</ul>' : '') +
+      '</div></details></article>';
+  }
+
+  function sorted(list) {
+    const by = {
+      score: (a, b) => (b.score || 0) - (a.score || 0),
+      views: (a, b) => (b.market.top_views || 0) - (a.market.top_views || 0),
+      channels: (a, b) => (a.market.n_channels || 0) - (b.market.n_channels || 0),
+      young: (a, b) => (b.market.young_hits || 0) - (a.market.young_hits || 0),
+      new: (a, b) => String(b.validated_at).localeCompare(String(a.validated_at)),
+    };
+    return list.slice().sort(by[state.sort]);
+  }
+
+  function render() {
+    const d = state.data;
+    const box = $('#list');
+    if (!d) return;
+    const all = d.niches || [];
+    const counts = { pass: 0, weak: 0, fail: 0 };
+    all.forEach((n) => { if (counts[n.status] != null) counts[n.status]++; });
+
+    $('#summary').innerHTML = all.length
+      ? 'Проверено ниш: <strong>' + all.length + '</strong>, подходят: <strong>' + counts.pass +
+        '</strong>, слабый сигнал: ' + counts.weak + '. Обновлено ' + esc(ago(d.generated_at)) +
+        (d.pending ? ', в очереди на проверку: ' + d.pending : '') + '.'
+      : 'Пока ни одной проверенной ниши.';
+
+    const q = state.q.trim().toLowerCase();
+    const list = sorted(all.filter((n) =>
+      (state.status === 'all' || n.status === state.status) &&
+      (!q || (n.niche + ' ' + (n.path || []).join(' ') + ' ' + n.channel_title).toLowerCase().includes(q))));
+
+    if (!all.length) {
+      box.innerHTML = '<div class="empty"><strong>Данных пока нет.</strong> Запусти <code>run.bat</code> на сервере: ' +
+        'воркер найдёт молодые каналы с аномальными видео, проверит их ниши и обновит эту страницу.</div>';
+    } else if (!list.length) {
+      box.innerHTML = '<div class="empty"><strong>В этом фильтре пусто.</strong> Попробуй «Все» или очисти поиск.</div>';
+    } else {
+      box.innerHTML = list.map(card).join('');
+    }
+
+    const t = d.thresholds || {};
+    $('#foot').textContent = t.max_subs
+      ? 'Кандидат: канал моложе ' + t.max_channel_age_days + ' дней, до ' + full.format(t.max_subs) +
+        ' подписчиков, видео от ' + full.format(t.min_outlier_views) + ' просмотров. Ниша подходит, если в ней не больше ' +
+        t.max_channels + ' каналов, нет каналов от ' + full.format(t.hard_max_subs) + ' подписчиков, есть видео от ' +
+        full.format(t.min_top_views) + ' просмотров и спрос подтверждён минимум двумя каналами. ' +
+        'Расход квоты YouTube сегодня: ' + full.format((d.quota || {}).used || 0) + ' из ' + full.format((d.quota || {}).budget || 0) + '.'
+      : '';
+  }
+
+  $('#statusSeg').addEventListener('click', (e) => {
+    const b = e.target.closest('button');
+    if (!b) return;
+    state.status = b.dataset.v;
+    document.querySelectorAll('#statusSeg button').forEach((x) =>
+      x.setAttribute('aria-pressed', String(x === b)));
+    render();
+  });
+  $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
+  $('#q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+
+  fetch('results.json', { cache: 'no-store' })
+    .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then((d) => {
+      state.data = d;
+      if (!(d.niches || []).some((n) => n.status === 'pass') && (d.niches || []).length) {
+        state.status = 'all';
+        document.querySelectorAll('#statusSeg button').forEach((x) =>
+          x.setAttribute('aria-pressed', String(x.dataset.v === 'all')));
+      }
+      render();
+    })
+    .catch((e) => {
+      $('#summary').textContent = 'Не удалось загрузить results.json: ' + e.message;
+    });
+})();
+</script>
+</body>
+</html>
