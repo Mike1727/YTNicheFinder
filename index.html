@@ -1,281 +1,252 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="color-scheme" content="light dark">
-<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Свободные ниши YouTube</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600&family=Literata:opsz,wght@7..72,500..700&display=swap" rel="stylesheet">
 <style>
-  :root {
-    color-scheme: light dark;
-    --bg: #eef1f4;
-    --surface: #ffffff;
-    --ink: #14212b;
-    --muted: #566672;
-    --line: #d5dce2;
-    --pass: #0e7c66;
-    --weak: #96660f;
-    --fail: #a33b3b;
-    --bar-subs: #8a9aa6;
-    --focus: #1d5fd1;
-    --sans: "Golos Text", system-ui, -apple-system, "Segoe UI", sans-serif;
-    --serif: "Literata", Georgia, "Times New Roman", serif;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #10181f;
-      --surface: #172129;
-      --ink: #e6edf2;
-      --muted: #93a4b0;
-      --line: #28353f;
-      --pass: #3cc9a5;
-      --weak: #e0b04f;
-      --fail: #e58585;
-      --bar-subs: #6f808c;
-      --focus: #7fb0ff;
-    }
-  }
-  * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
-  body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--ink);
-    font: 400 16px/1.5 var(--sans);
-  }
-  a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 3px; }
-  a:hover { text-decoration-color: currentColor; }
-  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #0b0d10;
+  --card: #121621;
+  --card-hover: #191f2d;
+  --text: #e8ecf1;
+  --muted: #94a3b8;
+  --line: #243040;
+  --accent: #38bdf8;
+  --accent-hover: #7dd3fc;
+  --pass: #22c55e;
+  --weak: #f59e0b;
+  --fail: #ef4444;
+  --radius: 14px;
+}
+html { -webkit-text-size-adjust: 100%; }
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+.wrap { max-width: 1100px; margin: 0 auto; padding: 40px 18px 80px; }
 
-  .wrap { max-width: 880px; margin: 0 auto; padding: 28px 16px 64px; }
+/* Header */
+header { margin-bottom: 26px; }
+h1 {
+  font-size: clamp(1.7rem, 4vw, 2.2rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 6px;
+}
+.sub { color: var(--muted); font-size: 0.95rem; max-width: 60ch; }
 
-  .top h1 {
-    font: 600 clamp(1.6rem, 5vw, 2.2rem)/1.15 var(--serif);
-    margin: 0 0 8px;
-    letter-spacing: -0.01em;
-  }
-  .summary { margin: 0; color: var(--muted); max-width: 62ch; }
-  .summary strong { color: var(--ink); font-weight: 600; }
+/* Controls */
+.controls {
+  display: flex; flex-wrap: wrap; gap: 10px;
+  margin: 22px 0 20px; align-items: center;
+}
+.seg {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--card);
+  overflow: hidden;
+  display: inline-flex;
+}
+.seg button {
+  border: 0; background: transparent; color: var(--muted);
+  padding: 9px 14px; font-size: 0.9rem; cursor: pointer;
+  min-height: 42px; font-weight: 500;
+}
+.seg button.active { color: var(--text); background: var(--card-hover); border-bottom: 3px solid var(--accent); padding-bottom: 6px; box-shadow: inset 0 -3px 0 var(--accent); }
+select, input[type="search"] {
+  background: var(--card); border: 1px solid var(--line); color: var(--text);
+  border-radius: 10px; padding: 9px 12px; font-size: 0.95rem; min-height: 42px;
+}
+input[type="search"] { flex: 1 1 200px; min-width: 0; }
 
-  .controls {
-    display: flex; flex-wrap: wrap; gap: 10px 12px;
-    margin: 22px 0 18px;
-    align-items: center;
-  }
-  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); overflow: hidden; }
-  .seg button {
-    font: 500 0.9rem var(--sans);
-    padding: 8px 12px; border: 0; background: transparent; color: var(--muted);
-    cursor: pointer; min-height: 40px;
-  }
-  .seg button + button { border-left: 1px solid var(--line); }
-  .seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
-  select, input[type="search"] {
-    font: 400 0.95rem var(--sans);
-    color: var(--ink); background: var(--surface);
-    border: 1px solid var(--line); border-radius: 8px;
-    padding: 8px 10px; min-height: 40px;
-  }
-  input[type="search"] { flex: 1 1 160px; min-width: 0; }
+/* Stats strip */
+.stats {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;
+  margin-bottom: 24px;
+}
+.stat { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 14px; }
+.stat .v { font-size: 1.5rem; font-weight: 700; letter-spacing: -0.01em; }
+.stat .l { color: var(--muted); font-size: 0.85rem; margin-top: 4px; }
 
-  .list { display: grid; gap: 14px; }
+/* List */
+.list { display: grid; gap: 14px; }
 
-  .niche {
-    background: var(--surface);
-    border: 1px solid var(--line);
-    border-left: 5px solid var(--line);
-    border-radius: 6px;
-    padding: 16px 16px 6px;
-  }
-  .niche[data-status="pass"] { border-left-color: var(--pass); }
-  .niche[data-status="weak"] { border-left-color: var(--weak); }
-  .niche[data-status="fail"] { border-left-color: var(--fail); }
+.niche {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  transition: transform .15s, border-color .15s, box-shadow .15s;
+}
+.niche:hover { border-color: #334255; transform: translateY(-2px); box-shadow: 0 10px 30px rgba(0,0,0,.25); }
+.niche[data-status="pass"] { border-left: 4px solid var(--pass); }
+.niche[data-status="weak"] { border-left: 4px solid var(--weak); }
+.niche[data-status="fail"] { border-left: 4px solid var(--fail); }
 
-  .head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; }
-  .name { font: 600 1.2rem/1.3 var(--serif); margin: 0; overflow-wrap: anywhere; }
-  .verdict { font: 600 0.85rem var(--sans); white-space: nowrap; padding-top: 3px; }
-  [data-status="pass"] .verdict { color: var(--pass); }
-  [data-status="weak"] .verdict { color: var(--weak); }
-  [data-status="fail"] .verdict { color: var(--fail); }
-  .path { margin: 4px 0 0; color: var(--muted); font-size: 0.9rem; }
+.niche-head { display: flex; justify-content: space-between; gap: 12px; align-items: flex-start; margin-bottom: 10px; }
+.niche h2 { font-size: 1.15rem; font-weight: 700; overflow-wrap: anywhere; line-height: 1.3; margin-bottom: 4px; }
+.verdict { font-size: 0.8rem; font-weight: 700; padding: 3px 8px; border-radius: 6px; white-space: nowrap; }
+.verdict[data-v="pass"] { background: rgba(34,197,94,.15); color: var(--pass); border: 1px solid rgba(34,197,94,.35); }
+.verdict[data-v="weak"] { background: rgba(245,158,11,.15); color: var(--weak); border: 1px solid rgba(245,158,11,.35); }
+.verdict[data-v="fail"] { background: rgba(239,68,68,.15); color: var(--fail); border: 1px solid rgba(239,68,68,.35); }
 
-  /* главный элемент: спрос против конкуренции */
-  .gap { display: grid; grid-template-columns: 1fr; gap: 8px; margin: 16px 0 12px; }
-  .gap-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; align-items: baseline; }
-  .gap-row .label { color: var(--muted); font-size: 0.85rem; }
-  .gap-row .val { font: 600 1.05rem var(--sans); font-variant-numeric: tabular-nums; }
-  .track { grid-column: 1 / -1; height: 10px; background: color-mix(in srgb, var(--line) 55%, transparent); border-radius: 2px; overflow: hidden; }
-  .track > span { display: block; height: 100%; border-radius: 2px; }
-  .track.views > span { background: var(--pass); }
-  .track.subs > span { background: var(--bar-subs); }
+.path { color: var(--muted); font-size: 0.85rem; margin-bottom: 12px; }
 
-  .facts { display: flex; flex-wrap: wrap; gap: 4px 20px; margin: 0 0 12px; padding: 0; color: var(--muted); font-size: 0.9rem; }
-  .facts div { display: flex; gap: 6px; }
-  .facts dt { margin: 0; }
-  .facts dd { margin: 0; color: var(--ink); font-weight: 500; font-variant-numeric: tabular-nums; }
+.bar-wrap { display: grid; grid-template-columns: 1fr auto; gap: 2px 10px; margin: 10px 0; }
+.bar-label { color: var(--muted); font-size: 0.8rem; }
+.bar-val { font-size: 0.95rem; font-weight: 700; font-variant-numeric: tabular-nums; text-align: right; }
+.bar-track { grid-column: 1 / -1; height: 8px; background: #1f2a3c; border-radius: 4px; overflow: hidden; margin-top: 4px; }
+.bar-track > span { display: block; height: 100%; border-radius: 4px; }
+.bar-track.views > span { background: var(--accent); }
+.bar-track.subs > span { background: #818cf8; }
 
-  .flags { margin: 0 0 12px; padding-left: 18px; font-size: 0.9rem; }
-  .flags li { margin: 2px 0; }
-  .flags .bad { color: var(--fail); }
-  .flags .note { color: var(--weak); }
+.facts { display: flex; flex-wrap: wrap; gap: 6px 22px; margin: 12px 0 12px; padding: 0; list-style: none; font-size: 0.85rem; color: var(--muted); }
+.facts li { display: flex; flex-direction: column; gap: 2px; }
+.facts .num { color: var(--text); font-weight: 700; font-variant-numeric: tabular-nums; }
 
-  details { border-top: 1px solid var(--line); }
-  summary {
-    cursor: pointer; padding: 11px 0; font-weight: 500; font-size: 0.92rem; color: var(--muted);
-    list-style: none; min-height: 44px; display: flex; align-items: center;
-  }
-  summary::-webkit-details-marker { display: none; }
-  summary::before { content: "+"; display: inline-block; width: 1.2em; font-weight: 600; }
-  details[open] > summary::before { content: "−"; }
-  .more { padding: 0 0 14px; font-size: 0.92rem; }
-  .more h3 { font: 600 0.95rem var(--sans); margin: 14px 0 6px; }
-  .more p { margin: 4px 0; color: var(--muted); max-width: 70ch; }
-  .more ul { margin: 0; padding-left: 18px; }
-  .more li { margin: 3px 0; overflow-wrap: anywhere; }
+.flags { margin: 0 0 12px; padding: 0; list-style: none; font-size: 0.85rem; }
+.flags li { margin: 3px 0; padding-left: 16px; position: relative; }
+.flags li::before { content: ""; position: absolute; left: 0; top: 0.7em; width: 6px; height: 6px; border-radius: 50%; background: var(--fail); }
+.flags .bad::before { background: var(--fail); }
+.flags .note::before { background: var(--weak); }
 
-  .comp { display: grid; gap: 0; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
-  .comp-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 12px; padding: 8px 10px; }
-  .comp-row + .comp-row { border-top: 1px solid var(--line); }
-  .comp-row .sub { color: var(--muted); font-size: 0.85rem; grid-column: 1 / -1; overflow-wrap: anywhere; }
-  .comp-row .n { font-variant-numeric: tabular-nums; font-weight: 500; text-align: right; }
+details { border-top: 1px solid var(--line); margin-top: 10px; padding-top: 10px; }
+summary {
+  cursor: pointer; padding: 8px 0; font-weight: 600; color: var(--muted);
+  list-style: none; display: flex; align-items: center; gap: 6px;
+}
+summary::-webkit-details-marker { display: none; }
+summary::before { content: "+"; font-weight: 700; }
+details[open] > summary::before { content: "−"; }
+.more { padding-top: 10px; font-size: 0.9rem; color: var(--muted); }
+.more h3 { color: var(--text); font-size: 0.95rem; margin: 10px 0 6px; }
+.more p { margin: 4px 0; max-width: 70ch; }
+.more ul { margin: 6px 0 0 18px; }
+.more li { margin: 3px 0; overflow-wrap: anywhere; }
+.more a { color: var(--accent); text-decoration: none; }
+.more a:hover { text-decoration: underline; }
 
-  .empty { padding: 28px 18px; border: 1px dashed var(--line); border-radius: 6px; color: var(--muted); background: var(--surface); }
-  .empty strong { color: var(--ink); }
-  .empty code { font-size: 0.9em; background: var(--bg); padding: 1px 5px; border-radius: 3px; }
+.comp { display: grid; gap: 0; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; margin-top: 8px; }
+.comp-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; padding: 8px 12px; font-size: 0.85rem; border-bottom: 1px solid var(--line); }
+.comp-row:last-child { border-bottom: none; }
+.comp-row .sub { grid-column: 1 / -1; color: var(--muted); font-size: 0.8rem; overflow-wrap: anywhere; }
 
-  footer { margin-top: 28px; color: var(--muted); font-size: 0.85rem; max-width: 70ch; }
+.empty { padding: 40px 20px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--card); text-align: center; color: var(--muted); }
+.empty strong { color: var(--text); }
+.empty code { background: #1f2a3c; padding: 2px 8px; border-radius: 6px; color: var(--accent); font-size: 0.9em; }
 
-  @media (min-width: 720px) {
-    .wrap { padding-top: 48px; }
-    .niche { padding: 18px 20px 6px; }
-    .gap { margin: 18px 0 14px; }
-  }
+footer { margin-top: 32px; color: var(--muted); font-size: 0.85rem; border-top: 1px solid var(--line); padding-top: 16px; max-width: 70ch; }
+
+@media (max-width: 640px) {
+  .wrap { padding: 24px 14px 60px; }
+  .niche-head { flex-direction: column; gap: 8px; align-items: flex-start; }
+  .stats { grid-template-columns: 1fr 1fr; }
+}
 </style>
 </head>
 <body>
-<main class="wrap">
-  <header class="top">
+<div class="wrap">
+  <header>
     <h1>Свободные ниши YouTube</h1>
-    <p class="summary" id="summary">Загружаю результаты…</p>
+    <p class="sub" id="summary">Загружаю результаты&#8230;</p>
   </header>
 
   <div class="controls">
-    <div class="seg" role="group" aria-label="Фильтр по результату" id="statusSeg">
-      <button type="button" data-v="pass" aria-pressed="true">Подходят</button>
-      <button type="button" data-v="weak" aria-pressed="false">Слабый сигнал</button>
-      <button type="button" data-v="fail" aria-pressed="false">Не прошли</button>
-      <button type="button" data-v="all" aria-pressed="false">Все</button>
+    <div class="seg" role="group" aria-label="Фильтр" id="statusSeg">
+      <button type="button" data-v="all" class="active">Все ниши</button>
+      <button type="button" data-v="pass">Подходят</button>
+      <button type="button" data-v="weak">Слабый сигнал</button>
+      <button type="button" data-v="fail">Не прошли</button>
     </div>
-    <label class="visually-hidden" for="sort" style="position:absolute;left:-9999px">Сортировка</label>
-    <select id="sort">
-      <option value="score">Сначала лучший score</option>
-      <option value="views">Сначала больше просмотров</option>
-      <option value="channels">Сначала меньше каналов</option>
-      <option value="young">Сначала больше молодых каналов с хитами</option>
-      <option value="new">Сначала новые находки</option>
+    <select id="sort" aria-label="Сортировка">
+      <option value="score">По убыванию score</option>
+      <option value="views">По просмотрам (↓)</option>
+      <option value="channels">По числу каналов (↑)</option>
+      <option value="young">По молодым хитам (↓)</option>
+      <option value="new">По дате проверки</option>
     </select>
-    <input type="search" id="q" placeholder="Поиск по названию ниши" aria-label="Поиск по названию ниши">
+    <input type="search" id="q" placeholder="Поиск по нише или каналу&#8230;" aria-label="Поиск">
   </div>
 
+  <div class="stats" id="stats"></div>
   <div class="list" id="list"></div>
   <footer id="foot"></footer>
-</main>
+</div>
 
 <script>
-(function () {
+(function(){
   const $ = (s) => document.querySelector(s);
-  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) =>
-    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const nf = new Intl.NumberFormat('ru', { notation: 'compact', maximumFractionDigits: 1 });
-  const full = new Intl.NumberFormat('ru');
-  const fmt = (n) => (n == null ? 'скрыто' : nf.format(n));
-  const LABEL = { pass: 'Подходит', weak: 'Слабый сигнал', fail: 'Не прошла' };
+  const fmt = (n) => n == null ? '&#8212;' : nf.format(n);
 
-  // ссылки строим только из id, чтобы не доверять строкам из файла
   const chUrl = (id) => 'https://www.youtube.com/channel/' + encodeURIComponent(id);
   const vidUrl = (id) => 'https://www.youtube.com/watch?v=' + encodeURIComponent(id);
   const searchUrl = (q) => 'https://www.youtube.com/results?search_query=' + encodeURIComponent(q) + '&sp=CAM%253D';
 
-  // логарифмическая шкала: 100 -> 0%, 10 млн -> 100%
   const bar = (n) => {
     const v = Math.max(n || 0, 1);
     return Math.max(2, Math.min(100, ((Math.log10(v) - 2) / 5) * 100));
   };
 
-  const state = { status: 'pass', sort: 'score', q: '', data: null };
-
-  function ago(iso) {
-    if (!iso) return '';
-    const d = Math.round((Date.now() - new Date(iso).getTime()) / 3600000);
-    if (d < 1) return 'меньше часа назад';
-    if (d < 48) return d + ' ч назад';
-    return Math.round(d / 24) + ' дн. назад';
-  }
+  const state = { status: 'all', sort: 'score', q: '', data: null };
 
   function card(n) {
     const m = n.market || {};
-    const flags = []
-      .concat((n.reasons || []).map((t) => '<li class="bad">' + esc(t) + '</li>'))
-      .concat((n.notes || []).map((t) => '<li class="note">' + esc(t) + '</li>'))
-      .join('');
-    const path = (n.path || []).length ? '<p class="path">' + esc(n.path.join(' / ')) + '</p>' : '';
-    const queries = (n.queries || []).map((q) =>
-      '<li><a href="' + searchUrl(q) + '" target="_blank" rel="noopener">' + esc(q) + '</a></li>').join('');
-    const subq = (n.sub_queries || []).map((q) =>
-      '<li><a href="' + searchUrl(q) + '" target="_blank" rel="noopener">' + esc(q) + '</a></li>').join('');
-    const comps = (n.competitors || []).map((c) =>
-      '<div class="comp-row"><a href="' + chUrl(c.id) + '" target="_blank" rel="noopener">' + esc(c.title) + '</a>' +
-      '<span class="n">' + fmt(c.subs) + ' подп.</span>' +
-      '<span class="sub">лучшее видео: <a href="' + vidUrl(c.best_id) + '" target="_blank" rel="noopener">' +
-      esc(c.best_title) + '</a>, ' + fmt(c.best_views) + ' просм.' +
-      (c.age_days != null ? ', канал ' + c.age_days + ' дн.' : '') + '</span></div>').join('');
     const cs = n.channel_stats || {};
     const bv = n.best_video || {};
+    const flags = []
+      .concat((n.reasons || []).map(t => '<li class="bad">' + esc(t) + '</li>'))
+      .concat((n.notes || []).map(t => '<li class="note">' + esc(t) + '</li>'))
+      .join('');
+    const path = (n.path || []).length ? '<div class="path">' + esc(n.path.join(' / ')) + '</div>' : '';
+    const queries = (n.queries || []).map(q => '<li><a href="' + searchUrl(q) + '" target="_blank" rel="noopener">' + esc(q) + '</a></li>').join('');
+    const subq = (n.sub_queries || []).map(q => '<li><a href="' + searchUrl(q) + '" target="_blank" rel="noopener">' + esc(q) + '</a></li>').join('');
+    const comps = (n.competitors || []).map(c =>
+      '<div class="comp-row">' +
+      '<a href="' + chUrl(c.id) + '" target="_blank" rel="noopener">' + esc(c.title) + '</a>' +
+      '<span style="font-weight:700;text-align:right">' + fmt(c.subs) + ' подп.</span>' +
+      '<span class="sub">Лучшее видео: <a href="' + vidUrl(c.best_id) + '" target="_blank" rel="noopener">' + esc(c.best_title) + '</a> — ' + fmt(c.best_views) + ' просмотров' + (c.age_days != null ? ', канал ' + c.age_days + ' дн.' : '') + '</span>' +
+      '</div>'
+    ).join('');
 
     return '<article class="niche" data-status="' + esc(n.status) + '">' +
-      '<div class="head"><h2 class="name">' + esc(n.niche) + '</h2>' +
-      '<span class="verdict">' + esc(LABEL[n.status] || n.status) + '</span></div>' + path +
-      '<div class="gap" aria-hidden="false">' +
-        '<div class="gap-row"><span class="label">Лучшее видео ниши, просмотры</span>' +
-        '<span class="val">' + fmt(m.top_views) + '</span>' +
-        '<div class="track views"><span style="width:' + bar(m.top_views).toFixed(1) + '%"></span></div></div>' +
-        '<div class="gap-row"><span class="label">Самый крупный канал, подписчики</span>' +
-        '<span class="val">' + fmt(m.max_subs) + '</span>' +
-        '<div class="track subs"><span style="width:' + bar(m.max_subs).toFixed(1) + '%"></span></div></div>' +
-      '</div>' +
-      '<dl class="facts">' +
-        '<div><dt>Каналов в нише</dt><dd>' + esc(m.n_channels) + '</dd></div>' +
-        '<div><dt>Видео за год</dt><dd>' + esc(m.n_videos) + '</dd></div>' +
-        '<div><dt>Молодых каналов с хитами</dt><dd>' + esc(m.young_hits) + '</dd></div>' +
-        '<div><dt>Score</dt><dd>' + full.format(n.score || 0) + '</dd></div>' +
-      '</dl>' +
+      '<div class="niche-head">' +
+      '<h2>' + esc(n.niche) + '</h2>' +
+      '<span class="verdict" data-v="' + esc(n.status) + '">' + (n.status === 'pass' ? 'ПОДХОДИТ' : n.status === 'weak' ? 'СЛАБЫЙ' : 'НЕ ПРОШЛА') + '</span>' +
+      '</div>' + path +
+      '<div class="bar-wrap"><span class="bar-label">Самое популярное видео в нише, просмотры</span><span class="bar-val">' + fmt(m.top_views) + '</span><div class="bar-track views"><span style="width:' + bar(m.top_views).toFixed(1) + '%"></span></div></div>' +
+      '<div class="bar-wrap"><span class="bar-label">Самый крупный канал, подписчики</span><span class="bar-val">' + fmt(m.max_subs) + '</span><div class="bar-track subs"><span style="width:' + bar(m.max_subs).toFixed(1) + '%"></span></div></div>' +
+      '<ul class="facts">' +
+      '<li><span class="num">' + esc(m.n_channels) + '</span> каналов в нише</li>' +
+      '<li><span class="num">' + esc(m.n_videos) + '</span> видео за год</li>' +
+      '<li><span class="num">' + esc(m.young_hits) + '</span> молодых каналов с хитами</li>' +
+      '<li><span class="num">' + (n.score || 0) + '</span> score</li>' +
+      '</ul>' +
       (flags ? '<ul class="flags">' + flags + '</ul>' : '') +
-      '<details><summary>Подробности и проверка вручную</summary><div class="more">' +
-        '<h3>Канал, по которому нашли нишу</h3>' +
-        '<p><a href="' + chUrl(n.channel_id) + '" target="_blank" rel="noopener">' + esc(n.channel_title) + '</a>: ' +
-        fmt(n.subs) + ' подп., создан ' + esc(n.channel_created) + ' (' + esc(n.channel_age_days) + ' дн.), ' +
-        'лучшее видео <a href="' + vidUrl(bv.id) + '" target="_blank" rel="noopener">' + esc(bv.title) + '</a> ' +
-        'набрало ' + fmt(bv.views) + '. Просмотры в ' + esc(n.ratio) + ' раз выше подписчиков, ' +
-        'видео от ' + fmt((state.data.thresholds || {}).min_outlier_views) + ' на канале: ' + esc(cs.hits) + ' из ' + esc(cs.videos) + '.</p>' +
-        '<h3>Запросы, по которым считали конкурентов</h3>' +
-        (n.llm ? '' : '<p>Запросы подобраны автоматически по тегам и заголовкам, без нейросети. Открой их и убедись, что выдача про ту же тему.</p>') +
-        '<ul>' + queries + '</ul>' +
-        '<h3>Конкуренты в нише</h3><div class="comp">' + comps + '</div>' +
-        (subq ? '<h3>Идеи для спуска глубже</h3><ul>' + subq + '</ul>' : '') +
+      '<details><summary>Подробности и проверка вручную</summary>' +
+      '<div class="more">' +
+      '<h3>Канал, по которому нашли нишу</h3>' +
+      '<p><a href="' + chUrl(n.channel_id) + '" target="_blank" rel="noopener">' + esc(n.channel_title) + '</a> — ' + fmt(n.subs) + ' подписчиков, создан ' + esc(n.channel_created) + ' (' + esc(n.channel_age_days) + ' дн.). Лучшее видео: <a href="' + vidUrl(bv.id) + '" target="_blank" rel="noopener">' + esc(bv.title) + '</a> (' + fmt(bv.views) + ' просмотров). Соотношение просмотров к подписчикам: ' + esc(n.ratio) + 'x. Каналов с таким количеством видео от ' + esc((state.data.thresholds || {}).min_outlier_views) + ' просмотров: ' + esc(cs.hits) + ' из ' + esc(cs.videos) + '.</p>' +
+      '<h3>Запросы для поиска конкурентов</h3>' +
+      (n.llm ? '<p>Ниша описана с помощью LLM.</p>' : '<p>Запросы подобраны автоматически по тегам и заголовкам.</p>') +
+      '<ul>' + queries + '</ul>' +
+      '<h3>Конкуренты в нише</h3><div class="comp">' + comps + '</div>' +
+      (subq ? '<h3>Идеи для углубления</h3><ul>' + subq + '</ul>' : '') +
       '</div></details></article>';
   }
 
   function sorted(list) {
     const by = {
-      score: (a, b) => (b.score || 0) - (a.score || 0),
-      views: (a, b) => (b.market.top_views || 0) - (a.market.top_views || 0),
-      channels: (a, b) => (a.market.n_channels || 0) - (b.market.n_channels || 0),
-      young: (a, b) => (b.market.young_hits || 0) - (a.market.young_hits || 0),
-      new: (a, b) => String(b.validated_at).localeCompare(String(a.validated_at)),
+      score: (a,b) => (b.score||0) - (a.score||0),
+      views: (a,b) => (b.market.top_views||0) - (a.market.top_views||0),
+      channels: (a,b) => (a.market.n_channels||0) - (b.market.n_channels||0),
+      young: (a,b) => (b.market.young_hits||0) - (a.market.young_hits||0),
+      new: (a,b) => String(b.validated_at||'').localeCompare(String(a.validated_at||'')),
     };
     return list.slice().sort(by[state.sort]);
   }
@@ -285,64 +256,50 @@
     const box = $('#list');
     if (!d) return;
     const all = d.niches || [];
-    const counts = { pass: 0, weak: 0, fail: 0 };
-    all.forEach((n) => { if (counts[n.status] != null) counts[n.status]++; });
-
-    $('#summary').innerHTML = all.length
-      ? 'Проверено ниш: <strong>' + all.length + '</strong>, подходят: <strong>' + counts.pass +
-        '</strong>, слабый сигнал: ' + counts.weak + '. Обновлено ' + esc(ago(d.generated_at)) +
-        (d.pending ? ', в очереди на проверку: ' + d.pending : '') + '.'
-      : 'Пока ни одной проверенной ниши.';
-
     const q = state.q.trim().toLowerCase();
-    const list = sorted(all.filter((n) =>
+    const list = sorted(all.filter(n =>
       (state.status === 'all' || n.status === state.status) &&
-      (!q || (n.niche + ' ' + (n.path || []).join(' ') + ' ' + n.channel_title).toLowerCase().includes(q))));
+      (!q || (n.niche + ' ' + (n.path||[]).join(' ') + ' ' + n.channel_title).toLowerCase().includes(q))
+    ));
+
+    const counts = { all: all.length, pass: 0, weak: 0, fail: 0 };
+    all.forEach(n => { if (counts[n.status] != null) counts[n.status]++; });
+
+    $('#stats').innerHTML =
+      '<div class="stat"><div class="v">' + all.length + '</div><div class="l">Проверено ниш</div></div>' +
+      '<div class="stat"><div class="v" style="color:var(--pass)">' + counts.pass + '</div><div class="l">Подходят</div></div>' +
+      '<div class="stat"><div class="v" style="color:var(--weak)">' + counts.weak + '</div><div class="l">Слабый сигнал</div></div>' +
+      '<div class="stat"><div class="v" style="color:var(--fail)">' + counts.fail + '</div><div class="l">Не прошли</div></div>';
 
     if (!all.length) {
-      box.innerHTML = '<div class="empty"><strong>Данных пока нет.</strong> Запусти <code>run.bat</code> на сервере: ' +
-        'воркер найдёт молодые каналы с аномальными видео, проверит их ниши и обновит эту страницу.</div>';
+      box.innerHTML = '<div class="empty"><strong>Данных пока нет.</strong> Запусти <code>run.bat</code> на сервере — воркер найдёт молодые каналы и обновит страницу.</div>';
     } else if (!list.length) {
-      box.innerHTML = '<div class="empty"><strong>В этом фильтре пусто.</strong> Попробуй «Все» или очисти поиск.</div>';
+      box.innerHTML = '<div class="empty"><strong>По фильтру пусто.</strong> Попробуй «Все ниши» или очисти поиск.</div>';
     } else {
       box.innerHTML = list.map(card).join('');
     }
 
     const t = d.thresholds || {};
     $('#foot').textContent = t.max_subs
-      ? 'Кандидат: канал моложе ' + t.max_channel_age_days + ' дней, до ' + full.format(t.max_subs) +
-        ' подписчиков, видео от ' + full.format(t.min_outlier_views) + ' просмотров. Ниша подходит, если в ней не больше ' +
-        t.max_channels + ' каналов, нет каналов от ' + full.format(t.hard_max_subs) + ' подписчиков, есть видео от ' +
-        full.format(t.min_top_views) + ' просмотров и спрос подтверждён минимум двумя каналами. ' +
-        'Расход квоты YouTube сегодня: ' + full.format((d.quota || {}).used || 0) + ' из ' + full.format((d.quota || {}).budget || 0) + '.'
+      ? 'Пороги: канал моложе ' + t.max_channel_age_days + ' дней, до ' + fmt(t.max_subs) + ' подписчиков, видео от ' + fmt(t.min_outlier_views) + ' просмотров. Ниша проходит, если каналов не больше ' + t.max_channels + ', нет каналов от ' + fmt(t.hard_max_subs) + ' подписчиков, есть видео от ' + fmt(t.min_top_views) + ' просмотров, спрос подтверждён минимум 2 каналами. Квота YouTube сегодня: ' + fmt((d.quota||{}).used || 0) + ' из ' + fmt((d.quota||{}).budget || 0) + '.'
       : '';
+    $('#summary').textContent = all.length ? 'Проверено ниш: ' + all.length + '. Обновлено: ' + esc(d.generated_at) + '.' : 'Пока ни одной проверенной ниши.';
   }
 
-  $('#statusSeg').addEventListener('click', (e) => {
+  $('#statusSeg').addEventListener('click', e => {
     const b = e.target.closest('button');
     if (!b) return;
     state.status = b.dataset.v;
-    document.querySelectorAll('#statusSeg button').forEach((x) =>
-      x.setAttribute('aria-pressed', String(x === b)));
+    $('#statusSeg').querySelectorAll('button').forEach(x => x.classList.toggle('active', x === b));
     render();
   });
-  $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; render(); });
-  $('#q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+  $('#sort').addEventListener('change', e => { state.sort = e.target.value; render(); });
+  $('#q').addEventListener('input', e => { state.q = e.target.value; render(); });
 
-  fetch('public/results.json', { cache: 'no-store' })
-    .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-    .then((d) => {
-      state.data = d;
-      if (!(d.niches || []).some((n) => n.status === 'pass') && (d.niches || []).length) {
-        state.status = 'all';
-        document.querySelectorAll('#statusSeg button').forEach((x) =>
-          x.setAttribute('aria-pressed', String(x.dataset.v === 'all')));
-      }
-      render();
-    })
-    .catch((e) => {
-      $('#summary').textContent = 'Не удалось загрузить results.json: ' + e.message;
-    });
+  fetch('results.json', { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(d => { state.data = d; render(); })
+    .catch(e => { $('#summary').textContent = 'Не удалось загрузить results.json: ' + e.message; });
 })();
 </script>
 </body>

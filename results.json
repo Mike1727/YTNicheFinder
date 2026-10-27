@@ -1,0 +1,1574 @@
+{
+ "generated_at": "2026-10-27T11:14:18Z",
+ "quota": {
+  "day": "2026-10-27",
+  "used": 5922,
+  "budget": 9000
+ },
+ "pending": 0,
+ "thresholds": {
+  "max_channel_age_days": 60,
+  "max_subs": 10000,
+  "min_outlier_views": 50000,
+  "max_channels": 30,
+  "hard_max_subs": 1000000,
+  "min_top_views": 100000
+ },
+ "niches": [
+  {
+   "channel_id": "UCHHD6mjBBGjMCC7Cmtx1smQ",
+   "channel_title": "Arms In Context",
+   "channel_created": "2026-09-28",
+   "channel_age_days": 29,
+   "subs": 358,
+   "found_at": "2026-10-27T11:10:22Z",
+   "validated_at": "2026-10-27T11:12:21Z",
+   "niche": "Why Afghanistan Sent the U.S. Army Back to the M14",
+   "path": [],
+   "queries": [
+    "needed army carbine",
+    "afghanistan sent army back",
+    "troops needed carbine wwii"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "fLuQQwLLCkE",
+    "title": "Why Afghanistan Sent the U.S. Army Back to the M14",
+    "views": 118183
+   },
+   "ratio": 330.1,
+   "channel_stats": {
+    "videos": 11,
+    "median_views": 1654,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 34,
+    "n_channels": 32,
+    "max_subs": 10500000,
+    "median_subs": 31500,
+    "big_channels": 14,
+    "top_views": 2106744,
+    "demand_videos": 13,
+    "demand_channels": 12,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 32, лимит 30",
+    "Есть канал с 10 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 147,
+   "competitors": [
+    {
+     "id": "UCmOCpBKeoBPp-HwarhIBA2g",
+     "title": "Best Documentary",
+     "subs": 8430000,
+     "age_days": 3829,
+     "videos": 1,
+     "best_views": 2106744,
+     "best_title": "Final Days in Afghanistan: Evacuating Britain's Military Fortress",
+     "best_id": "mIoQiGJ_c8s"
+    },
+    {
+     "id": "UC0RBTQIYLEQbcahZWkmzeTQ",
+     "title": "Garand Thumb",
+     "subs": 4630000,
+     "age_days": 7475,
+     "videos": 2,
+     "best_views": 1048970,
+     "best_title": "The US Army's New Rifle Just Got An Upgrade; The M7A1 SPEAR",
+     "best_id": "nsDEZYZ-uXU"
+    },
+    {
+     "id": "UCOEgyETg3BbroC98G6gTI_Q",
+     "title": "Statewide USA",
+     "subs": 38200,
+     "age_days": 348,
+     "videos": 1,
+     "best_views": 331524,
+     "best_title": "Every Firearm Currently In U.S. Military Service",
+     "best_id": "DcXMH1QCF2k"
+    },
+    {
+     "id": "UCd1UMXixnskTMLE-WkVwy4A",
+     "title": "Dead Guns Society",
+     "subs": 2530,
+     "age_days": 13,
+     "videos": 1,
+     "best_views": 209649,
+     "best_title": "The Army Stopped Buying Its New Rifle",
+     "best_id": "-v8B1XaLwRQ"
+    },
+    {
+     "id": "UCxiMr1983in2sdxhsrPEpZg",
+     "title": "RogerRoger",
+     "subs": 33700,
+     "age_days": 869,
+     "videos": 1,
+     "best_views": 175142,
+     "best_title": "The HORRORS of M1 Carbine",
+     "best_id": "9lMY3CRZidQ"
+    },
+    {
+     "id": "UC-plbxmb5_h0dScFEdxPyAg",
+     "title": "World War Wisdom",
+     "subs": 936000,
+     "age_days": 2074,
+     "videos": 1,
+     "best_views": 153756,
+     "best_title": "The Truth about the M1 Carbine in WWII (and why it gets so much hate)",
+     "best_id": "Nvl0UjSP9zU"
+    },
+    {
+     "id": "UCHHD6mjBBGjMCC7Cmtx1smQ",
+     "title": "Arms In Context",
+     "subs": 358,
+     "age_days": 29,
+     "videos": 2,
+     "best_views": 118183,
+     "best_title": "Why Afghanistan Sent the U.S. Army Back to the M14",
+     "best_id": "fLuQQwLLCkE"
+    },
+    {
+     "id": "UCsvOKiFRXrG1AvfSo2RUZKQ",
+     "title": "Progress - Science Documentaries",
+     "subs": 315000,
+     "age_days": 1679,
+     "videos": 1,
+     "best_views": 108714,
+     "best_title": "British Army Convoy Battles Taliban and IEDs on Afghanistan's Highway to Hell",
+     "best_id": "6nDnqZc1sRE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCDTeCyfLF9TR5Y8r-uxRChg",
+   "channel_title": "Frontline Weather",
+   "channel_created": "2026-09-03",
+   "channel_age_days": 53,
+   "subs": 1640,
+   "found_at": "2026-10-27T11:10:50Z",
+   "validated_at": "2026-10-27T11:12:59Z",
+   "niche": "Portuguese Bend’s $1 3M Clifftop Homes Move a Foot a Week — And the Slide Has Reached 650",
+   "path": [],
+   "queries": [
+    "coastal erosion",
+    "luxury real estate",
+    "homes beach sliding"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "O7NEhdWXjNY",
+    "title": "Balboa's $4M Oceanfront Homes Are Flooding - And Newport Declared a 20-Block Emergency",
+    "views": 124708
+   },
+   "ratio": 76.0,
+   "channel_stats": {
+    "videos": 30,
+    "median_views": 2333,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 83,
+    "n_channels": 59,
+    "max_subs": 12200000,
+    "median_subs": 13900,
+    "big_channels": 17,
+    "top_views": 1153111,
+    "demand_videos": 35,
+    "demand_channels": 26,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 59, лимит 30",
+    "Есть канал с 12 200 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 104,
+   "competitors": [
+    {
+     "id": "UC-Ithsp8FAKAC97ux10zH3A",
+     "title": "Uncut Steven",
+     "subs": 44800,
+     "age_days": 315,
+     "videos": 1,
+     "best_views": 1153111,
+     "best_title": "American real estate expert investigates luxury homes in Nigeria @ArvinHaddadOfficial",
+     "best_id": "XoZ38XfD1vE"
+    },
+    {
+     "id": "UCeBQ24VfikOriqSdKtomh0w",
+     "title": "The Iced Coffee Hour Clips",
+     "subs": 464000,
+     "age_days": 2043,
+     "videos": 1,
+     "best_views": 860017,
+     "best_title": "“They’re Broke!” - Luxury Real Estate Agent On Who ACTUALLY Buys in NYC",
+     "best_id": "iM3PKuNzEGk"
+    },
+    {
+     "id": "UCPZZfn9AzEVX4fcc3G6mvdA",
+     "title": "Marcus Rankin",
+     "subs": 148000,
+     "age_days": 4908,
+     "videos": 5,
+     "best_views": 585467,
+     "best_title": "YOU HAVE TO SEE INSIDE THIS INCREDIBLE LUXURY HOME THAT EXCEEDED ALL EXPECTATIONS | $4.5M",
+     "best_id": "OD2xlKEA0pg"
+    },
+    {
+     "id": "UCQ5kqUO7Pkc7YWRNnjetfbw",
+     "title": "Skid Kids",
+     "subs": 4000000,
+     "age_days": 2910,
+     "videos": 1,
+     "best_views": 552691,
+     "best_title": "Record High Sea Levels on The California Coast",
+     "best_id": "oRL41S5Dvg8"
+    },
+    {
+     "id": "UCHS9NjPa2J3R43Nl9smkTvQ",
+     "title": "Lindy Denny",
+     "subs": 25000,
+     "age_days": 6454,
+     "videos": 1,
+     "best_views": 551276,
+     "best_title": "Full Tour | Hawkstone Custom Homes | Gray Wolf | $3Million | 2024 Utah Valley Parade of Homes",
+     "best_id": "4Btk8Ed2CXs"
+    },
+    {
+     "id": "UCE-Qx9JqT2Pyk1o2YSd7U_Q",
+     "title": "Luxury Alert",
+     "subs": 13900,
+     "age_days": 2356,
+     "videos": 1,
+     "best_views": 515249,
+     "best_title": "Malibu's $40 Million Mansions Are Sliding Into the Ocean — And the Owners Can't Do Anything",
+     "best_id": "AHkMvF89jjA"
+    },
+    {
+     "id": "UCinjnmQEwCddOudyCC1v7qA",
+     "title": "KTLA 5",
+     "subs": 1520000,
+     "age_days": 7441,
+     "videos": 3,
+     "best_views": 498433,
+     "best_title": "High tides threaten more damage along SoCal coast",
+     "best_id": "Dh9pJt1ClPY"
+    },
+    {
+     "id": "UCSn-jzJf_LMbT8bAfHj92_Q",
+     "title": "Global Weather Network",
+     "subs": 56800,
+     "age_days": 1317,
+     "videos": 3,
+     "best_views": 497521,
+     "best_title": "Southern California HIT by Coastal Flooding – 8.1 FT Tide Coming (Latest Updates)",
+     "best_id": "VJCGe2euskc"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC0Wsj86YQlHQFsu0vYLYFWw",
+   "channel_title": "Warrior Archives",
+   "channel_created": "2026-10-05",
+   "channel_age_days": 22,
+   "subs": 1700,
+   "found_at": "2026-10-27T11:10:22Z",
+   "validated_at": "2026-10-27T11:13:26Z",
+   "niche": "BUFFALO SOLDIERS: The Black Soldiers Who Fought on America’s Frontier | American History Documentary",
+   "path": [],
+   "queries": [
+    "warrior archives",
+    "military history",
+    "history army force"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "yMZk_CG0BGw",
+    "title": "FRENCH FOREIGN LEGION: The Legendary Soldiers Who Fought Worldwide | History Documentary",
+    "views": 96845
+   },
+   "ratio": 57.0,
+   "channel_stats": {
+    "videos": 21,
+    "median_views": 4297,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 60,
+    "n_channels": 45,
+    "max_subs": 15500000,
+    "median_subs": 26900,
+    "big_channels": 20,
+    "top_views": 3068544,
+    "demand_videos": 37,
+    "demand_channels": 28,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 45, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 84,
+   "competitors": [
+    {
+     "id": "UCuXARA9SKkO2jrMJXYso92w",
+     "title": "WW2 Paths",
+     "subs": 13500,
+     "age_days": 768,
+     "videos": 1,
+     "best_views": 3068544,
+     "best_title": "Germans Captured Him — He Laughed, Then Killed 21 of Them in 45 Seconds",
+     "best_id": "PLMjds9a5dI"
+    },
+    {
+     "id": "UCHu0zb_l4Gb5X3Ow9XmCVIA",
+     "title": "Paint it",
+     "subs": 10700,
+     "age_days": 282,
+     "videos": 1,
+     "best_views": 2492477,
+     "best_title": "All U.S. Special Operations Forces Explained",
+     "best_id": "sTHPdX--Ycs"
+    },
+    {
+     "id": "UCcuyEIkjIzu09O2uOS9T_Qg",
+     "title": "History Inside",
+     "subs": 100000,
+     "age_days": 1583,
+     "videos": 1,
+     "best_views": 2276850,
+     "best_title": "Where Did the Waffen SS Go After 1945?",
+     "best_id": "bLsTflKB5lw"
+    },
+    {
+     "id": "UC8MX9ECowgDMTOnFTE8EUJw",
+     "title": "HistoryMarche",
+     "subs": 1340000,
+     "age_days": 3473,
+     "videos": 1,
+     "best_views": 2155432,
+     "best_title": "How One Rifle Destroyed the Austrian Empire: Battle of Königgrätz, 1866",
+     "best_id": "2iY1DrjsdEk"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7366,
+     "videos": 6,
+     "best_views": 2000749,
+     "best_title": "Inside the Biggest Invasion in Human History | World War II With Tom Hanks",
+     "best_id": "m48RUZgX1GA"
+    },
+    {
+     "id": "UCZqJKUTmgB-cffFSzL3ENJA",
+     "title": "Brofessor Stein",
+     "subs": 388000,
+     "age_days": 967,
+     "videos": 1,
+     "best_views": 1961013,
+     "best_title": "The Most Lethal Military Units in History",
+     "best_id": "4TXeV9rSWrc"
+    },
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7704,
+     "videos": 1,
+     "best_views": 1953432,
+     "best_title": "Army Historian Answers World War II Questions | Tech Support | WIRED",
+     "best_id": "jffsYwdxh-A"
+    },
+    {
+     "id": "UCLKI0chw5s8edFWlWA2D-qw",
+     "title": "Global Stats",
+     "subs": 337000,
+     "age_days": 2690,
+     "videos": 1,
+     "best_views": 1699431,
+     "best_title": "Largest Armies in History (1 AD – 2026) | 2,000 Years of Military Power",
+     "best_id": "sp5yGO0Lnso"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCKWRnsyYbPFgWclCF0_yOTw",
+   "channel_title": "History Tab Open",
+   "channel_created": "2026-09-19",
+   "channel_age_days": 38,
+   "subs": 7460,
+   "found_at": "2026-10-27T11:10:30Z",
+   "validated_at": "2026-10-27T11:14:18Z",
+   "niche": "The ENTIRE History of Israel in 10 Minutes",
+   "path": [],
+   "queries": [
+    "jerusalem history",
+    "entire history of israel",
+    "minutes history entire"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "CaZN6e-MESs",
+    "title": "The ENTIRE history of Israel's Iron Dome in 10 Minutes",
+    "views": 130896
+   },
+   "ratio": 17.5,
+   "channel_stats": {
+    "videos": 7,
+    "median_views": 9910,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 112,
+    "n_channels": 82,
+    "max_subs": 15500000,
+    "median_subs": 13650,
+    "big_channels": 20,
+    "top_views": 10060890,
+    "demand_videos": 73,
+    "demand_channels": 52,
+    "young_hits": 9
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 82, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 79,
+   "competitors": [
+    {
+     "id": "UCoZd78hRUdxxsuGiABuHF_A",
+     "title": "Historically",
+     "subs": 1610000,
+     "age_days": 1328,
+     "videos": 1,
+     "best_views": 10060890,
+     "best_title": "The ENTIRE History of ROME [No AI]",
+     "best_id": "EHLI2WZUtXs"
+    },
+    {
+     "id": "UCHbCoS79jPGHoHxqn5qWxVw",
+     "title": "VLAD - Meditative History ",
+     "subs": 27500,
+     "age_days": 252,
+     "videos": 1,
+     "best_views": 3298829,
+     "best_title": "The Entire History of Iran in 20 Minutes",
+     "best_id": "vIO1krG2-tE"
+    },
+    {
+     "id": "UC0ra0vN_iF5AwwU7G8q79rw",
+     "title": "Majestic Studios",
+     "subs": 238000,
+     "age_days": 587,
+     "videos": 7,
+     "best_views": 3263450,
+     "best_title": "The Entire History of London in 24 Minutes",
+     "best_id": "6-xs_mXiANM"
+    },
+    {
+     "id": "UCrFfcsFcqaK-wsZoDy3gGkw",
+     "title": "History with Dave",
+     "subs": 85300,
+     "age_days": 514,
+     "videos": 1,
+     "best_views": 2915943,
+     "best_title": "The ENTIRE History of Medieval Europe (NO AI)",
+     "best_id": "kVEldvGXg4w"
+    },
+    {
+     "id": "UCzGOgrMVgeDJdQgjhijmSnQ",
+     "title": "Fun History",
+     "subs": 125000,
+     "age_days": 778,
+     "videos": 1,
+     "best_views": 2704268,
+     "best_title": "The History of the World in 20 Minutes",
+     "best_id": "KnviRvdmFTc"
+    },
+    {
+     "id": "UCb8sfMalVgTMvA68dfKzA5Q",
+     "title": "Elephants in Rooms - Ken LaCorte",
+     "subs": 947000,
+     "age_days": 1124,
+     "videos": 1,
+     "best_views": 2317923,
+     "best_title": "Did Jews steal Palestine?",
+     "best_id": "Y-OKn_i5TRI"
+    },
+    {
+     "id": "UCGttrUON87gWfU6dMWm1fcA",
+     "title": "Tucker Carlson",
+     "subs": 5780000,
+     "age_days": 1196,
+     "videos": 1,
+     "best_views": 2288187,
+     "best_title": "Norman Finkelstein Reveals Shocking Discoveries While Researching History of Israel’s Gaza Obsession",
+     "best_id": "Jmv2h1WYnNo"
+    },
+    {
+     "id": "UCm1yxl_4qMbStLHpHQu6xWg",
+     "title": "Unknown Frequencies",
+     "subs": 88300,
+     "age_days": 730,
+     "videos": 1,
+     "best_views": 1956697,
+     "best_title": "The ENTIRE History of WW2 Explained",
+     "best_id": "Nlu6Fe-vbYQ"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCSvAjhNZCSM8xdPzVhlwr_g",
+   "channel_title": "Ancient Times",
+   "channel_created": "2026-09-07",
+   "channel_age_days": 49,
+   "subs": 2230,
+   "found_at": "2026-10-27T11:10:38Z",
+   "validated_at": "2026-10-27T11:13:36Z",
+   "niche": "From Survival To Civilization: How Early Humans Transformed The Ancient World | Documentary",
+   "path": [],
+   "queries": [
+    "ice age",
+    "extinct creatures",
+    "prehistoric world earth"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "G-weGWAFQV8",
+    "title": "After Earth's Greatest Mass Extinction: The World That Gave Rise To The Triassic | Documentary",
+    "views": 118874
+   },
+   "ratio": 53.3,
+   "channel_stats": {
+    "videos": 15,
+    "median_views": 12270,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 88,
+    "n_channels": 47,
+    "max_subs": 8980000,
+    "median_subs": 61100,
+    "big_channels": 18,
+    "top_views": 12056349,
+    "demand_videos": 67,
+    "demand_channels": 38,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 47, лимит 30",
+    "Есть канал с 8 980 000 подписчиков",
+    "Медиана подписчиков 61 100 выше лимита"
+   ],
+   "notes": [],
+   "score": 43,
+   "competitors": [
+    {
+     "id": "UCOf0CzjuS5rjLju4muJi7Gg",
+     "title": "Fossil",
+     "subs": 48800,
+     "age_days": 240,
+     "videos": 2,
+     "best_views": 12056349,
+     "best_title": "How Long You’d Last in Every Prehistoric Era",
+     "best_id": "nAWpLtG-kNs"
+    },
+    {
+     "id": "UC2hgz6ZrHAKVzVJ-qWgFbhg",
+     "title": "El Sacruz",
+     "subs": 132000,
+     "age_days": 328,
+     "videos": 2,
+     "best_views": 8064344,
+     "best_title": "ICE AGE 3 Full Movie 2026: Dawn of the Dinosaurs | Action Fantasy Movie in English 2026 (Game Movie)",
+     "best_id": "UUdD5rdRYvQ"
+    },
+    {
+     "id": "UCVOKP-_OYHTnKFDSP89NfAQ",
+     "title": "Mavora",
+     "subs": 61100,
+     "age_days": 459,
+     "videos": 15,
+     "best_views": 7125548,
+     "best_title": "28 Last Photos of Extinct Animals | Full Series",
+     "best_id": "LsOpR7ibbU4"
+    },
+    {
+     "id": "UCWbM5p20UDzs1VLGa9ku2Jw",
+     "title": "Myths-creature",
+     "subs": 24000,
+     "age_days": 443,
+     "videos": 2,
+     "best_views": 3358999,
+     "best_title": "7 EXTINCT Animals That Might Still Be ALIVE",
+     "best_id": "W1sle9pQhEM"
+    },
+    {
+     "id": "UC0g0WbvanQND4dC1JDaW1_w",
+     "title": "Wild Horizons",
+     "subs": 71100,
+     "age_days": 6317,
+     "videos": 1,
+     "best_views": 3192455,
+     "best_title": "4.5 Billion Years of Earth's History in JUST 1 Hour | Full Documentary",
+     "best_id": "Me4hxOX8ULo"
+    },
+    {
+     "id": "UC7E9XYQ8hbV54ZDuOKYYxmA",
+     "title": "Forrest Galante",
+     "subs": 3040000,
+     "age_days": 5308,
+     "videos": 3,
+     "best_views": 2596366,
+     "best_title": "6 Extinct Animals Found in 2025",
+     "best_id": "xtSbi6wFyTc"
+    },
+    {
+     "id": "UCHpe0VGgt2dm63CxJVCPrYw",
+     "title": "Spinosnack",
+     "subs": 595000,
+     "age_days": 665,
+     "videos": 2,
+     "best_views": 2291280,
+     "best_title": "100 Extinct Creatures So BIZZARE They Look Fake",
+     "best_id": "SbZhqxm07z4"
+    },
+    {
+     "id": "UC60xqiAR4BTsYwhPvSg9IWA",
+     "title": "Total Horror Channel",
+     "subs": 78000,
+     "age_days": 309,
+     "videos": 1,
+     "best_views": 1771009,
+     "best_title": "A Massive Earthquake Unleashed a Sudden Global Ice Age! Will Anyone Survive This Instant Freeze?!",
+     "best_id": "12_GU3PeQuk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCzphkmA0Ii81ZhP7yF0Tk2w",
+   "channel_title": "Paper Borders",
+   "channel_created": "2026-10-04",
+   "channel_age_days": 23,
+   "subs": 373,
+   "found_at": "2026-10-27T11:10:34Z",
+   "validated_at": "2026-10-27T11:11:57Z",
+   "niche": "The Roman Empire: Every Year (500 BC – 1453 AD)",
+   "path": [],
+   "queries": [
+    "history map",
+    "map animation",
+    "every year history"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "q2E23sEfMIo",
+    "title": "The Roman Empire: Every Year (500 BC – 1453 AD)",
+    "views": 235362
+   },
+   "ratio": 631.0,
+   "channel_stats": {
+    "videos": 23,
+    "median_views": 3131,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 62,
+    "n_channels": 52,
+    "max_subs": 5910000,
+    "median_subs": 61650,
+    "big_channels": 22,
+    "top_views": 4509213,
+    "demand_videos": 30,
+    "demand_channels": 27,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 52, лимит 30",
+    "Есть канал с 5 910 000 подписчиков",
+    "Медиана подписчиков 61 650 выше лимита"
+   ],
+   "notes": [],
+   "score": 32,
+   "competitors": [
+    {
+     "id": "UCDkBgbCBX_M2j6pkWrUs5rg",
+     "title": "Stella Luna",
+     "subs": 61800,
+     "age_days": 2394,
+     "videos": 1,
+     "best_views": 4509213,
+     "best_title": "God Games | EPIC: The Musical Animatic (MAP)",
+     "best_id": "UVo5qvbaTQo"
+    },
+    {
+     "id": "UCmYAcjJNtB8UsSZjXqyx4Zg",
+     "title": "Cottereau",
+     "subs": 291000,
+     "age_days": 3230,
+     "videos": 1,
+     "best_views": 3132382,
+     "best_title": "History of the World: Every Year",
+     "best_id": "hzWwp9JM7Hw"
+    },
+    {
+     "id": "UCTzZ2-byV7kigoeQ1ZQ39ig",
+     "title": "Ear to Hear",
+     "subs": 1050000,
+     "age_days": 1396,
+     "videos": 1,
+     "best_views": 1517859,
+     "best_title": "The Complete Story of the Bible on a Map",
+     "best_id": "SuDi2VMxMV4"
+    },
+    {
+     "id": "UC2Cl2g2xFTZoAEldxYVzQFg",
+     "title": "Geo History",
+     "subs": 1040000,
+     "age_days": 3181,
+     "videos": 2,
+     "best_views": 1017227,
+     "best_title": "The Complete History of Germany on a Map (600 BC – 1990)",
+     "best_id": "Ts3I-3T5JGI"
+    },
+    {
+     "id": "UCsatH6xzsqyENzds2PJz4Mw",
+     "title": "Yash Rajput Map",
+     "subs": 49700,
+     "age_days": 501,
+     "videos": 1,
+     "best_views": 645234,
+     "best_title": "“How Ashoka Built a Unified India (Akhand Bharat)” || Map Animation ",
+     "best_id": "9dRY-0c6L2w"
+    },
+    {
+     "id": "UC6gNjP1W4FXWExT5QpYkmhQ",
+     "title": "Ollie Bye",
+     "subs": 377000,
+     "age_days": 4598,
+     "videos": 1,
+     "best_views": 566588,
+     "best_title": "The Holy Roman Empire: Every Year",
+     "best_id": "PhoYI_lqPv8"
+    },
+    {
+     "id": "UC7JrMLRDJLUh5BPBYykMcrQ",
+     "title": "History on Maps",
+     "subs": 419000,
+     "age_days": 2842,
+     "videos": 1,
+     "best_views": 544193,
+     "best_title": "World War I Every Day (1914-1918)",
+     "best_id": "jy9j_1HjrAY"
+    },
+    {
+     "id": "UCAsXjlXDVE7HIsftFD27FlA",
+     "title": "AtlasNumbers",
+     "subs": 2300,
+     "age_days": 3980,
+     "videos": 1,
+     "best_views": 519308,
+     "best_title": "History of the World: Every Year (3400 BCE – 2026)",
+     "best_id": "4BzUDJDiE8c"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCJ8TRR6WsTKWGC-SsxepNOw",
+   "channel_title": "Historium TV",
+   "channel_created": "2026-08-29",
+   "channel_age_days": 58,
+   "subs": 1530,
+   "found_at": "2026-10-27T11:10:11Z",
+   "validated_at": "2026-10-27T11:12:09Z",
+   "niche": "Inside the Twin Towers on 9/11: What Happened Before, During, and After the Impact",
+   "path": [],
+   "queries": [
+    "history documentary",
+    "historium tv",
+    "ancient without inside"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "igjuV63n8Bo",
+    "title": "Inside the Twin Towers on 9/11: What Happened Before, During, and After the Impact",
+    "views": 525296
+   },
+   "ratio": 343.3,
+   "channel_stats": {
+    "videos": 43,
+    "median_views": 67,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 104,
+    "n_channels": 39,
+    "max_subs": 15500000,
+    "median_subs": 114000,
+    "big_channels": 20,
+    "top_views": 7954763,
+    "demand_videos": 56,
+    "demand_channels": 31,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 39, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 114 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 26,
+   "competitors": [
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7366,
+     "videos": 11,
+     "best_views": 7954763,
+     "best_title": "Greatest Unsolved Mysteries Ever | Mysteries Unearthed with Danny Trejo",
+     "best_id": "DgPEBq4Ke8g"
+    },
+    {
+     "id": "UCq6OAftTQOuUBRdtUDq5SUA",
+     "title": "PBS Documentaries",
+     "subs": 446000,
+     "age_days": 5346,
+     "videos": 1,
+     "best_views": 2912354,
+     "best_title": "The Real History of Africa They Never Taught You | Full Documentary | Africa's Great Civilizations",
+     "best_id": "2XS7s9S6q8Q"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 961000,
+     "age_days": 3071,
+     "videos": 1,
+     "best_views": 2414545,
+     "best_title": "Debunking the biggest myths history made you believe | BBC Timestamp",
+     "best_id": "f8R_bMndsAs"
+    },
+    {
+     "id": "UC-QTh5HFiw28MwFrmFrRjzA",
+     "title": "Beginning To Now",
+     "subs": 333000,
+     "age_days": 2086,
+     "videos": 1,
+     "best_views": 1561684,
+     "best_title": "The ENTIRE History of The World (NO AI) | 4K Documentary",
+     "best_id": "zohg5rx5ptU"
+    },
+    {
+     "id": "UCuw0GgMlZlAsWvpI8PgCN8g",
+     "title": "ENDEVR",
+     "subs": 1510000,
+     "age_days": 2647,
+     "videos": 1,
+     "best_views": 1128941,
+     "best_title": "The World's Most Feared Intelligence Agency | Mossad: The Secret History | ENDEVR Documentary",
+     "best_id": "SraHQdy7N9o"
+    },
+    {
+     "id": "UCsgPO6cNV0wBG-Og3bUZoFA",
+     "title": "Free Documentary - History",
+     "subs": 1140000,
+     "age_days": 2238,
+     "videos": 2,
+     "best_views": 1013760,
+     "best_title": "Druids: Myth, Magic, and the Truth | Free Documentary History",
+     "best_id": "KFW6ksILu40"
+    },
+    {
+     "id": "UC5zrlRzhT_cFI9zT6uQSijg",
+     "title": "American Experience | PBS",
+     "subs": 583000,
+     "age_days": 7104,
+     "videos": 1,
+     "best_views": 835809,
+     "best_title": "FDR’s Path to the White House (1882-1933) | Full Documentary | American Experience PBS",
+     "best_id": "FJaECItXCqk"
+    },
+    {
+     "id": "UCgyeJxD05YnoDquRMNBfBqw",
+     "title": "PBS",
+     "subs": 1810000,
+     "age_days": 7529,
+     "videos": 2,
+     "best_views": 740373,
+     "best_title": "The Role of War in the History of Humanity | Full Episode | First Civilizations",
+     "best_id": "-1IoOJBZVkM"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCzloLV6b2Qx8LYpNgcU_Vig",
+   "channel_title": "Philophecy",
+   "channel_created": "2026-08-30",
+   "channel_age_days": 57,
+   "subs": 838,
+   "found_at": "2026-10-27T11:10:57Z",
+   "validated_at": "2026-10-27T11:12:48Z",
+   "niche": "Why Love Will Never Fill the Emptiness Inside You — Plato",
+   "path": [],
+   "queries": [
+    "modern life",
+    "human nature",
+    "life everything people"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "aCSbgIvIaz4",
+    "title": "Why Love Will Never Fill the Emptiness Inside You — Plato",
+    "views": 81682
+   },
+   "ratio": 97.5,
+   "channel_stats": {
+    "videos": 50,
+    "median_views": 371,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 82,
+    "n_channels": 77,
+    "max_subs": 17000000,
+    "median_subs": 45500,
+    "big_channels": 29,
+    "top_views": 36929373,
+    "demand_videos": 58,
+    "demand_channels": 55,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 77, лимит 30",
+    "Есть канал с 17 000 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 21,
+   "competitors": [
+    {
+     "id": "UCulYu1HEIa7f70L2lYZWHOw",
+     "title": "michaeljacksonVEVO",
+     "subs": 8230000,
+     "age_days": 6263,
+     "videos": 1,
+     "best_views": 36929373,
+     "best_title": "Michael Jackson - Human Nature (Official Video)",
+     "best_id": "YNzuiRuQNYY"
+    },
+    {
+     "id": "UC1QTjGnvpPbTAgfqAQVbLHw",
+     "title": "Seth Capehart MD",
+     "subs": 533000,
+     "age_days": 5462,
+     "videos": 1,
+     "best_views": 2270922,
+     "best_title": "Modern Life Is A Disease",
+     "best_id": "oufQkXnSkes"
+    },
+    {
+     "id": "UChTNGLSyLwuFIZDbRKZ-JZg",
+     "title": "Coming Home",
+     "subs": 489000,
+     "age_days": 1487,
+     "videos": 1,
+     "best_views": 1711767,
+     "best_title": "A Nurse's Near-Death Experience: A Life Review That Changed Everything",
+     "best_id": "Qbvs1ncHcwo"
+    },
+    {
+     "id": "UCgc00bfF_PvO_2AvqJZHXFg",
+     "title": "Boyce Avenue",
+     "subs": 17000000,
+     "age_days": 6994,
+     "videos": 1,
+     "best_views": 1542044,
+     "best_title": "Human Nature - Michael Jackson (Boyce Avenue acoustic cover) on Spotify & Apple",
+     "best_id": "A7G1_TJcA_I"
+    },
+    {
+     "id": "UC4aY6ncH35YBNBI-2wO1t6w",
+     "title": "Edits_byAgus🎬💘",
+     "subs": 3060,
+     "age_days": 2807,
+     "videos": 1,
+     "best_views": 1199876,
+     "best_title": "Human Nature - Michael movie (SUB)",
+     "best_id": "uhVY1nXBlkQ"
+    },
+    {
+     "id": "UCpZCVIj1G0QnFgcHUGF0PLQ",
+     "title": "Alexander Jackson",
+     "subs": 1810,
+     "age_days": 587,
+     "videos": 1,
+     "best_views": 1107842,
+     "best_title": "Michael Jackson - Human Nature (Movie Version \"MICHAEL\" 2026)",
+     "best_id": "pgZLHJ8hkwM"
+    },
+    {
+     "id": "UCQlowyR0rRvZ6gWAl-Y9SMw",
+     "title": "Wave Mashup",
+     "subs": 161000,
+     "age_days": 2336,
+     "videos": 1,
+     "best_views": 1070395,
+     "best_title": "Michael - Human Nature Scene 4K (MICHAEL 2026 Movie)",
+     "best_id": "fopA6kJPN0U"
+    },
+    {
+     "id": "UCrh2CBMFVPhjT404_8z2vQw",
+     "title": "Music Lyrics channel",
+     "subs": 80200,
+     "age_days": 1993,
+     "videos": 1,
+     "best_views": 1007724,
+     "best_title": "Michael Jackson – Human Nature (Lyrics)",
+     "best_id": "b0x5t4PAkbY"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCDjDeCbm_CVA6MGze0jGlcw",
+   "channel_title": "American Military Insider",
+   "channel_created": "2026-09-13",
+   "channel_age_days": 43,
+   "subs": 2220,
+   "found_at": "2026-10-27T11:10:30Z",
+   "validated_at": "2026-10-27T11:12:36Z",
+   "niche": "U.S. Paratroopers in Action — Massive C-17 Airborne Jump",
+   "path": [],
+   "queries": [
+    "us fighter jets",
+    "us military weapons",
+    "action army military"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "cFLmBf1flKg",
+    "title": "U.S. Paratroopers in Action — Massive C-17 Airborne Jump",
+    "views": 417480
+   },
+   "ratio": 188.1,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 7703,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 61,
+    "n_channels": 48,
+    "max_subs": 15500000,
+    "median_subs": 111600,
+    "big_channels": 24,
+    "top_views": 2038628,
+    "demand_videos": 49,
+    "demand_channels": 38,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 48, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 111 600 выше лимита"
+   ],
+   "notes": [],
+   "score": 18,
+   "competitors": [
+    {
+     "id": "UCrysF9YH-DpaUZNuX2MacXQ",
+     "title": "MOVIESE",
+     "subs": 70000,
+     "age_days": 1123,
+     "videos": 1,
+     "best_views": 2038628,
+     "best_title": "NO RULES. NO MERCY. 💀 | Full Military Action Film",
+     "best_id": "QO5Z7Q-J2XA"
+    },
+    {
+     "id": "UCxa-R6YNIxqlbdVrx4nmOzA",
+     "title": "Beyond Military",
+     "subs": 587000,
+     "age_days": 1738,
+     "videos": 4,
+     "best_views": 1631398,
+     "best_title": "US Air Defense in Action — Shredding Iranian Missiles",
+     "best_id": "-On9HVcDuWE"
+    },
+    {
+     "id": "UCz4mVvZHuJ3ItTPTgeaEtJg",
+     "title": "Daily Arsenal",
+     "subs": 133000,
+     "age_days": 1044,
+     "videos": 1,
+     "best_views": 1616221,
+     "best_title": "Top 5 Most POWERFUL Weapons Hidden on U.S. Aircraft Carriers You Never Knew Existed",
+     "best_id": "O3H6U2eKGoc"
+    },
+    {
+     "id": "UC1GqJjnI2yqTkQgn8n_u88g",
+     "title": "Jet Insight",
+     "subs": 154000,
+     "age_days": 511,
+     "videos": 4,
+     "best_views": 1383112,
+     "best_title": "Top 5 Most FEARED Fighter Jets on EARTH RIGHT NOW - You Won’t BELIEVE",
+     "best_id": "grCjujLBnDs"
+    },
+    {
+     "id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+     "title": "The Wall Street Journal",
+     "subs": 6720000,
+     "age_days": 7070,
+     "videos": 1,
+     "best_views": 1318142,
+     "best_title": "How the USS George Washington Is Preparing for Possible Iran Escalation | WSJ",
+     "best_id": "ToGXm1r198U"
+    },
+    {
+     "id": "UC2lWfxKzreWHsYj71q0yLng",
+     "title": "Hickok45 Clips",
+     "subs": 561000,
+     "age_days": 1028,
+     "videos": 1,
+     "best_views": 1054577,
+     "best_title": "What Was The Biggest Upgrade In The History Of U.S. Military Rifles?",
+     "best_id": "gc7obuc_ncc"
+    },
+    {
+     "id": "UCcyq283he07B7_KUX07mmtA",
+     "title": "Business Insider",
+     "subs": 10600000,
+     "age_days": 6233,
+     "videos": 1,
+     "best_views": 945380,
+     "best_title": "The Real Reason America's Weapons Are So Expensive",
+     "best_id": "oslN3LtaBqI"
+    },
+    {
+     "id": "UCZCEeYtzzrbaVz4SRH8PZdw",
+     "title": "The Navy Channel",
+     "subs": 65200,
+     "age_days": 830,
+     "videos": 1,
+     "best_views": 763863,
+     "best_title": "US Navy's NEW Weapon Is Already On a Destroyer — And Only ONE Warship Has It",
+     "best_id": "rDjz-EZaGcA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCS7W63SpRiX5NdNsGjDpMlA",
+   "channel_title": "The War Economy",
+   "channel_created": "2026-09-29",
+   "channel_age_days": 27,
+   "subs": 1240,
+   "found_at": "2026-10-27T11:10:30Z",
+   "validated_at": "2026-10-27T11:13:51Z",
+   "niche": "The Mossad Explained",
+   "path": [],
+   "queries": [
+    "military history",
+    "history documentary",
+    "war mossad one"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "5srnXMchIA0",
+    "title": "How Israel Built One of the World's Most Effective Militaries",
+    "views": 56698
+   },
+   "ratio": 45.7,
+   "channel_stats": {
+    "videos": 14,
+    "median_views": 391,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 82,
+    "n_channels": 50,
+    "max_subs": 15500000,
+    "median_subs": 136500,
+    "big_channels": 30,
+    "top_views": 3068544,
+    "demand_videos": 74,
+    "demand_channels": 43,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 50, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 136 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 11,
+   "competitors": [
+    {
+     "id": "UCuXARA9SKkO2jrMJXYso92w",
+     "title": "WW2 Paths",
+     "subs": 13500,
+     "age_days": 768,
+     "videos": 1,
+     "best_views": 3068544,
+     "best_title": "Germans Captured Him — He Laughed, Then Killed 21 of Them in 45 Seconds",
+     "best_id": "PLMjds9a5dI"
+    },
+    {
+     "id": "UCq6OAftTQOuUBRdtUDq5SUA",
+     "title": "PBS Documentaries",
+     "subs": 446000,
+     "age_days": 5346,
+     "videos": 1,
+     "best_views": 2912354,
+     "best_title": "The Real History of Africa They Never Taught You | Full Documentary | Africa's Great Civilizations",
+     "best_id": "2XS7s9S6q8Q"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 961000,
+     "age_days": 3071,
+     "videos": 1,
+     "best_views": 2414632,
+     "best_title": "Debunking the biggest myths history made you believe | BBC Timestamp",
+     "best_id": "f8R_bMndsAs"
+    },
+    {
+     "id": "UCcuyEIkjIzu09O2uOS9T_Qg",
+     "title": "History Inside",
+     "subs": 100000,
+     "age_days": 1583,
+     "videos": 1,
+     "best_views": 2276850,
+     "best_title": "Where Did the Waffen SS Go After 1945?",
+     "best_id": "bLsTflKB5lw"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7366,
+     "videos": 20,
+     "best_views": 2195748,
+     "best_title": "The Mystery Hidden Under Antarctica | Ancient Aliens | Marathon",
+     "best_id": "t1KN4ynFVfI"
+    },
+    {
+     "id": "UC8MX9ECowgDMTOnFTE8EUJw",
+     "title": "HistoryMarche",
+     "subs": 1340000,
+     "age_days": 3473,
+     "videos": 1,
+     "best_views": 2155432,
+     "best_title": "How One Rifle Destroyed the Austrian Empire: Battle of Königgrätz, 1866",
+     "best_id": "2iY1DrjsdEk"
+    },
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7704,
+     "videos": 1,
+     "best_views": 1953432,
+     "best_title": "Army Historian Answers World War II Questions | Tech Support | WIRED",
+     "best_id": "jffsYwdxh-A"
+    },
+    {
+     "id": "UC-rhmn9JLIKAUb9XX0rjA7g",
+     "title": "Der Legionär English",
+     "subs": 26900,
+     "age_days": 6759,
+     "videos": 1,
+     "best_views": 1599025,
+     "best_title": "20 UNSOLVED Mysteries of World War II – History Has Not Been Able to Explain Them",
+     "best_id": "L0Uiq1OyyPw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCzgJZJxeDkZSGY_A_7FWGZA",
+   "channel_title": "History Frontline",
+   "channel_created": "2026-08-29",
+   "channel_age_days": 59,
+   "subs": 1120,
+   "found_at": "2026-10-27T11:10:30Z",
+   "validated_at": "2026-10-27T11:13:15Z",
+   "niche": "The Deadliest Shotgun From Every Era",
+   "path": [],
+   "queries": [
+    "military history",
+    "history explained",
+    "every era weapons"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "yiB8AInQ1b0",
+    "title": "The Deadliest Shotgun From Every Era",
+    "views": 66179
+   },
+   "ratio": 59.1,
+   "channel_stats": {
+    "videos": 28,
+    "median_views": 5824,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 102,
+    "n_channels": 68,
+    "max_subs": 15500000,
+    "median_subs": 93550,
+    "big_channels": 33,
+    "top_views": 10060890,
+    "demand_videos": 83,
+    "demand_channels": 55,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 68, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 93 550 выше лимита"
+   ],
+   "notes": [],
+   "score": 11,
+   "competitors": [
+    {
+     "id": "UCoZd78hRUdxxsuGiABuHF_A",
+     "title": "Historically",
+     "subs": 1610000,
+     "age_days": 1328,
+     "videos": 2,
+     "best_views": 10060890,
+     "best_title": "The ENTIRE History of ROME [No AI]",
+     "best_id": "EHLI2WZUtXs"
+    },
+    {
+     "id": "UC4GYgpgZzfMhYr9y6rs5O6Q",
+     "title": "Trust Me Bro",
+     "subs": 1420000,
+     "age_days": 1100,
+     "videos": 2,
+     "best_views": 3585138,
+     "best_title": "Every War Crime Explained",
+     "best_id": "P2wXrniiSa4"
+    },
+    {
+     "id": "UCytgnJE6TrzTTq19GYCOyTg",
+     "title": "Tyler Blanchard",
+     "subs": 5080000,
+     "age_days": 3141,
+     "videos": 1,
+     "best_views": 3412118,
+     "best_title": "I Tested Deadly Weapons From Every Country",
+     "best_id": "53CR5bkK81g"
+    },
+    {
+     "id": "UCuXARA9SKkO2jrMJXYso92w",
+     "title": "WW2 Paths",
+     "subs": 13500,
+     "age_days": 768,
+     "videos": 1,
+     "best_views": 3068547,
+     "best_title": "Germans Captured Him — He Laughed, Then Killed 21 of Them in 45 Seconds",
+     "best_id": "PLMjds9a5dI"
+    },
+    {
+     "id": "UCrFfcsFcqaK-wsZoDy3gGkw",
+     "title": "History with Dave",
+     "subs": 85300,
+     "age_days": 514,
+     "videos": 1,
+     "best_views": 2915943,
+     "best_title": "The ENTIRE History of Medieval Europe (NO AI)",
+     "best_id": "kVEldvGXg4w"
+    },
+    {
+     "id": "UCzGOgrMVgeDJdQgjhijmSnQ",
+     "title": "Fun History",
+     "subs": 125000,
+     "age_days": 778,
+     "videos": 1,
+     "best_views": 2704268,
+     "best_title": "The History of the World in 20 Minutes",
+     "best_id": "KnviRvdmFTc"
+    },
+    {
+     "id": "UCnwUjPK7dXety-AJ4fNw_RQ",
+     "title": "The Paint Explainer",
+     "subs": 2010000,
+     "age_days": 1196,
+     "videos": 1,
+     "best_views": 2340523,
+     "best_title": "The Craziest Discoveries That Proved Historians Wrong",
+     "best_id": "yVN20FcBbwM"
+    },
+    {
+     "id": "UCcuyEIkjIzu09O2uOS9T_Qg",
+     "title": "History Inside",
+     "subs": 100000,
+     "age_days": 1583,
+     "videos": 1,
+     "best_views": 2276856,
+     "best_title": "Where Did the Waffen SS Go After 1945?",
+     "best_id": "bLsTflKB5lw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCbyZZ8RchviKsSqym6D2CbA",
+   "channel_title": "Golden Secrets 5B",
+   "channel_created": "2026-08-31",
+   "channel_age_days": 57,
+   "subs": 5710,
+   "found_at": "2026-10-27T11:10:44Z",
+   "validated_at": "2026-10-27T11:14:06Z",
+   "niche": "Mewat's Hidden Muslims: The Meo Community India Rarely Talks About | Hidden Muslim Community",
+   "path": [],
+   "queries": [
+    "credit card",
+    "history documentary",
+    "muslim hidden india"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "0GXc-e2Q_14",
+    "title": "How Did Kargil Become a Muslim Town in the Himalayas? | The Silk Road Secret",
+    "views": 123391
+   },
+   "ratio": 21.6,
+   "channel_stats": {
+    "videos": 50,
+    "median_views": 5847,
+    "hits": 12
+   },
+   "market": {
+    "n_videos": 120,
+    "n_channels": 69,
+    "max_subs": 26500000,
+    "median_subs": 251000,
+    "big_channels": 41,
+    "top_views": 6151099,
+    "demand_videos": 75,
+    "demand_channels": 49,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 69, лимит 30",
+    "Есть канал с 26 500 000 подписчиков",
+    "Медиана подписчиков 251 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 3,
+   "competitors": [
+    {
+     "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+     "title": "Veritasium",
+     "subs": 21400000,
+     "age_days": 5942,
+     "videos": 1,
+     "best_views": 6151099,
+     "best_title": "The Secret Spy Tech Inside Every Credit Card",
+     "best_id": "YSJY3DvnybE"
+    },
+    {
+     "id": "UCfw8x3VR-ElcaWW2Tg_jgSA",
+     "title": "Rebecca Zamolo",
+     "subs": 23500000,
+     "age_days": 5455,
+     "videos": 1,
+     "best_views": 3559806,
+     "best_title": "My Credit Card Was Stolen...",
+     "best_id": "dLCE9msw2rY"
+    },
+    {
+     "id": "UC0g0WbvanQND4dC1JDaW1_w",
+     "title": "Wild Horizons",
+     "subs": 71100,
+     "age_days": 6317,
+     "videos": 1,
+     "best_views": 3192472,
+     "best_title": "4.5 Billion Years of Earth's History in JUST 1 Hour | Full Documentary",
+     "best_id": "Me4hxOX8ULo"
+    },
+    {
+     "id": "UCq6OAftTQOuUBRdtUDq5SUA",
+     "title": "PBS Documentaries",
+     "subs": 446000,
+     "age_days": 5346,
+     "videos": 1,
+     "best_views": 2912354,
+     "best_title": "The Real History of Africa They Never Taught You | Full Documentary | Africa's Great Civilizations",
+     "best_id": "2XS7s9S6q8Q"
+    },
+    {
+     "id": "UCBElRVEL-H0eDYdL2mb1Sng",
+     "title": "Travel with AK",
+     "subs": 2100000,
+     "age_days": 2506,
+     "videos": 1,
+     "best_views": 2430155,
+     "best_title": "Inside China’s Hidden Muslim City 🇨🇳🕌",
+     "best_id": "hiTZIXr5XUc"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 961000,
+     "age_days": 3071,
+     "videos": 1,
+     "best_views": 2414632,
+     "best_title": "Debunking the biggest myths history made you believe | BBC Timestamp",
+     "best_id": "f8R_bMndsAs"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7366,
+     "videos": 5,
+     "best_views": 1863582,
+     "best_title": "The Missed Warnings That Led to 9/11 | Road to 9/11 | Full Special",
+     "best_id": "5F2z1GZ0DJE"
+    },
+    {
+     "id": "UCxAt0KkZZUxgG3yxl-WDM2A",
+     "title": "Secret Origins",
+     "subs": 680000,
+     "age_days": 1481,
+     "videos": 2,
+     "best_views": 1740690,
+     "best_title": "Forbidden History (2026) The Advanced Lost Technologies That Hold Earth's True History",
+     "best_id": "NTWumAIItPE"
+    }
+   ]
+  }
+ ]
+}
