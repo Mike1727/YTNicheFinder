@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-27T11:14:18Z",
+ "generated_at": "2026-10-28T01:00:54Z",
  "quota": {
   "day": "2026-10-27",
-  "used": 5922,
+  "used": 8882,
   "budget": 9000
  },
- "pending": 0,
+ "pending": 9,
  "thresholds": {
   "max_channel_age_days": 60,
   "max_subs": 10000,
@@ -15,6 +15,392 @@
   "min_top_views": 100000
  },
  "niches": [
+  {
+   "channel_id": "UCuYJBm7INgNwdFYF1hiCagw",
+   "channel_title": "How the Middle Ages Actually Was",
+   "channel_created": "2026-09-21",
+   "channel_age_days": 36,
+   "subs": 112,
+   "found_at": "2026-10-28T01:00:23Z",
+   "validated_at": "2026-10-28T01:00:42Z",
+   "niche": "25 Things Knights ACTUALLY Carried Every Day in the Middle Ages",
+   "path": [],
+   "queries": [
+    "actually things medieval",
+    "things knights actually carried",
+    "medieval knight myths hollywood"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Hydp7MgbANE",
+    "title": "25 Things Knights ACTUALLY Carried Every Day in the Middle Ages",
+    "views": 51685
+   },
+   "ratio": 461.5,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 692,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 49,
+    "n_channels": 41,
+    "max_subs": 1000000,
+    "median_subs": 36,
+    "big_channels": 2,
+    "top_views": 391509,
+    "demand_videos": 4,
+    "demand_channels": 4,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30",
+    "Есть канал с 1 000 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1453,
+   "competitors": [
+    {
+     "id": "UCTvkM-ZiN84WC1kE5zrChhA",
+     "title": "Vlad — Medieval History",
+     "subs": 1280,
+     "age_days": 247,
+     "videos": 1,
+     "best_views": 391509,
+     "best_title": "How Long Did a Medieval Battle Actually Last?",
+     "best_id": "Y6MNw7s3UrQ"
+    },
+    {
+     "id": "UCMjlDOf0UO9wSijFqPE9wBw",
+     "title": "Modern History TV",
+     "subs": 1000000,
+     "age_days": 3623,
+     "videos": 1,
+     "best_views": 383783,
+     "best_title": "Things you DIDN'T KNOW about MEDIEVAL LIFE",
+     "best_id": "X-HMp4QnAVs"
+    },
+    {
+     "id": "UCy3Hgwj12x3fDQUcutNm2DA",
+     "title": "Sleepless Historian",
+     "subs": 716000,
+     "age_days": 3220,
+     "videos": 1,
+     "best_views": 124897,
+     "best_title": "Things That Happened in MEDIEVAL Times That Nobody Talks About - and more",
+     "best_id": "2KTGqYcr43o"
+    },
+    {
+     "id": "UCuYJBm7INgNwdFYF1hiCagw",
+     "title": "How the Middle Ages Actually Was",
+     "subs": 112,
+     "age_days": 36,
+     "videos": 4,
+     "best_views": 51685,
+     "best_title": "25 Things Knights ACTUALLY Carried Every Day in the Middle Ages",
+     "best_id": "Hydp7MgbANE"
+    },
+    {
+     "id": "UCQeGDpOZVe-WZLqyFta7Gmw",
+     "title": "Sleepy Historical Society",
+     "subs": 17900,
+     "age_days": 157,
+     "videos": 1,
+     "best_views": 25948,
+     "best_title": "Strange Things That Were Normal in Medieval Times | History for Sleep",
+     "best_id": "ueN6vAHnjpQ"
+    },
+    {
+     "id": "UChED0mz8-ImpHXuVaAO8IWA",
+     "title": "Deep Cee Explained",
+     "subs": 12000,
+     "age_days": 722,
+     "videos": 1,
+     "best_views": 5880,
+     "best_title": "7 Medieval Siege Myths Hollywood Got DEAD WRONG..!",
+     "best_id": "W7FP3Ez0BTE"
+    },
+    {
+     "id": "UCAlhCyfz6QsXtnyBASug5Fg",
+     "title": "Miserable Middle Ages",
+     "subs": 651,
+     "age_days": 187,
+     "videos": 1,
+     "best_views": 4431,
+     "best_title": "What Medieval Life Actually Smelled Like in 1200 AD — You Would Vomit Instantly",
+     "best_id": "cNfFziEbUjQ"
+    },
+    {
+     "id": "UCRaFteZPzOzRtw0cg0_fKXQ",
+     "title": "WAR Explained",
+     "subs": 2070,
+     "age_days": 197,
+     "videos": 1,
+     "best_views": 1913,
+     "best_title": "The DEADLIEST Medieval Siege Myths Hollywood Got DEAD WRONG..!",
+     "best_id": "wM1ixxjYVJE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCTiyJ3T91ENV2ay1uQd0AYg",
+   "channel_title": "Medieval Times",
+   "channel_created": "2026-08-28",
+   "channel_age_days": 60,
+   "subs": 791,
+   "found_at": "2026-10-28T01:00:33Z",
+   "validated_at": "2026-10-28T01:00:54Z",
+   "niche": "The Brutal Reality of Medieval Warfare (It Wasn't Like the Movies)",
+   "path": [],
+   "queries": [
+    "medieval brutal reality",
+    "brutal reality medieval warfare",
+    "famous bloodiest medieval battle"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "wlVRUNP235k",
+    "title": "The Brutal Reality of Medieval Warfare (It Wasn't Like the Movies)",
+    "views": 209915
+   },
+   "ratio": 265.4,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 3935,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 66,
+    "n_channels": 61,
+    "max_subs": 2020000,
+    "median_subs": 216,
+    "big_channels": 7,
+    "top_views": 4694482,
+    "demand_videos": 8,
+    "demand_channels": 6,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 61, лимит 30",
+    "Есть канал с 2 020 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 797,
+   "competitors": [
+    {
+     "id": "UCwS7tk2pxX_PZQ5NtmnHgTA",
+     "title": "Medieval Mindset",
+     "subs": 270000,
+     "age_days": 947,
+     "videos": 1,
+     "best_views": 4694482,
+     "best_title": "Why Medieval Knights Went Completely Insane",
+     "best_id": "849dmdc-Qf8"
+    },
+    {
+     "id": "UCw5kGfjKH3TEiCRqZUnUUPA",
+     "title": "Bellum et Historia",
+     "subs": 400000,
+     "age_days": 5425,
+     "videos": 2,
+     "best_views": 3098042,
+     "best_title": "The Most devastating Weapon in Medieval History! - Battle of Crug Mawr 1136",
+     "best_id": "BR0C8DFJN40"
+    },
+    {
+     "id": "UCZwU2G-KVl-P-O-B35chZOQ",
+     "title": "History Hit",
+     "subs": 2020000,
+     "age_days": 6689,
+     "videos": 2,
+     "best_views": 282670,
+     "best_title": "Medieval Military Historian Breaks Down Medieval Battle Tactics",
+     "best_id": "nv0FelDWl4k"
+    },
+    {
+     "id": "UCDQ3dBlROEdEXGVAIOVDm7Q",
+     "title": "Best History Documentaries",
+     "subs": 125000,
+     "age_days": 589,
+     "videos": 1,
+     "best_views": 233828,
+     "best_title": "The Brutal Reality of Medieval Surgery (Graphic Demo)",
+     "best_id": "7HanOwPd8yI"
+    },
+    {
+     "id": "UCTiyJ3T91ENV2ay1uQd0AYg",
+     "title": "Medieval Times",
+     "subs": 791,
+     "age_days": 60,
+     "videos": 3,
+     "best_views": 209915,
+     "best_title": "The Brutal Reality of Medieval Warfare (It Wasn't Like the Movies)",
+     "best_id": "wlVRUNP235k"
+    },
+    {
+     "id": "UCMjlDOf0UO9wSijFqPE9wBw",
+     "title": "Modern History TV",
+     "subs": 1000000,
+     "age_days": 3623,
+     "videos": 1,
+     "best_views": 162427,
+     "best_title": "The BRUTAL Reality of Medieval SWORDS",
+     "best_id": "TmDRQgn_wNs"
+    },
+    {
+     "id": "UCPSV0tFjPko6qrzzn1nhEbg",
+     "title": "History Exposé",
+     "subs": 261000,
+     "age_days": 879,
+     "videos": 1,
+     "best_views": 41432,
+     "best_title": "The Brutal Reality Of Being A Knight In Medieval Times",
+     "best_id": "pFm9YSGJgJo"
+    },
+    {
+     "id": "UCP73bM8Vju7iP-OYtBsPACA",
+     "title": "MervoXX",
+     "subs": 4330,
+     "age_days": 750,
+     "videos": 1,
+     "best_views": 30049,
+     "best_title": "What a Medieval Battle REALLY Look Like: The Harsh Reality",
+     "best_id": "5oCvs0HUB00"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC7DR0p4cuBGXQfSeCakrovQ",
+   "channel_title": "NORDVANE",
+   "channel_created": "2026-10-02",
+   "channel_age_days": 25,
+   "subs": 733,
+   "found_at": "2026-10-28T01:00:37Z",
+   "validated_at": "2026-10-28T01:00:48Z",
+   "niche": "THE OATH OF VALHALLA ⚔️ | Epic Viking Love Song | Nordic Duet – NORDVANE (Official Music Video)",
+   "path": [],
+   "queries": [
+    "epic viking music",
+    "epic nordic music",
+    "epic viking nordvane"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Hans8zzC_jo",
+    "title": "THE OATH OF VALHALLA ⚔️ | Epic Viking Love Song | Nordic Duet – NORDVANE (Official Music Video)",
+    "views": 214911
+   },
+   "ratio": 293.2,
+   "channel_stats": {
+    "videos": 12,
+    "median_views": 2390,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 91,
+    "n_channels": 51,
+    "max_subs": 334000,
+    "median_subs": 11600,
+    "big_channels": 4,
+    "top_views": 22365726,
+    "demand_videos": 75,
+    "demand_channels": 48,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 51, лимит 30"
+   ],
+   "notes": [],
+   "score": 656,
+   "competitors": [
+    {
+     "id": "UCpFGvuxYvNwpME8kTT4XGDw",
+     "title": "Draugr Balled",
+     "subs": 228000,
+     "age_days": 249,
+     "videos": 2,
+     "best_views": 22365726,
+     "best_title": "NORTH WIND CALLS 🔥 ⚔️ | Draugr Balled | Duet | Viking Song 🔥 ",
+     "best_id": "blnRn30okOk"
+    },
+    {
+     "id": "UCBzYlRKvmTZgvCDW7jx8JDg",
+     "title": "Viking Songs",
+     "subs": 112000,
+     "age_days": 181,
+     "videos": 2,
+     "best_views": 19116735,
+     "best_title": "RavenstrikeX - Let The Water Speak",
+     "best_id": "JsKM_QKzTOE"
+    },
+    {
+     "id": "UCRy0gqZhxIGAgpC7I3lKUJw",
+     "title": "Valhalla Ragnarok",
+     "subs": 62900,
+     "age_days": 173,
+     "videos": 2,
+     "best_views": 8668723,
+     "best_title": "STORM-CROWNED ⚡👑 | Valhalla Ragnarok | Epic Viking Metal | Official Music Video",
+     "best_id": "mEz4Je6nk0E"
+    },
+    {
+     "id": "UCpjHkKYFBJ2kNA2RLdHtgcA",
+     "title": "Raven Astrid",
+     "subs": 62900,
+     "age_days": 190,
+     "videos": 2,
+     "best_views": 5334407,
+     "best_title": "Valhalla’s Daughters | Raven Astrid | Viking Music Video",
+     "best_id": "MqlWPXblwlg"
+    },
+    {
+     "id": "UCPTc0XTYcut94F5_K4zIkRg",
+     "title": "Veyra",
+     "subs": 16000,
+     "age_days": 6898,
+     "videos": 2,
+     "best_views": 3715639,
+     "best_title": "SHIELDWALL RISING | Veyra ft Rhyen🔥⚔️ | Epic Viking Rap | Dark Viking Rap Duet | Viking Song",
+     "best_id": "4OsoeaYz2Zo"
+    },
+    {
+     "id": "UCoVuPOLL1YJz1MMDWun0Bmg",
+     "title": "Valhalla Echoes",
+     "subs": 8430,
+     "age_days": 338,
+     "videos": 1,
+     "best_views": 3405467,
+     "best_title": "Viking Music |The Day the Ravens Blocked the Sun",
+     "best_id": "yr4Pe2XPoL0"
+    },
+    {
+     "id": "UCnK3mnewX34SkBFBgh0LlUw",
+     "title": "Laga",
+     "subs": 41200,
+     "age_days": 192,
+     "videos": 1,
+     "best_views": 2858403,
+     "best_title": "Laga ft. Ragalor - RAISE THE BANNER ⚔️🔥| Epic Viking Rap | Viking Song 🔥",
+     "best_id": "wJsqqo-7Wys"
+    },
+    {
+     "id": "UCdYseT_Iuh9mkeUNfl0f96Q",
+     "title": "Ragalor",
+     "subs": 40300,
+     "age_days": 189,
+     "videos": 2,
+     "best_views": 2827147,
+     "best_title": "Ragalor ft. Laga - THE STORM INSIDE 🔥| Epic Viking Rap | Viking Song | Viking Duet🔥",
+     "best_id": "Ghy6Js17IA0"
+    }
+   ]
+  },
   {
    "channel_id": "UCHHD6mjBBGjMCC7Cmtx1smQ",
    "channel_title": "Arms In Context",
