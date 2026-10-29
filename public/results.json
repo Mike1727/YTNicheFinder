@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-28T01:00:54Z",
+ "generated_at": "2026-10-29T01:01:59Z",
  "quota": {
-  "day": "2026-10-27",
-  "used": 8882,
+  "day": "2026-10-28",
+  "used": 6636,
   "budget": 9000
  },
- "pending": 9,
+ "pending": 8,
  "thresholds": {
   "max_channel_age_days": 60,
   "max_subs": 10000,
@@ -15,6 +15,132 @@
   "min_top_views": 100000
  },
  "niches": [
+  {
+   "channel_id": "UCSLJ-7fZwPB4mto9cBRq1-A",
+   "channel_title": "Forgotten Places",
+   "channel_created": "2026-09-07",
+   "channel_age_days": 51,
+   "subs": 929,
+   "found_at": "2026-10-29T01:00:09Z",
+   "validated_at": "2026-10-29T01:01:53Z",
+   "niche": "A Woman Inherited Her Grandmother’s Treehouse — What She Discovered Inside Changed Her Life Forever",
+   "path": [],
+   "queries": [
+    "she found changed",
+    "woman inherited grandmother treehouse",
+    "flipper saved money through"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "nZc8k0B9XpE",
+    "title": "She Climbed to an Abandoned Cliff Cabin — What She Discovered Inside Changed Her Forever…",
+    "views": 54695
+   },
+   "ratio": 58.9,
+   "channel_stats": {
+    "videos": 50,
+    "median_views": 44,
+    "hits": 0
+   },
+   "market": {
+    "n_videos": 32,
+    "n_channels": 30,
+    "max_subs": 82900,
+    "median_subs": 5605,
+    "big_channels": 0,
+    "top_views": 1728275,
+    "demand_videos": 9,
+    "demand_channels": 9,
+    "young_hits": 2
+   },
+   "status": "pass",
+   "reasons": [],
+   "notes": [],
+   "score": 15715,
+   "competitors": [
+    {
+     "id": "UCmzEn4-mCCvBzvEuNjPteeA",
+     "title": "Unlocked Diary",
+     "subs": 60300,
+     "age_days": 121,
+     "videos": 1,
+     "best_views": 1728275,
+     "best_title": "She came to clean his mansion… but changed his life forever. ❤️🏛️",
+     "best_id": "i--djyVmoTo"
+    },
+    {
+     "id": "UC2nZWUuGC1bG_S2r1ylkixQ",
+     "title": "DramaRush",
+     "subs": 8560,
+     "age_days": 13,
+     "videos": 1,
+     "best_views": 1271227,
+     "best_title": "She Called Him “Daddy”—Then His Luck Changed | Full Drama",
+     "best_id": "Ex5EudYNNf0"
+    },
+    {
+     "id": "UC8Wb2ksFq342Rt25Jk17LSA",
+     "title": "FATE & SECRETS",
+     "subs": 4930,
+     "age_days": 1460,
+     "videos": 1,
+     "best_views": 1186836,
+     "best_title": "She Secretly Repaired a Millionaire’s Mother’s Dress — What He Discovered Changed Her Life",
+     "best_id": "g9yZbKoHRIg"
+    },
+    {
+     "id": "UCXwMyMSL0Nt7fgOK4fR-gww",
+     "title": "Reel Recaps",
+     "subs": 12100,
+     "age_days": 435,
+     "videos": 1,
+     "best_views": 1130103,
+     "best_title": "She Found the Answer That Changed Space History Through a Redacted File",
+     "best_id": "RgCLLVwLRMc"
+    },
+    {
+     "id": "UCYBmnKwCWFj5Y3KajU8Vagg",
+     "title": "Heartlight Cinema",
+     "subs": 36900,
+     "age_days": 377,
+     "videos": 1,
+     "best_views": 888162,
+     "best_title": "She Came Home for One Week... But the Town Doctor Changed Everything",
+     "best_id": "Hxb9ICwivqM"
+    },
+    {
+     "id": "UCg9QQrO_Fi6Hb9MC25kOb1g",
+     "title": "MovieLibria",
+     "subs": 18700,
+     "age_days": 198,
+     "videos": 1,
+     "best_views": 538916,
+     "best_title": "She Lost Her Husband, But Meeting A Former Soldier Changed Her Life | Drama Romance | Full Movie 4K",
+     "best_id": "ih6XLCM6fKQ"
+    },
+    {
+     "id": "UC-aZdYl-fOOknFP1iyuPOEw",
+     "title": "HeartShot Drama",
+     "subs": 6280,
+     "age_days": 357,
+     "videos": 1,
+     "best_views": 423120,
+     "best_title": "【Dubbed】She faked her death, changed her face, and hid. Then her husband found out. Game on. 😱🔥",
+     "best_id": "tM2HT5PHcXo"
+    },
+    {
+     "id": "UCQfSyZT5hb-8pkou5CyV1cQ",
+     "title": "Echoes Beyond",
+     "subs": 2200,
+     "age_days": 58,
+     "videos": 1,
+     "best_views": 341918,
+     "best_title": "She Lost Everything… Then Transformed Her Life and Found Herself Again#drama",
+     "best_id": "_LgUybXOoG8"
+    }
+   ]
+  },
   {
    "channel_id": "UCuYJBm7INgNwdFYF1hiCagw",
    "channel_title": "How the Middle Ages Actually Was",
@@ -141,6 +267,264 @@
      "best_views": 1913,
      "best_title": "The DEADLIEST Medieval Siege Myths Hollywood Got DEAD WRONG..!",
      "best_id": "wM1ixxjYVJE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCF3VQdCMYPOycYuz4f5MrBg",
+   "channel_title": "History Beyond Maps",
+   "channel_created": "2026-09-11",
+   "channel_age_days": 47,
+   "subs": 316,
+   "found_at": "2026-10-29T01:00:09Z",
+   "validated_at": "2026-10-29T01:00:59Z",
+   "niche": "13 TOP-SECRET SOVIET FACILITIES | THE USSR'S DARKEST SECRETS",
+   "path": [],
+   "queries": [
+    "secrets world hard",
+    "secret soviet facilities ussr",
+    "engineering disasters shocked world"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "EeZiCabxIuU",
+    "title": "13 TOP-SECRET SOVIET FACILITIES | THE USSR'S DARKEST SECRETS",
+    "views": 86881
+   },
+   "ratio": 274.9,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 1478,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 54,
+    "n_channels": 51,
+    "max_subs": 2790000,
+    "median_subs": 116,
+    "big_channels": 4,
+    "top_views": 845743,
+    "demand_videos": 7,
+    "demand_channels": 7,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 51, лимит 30",
+    "Есть канал с 2 790 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1075,
+   "competitors": [
+    {
+     "id": "UCJSUWVPJJMk7Ky3FpLDtFyQ",
+     "title": "Extreme Earth",
+     "subs": 48200,
+     "age_days": 783,
+     "videos": 1,
+     "best_views": 845743,
+     "best_title": "Inside the World’s Most Shocking Catastrophes (4K Documentary)",
+     "best_id": "SG0zIsTtJ7I"
+    },
+    {
+     "id": "UCCjG8NtOig0USdrT5D1FpxQ",
+     "title": "NewsNation",
+     "subs": 2790000,
+     "age_days": 2366,
+     "videos": 1,
+     "best_views": 373016,
+     "best_title": "Reality Check: Secret Soviet UFOs | KGB swarms suburban house in UFO hunt",
+     "best_id": "s-vjO5Xn56s"
+    },
+    {
+     "id": "UCJR-nbRSN8g4VJMYJDxPY4w",
+     "title": "basicallyunfiltered",
+     "subs": 194000,
+     "age_days": 1022,
+     "videos": 1,
+     "best_views": 297144,
+     "best_title": "Secret Word Game on HARD MODE",
+     "best_id": "TRfTNNfMgM4"
+    },
+    {
+     "id": "UCfrM2Dbz_vbNGWGO6kfwphA",
+     "title": "The Golden Neck",
+     "subs": 49000,
+     "age_days": 1464,
+     "videos": 1,
+     "best_views": 197588,
+     "best_title": "8 Extremely Hard To Find Secrets That You Missed in Cyberpunk 2077",
+     "best_id": "SYaVoHkCbts"
+    },
+    {
+     "id": "UCZSE95RmyMUgJWmfra9Yx1A",
+     "title": "Banijay Science",
+     "subs": 630000,
+     "age_days": 3123,
+     "videos": 2,
+     "best_views": 178380,
+     "best_title": "The Fatal Bridge Collapse That Shook an Entire Nation | Massive Engineering Mistakes",
+     "best_id": "ErHC_9BIoCM"
+    },
+    {
+     "id": "UCRyTMqZkByjPeK4_8O40dmQ",
+     "title": "UnExplored",
+     "subs": 1360,
+     "age_days": 147,
+     "videos": 1,
+     "best_views": 149810,
+     "best_title": "10 Secrets That Are Hard To Discover in Cyberpunk 2077",
+     "best_id": "DRxQYu2eB4k"
+    },
+    {
+     "id": "UCF3VQdCMYPOycYuz4f5MrBg",
+     "title": "History Beyond Maps",
+     "subs": 316,
+     "age_days": 47,
+     "videos": 1,
+     "best_views": 86881,
+     "best_title": "13 TOP-SECRET SOVIET FACILITIES | THE USSR'S DARKEST SECRETS",
+     "best_id": "EeZiCabxIuU"
+    },
+    {
+     "id": "UCXG8qB7QA2luzPrKxrORGLg",
+     "title": "ely buendia",
+     "subs": 46400,
+     "age_days": 5987,
+     "videos": 1,
+     "best_views": 43983,
+     "best_title": "Ely Buendia Teaches You How to Play “Hard To Believe” | Secrets of the Chords",
+     "best_id": "F7LuMl0rr7M"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCMRkKupFWkvIH9Qda_nWWSw",
+   "channel_title": "Last Toybox",
+   "channel_created": "2026-09-11",
+   "channel_age_days": 47,
+   "subs": 1290,
+   "found_at": "2026-10-29T01:00:26Z",
+   "validated_at": "2026-10-29T01:01:15Z",
+   "niche": "The Rise and Fall of Marx Toys: The Toy Empire That Once Ruled America",
+   "path": [],
+   "queries": [
+    "empire toy america",
+    "rise fall marx toys",
+    "ideal toy company killed"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "2MSpV_hR0tw",
+    "title": "The Rise and Fall of Marx Toys: The Toy Empire That Once Ruled America",
+    "views": 199696
+   },
+   "ratio": 154.8,
+   "channel_stats": {
+    "videos": 13,
+    "median_views": 1550,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 56,
+    "n_channels": 50,
+    "max_subs": 1280000,
+    "median_subs": 1170,
+    "big_channels": 1,
+    "top_views": 199696,
+    "demand_videos": 4,
+    "demand_channels": 4,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 50, лимит 30",
+    "Есть канал с 1 280 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 798,
+   "competitors": [
+    {
+     "id": "UCMRkKupFWkvIH9Qda_nWWSw",
+     "title": "Last Toybox",
+     "subs": 1290,
+     "age_days": 47,
+     "videos": 3,
+     "best_views": 199696,
+     "best_title": "The Rise and Fall of Marx Toys: The Toy Empire That Once Ruled America",
+     "best_id": "2MSpV_hR0tw"
+    },
+    {
+     "id": "UCv_FpWlSAdYimr4f0bCFaxg",
+     "title": "WallsOfHistory",
+     "subs": 9550,
+     "age_days": 1574,
+     "videos": 1,
+     "best_views": 174437,
+     "best_title": "The Dark Story of America’s Toy Empire: The Lionel Trains Factory",
+     "best_id": "acQJySJ3YoU"
+    },
+    {
+     "id": "UCnDZqcnq6LoG_lInQcdgfpA",
+     "title": "Vintage Industries",
+     "subs": 7160,
+     "age_days": 267,
+     "videos": 3,
+     "best_views": 69100,
+     "best_title": "The Tragic Story of Ertl: How America's Farm Toy Empire Was Abandoned",
+     "best_id": "EA1IJes2vH4"
+    },
+    {
+     "id": "UC3o9mbQKx1PL0ec5Q-7GZWA",
+     "title": "The Yesterday Vault",
+     "subs": 15600,
+     "age_days": 2830,
+     "videos": 1,
+     "best_views": 60717,
+     "best_title": "25 Massive American Toy Companies That Just Disappeared Without Warning",
+     "best_id": "xgsfTCtiwCA"
+    },
+    {
+     "id": "UCtCw_hbYSG8uJQFJAiJUXkg",
+     "title": "Before It Vanished",
+     "subs": 15400,
+     "age_days": 3280,
+     "videos": 1,
+     "best_views": 41420,
+     "best_title": "What Happened to Marx Toys? | A Cereal Company Ended It All",
+     "best_id": "Q3aonaJBZt4"
+    },
+    {
+     "id": "UCdUXk0Rco-OJwWSsIdgGpEg",
+     "title": "Walrus Man",
+     "subs": 3150,
+     "age_days": 450,
+     "videos": 1,
+     "best_views": 11131,
+     "best_title": "EVERY SIngle Shadows of the Empire Figrure - Toy History",
+     "best_id": "cIK3g40sliI"
+    },
+    {
+     "id": "UCjXqTd5-ipyrgnoTyJlvDuA",
+     "title": "Nostalgia Rewind",
+     "subs": 2420,
+     "age_days": 3621,
+     "videos": 1,
+     "best_views": 8532,
+     "best_title": "Jem and the Holograms Was #1 on TV… So Why Did Hasbro Kill It?",
+     "best_id": "tJBETB_fd0E"
+    },
+    {
+     "id": "UCoOHTipX1_cNiC9seIPfUXA",
+     "title": "Moconomy",
+     "subs": 1280000,
+     "age_days": 3234,
+     "videos": 1,
+     "best_views": 7238,
+     "best_title": "Lego: How One Man Built a Toy Empire | Full documentary",
+     "best_id": "SahiRr2BkW4"
     }
    ]
   },
@@ -274,6 +658,135 @@
    ]
   },
   {
+   "channel_id": "UCJRMnEmv7Xa8TWAtgectNIQ",
+   "channel_title": "Collapsing Estates",
+   "channel_created": "2026-09-09",
+   "channel_age_days": 48,
+   "subs": 2000,
+   "found_at": "2026-10-28T01:00:06Z",
+   "validated_at": "2026-10-29T01:01:59Z",
+   "niche": "Laguna Beach’s $20M Homes Are Losing the Ground Beneath Them — El Niño Hasn’t Hit Yet",
+   "path": [],
+   "queries": [
+    "engineering failure",
+    "bluff erosion",
+    "homes 100m beach"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Sxfip3SY1Bg",
+    "title": "$100M Bel Air Mansion Demolished — Judge Warned It Could Slide Into Neighboring Homes",
+    "views": 109307
+   },
+   "ratio": 54.7,
+   "channel_stats": {
+    "videos": 27,
+    "median_views": 1021,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 49,
+    "n_channels": 39,
+    "max_subs": 15500000,
+    "median_subs": 1700,
+    "big_channels": 9,
+    "top_views": 969202,
+    "demand_videos": 15,
+    "demand_channels": 13,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 39, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 704,
+   "competitors": [
+    {
+     "id": "UCkQO3QsgTpNTsOw6ujimT5Q",
+     "title": "BE AMAZED",
+     "subs": 13500000,
+     "age_days": 4116,
+     "videos": 1,
+     "best_views": 969202,
+     "best_title": "Most Expensive Mistakes In History",
+     "best_id": "BXlR9t7RTHc"
+    },
+    {
+     "id": "UCQ5kqUO7Pkc7YWRNnjetfbw",
+     "title": "Skid Kids",
+     "subs": 4000000,
+     "age_days": 2912,
+     "videos": 1,
+     "best_views": 763995,
+     "best_title": "Pacific Coast Hwy Could Collapse and This is Why",
+     "best_id": "ea9sImhqc1c"
+    },
+    {
+     "id": "UC_I2tZMUZTs6z6przhH32hA",
+     "title": "Real Mechanic Stuff",
+     "subs": 951000,
+     "age_days": 1359,
+     "videos": 1,
+     "best_views": 366070,
+     "best_title": "Mechanics React To More Car Engineering Fails",
+     "best_id": "igdbYVt92RE"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7367,
+     "videos": 1,
+     "best_views": 249425,
+     "best_title": "The Biggest Engineering Failures Ever | *Marathon* | Modern Marvels",
+     "best_id": "pVGR3f8QdvY"
+    },
+    {
+     "id": "UCZSE95RmyMUgJWmfra9Yx1A",
+     "title": "Banijay Science",
+     "subs": 630000,
+     "age_days": 3123,
+     "videos": 7,
+     "best_views": 178380,
+     "best_title": "The Fatal Bridge Collapse That Shook an Entire Nation | Massive Engineering Mistakes",
+     "best_id": "ErHC_9BIoCM"
+    },
+    {
+     "id": "UCMscWako8oDvpdF4pppku-g",
+     "title": "CBS 8 San Diego",
+     "subs": 540000,
+     "age_days": 6965,
+     "videos": 1,
+     "best_views": 156927,
+     "best_title": "La Jolla residents voice concerns over crumbling bluff amid proposed seawall project",
+     "best_id": "plZY1rMzRMw"
+    },
+    {
+     "id": "UCDld-Q818vLNtNxRZy3LBFQ",
+     "title": "Fault Line Fortunes",
+     "subs": 2820,
+     "age_days": 33,
+     "videos": 1,
+     "best_views": 141476,
+     "best_title": "The Cliff Under PCH Just Cracked Open Near Laguna Beach — And Caltrans Can't Say How Deep It Goes",
+     "best_id": "bxiwdzH4hUA"
+    },
+    {
+     "id": "UCVoT8fZqVM44z6huWSaxUIQ",
+     "title": "National Geographic UK",
+     "subs": 458000,
+     "age_days": 7357,
+     "videos": 2,
+     "best_views": 120508,
+     "best_title": "Engineering Failures That Changed Everything | Engineering by Catastrophe | National Geographic UK",
+     "best_id": "S_g0gwV3gQg"
+    }
+   ]
+  },
+  {
    "channel_id": "UC7DR0p4cuBGXQfSeCakrovQ",
    "channel_title": "NORDVANE",
    "channel_created": "2026-10-02",
@@ -398,6 +911,264 @@
      "best_views": 2827147,
      "best_title": "Ragalor ft. Laga - THE STORM INSIDE 🔥| Epic Viking Rap | Viking Song | Viking Duet🔥",
      "best_id": "Ghy6Js17IA0"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCbfGBoXrnleIghsYA-C--QA",
+   "channel_title": "The Racket Archive",
+   "channel_created": "2026-09-25",
+   "channel_age_days": 32,
+   "subs": 498,
+   "found_at": "2026-10-28T01:00:26Z",
+   "validated_at": "2026-10-29T01:01:04Z",
+   "niche": "The Rise and Fall of Prince The $59 Million Collapse of the Company That Invented the Oversized Rack",
+   "path": [],
+   "queries": [
+    "tennis documentaries",
+    "vintage tennis rackets",
+    "fall rise tennis"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "HagLYQ9T_As",
+    "title": "The Rise and Fall of Prince The $59 Million Collapse of the Company That Invented the Oversized Rack",
+    "views": 85989
+   },
+   "ratio": 172.7,
+   "channel_stats": {
+    "videos": 20,
+    "median_views": 4313,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 61,
+    "n_channels": 43,
+    "max_subs": 20000000,
+    "median_subs": 5730,
+    "big_channels": 13,
+    "top_views": 9043144,
+    "demand_videos": 25,
+    "demand_channels": 15,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 43, лимит 30",
+    "Есть канал с 20 000 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 401,
+   "competitors": [
+    {
+     "id": "UClJXNsEKylFoB4ae6tZ9z5Q",
+     "title": "ROLEX",
+     "subs": 2810000,
+     "age_days": 5373,
+     "videos": 1,
+     "best_views": 9043144,
+     "best_title": "Rolex presents: Laver Cup – Building the Dream",
+     "best_id": "ZJ_R7QPLBF4"
+    },
+    {
+     "id": "UCCxhCFFih3QGeqMcO2VhcLg",
+     "title": "Tennistic Productions",
+     "subs": 116000,
+     "age_days": 2266,
+     "videos": 2,
+     "best_views": 1528055,
+     "best_title": "Roger Federer Warned Us About Modern Tennis, But Nobody Listened",
+     "best_id": "dqcwYYSLJHI"
+    },
+    {
+     "id": "UCuo76cYt1_GxxZK1lXv9ewg",
+     "title": "Ace",
+     "subs": 53600,
+     "age_days": 839,
+     "videos": 8,
+     "best_views": 411538,
+     "best_title": "Why Tennis Players Are the Best Athletes in Sport",
+     "best_id": "7iPQUry0zss"
+    },
+    {
+     "id": "UCNa8NxMgSm7m4Ii9d4QGk1Q",
+     "title": "Wimbledon",
+     "subs": 2660000,
+     "age_days": 7535,
+     "videos": 1,
+     "best_views": 305176,
+     "best_title": "The Story of Wimbledon 2025 | The Official Film, Narrated by Billie Jean King",
+     "best_id": "sLNj20CmTCM"
+    },
+    {
+     "id": "UCKFaMBPEhRgCE7EZisyRc-Q",
+     "title": "David King",
+     "subs": 2540000,
+     "age_days": 4178,
+     "videos": 1,
+     "best_views": 260078,
+     "best_title": "The Darkest Day In Tennis History",
+     "best_id": "GK6Bg-Oe2AU"
+    },
+    {
+     "id": "UCa6bcj28E5DDBHGFbYRgg5w",
+     "title": "TennisClutch",
+     "subs": 5210,
+     "age_days": 617,
+     "videos": 1,
+     "best_views": 204543,
+     "best_title": "How Roger Federer Crushed America’s Tennis",
+     "best_id": "B9VfQPGte-k"
+    },
+    {
+     "id": "UCN_nphFr4JL8V_uUKiwdC3w",
+     "title": "Tennis Time Machine",
+     "subs": 12200,
+     "age_days": 1893,
+     "videos": 3,
+     "best_views": 169771,
+     "best_title": "Tennis Legends Explain How TERRIFYING Roger Federer Was",
+     "best_id": "jRwxRqyUl5I"
+    },
+    {
+     "id": "UCupvZG-5ko_eiXAupbDfxWw",
+     "title": "CNN",
+     "subs": 20000000,
+     "age_days": 7696,
+     "videos": 1,
+     "best_views": 139378,
+     "best_title": "How Nadal's tennis career almost ended after his first Grand Slam",
+     "best_id": "IAQsYtsk9xk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCQHcBfndTd_4-vtrF0zMigQ",
+   "channel_title": "Stoic Club",
+   "channel_created": "2026-10-06",
+   "channel_age_days": 22,
+   "subs": 390,
+   "found_at": "2026-10-29T01:00:37Z",
+   "validated_at": "2026-10-29T01:01:26Z",
+   "niche": "How to Stop Worrying About Everything – 10 Stoic Lessons | Stoicism ",
+   "path": [],
+   "queries": [
+    "stoicism stoic stop",
+    "stop worrying everything stoic",
+    "stop feeling behind life"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "rJmb_CBkprE",
+    "title": "How to Stop Worrying About Everything – 10 Stoic Lessons | Stoicism ",
+    "views": 50802
+   },
+   "ratio": 130.3,
+   "channel_stats": {
+    "videos": 15,
+    "median_views": 307,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 93,
+    "n_channels": 69,
+    "max_subs": 2070000,
+    "median_subs": 1510,
+    "big_channels": 11,
+    "top_views": 860261,
+    "demand_videos": 23,
+    "demand_channels": 17,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 69, лимит 30",
+    "Есть канал с 2 070 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 361,
+   "competitors": [
+    {
+     "id": "UCFmGjqbrbAkspMBRJiGxmMw",
+     "title": "Stoic Directions",
+     "subs": 147000,
+     "age_days": 1126,
+     "videos": 3,
+     "best_views": 860261,
+     "best_title": "10 Stoic Rules That’ll Will Manifest Everything You Want - EVERYTHING WILL COME TO YOU | STOICISM",
+     "best_id": "GaUExqfivQA"
+    },
+    {
+     "id": "UCkUaT0T03TJvafYkfATM2Ag",
+     "title": "Daily Stoic",
+     "subs": 2070000,
+     "age_days": 3912,
+     "videos": 2,
+     "best_views": 452594,
+     "best_title": "31 of the absolute BEST lessons from Marcus Aurelius",
+     "best_id": "0o8nr62zjCk"
+    },
+    {
+     "id": "UChwJVmMTiEnsbtky062aQSg",
+     "title": "Stoic Power Hub",
+     "subs": 18500,
+     "age_days": 266,
+     "videos": 5,
+     "best_views": 417213,
+     "best_title": "10 Stoic Lessons That Will Make You Mentally Strong and Unshakable | Stoicism Philosophy ",
+     "best_id": "_9bMoH6KzGk"
+    },
+    {
+     "id": "UC4J0-wOTYuMhwAUEXdz1vEQ",
+     "title": "Stoic Love Code",
+     "subs": 6000,
+     "age_days": 312,
+     "videos": 1,
+     "best_views": 344776,
+     "best_title": "Stoicism: 6 Smart Ways to Respond When Women Don’t Value You",
+     "best_id": "6TDDSjI6RfY"
+    },
+    {
+     "id": "UCwAHJVo8UiYz1zXM4qABAqg",
+     "title": "Stoic Quiet",
+     "subs": 7940,
+     "age_days": 155,
+     "videos": 2,
+     "best_views": 294367,
+     "best_title": "Stoicism for Women | 12 Ancient Lessons to Transform Your Life",
+     "best_id": "cV9TQvKPC-c"
+    },
+    {
+     "id": "UC0Od76N74LscCptfxvpGk9A",
+     "title": "Stoic Journal",
+     "subs": 391000,
+     "age_days": 1029,
+     "videos": 7,
+     "best_views": 287820,
+     "best_title": "MASTER This and You’ll NEVER AGAIN Let Anything Affect You | STOICISM",
+     "best_id": "7nySPKcDVpc"
+    },
+    {
+     "id": "UCAk_loXdoKqPXwnTMmCuDeQ",
+     "title": "LenaLifts",
+     "subs": 1540000,
+     "age_days": 2739,
+     "videos": 1,
+     "best_views": 272593,
+     "best_title": "How to Stop Feeling Lost and Actually Change Your Life",
+     "best_id": "xT7osyoFXKk"
+    },
+    {
+     "id": "UCHAgJUYCc_jkPo4QZV-NuaQ",
+     "title": "Psyche & Stoic",
+     "subs": 3320,
+     "age_days": 445,
+     "videos": 1,
+     "best_views": 250160,
+     "best_title": "STOP Explaining Yourself: 10 Stoic Phrases That Instantly Set Boundaries | Stoicism",
+     "best_id": "Qu5Ri07NyI0"
     }
    ]
   },
@@ -531,6 +1302,264 @@
    ]
   },
   {
+   "channel_id": "UCM_IPWAKIeryVwKL59ED_lw",
+   "channel_title": "Conor McCloud",
+   "channel_created": "2026-09-10",
+   "channel_age_days": 48,
+   "subs": 576,
+   "found_at": "2026-10-29T01:00:25Z",
+   "validated_at": "2026-10-29T01:00:53Z",
+   "niche": "Why Nobody Wants to Own a Land Rover Anymore",
+   "path": [],
+   "queries": [
+    "automotive history",
+    "british automotive history",
+    "britain nobody wants"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "AOxb_s-6LhQ",
+    "title": "Why Nobody Wants to Own a Land Rover Anymore",
+    "views": 175692
+   },
+   "ratio": 305.0,
+   "channel_stats": {
+    "videos": 16,
+    "median_views": 256,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 75,
+    "n_channels": 51,
+    "max_subs": 22300000,
+    "median_subs": 14000,
+    "big_channels": 13,
+    "top_views": 861120,
+    "demand_videos": 19,
+    "demand_channels": 18,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 51, лимит 30",
+    "Есть канал с 22 300 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 141,
+   "competitors": [
+    {
+     "id": "UCxlJ45KjG4XVcQ_hd8j227A",
+     "title": "Peekaboo Kidz",
+     "subs": 7890000,
+     "age_days": 4526,
+     "videos": 1,
+     "best_views": 861120,
+     "best_title": "World's First Car | Who invented the Car? | History of the Automobile Invention | Dr. Binocs Show",
+     "best_id": "wxxEV19sgjQ"
+    },
+    {
+     "id": "UCKkVOxgNEF4pMwU4BKkZveg",
+     "title": "The Car Nerd",
+     "subs": 24900,
+     "age_days": 2684,
+     "videos": 1,
+     "best_views": 765885,
+     "best_title": "The Most Elegant Cheat in Racing History",
+     "best_id": "cUztHS-JpLI"
+    },
+    {
+     "id": "UCLKI0chw5s8edFWlWA2D-qw",
+     "title": "Global Stats",
+     "subs": 337000,
+     "age_days": 2692,
+     "videos": 1,
+     "best_views": 595350,
+     "best_title": "Best-Selling Car Models - From Ford Model T to Tesla Model Y (1910-2026)",
+     "best_id": "nSRmixC8kZI"
+    },
+    {
+     "id": "UCa6vGFO9ty8v5KZJXQxdhaw",
+     "title": "Jimmy Kimmel Live",
+     "subs": 22300000,
+     "age_days": 7343,
+     "videos": 1,
+     "best_views": 308408,
+     "best_title": "Adam Brody on Traveling to Italy Without His Kids & Popularity of Nobody Wants This Around the World",
+     "best_id": "jKGzSb5RY8g"
+    },
+    {
+     "id": "UClKP53RewJWK5s5WtLSg7Dg",
+     "title": "Armchair Expert with Dax Shepard",
+     "subs": 343000,
+     "age_days": 3225,
+     "videos": 1,
+     "best_views": 229674,
+     "best_title": "Nobody Wants This Cast | Armchair Expert with Dax Shepard",
+     "best_id": "rvGhYVFNZps"
+    },
+    {
+     "id": "UCGie8GMlUo3kBKIopdvumVQ",
+     "title": "Still Watching Netflix",
+     "subs": 11000000,
+     "age_days": 4485,
+     "videos": 4,
+     "best_views": 185627,
+     "best_title": "Bloopers & Outtakes from Season 2 of Nobody Wants This | Netflix",
+     "best_id": "AvCIllrXdAw"
+    },
+    {
+     "id": "UC16mlRbA6vVaUzDkckHtkGw",
+     "title": "Dear Old Blighty",
+     "subs": 74400,
+     "age_days": 495,
+     "videos": 2,
+     "best_views": 156374,
+     "best_title": "50 Forgotten Cars From 1960s Britain",
+     "best_id": "EQ5JLrhmXRI"
+    },
+    {
+     "id": "UC0wJUOkjOcKqPtg-rTI5-xg",
+     "title": "Britain Retold",
+     "subs": 62200,
+     "age_days": 326,
+     "videos": 1,
+     "best_views": 133802,
+     "best_title": "15 GENIUS British Car Features Ahead of Their Time",
+     "best_id": "Z-k8AXLZ__k"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCkMNp-NB889jPVsNbS7jaSQ",
+   "channel_title": "Robin's Comic Theater",
+   "channel_created": "2026-09-15",
+   "channel_age_days": 43,
+   "subs": 1290,
+   "found_at": "2026-10-29T01:00:11Z",
+   "validated_at": "2026-10-29T01:01:21Z",
+   "niche": "Modern Surgeon Transmigrated To Ancient Times, He Could See Everyone’s Hidden Disease Symptoms",
+   "path": [],
+   "queries": [
+    "#selected short drama 2026",
+    "#suspense ub",
+    "him poor whole"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "JHWV8ZqsW10",
+    "title": "Modern Surgeon Transmigrated To Ancient Times, He Could See Everyone’s Hidden Disease Symptoms",
+    "views": 197690
+   },
+   "ratio": 153.2,
+   "channel_stats": {
+    "videos": 50,
+    "median_views": 378,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 59,
+    "n_channels": 30,
+    "max_subs": 1660000,
+    "median_subs": 51700,
+    "big_channels": 13,
+    "top_views": 2005564,
+    "demand_videos": 30,
+    "demand_channels": 22,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 1 660 000 подписчиков",
+    "Медиана подписчиков 51 700 выше лимита"
+   ],
+   "notes": [],
+   "score": 108,
+   "competitors": [
+    {
+     "id": "UCxDlMk050xZJLRIIH3Ms4Fg",
+     "title": "MYM: Million Youth Media",
+     "subs": 499000,
+     "age_days": 5245,
+     "videos": 1,
+     "best_views": 2005564,
+     "best_title": "The Orphan (2026) Crime Drama Award-winning Short Film | MYM",
+     "best_id": "-5VYaTepAQA"
+    },
+    {
+     "id": "UC5UsgDfL9IjAdkzs0Hj6pfg",
+     "title": "Dramely",
+     "subs": 17700,
+     "age_days": 112,
+     "videos": 1,
+     "best_views": 1979284,
+     "best_title": "The CEO's Fake Wife (FULL MOVIE) 💍 Billionaire Romance Drama",
+     "best_id": "pI8yohbkjvI"
+    },
+    {
+     "id": "UCbpE2PdpPhCBBFAu3I4ZLgw",
+     "title": "Mr Hope Films",
+     "subs": 15900,
+     "age_days": 315,
+     "videos": 1,
+     "best_views": 1583573,
+     "best_title": "She Rejected a Poor Fisherman—Then Watched Her Stepsister Marry Him as a Billionaire | Full Movie",
+     "best_id": "Dxrp32UZlFY"
+    },
+    {
+     "id": "UC1agiDBwuxrjoMNrwDOfNdA",
+     "title": "ShortMax - Watch Dramas & Show",
+     "subs": 610000,
+     "age_days": 645,
+     "videos": 1,
+     "best_views": 1056573,
+     "best_title": "📺【FULL】 You Bullied the Wrong Woman | ShortMax - Watch Dramas & Show",
+     "best_id": "eI28raQMgko"
+    },
+    {
+     "id": "UCsOrVbPPmkCAE9q3R739y8Q",
+     "title": "Matinee Now Archive",
+     "subs": 497,
+     "age_days": 54,
+     "videos": 1,
+     "best_views": 901669,
+     "best_title": "New Malayalam Full Movie | The Protector Malayalam Movie | Shine Tom Chacko Mystery Movie",
+     "best_id": "4DG63AHosrs"
+    },
+    {
+     "id": "UCOeh6aHqAM94YybH58qfytw",
+     "title": "HerDramaVerse",
+     "subs": 56600,
+     "age_days": 153,
+     "videos": 1,
+     "best_views": 813388,
+     "best_title": "Cold CEO Everyone Fears Loved His Employee for 3 Years—Cold at Work, Obsessed With Her in Private!",
+     "best_id": "_QNMVVCqXB0"
+    },
+    {
+     "id": "UCE1WvcKf45UIqthGWhy4hsQ",
+     "title": "Eve DramaTV",
+     "subs": 135000,
+     "age_days": 359,
+     "videos": 1,
+     "best_views": 767121,
+     "best_title": "【ENG DUB | FULL】She Hid Her CEO Identity But Fell for the Gentle Doctor！#romance",
+     "best_id": "Cv8OM--2NlQ"
+    },
+    {
+     "id": "UCF8xr5b5dkKxxUN9qyWzaxw",
+     "title": "Moonlight Drama",
+     "subs": 882000,
+     "age_days": 701,
+     "videos": 1,
+     "best_views": 702286,
+     "best_title": "She Chose A Thug As Her Dad. All Said Her Life Was Over, But She Became The World's Richest Woman!",
+     "best_id": "U9qFw7LtJKg"
+    }
+   ]
+  },
+  {
    "channel_id": "UCDTeCyfLF9TR5Y8r-uxRChg",
    "channel_title": "Frontline Weather",
    "channel_created": "2026-09-03",
@@ -656,6 +1685,135 @@
      "best_views": 497521,
      "best_title": "Southern California HIT by Coastal Flooding – 8.1 FT Tide Coming (Latest Updates)",
      "best_id": "VJCGe2euskc"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCZrd_ozHQKO7drMkRAZLjxQ",
+   "channel_title": "THE CAMBODIAN LIFE",
+   "channel_created": "2026-09-22",
+   "channel_age_days": 36,
+   "subs": 2390,
+   "found_at": "2026-10-29T01:00:09Z",
+   "validated_at": "2026-10-29T01:01:42Z",
+   "niche": "EMPTY SIHANOUKVILLE — Its Condos Cost $25,000 But NOBODY Wants Them",
+   "path": [],
+   "queries": [
+    "cambodia condos towns",
+    "empty sihanoukville condos cost",
+    "cambodia tourism crisis travelers"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "HPZrrOqAztc",
+    "title": "EMPTY SIHANOUKVILLE — Its Condos Cost $25,000 But NOBODY Wants Them",
+    "views": 166246
+   },
+   "ratio": 69.6,
+   "channel_stats": {
+    "videos": 5,
+    "median_views": 16177,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 47,
+    "n_channels": 40,
+    "max_subs": 2390000,
+    "median_subs": 12650,
+    "big_channels": 11,
+    "top_views": 518450,
+    "demand_videos": 13,
+    "demand_channels": 12,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 40, лимит 30",
+    "Есть канал с 2 390 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 99,
+   "competitors": [
+    {
+     "id": "UCKr68ZJ4vv6VloNdnS2hjhA",
+     "title": "Harald Baldr",
+     "subs": 2390000,
+     "age_days": 4241,
+     "videos": 1,
+     "best_views": 518450,
+     "best_title": "This Cambodian Town is Criminally Underrated 🇰🇭",
+     "best_id": "EDIoX65-SVA"
+    },
+    {
+     "id": "UCpW756HzxArI4ejZgOgXvzA",
+     "title": "The Country Collectors",
+     "subs": 144000,
+     "age_days": 5095,
+     "videos": 1,
+     "best_views": 231378,
+     "best_title": "I Was Attacked at Angkor Wat in Cambodia — Then It Got Worse",
+     "best_id": "F4iCGnT9SMc"
+    },
+    {
+     "id": "UCHpoNrigyJIHSCvM-Fgw4kg",
+     "title": "Seal On Tour",
+     "subs": 949000,
+     "age_days": 2572,
+     "videos": 1,
+     "best_views": 216174,
+     "best_title": "What I Found Hidden in The Jungles of Cambodia",
+     "best_id": "rv2hl6yFlpA"
+    },
+    {
+     "id": "UCZrd_ozHQKO7drMkRAZLjxQ",
+     "title": "THE CAMBODIAN LIFE",
+     "subs": 2390,
+     "age_days": 36,
+     "videos": 3,
+     "best_views": 166255,
+     "best_title": "EMPTY SIHANOUKVILLE — Its Condos Cost $25,000 But NOBODY Wants Them",
+     "best_id": "HPZrrOqAztc"
+    },
+    {
+     "id": "UCBVCWZPssYp2UkmbISbgFJw",
+     "title": "Daily Walk Tour",
+     "subs": 12300,
+     "age_days": 2096,
+     "videos": 1,
+     "best_views": 148260,
+     "best_title": "Asian's Secret Life Cambodia Travel Video 2026 - Walking Tour",
+     "best_id": "R6axKp4ExMw"
+    },
+    {
+     "id": "UCJQZIKIVDEl0H41A1vjus2w",
+     "title": "Geography Travel 4K",
+     "subs": 5420,
+     "age_days": 378,
+     "videos": 1,
+     "best_views": 140265,
+     "best_title": "CAMBODIA | A Country the World Still Doesn’t Fully Understand | 4K Documentary",
+     "best_id": "KRC1ZDBdvJA"
+    },
+    {
+     "id": "UCss0y7c69jgvFRS9Hs2EwRA",
+     "title": "TravelwithChad",
+     "subs": 2150,
+     "age_days": 691,
+     "videos": 1,
+     "best_views": 135585,
+     "best_title": "I Can't Believe This Place is CAMBODIA! 🇰🇭",
+     "best_id": "0GsD413DRYw"
+    },
+    {
+     "id": "UC2LKyiKxS-nl9WdpnvBfSiw",
+     "title": "Craig Lou",
+     "subs": 249000,
+     "age_days": 1680,
+     "videos": 1,
+     "best_views": 89306,
+     "best_title": "What Cambodia Is Really Like (Not Just Temples)",
+     "best_id": "Fh45E0XulJ4"
     }
    ]
   },
@@ -789,6 +1947,135 @@
    ]
   },
   {
+   "channel_id": "UCLT3rRTusCOQ0S39oKl61wQ",
+   "channel_title": "মরীচিকা",
+   "channel_created": "2026-09-12",
+   "channel_age_days": 45,
+   "subs": 980,
+   "found_at": "2026-10-28T01:00:13Z",
+   "validated_at": "2026-10-29T01:01:09Z",
+   "niche": "শেষ ছবি: যে প্রাণীরা আর কখনো ফিরবে না | Bangla Documentary",
+   "path": [],
+   "queries": [
+    "বাংলা ডকুমেন্টারি",
+    "animal documentary bangla",
+    "bangla কখন আজও"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "aOQ9C0QXTe8",
+    "title": "শেষ ছবি: যে প্রাণীরা আর কখনো ফিরবে না | Bangla Documentary",
+    "views": 153657
+   },
+   "ratio": 156.8,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 7944,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 46,
+    "n_channels": 19,
+    "max_subs": 26600000,
+    "median_subs": 146000,
+    "big_channels": 10,
+    "top_views": 5338305,
+    "demand_videos": 41,
+    "demand_channels": 14,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 26 600 000 подписчиков",
+    "Медиана подписчиков 146 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 82,
+   "competitors": [
+    {
+     "id": "UCue2DK0ccHtBrP9V__gYl6A",
+     "title": "Scenic Scenes",
+     "subs": 1060000,
+     "age_days": 1996,
+     "videos": 2,
+     "best_views": 5338305,
+     "best_title": "ANIMAL WILDLIFE DISCOVERY | 60FPS 4K ULTRA HD #4K #ANIMALS",
+     "best_id": "LYGvsTUJFM8"
+    },
+    {
+     "id": "UCJjUlbs-ZEo4draiZzz66sQ",
+     "title": "WILD NATURE - Nature animal documentary",
+     "subs": 240000,
+     "age_days": 822,
+     "videos": 6,
+     "best_views": 4151317,
+     "best_title": "Win or Die (FULL EPISODE) | Deadliest Battles for Survival | Animal documentary",
+     "best_id": "qprNraWQZF4"
+    },
+    {
+     "id": "UCwm2tuDiDGGuULDIx18hEWQ",
+     "title": "WildVerse",
+     "subs": 36300,
+     "age_days": 466,
+     "videos": 3,
+     "best_views": 2999873,
+     "best_title": "Only the Strongest Predators Will Survive | FULL EPISODE | Nature Animal Documentary",
+     "best_id": "FI5BW48n2Es"
+    },
+    {
+     "id": "UCwmZiChSryoWQCZMIQezgTg",
+     "title": "BBC Earth",
+     "subs": 14600000,
+     "age_days": 6455,
+     "videos": 6,
+     "best_views": 2309201,
+     "best_title": "A Journey Across Africa | BBC Earth",
+     "best_id": "3-QqmQ_MIe4"
+    },
+    {
+     "id": "UC7R28A21ABhLnvY9bRed8MQ",
+     "title": "Nature's Moments",
+     "subs": 146000,
+     "age_days": 3561,
+     "videos": 5,
+     "best_views": 2263522,
+     "best_title": "African Savannah | Deadliest Battles for Survival | FULL EPISODE | Wildlife Documentary",
+     "best_id": "n9fUtYf7ZxU"
+    },
+    {
+     "id": "UCDPk9MG2RexnOMGTD-YnSnA",
+     "title": "Nat Geo Animals",
+     "subs": 6530000,
+     "age_days": 6974,
+     "videos": 10,
+     "best_views": 2034520,
+     "best_title": "Animal Survival in the Okavango (Full Episode) | The Flood: Part 1 | Nat Geo Animals",
+     "best_id": "1mBc8VjDa1s"
+    },
+    {
+     "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+     "title": "National Geographic",
+     "subs": 26600000,
+     "age_days": 7479,
+     "videos": 2,
+     "best_views": 1828569,
+     "best_title": "Lion: Rise of a King | A Prince is Born (Full Episode) | National Geographic",
+     "best_id": "alMenZeGN1c"
+    },
+    {
+     "id": "UCkf4ZhyckqAgr_bf-PPS7jA",
+     "title": "Wild Animals - Animal Documentary",
+     "subs": 56400,
+     "age_days": 4051,
+     "videos": 1,
+     "best_views": 1696953,
+     "best_title": "WILD AMAZON | Discovering Mysterious Predators Yet To Be Known | Animal Documentary",
+     "best_id": "uxT-S4TkrpA"
+    }
+   ]
+  },
+  {
    "channel_id": "UCKWRnsyYbPFgWclCF0_yOTw",
    "channel_title": "History Tab Open",
    "channel_created": "2026-09-19",
@@ -914,6 +2201,394 @@
      "best_views": 1956697,
      "best_title": "The ENTIRE History of WW2 Explained",
      "best_id": "Nlu6Fe-vbYQ"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCEcSiSoTolZ6ihqP8OX_jAw",
+   "channel_title": "Japanese Aircraft Stories",
+   "channel_created": "2026-09-10",
+   "channel_age_days": 48,
+   "subs": 973,
+   "found_at": "2026-10-29T01:00:35Z",
+   "validated_at": "2026-10-29T01:01:48Z",
+   "niche": "Japan Had No Real Answer When B-25 Eight-Gun Noses Tore Their Warships Apart",
+   "path": [],
+   "queries": [
+    "pacific war",
+    "japanese aircraft stories",
+    "japanese japan pilots"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "APhXo-_Vvzc",
+    "title": "Japanese Believed Their Zero was untouchable Until F6F came and swept them from the skies",
+    "views": 67288
+   },
+   "ratio": 69.2,
+   "channel_stats": {
+    "videos": 13,
+    "median_views": 377,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 78,
+    "n_channels": 69,
+    "max_subs": 26600000,
+    "median_subs": 18900,
+    "big_channels": 21,
+    "top_views": 5524408,
+    "demand_videos": 47,
+    "demand_channels": 40,
+    "young_hits": 5
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 69, лимит 30",
+    "Есть канал с 26 600 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 70,
+   "competitors": [
+    {
+     "id": "UC-f2WBfSCZiu0bOBydjot3w",
+     "title": "Yarnhub",
+     "subs": 3370000,
+     "age_days": 2690,
+     "videos": 1,
+     "best_views": 5524408,
+     "best_title": "Japan's Desperate Last Dogfight",
+     "best_id": "WK9PUTxR7Dk"
+    },
+    {
+     "id": "UCr5qeBG9g7bGtMGyHG2GzbQ",
+     "title": "Absolute History",
+     "subs": 3700000,
+     "age_days": 2826,
+     "videos": 1,
+     "best_views": 1376072,
+     "best_title": "Uncensored Footage Of The Brutal Reality Of WWII In The Pacific",
+     "best_id": "qTu16zXbKp4"
+    },
+    {
+     "id": "UCYXU4IweiEiwKHzTcaKRAzw",
+     "title": "ONE OK ROCK - Topic",
+     "subs": 62800,
+     "age_days": 4668,
+     "videos": 1,
+     "best_views": 1037932,
+     "best_title": "The Pilot ᐸ/3 (DETOX JAPAN TOUR 2025)",
+     "best_id": "KF4t6Y4sZbM"
+    },
+    {
+     "id": "UCI0YUL57yQ03GmfBYmIw5Ng",
+     "title": "Giants in Motion",
+     "subs": 3670,
+     "age_days": 16,
+     "videos": 1,
+     "best_views": 977186,
+     "best_title": "How Japan Quietly Built an Aircraft Carrier - Breaking Every Naval Rule",
+     "best_id": "vgGjB22MAqA"
+    },
+    {
+     "id": "UCB1eDEd1AYG3YrRIJSZzMOQ",
+     "title": "Real Time History",
+     "subs": 765000,
+     "age_days": 3274,
+     "videos": 2,
+     "best_views": 944759,
+     "best_title": "Japan's Downfall: Pacific War from Tarawa to Okinawa (Full WW2 Documentary)",
+     "best_id": "PjW5V9PmNdU"
+    },
+    {
+     "id": "UCYrgPWyI7xJh81wrOr6fQAw",
+     "title": "The Daily Aviation",
+     "subs": 2610000,
+     "age_days": 4402,
+     "videos": 1,
+     "best_views": 840247,
+     "best_title": "US Testing Japan’s Brand New $160 Million Most Advanced Sea Plane",
+     "best_id": "4PhBJZQo_yk"
+    },
+    {
+     "id": "UCTTqBgYdkmFogITlPDM0M4A",
+     "title": "DroneScapes",
+     "subs": 585000,
+     "age_days": 4071,
+     "videos": 2,
+     "best_views": 748515,
+     "best_title": "WWII IN COLOR: Inside The Pacific Air War & Carriers Operations [Restored Footage]",
+     "best_id": "RxcnJNnOiaw"
+    },
+    {
+     "id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+     "title": "FRANCE 24 English",
+     "subs": 3700000,
+     "age_days": 7147,
+     "videos": 1,
+     "best_views": 709761,
+     "best_title": "Japan's controversial WWII heroes: How one kamikaze pilot escaped certain death • FRANCE 24",
+     "best_id": "aPJXEsIc1MQ"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCcUjGQQ-fugMpy1HF1NtpyA",
+   "channel_title": "JOSEavila",
+   "channel_created": "2026-09-16",
+   "channel_age_days": 41,
+   "subs": 3070,
+   "found_at": "2026-10-28T01:00:35Z",
+   "validated_at": "2026-10-29T01:01:37Z",
+   "niche": "Los Arqueólogos Descubrieron algo en los MUROS Gigantes de Perú que lo Cambia Todo",
+   "path": [],
+   "queries": [
+    "huella antigua",
+    "documental en español",
+    "descubrieron arqueólogos los"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "urpO6xdeGIA",
+    "title": "Los Arqueólogos Descubrieron algo en los MUROS Gigantes de Perú que lo Cambia Todo",
+    "views": 236927
+   },
+   "ratio": 77.2,
+   "channel_stats": {
+    "videos": 12,
+    "median_views": 8467,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 75,
+    "n_channels": 33,
+    "max_subs": 31900000,
+    "median_subs": 68200,
+    "big_channels": 15,
+    "top_views": 6050917,
+    "demand_videos": 65,
+    "demand_channels": 27,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 33, лимит 30",
+    "Есть канал с 31 900 000 подписчиков",
+    "Медиана подписчиков 68 200 выше лимита"
+   ],
+   "notes": [],
+   "score": 66,
+   "competitors": [
+    {
+     "id": "UCApPSle7opIMnZIl6ay5JWQ",
+     "title": "Curiosiviajes",
+     "subs": 122000,
+     "age_days": 1091,
+     "videos": 1,
+     "best_views": 6050917,
+     "best_title": "LUGARES MÁS PELIGROSOS DEL MUNDO | Documental 4K",
+     "best_id": "6cMp1_gkTlE"
+    },
+    {
+     "id": "UCKVtMu6QLSEA528Li51ndPQ",
+     "title": "Nat Geo en Español",
+     "subs": 1700000,
+     "age_days": 905,
+     "videos": 6,
+     "best_views": 4651749,
+     "best_title": "En Primera Persona: Megaepisodio | Nat Geo en Español",
+     "best_id": "ViOiwqeLABg"
+    },
+    {
+     "id": "UCVJMRZwfrwVr9mrrqC8g80Q",
+     "title": "GeoDocs - Español",
+     "subs": 183000,
+     "age_days": 943,
+     "videos": 1,
+     "best_views": 4419388,
+     "best_title": "Criaturas Extraordinarias [Documental Completo]",
+     "best_id": "Mwb372Uj2m8"
+    },
+    {
+     "id": "UCBYyJBCtCvgqA4NwtoPMwpQ",
+     "title": "The Wild Project",
+     "subs": 7400000,
+     "age_days": 2462,
+     "videos": 2,
+     "best_views": 4241637,
+     "best_title": "The Wild Project #349 - Tito Vivas (Arqueólogo) | Los mayores misterios arqueológicos del mundo",
+     "best_id": "CPjYV2mRg_A"
+    },
+    {
+     "id": "UCQ1GpKa15ulyoQuxz7H4rng",
+     "title": "DW Documental",
+     "subs": 6210000,
+     "age_days": 3256,
+     "videos": 22,
+     "best_views": 3611878,
+     "best_title": "11-S, el día que cambió el mundo | DW Documental",
+     "best_id": "puBkeNb04Pk"
+    },
+    {
+     "id": "UCpyYUq9kcBMLPlfE8EzguvA",
+     "title": "National Geographic España",
+     "subs": 905000,
+     "age_days": 5618,
+     "videos": 9,
+     "best_views": 3281544,
+     "best_title": "La historia de la dictadura de Corea del Norte | EN LA MENTE DE UN DICTADOR | NATIONAL GEOGRAPHIC",
+     "best_id": "_m5wFj2ikSY"
+    },
+    {
+     "id": "UC4lsQJtPMcxzZVuQZwuxrww",
+     "title": "Documentales Revelados",
+     "subs": 82200,
+     "age_days": 945,
+     "videos": 1,
+     "best_views": 1989549,
+     "best_title": "La cárcel de Mujeres asesinas | Documental Estados Unidos",
+     "best_id": "qMDhBE08pxc"
+    },
+    {
+     "id": "UC4ds3GmD88Mj4uRg7jU0Ylw",
+     "title": "Aventura Salvaje - Español",
+     "subs": 105000,
+     "age_days": 6223,
+     "videos": 1,
+     "best_views": 1928269,
+     "best_title": "OCÉANO PROFUNDO | El Viaje hacia las Criaturas Misteriosas del Abismo | Documental Completo",
+     "best_id": "yLOeLi0-PcU"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCJ8tXS258N8bLpiOox5zr2A",
+   "channel_title": "WW2 Storyteller",
+   "channel_created": "2026-09-18",
+   "channel_age_days": 40,
+   "subs": 1290,
+   "found_at": "2026-10-29T01:00:35Z",
+   "validated_at": "2026-10-29T01:01:32Z",
+   "niche": "The US Army Was Routed at Kasserine—How Did Patton Turn Disaster Into Victory?",
+   "path": [],
+   "queries": [
+    "military history",
+    "war stories",
+    "officers german did"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "92SDvWpfEkU",
+    "title": "The US Army Was Routed at Kasserine—How Did Patton Turn Disaster Into Victory?",
+    "views": 120061
+   },
+   "ratio": 93.1,
+   "channel_stats": {
+    "videos": 14,
+    "median_views": 772,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 78,
+    "n_channels": 57,
+    "max_subs": 15500000,
+    "median_subs": 31000,
+    "big_channels": 24,
+    "top_views": 3071351,
+    "demand_videos": 64,
+    "demand_channels": 46,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 57, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 49,
+   "competitors": [
+    {
+     "id": "UCuXARA9SKkO2jrMJXYso92w",
+     "title": "WW2 Paths",
+     "subs": 13500,
+     "age_days": 770,
+     "videos": 1,
+     "best_views": 3071351,
+     "best_title": "Germans Captured Him — He Laughed, Then Killed 21 of Them in 45 Seconds",
+     "best_id": "PLMjds9a5dI"
+    },
+    {
+     "id": "UCu4XcDBdnZkV6-5z2f16M0g",
+     "title": "Real Stories",
+     "subs": 6770000,
+     "age_days": 4272,
+     "videos": 2,
+     "best_views": 2720968,
+     "best_title": "Inside Afghanistan: Rare Uncensored Footage From The Battle For Marjah",
+     "best_id": "qOmUIFrAXJs"
+    },
+    {
+     "id": "UCkmGqbPKl9p8qGMTi-h4rgQ",
+     "title": "Radical Living",
+     "subs": 2250000,
+     "age_days": 4809,
+     "videos": 1,
+     "best_views": 2428929,
+     "best_title": "4 Hours of German WW2 Officer to help you Focus/Study/Work",
+     "best_id": "Gd1J8B3ncJo"
+    },
+    {
+     "id": "UCcuyEIkjIzu09O2uOS9T_Qg",
+     "title": "History Inside",
+     "subs": 100000,
+     "age_days": 1585,
+     "videos": 1,
+     "best_views": 2277911,
+     "best_title": "Where Did the Waffen SS Go After 1945?",
+     "best_id": "bLsTflKB5lw"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7367,
+     "videos": 6,
+     "best_views": 2026550,
+     "best_title": "Inside the Biggest Invasion in Human History | World War II With Tom Hanks",
+     "best_id": "m48RUZgX1GA"
+    },
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7705,
+     "videos": 1,
+     "best_views": 1957782,
+     "best_title": "Army Historian Answers World War II Questions | Tech Support | WIRED",
+     "best_id": "jffsYwdxh-A"
+    },
+    {
+     "id": "UC-rhmn9JLIKAUb9XX0rjA7g",
+     "title": "Der Legionär English",
+     "subs": 27000,
+     "age_days": 6761,
+     "videos": 1,
+     "best_views": 1616244,
+     "best_title": "20 UNSOLVED Mysteries of World War II – History Has Not Been Able to Explain Them",
+     "best_id": "L0Uiq1OyyPw"
+    },
+    {
+     "id": "UChorMshoykh5KjSLpFDsTlQ",
+     "title": "Drollery",
+     "subs": 1560,
+     "age_days": 21,
+     "videos": 1,
+     "best_views": 1218498,
+     "best_title": "No Celebrity Told WAR Stories Like Lee Marvin",
+     "best_id": "C6-FIlJaPNk"
     }
    ]
   },
@@ -1567,6 +3242,136 @@
    ]
   },
   {
+   "channel_id": "UCfSREBxCbKOt5ddJ4XrhP4w",
+   "channel_title": "British Field Notes",
+   "channel_created": "2026-10-13",
+   "channel_age_days": 15,
+   "subs": 318,
+   "found_at": "2026-10-29T01:00:35Z",
+   "validated_at": "2026-10-29T01:00:42Z",
+   "niche": "9 Things British Radio Operators Did in WWII Because the Germans Were Listening",
+   "path": [],
+   "queries": [
+    "british army",
+    "military history",
+    "british wwii soldiers"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Fs74UKwNYRg",
+    "title": "9 Things British Radio Operators Did in WWII Because the Germans Were Listening",
+    "views": 137245
+   },
+   "ratio": 431.6,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 1115,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 48,
+    "n_channels": 41,
+    "max_subs": 15500000,
+    "median_subs": 148000,
+    "big_channels": 24,
+    "top_views": 3071351,
+    "demand_videos": 41,
+    "demand_channels": 34,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 148 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 16,
+   "competitors": [
+    {
+     "id": "UCuXARA9SKkO2jrMJXYso92w",
+     "title": "WW2 Paths",
+     "subs": 13500,
+     "age_days": 770,
+     "videos": 1,
+     "best_views": 3071351,
+     "best_title": "Germans Captured Him — He Laughed, Then Killed 21 of Them in 45 Seconds",
+     "best_id": "PLMjds9a5dI"
+    },
+    {
+     "id": "UCcuyEIkjIzu09O2uOS9T_Qg",
+     "title": "History Inside",
+     "subs": 100000,
+     "age_days": 1585,
+     "videos": 1,
+     "best_views": 2277895,
+     "best_title": "Where Did the Waffen SS Go After 1945?",
+     "best_id": "bLsTflKB5lw"
+    },
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7705,
+     "videos": 1,
+     "best_views": 1957782,
+     "best_title": "Army Historian Answers World War II Questions | Tech Support | WIRED",
+     "best_id": "jffsYwdxh-A"
+    },
+    {
+     "id": "UCad0I-oaN6hVKRfQFCDDtBQ",
+     "title": "Playback Picks",
+     "subs": 59200,
+     "age_days": 482,
+     "videos": 1,
+     "best_views": 1940815,
+     "best_title": "British Army Officers | Monty Python's The Meaning of Life",
+     "best_id": "BFvkxK4Qsis"
+    },
+    {
+     "id": "UC-rhmn9JLIKAUb9XX0rjA7g",
+     "title": "Der Legionär English",
+     "subs": 27000,
+     "age_days": 6761,
+     "videos": 1,
+     "best_views": 1616244,
+     "best_title": "20 UNSOLVED Mysteries of World War II – History Has Not Been Able to Explain Them",
+     "best_id": "L0Uiq1OyyPw"
+    },
+    {
+     "id": "UCLuIudjbquBATgqkIJxQi6A",
+     "title": "Animated History ",
+     "subs": 99200,
+     "age_days": 388,
+     "videos": 1,
+     "best_views": 1069129,
+     "best_title": "The ENTIRE American Civil War Explained in 23 Minutes",
+     "best_id": "bu_FBw9NmUc"
+    },
+    {
+     "id": "UCykA58zeWQgTSG_G0_JGZ3g",
+     "title": "Ancient Warfare History",
+     "subs": 6400,
+     "age_days": 420,
+     "videos": 1,
+     "best_views": 1044860,
+     "best_title": "Battle of Dara (530): The Brilliant Defense — How Roman Trenches Annihilated the Persian Army",
+     "best_id": "qdpfrHfYwWk"
+    },
+    {
+     "id": "UCwrpo8z3IgJln2ZidqBUiMA",
+     "title": "Cappy Army",
+     "subs": 911000,
+     "age_days": 2355,
+     "videos": 1,
+     "best_views": 968678,
+     "best_title": "How British SAS are Secretly Fighting Russia",
+     "best_id": "A0_iOV-Jo-4"
+    }
+   ]
+  },
+  {
    "channel_id": "UCS7W63SpRiX5NdNsGjDpMlA",
    "channel_title": "The War Economy",
    "channel_created": "2026-09-29",
@@ -1823,6 +3628,136 @@
      "best_views": 2276856,
      "best_title": "Where Did the Waffen SS Go After 1945?",
      "best_id": "bLsTflKB5lw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCWsycsdvz00vp7wm6tY3FWA",
+   "channel_title": "Impossible Atlas",
+   "channel_created": "2026-09-10",
+   "channel_age_days": 48,
+   "subs": 1330,
+   "found_at": "2026-10-29T01:00:09Z",
+   "validated_at": "2026-10-29T01:00:48Z",
+   "niche": "UNREAL EARTH | 15 Places Science Still Can’t Fully Explain | 4K Documentary",
+   "path": [],
+   "queries": [
+    "secret places",
+    "scientists can't explain",
+    "places earth look"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "553iDWFuqtI",
+    "title": "UNREAL EARTH | 15 Places Science Still Can’t Fully Explain | 4K Documentary",
+    "views": 411764
+   },
+   "ratio": 309.6,
+   "channel_stats": {
+    "videos": 25,
+    "median_views": 4346,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 79,
+    "n_channels": 58,
+    "max_subs": 51700000,
+    "median_subs": 129000,
+    "big_channels": 32,
+    "top_views": 49817709,
+    "demand_videos": 67,
+    "demand_channels": 49,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 58, лимит 30",
+    "Есть канал с 51 700 000 подписчиков",
+    "Медиана подписчиков 129 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 9,
+   "competitors": [
+    {
+     "id": "UCwVg9btOceLQuNCdoQk9CXg",
+     "title": "Ben Azelart",
+     "subs": 51700000,
+     "age_days": 4528,
+     "videos": 1,
+     "best_views": 49817709,
+     "best_title": "I Built a SECRET Room in a Mall!",
+     "best_id": "DgittolE5sQ"
+    },
+    {
+     "id": "UCvK4bOhULCpmLabd2pDMtnA",
+     "title": "Yes Theory",
+     "subs": 10200000,
+     "age_days": 4671,
+     "videos": 1,
+     "best_views": 7939987,
+     "best_title": "50 hours in a Secret Russian town in America",
+     "best_id": "TMQ31DQjjWg"
+    },
+    {
+     "id": "UCnwUjPK7dXety-AJ4fNw_RQ",
+     "title": "The Paint Explainer",
+     "subs": 2010000,
+     "age_days": 1198,
+     "videos": 4,
+     "best_views": 5036593,
+     "best_title": "The Most Disturbing Scientific Anomalies We Can’t Find An Explanation For (Pt. 2)",
+     "best_id": "cnZT9QMiJx4"
+    },
+    {
+     "id": "UCe8G9fApuCUh7dQr95UWhag",
+     "title": "New Travel Insight",
+     "subs": 194000,
+     "age_days": 612,
+     "videos": 3,
+     "best_views": 3588608,
+     "best_title": "30 Most Extreme Corners of Planet Earth | 4K Travel Documentary",
+     "best_id": "KzfeiYSA5G4"
+    },
+    {
+     "id": "UC5raTSxG5BByGBy38-wbN8A",
+     "title": "Pure Earth",
+     "subs": 21800,
+     "age_days": 406,
+     "videos": 1,
+     "best_views": 2389893,
+     "best_title": "IMPOSSIBLE PLACES: 30 Extremely Surreal Wonders on Earth | 4K Travel Documentary",
+     "best_id": "XJVe7NM4GBE"
+    },
+    {
+     "id": "UCZevH_tgMbrm6r-_OiU6Ubg",
+     "title": "Drew Dirksen",
+     "subs": 4800000,
+     "age_days": 3432,
+     "videos": 1,
+     "best_views": 2207324,
+     "best_title": "Secretly Hiding in a Trampoline Park Overnight!",
+     "best_id": "Jn03xEmDgB8"
+    },
+    {
+     "id": "UCugDb3auxoCmwAYXmVUBKtA",
+     "title": "Uncensored World",
+     "subs": 121000,
+     "age_days": 1135,
+     "videos": 2,
+     "best_views": 2080824,
+     "best_title": "1 IN A BILLION TRIBE SCIENTISTS Can't Explain: Their Bodies Break All Human Laws",
+     "best_id": "zao6CZKwtOU"
+    },
+    {
+     "id": "UC2AKC2ataf3T-h02AloR21w",
+     "title": "Top Unreal Planet 4K",
+     "subs": 19000,
+     "age_days": 461,
+     "videos": 1,
+     "best_views": 1976735,
+     "best_title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+     "best_id": "rBBAuJS1Ux0"
     }
    ]
   },
