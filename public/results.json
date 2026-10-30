@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T01:01:59Z",
+ "generated_at": "2026-10-30T01:01:48Z",
  "quota": {
-  "day": "2026-10-28",
-  "used": 6636,
+  "day": "2026-10-29",
+  "used": 5720,
   "budget": 9000
  },
- "pending": 8,
+ "pending": 0,
  "thresholds": {
   "max_channel_age_days": 60,
   "max_subs": 10000,
@@ -267,6 +267,135 @@
      "best_views": 1913,
      "best_title": "The DEADLIEST Medieval Siege Myths Hollywood Got DEAD WRONG..!",
      "best_id": "wM1ixxjYVJE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCGRR8x8g-VZoBd2slw06JPQ",
+   "channel_title": "Dastawez",
+   "channel_created": "2026-09-17",
+   "channel_age_days": 40,
+   "subs": 1660,
+   "found_at": "2026-10-28T01:00:21Z",
+   "validated_at": "2026-10-30T01:01:14Z",
+   "niche": "ईरान का सम्पूर्ण इतिहास | The Entire History of IRAN | Full Documentary",
+   "path": [],
+   "queries": [
+    "history entire dastawez",
+    "entire history iran",
+    "entire history england never"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "4kVXSFtEvoQ",
+    "title": "तुर्की का सम्पूर्ण इतिहास | The Entire History of TURKEY | Full Documentary",
+    "views": 88695
+   },
+   "ratio": 53.4,
+   "channel_stats": {
+    "videos": 18,
+    "median_views": 14703,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 73,
+    "n_channels": 58,
+    "max_subs": 6970000,
+    "median_subs": 572,
+    "big_channels": 6,
+    "top_views": 3300892,
+    "demand_videos": 19,
+    "demand_channels": 16,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 58, лимит 30",
+    "Есть канал с 6 970 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1190,
+   "competitors": [
+    {
+     "id": "UCHbCoS79jPGHoHxqn5qWxVw",
+     "title": "VLAD - Meditative History ",
+     "subs": 27500,
+     "age_days": 255,
+     "videos": 1,
+     "best_views": 3300892,
+     "best_title": "The Entire History of Iran in 20 Minutes",
+     "best_id": "vIO1krG2-tE"
+    },
+    {
+     "id": "UCsDTy8jvHcwMvSZf_JGi-FA",
+     "title": "Abhi and Niyu",
+     "subs": 6670000,
+     "age_days": 3132,
+     "videos": 1,
+     "best_views": 2928539,
+     "best_title": "How USA destroyed Iran FULL HISTORY in Hindi | Abhi and Niyu",
+     "best_id": "u0VfH1wqN1g"
+    },
+    {
+     "id": "UCiK32DVMZfE_MMirv6CXpQw",
+     "title": "Echoes of History",
+     "subs": 12200,
+     "age_days": 629,
+     "videos": 1,
+     "best_views": 2116501,
+     "best_title": "5000 Years History of Iran in 18 Minutes | From Cyrus the Great to Ali Khamenei |",
+     "best_id": "_cc_sdKBh14"
+    },
+    {
+     "id": "UCNDM0eq9WmBDr5UwMQFeFew",
+     "title": "World View - Documentary",
+     "subs": 43700,
+     "age_days": 527,
+     "videos": 1,
+     "best_views": 1269237,
+     "best_title": "Iran vs Israel & USA: The Origins of The Conflict - Documentary Geopolitical - AT",
+     "best_id": "Ms_l8Ydv3Wg"
+    },
+    {
+     "id": "UCT6Y5JJPKe_JDMivpKgVXew",
+     "title": "Fall of Civilizations",
+     "subs": 1520000,
+     "age_days": 2839,
+     "videos": 1,
+     "best_views": 1213319,
+     "best_title": "20. Persia - An Empire in Ashes",
+     "best_id": "CAsKpXoxZAQ"
+    },
+    {
+     "id": "UC-q0RDBWjYlYA2KkPzq0WSQ",
+     "title": "Genius History",
+     "subs": 30200,
+     "age_days": 718,
+     "videos": 1,
+     "best_views": 900731,
+     "best_title": "The ENTIRE History of Iran in 11 Minutes",
+     "best_id": "XO1-4FH1X1I"
+    },
+    {
+     "id": "UCzcUjkzUYh3Q8QpKbegCAdg",
+     "title": "TALEON",
+     "subs": 6390,
+     "age_days": 383,
+     "videos": 1,
+     "best_views": 808655,
+     "best_title": "The Entire History of IRAN in 60 Minutes",
+     "best_id": "3iKmAeo5OcU"
+    },
+    {
+     "id": "UCaBd9px-6KyCMe5oUtb1RYQ",
+     "title": "Simon | Meditative History",
+     "subs": 4090,
+     "age_days": 203,
+     "videos": 1,
+     "best_views": 681427,
+     "best_title": "The Entire History of IRAN in 35 minutes",
+     "best_id": "JA7W5rWq6hY"
     }
    ]
   },
@@ -915,6 +1044,135 @@
    ]
   },
   {
+   "channel_id": "UCOGL2D26c9m4jyvx2vDwXaQ",
+   "channel_title": "Deep Past",
+   "channel_created": "2026-09-28",
+   "channel_age_days": 31,
+   "subs": 6690,
+   "found_at": "2026-10-30T01:00:17Z",
+   "validated_at": "2026-10-30T01:01:42Z",
+   "niche": "What the Sumerians Wrote Before the Bible Existed",
+   "path": [],
+   "queries": [
+    "never sumerian tablets",
+    "sumerians wrote before bible",
+    "handbag gods never bag"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "eDs6pLktYfY",
+    "title": "The \"Handbag of the Gods\" Was Never a Bag: Here's What It Really Was",
+    "views": 210306
+   },
+   "ratio": 31.4,
+   "channel_stats": {
+    "videos": 11,
+    "median_views": 49261,
+    "hits": 5
+   },
+   "market": {
+    "n_videos": 117,
+    "n_channels": 74,
+    "max_subs": 1250000,
+    "median_subs": 4260,
+    "big_channels": 8,
+    "top_views": 1642568,
+    "demand_videos": 35,
+    "demand_channels": 25,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 74, лимит 30",
+    "Есть канал с 1 250 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 418,
+   "competitors": [
+    {
+     "id": "UCh2ovVNfxATDk_LJnRsDMUg",
+     "title": "The Relic Vault",
+     "subs": 30300,
+     "age_days": 199,
+     "videos": 3,
+     "best_views": 1642568,
+     "best_title": "The Sumerian Tablet That Describes What Happens to Humans When They Die—And the Trap They Don't See",
+     "best_id": "hn2h84eRGmo"
+    },
+    {
+     "id": "UCudjbwSmv7ZVhfg0omQ25nQ",
+     "title": "First Chamber",
+     "subs": 17600,
+     "age_days": 170,
+     "videos": 4,
+     "best_views": 1121984,
+     "best_title": "The Sumerian Tablet That Says Dogs Were Sent to Earth for One Purpose — And They Never Left Our Side",
+     "best_id": "moy2tTAKBYw"
+    },
+    {
+     "id": "UCtY7ANGSFiWwKYAB_nxVJgw",
+     "title": "Hidden Annunaki with Thomas",
+     "subs": 17200,
+     "age_days": 317,
+     "videos": 1,
+     "best_views": 924888,
+     "best_title": "Sumerian Text Reveals Why the Anunnaki Can Never Return to Earth — And What Blocks Them",
+     "best_id": "z3JmmtaOSRQ"
+    },
+    {
+     "id": "UCtHSufHULdY5p2G-2PnGNQw",
+     "title": "Null Source",
+     "subs": 24600,
+     "age_days": 169,
+     "videos": 4,
+     "best_views": 842045,
+     "best_title": "The Sumerian Tablet Listing 5 Species That Existed Before Humans — And How Each One Ended",
+     "best_id": "bumwBvTLgYc"
+    },
+    {
+     "id": "UC16sxEjS5CSy3EjKNK68wyg",
+     "title": "Lord Cham",
+     "subs": 8720,
+     "age_days": 107,
+     "videos": 1,
+     "best_views": 442603,
+     "best_title": "The Sumerian “Handbag of the Gods” Was Never a Bag — What Was It Really?",
+     "best_id": "EhQ9_0RMeTY"
+    },
+    {
+     "id": "UCJ-sGdpBVxVBLP6NjjVld3w",
+     "title": "Beyond The Verses",
+     "subs": 414000,
+     "age_days": 1353,
+     "videos": 1,
+     "best_views": 379891,
+     "best_title": "WHO Were The SUMERIANS In The Bible? Where Are They Today?",
+     "best_id": "9LuriXuYWYQ"
+    },
+    {
+     "id": "UCotE0z3LPEoe7VfPjSX8eig",
+     "title": "The Hidden Archive",
+     "subs": 1340,
+     "age_days": 1131,
+     "videos": 1,
+     "best_views": 342581,
+     "best_title": "The Sumerian Tablet That Says Cats Were Sent to Earth for One Purpose — And They Never Stopped",
+     "best_id": "XeUJgzPiAiY"
+    },
+    {
+     "id": "UCOGL2D26c9m4jyvx2vDwXaQ",
+     "title": "Deep Past",
+     "subs": 6690,
+     "age_days": 31,
+     "videos": 4,
+     "best_views": 291153,
+     "best_title": "What the Sumerians Wrote Before the Bible Existed",
+     "best_id": "VysGUVzwnqA"
+    }
+   ]
+  },
+  {
    "channel_id": "UCbfGBoXrnleIghsYA-C--QA",
    "channel_title": "The Racket Archive",
    "channel_created": "2026-09-25",
@@ -1044,6 +1302,135 @@
    ]
   },
   {
+   "channel_id": "UCgYTGQaaVl--ma4BOX41-MA",
+   "channel_title": "When America Made Everything",
+   "channel_created": "2026-09-02",
+   "channel_age_days": 57,
+   "subs": 8070,
+   "found_at": "2026-10-30T01:00:11Z",
+   "validated_at": "2026-10-30T01:01:03Z",
+   "niche": "30 American Companies That Made Products That Lasted 50 Years — Then Vanished",
+   "path": [],
+   "queries": [
+    "american factories made",
+    "american companies made products",
+    "american factories once employed"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Stdfs-MLcyw",
+    "title": "30 American Companies That Made Products That Lasted 50 Years — Then Vanished",
+    "views": 530864
+   },
+   "ratio": 65.8,
+   "channel_stats": {
+    "videos": 27,
+    "median_views": 15352,
+    "hits": 7
+   },
+   "market": {
+    "n_videos": 81,
+    "n_channels": 63,
+    "max_subs": 10600000,
+    "median_subs": 1960,
+    "big_channels": 14,
+    "top_views": 4911189,
+    "demand_videos": 19,
+    "demand_channels": 17,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 63, лимит 30",
+    "Есть канал с 10 600 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 393,
+   "competitors": [
+    {
+     "id": "UCPKjgnh9CconGqHnrv_w_ug",
+     "title": "01prosess ",
+     "subs": 113000,
+     "age_days": 118,
+     "videos": 1,
+     "best_views": 4911189,
+     "best_title": "how does america made cocacola🍷 drinks in factory full process 😱#factory#cocacola#viral#ytshorts#yt",
+     "best_id": "vragc4Yv9zI"
+    },
+    {
+     "id": "UCcyq283he07B7_KUX07mmtA",
+     "title": "Business Insider",
+     "subs": 10600000,
+     "age_days": 6236,
+     "videos": 1,
+     "best_views": 3401208,
+     "best_title": "Inside The Chip Factory 1,000 Times Cleaner Than An Operating Room | Made In America",
+     "best_id": "IJSbWTpnYSQ"
+    },
+    {
+     "id": "UC_SAqSTqFCc3nL1no9g5p1w",
+     "title": "Rhythm of Factory",
+     "subs": 11300,
+     "age_days": 350,
+     "videos": 1,
+     "best_views": 1584828,
+     "best_title": "Inside the US Money Factory: How the $100 Bill is Made",
+     "best_id": "WHj3V7PPvkI"
+    },
+    {
+     "id": "UCzgWZmqmKpmsr4oPWITusKA",
+     "title": "Beyond Facts",
+     "subs": 757000,
+     "age_days": 2523,
+     "videos": 1,
+     "best_views": 1185912,
+     "best_title": "How Money Is Made - Inside U.S. Money Printing Factory",
+     "best_id": "gH602iQ3wXg"
+    },
+    {
+     "id": "UCCkrhCEN3T22_7zDBcPJs-w",
+     "title": "Swift Process",
+     "subs": 71900,
+     "age_days": 461,
+     "videos": 1,
+     "best_views": 895583,
+     "best_title": "Inside the Mega Factory: How Millions of American Jeans are Made (Full Process)",
+     "best_id": "pJH3sJg8VFs"
+    },
+    {
+     "id": "UCVsUzU1UZsHlij0ze9VuAlQ",
+     "title": "Old Money Lost",
+     "subs": 23300,
+     "age_days": 337,
+     "videos": 1,
+     "best_views": 879764,
+     "best_title": "The Silent Schwinn Factory: How America’s Bicycle Empire Faded Away",
+     "best_id": "eA2YEFxYm5U"
+    },
+    {
+     "id": "UCtxx83Wycp5ID4nJLQ7fliw",
+     "title": "Industrial Legacy ",
+     "subs": 4640,
+     "age_days": 315,
+     "videos": 1,
+     "best_views": 644320,
+     "best_title": "Inside the Camel Factory That Once Employed an Entire City",
+     "best_id": "0phJhjvKlXQ"
+    },
+    {
+     "id": "UCkWVA1_vkY9GLyuLAre97AQ",
+     "title": "The Hustle ",
+     "subs": 318000,
+     "age_days": 1690,
+     "videos": 1,
+     "best_views": 600921,
+     "best_title": "He (Accidentally) Built the Amazon of Manufacturing",
+     "best_id": "bE9QiASLFsQ"
+    }
+   ]
+  },
+  {
    "channel_id": "UCQHcBfndTd_4-vtrF0zMigQ",
    "channel_title": "Stoic Club",
    "channel_created": "2026-10-06",
@@ -1169,6 +1556,264 @@
      "best_views": 250160,
      "best_title": "STOP Explaining Yourself: 10 Stoic Phrases That Instantly Set Boundaries | Stoicism",
      "best_id": "Qu5Ri07NyI0"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC_mA-D4ZzYUAVaFSRfXd4Fw",
+   "channel_title": "Fragile Luxury",
+   "channel_created": "2026-09-08",
+   "channel_age_days": 49,
+   "subs": 2750,
+   "found_at": "2026-10-28T01:00:06Z",
+   "validated_at": "2026-10-30T01:01:25Z",
+   "niche": "San Francisco’s $100M Millennium Tower Is Tilting Faster — Even After a $100M Fix",
+   "path": [],
+   "queries": [
+    "climate risk",
+    "sea level rise",
+    "homes won 100m"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "9cnT-b6fF5Y",
+    "title": "Nantucket’s $38M Oceanfront Is Being Swallowed by the Sea — And the Town Voted Not to Save It",
+    "views": 117121
+   },
+   "ratio": 42.6,
+   "channel_stats": {
+    "videos": 27,
+    "median_views": 667,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 42,
+    "n_channels": 36,
+    "max_subs": 44700000,
+    "median_subs": 6930,
+    "big_channels": 12,
+    "top_views": 1276842,
+    "demand_videos": 8,
+    "demand_channels": 6,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 36, лимит 30",
+    "Есть канал с 44 700 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 322,
+   "competitors": [
+    {
+     "id": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+     "title": "PBS Terra",
+     "subs": 1050000,
+     "age_days": 2498,
+     "videos": 3,
+     "best_views": 1276842,
+     "best_title": "This Is How the World Ends According to Science",
+     "best_id": "wugkIxGKzx8"
+    },
+    {
+     "id": "UCr5QBsuI1UN47rZEo9Ffq_g",
+     "title": "Data Kong",
+     "subs": 31700,
+     "age_days": 668,
+     "videos": 1,
+     "best_views": 242273,
+     "best_title": "If sea level rises over 65 meters, which places will be flooded? (Remake)",
+     "best_id": "FUQxWbkx3mo"
+    },
+    {
+     "id": "UCUlrtYWb3HRTKKLdZ1RBznA",
+     "title": "Dan woolley",
+     "subs": 1780000,
+     "age_days": 4287,
+     "videos": 1,
+     "best_views": 154098,
+     "best_title": "If Sea Levels Rise Will Your Country Survive?",
+     "best_id": "URhPXf6-EGw"
+    },
+    {
+     "id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+     "title": "ABC News",
+     "subs": 19900000,
+     "age_days": 7388,
+     "videos": 1,
+     "best_views": 109090,
+     "best_title": "Was science wrong about sea level rise?",
+     "best_id": "WLWkTbGJ8tk"
+    },
+    {
+     "id": "UCqpRp9uyN5ZhuQhu7wwYhoQ",
+     "title": "The World, The Universe And Us",
+     "subs": 24300,
+     "age_days": 258,
+     "videos": 1,
+     "best_views": 107600,
+     "best_title": "Scientists Concerned By a Sudden Increase in the Rate of Sea Level Rise",
+     "best_id": "PAcOqAsJEOo"
+    },
+    {
+     "id": "UC8JT2m0mKEgvEtie3JNKwew",
+     "title": "Naked Science",
+     "subs": 1760000,
+     "age_days": 6211,
+     "videos": 1,
+     "best_views": 106420,
+     "best_title": "Will Rising Sea Levels Destroy Our Planet? | FULL DOCUMENTARY",
+     "best_id": "3hn87OYOE3I"
+    },
+    {
+     "id": "UCVgO39Bk5sMo66-6o6Spn6Q",
+     "title": "ABC News (Australia)",
+     "subs": 2630000,
+     "age_days": 6716,
+     "videos": 1,
+     "best_views": 43296,
+     "best_title": "Coastal property owners warned insurance will not cover rising sea level damage | ABC NEWS",
+     "best_id": "rRFEjq7dpTQ"
+    },
+    {
+     "id": "UCz1VcqyecCsNVIc-6jKZmfw",
+     "title": "Let's Climunicate",
+     "subs": 22200,
+     "age_days": 883,
+     "videos": 1,
+     "best_views": 34059,
+     "best_title": "Climate Risk and YOUR Insurance, WHAT CHANGED ?",
+     "best_id": "4aYI8hohYbs"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC8agTrUkdvwma6cYk9mBd8A",
+   "channel_title": "Last Grill",
+   "channel_created": "2026-09-01",
+   "channel_age_days": 58,
+   "subs": 763,
+   "found_at": "2026-10-30T01:00:11Z",
+   "validated_at": "2026-10-30T01:00:57Z",
+   "niche": "The Story of Kingsford: How Henry Ford Turned Factory Waste Into America’s Charcoal Empire",
+   "path": [],
+   "queries": [
+    "grill america bbq",
+    "kingsford henry ford turned",
+    "weber million mistake changed"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "nH5aHpwfJCE",
+    "title": "The Story of Kingsford: How Henry Ford Turned Factory Waste Into America’s Charcoal Empire",
+    "views": 145704
+   },
+   "ratio": 191.0,
+   "channel_stats": {
+    "videos": 13,
+    "median_views": 412,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 24,
+    "n_channels": 22,
+    "max_subs": 12000000,
+    "median_subs": 63700,
+    "big_channels": 10,
+    "top_views": 2256374,
+    "demand_videos": 8,
+    "demand_channels": 7,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 12 000 000 подписчиков",
+    "Медиана подписчиков 63 700 выше лимита"
+   ],
+   "notes": [],
+   "score": 157,
+   "competitors": [
+    {
+     "id": "UCyEd6QBSgat5kkC6svyjudA",
+     "title": "Mark Wiens",
+     "subs": 12000000,
+     "age_days": 6478,
+     "videos": 1,
+     "best_views": 2256374,
+     "best_title": "I Tried the Best Texas BBQ in Houston!! (Criminally Underrated)",
+     "best_id": "3n227UzYczY"
+    },
+    {
+     "id": "UC0NBsFubVfkZNnj37i-8dBA",
+     "title": "Gary Eats ",
+     "subs": 544000,
+     "age_days": 1192,
+     "videos": 1,
+     "best_views": 1902214,
+     "best_title": "The Most Expensive BBQ In America! 4 Hour Queues!",
+     "best_id": "pSDWDAKUD20"
+    },
+    {
+     "id": "UCOgGAfSUy5LvEyVS_LF5kdw",
+     "title": "JOLLY",
+     "subs": 5460000,
+     "age_days": 4040,
+     "videos": 2,
+     "best_views": 1776969,
+     "best_title": "British Chefs try Southern BBQ for the first time! (ft. Fallow)",
+     "best_id": "DPtaE7tQeqA"
+    },
+    {
+     "id": "UCnB5HTIi44wDBD56KeT2hNA",
+     "title": "Guga",
+     "subs": 3510000,
+     "age_days": 1673,
+     "videos": 1,
+     "best_views": 712408,
+     "best_title": "Is Texas BBQ Really Better Than Street Food?",
+     "best_id": "dCacYV84UKQ"
+    },
+    {
+     "id": "UC8agTrUkdvwma6cYk9mBd8A",
+     "title": "Last Grill",
+     "subs": 763,
+     "age_days": 58,
+     "videos": 2,
+     "best_views": 145704,
+     "best_title": "The Story of Kingsford: How Henry Ford Turned Factory Waste Into America’s Charcoal Empire",
+     "best_id": "nH5aHpwfJCE"
+    },
+    {
+     "id": "UCPQErRghCrtrbWOYiJA3okw",
+     "title": "PBS Food",
+     "subs": 307000,
+     "age_days": 5444,
+     "videos": 1,
+     "best_views": 76684,
+     "best_title": "Where Did American BBQ Really Come From?",
+     "best_id": "CUCjnvBf1vA"
+    },
+    {
+     "id": "UCasNWnlLD7SwoUTYsOfrWmA",
+     "title": "More Adam Couser",
+     "subs": 356000,
+     "age_days": 2639,
+     "videos": 1,
+     "best_views": 67992,
+     "best_title": "Brits First Time trying REAL American BBQ Food at \"Road Kill Grill\"",
+     "best_id": "U5Hk0zrSzK4"
+    },
+    {
+     "id": "UCrtvRaGLiPPWm0QNbRg0T6A",
+     "title": "Consumer Betterment",
+     "subs": 57800,
+     "age_days": 1112,
+     "videos": 1,
+     "best_views": 49928,
+     "best_title": "7 Best Gas Grills For Barbecues In 2026",
+     "best_id": "4u_GvGyyTD0"
     }
    ]
   },
@@ -1427,6 +2072,264 @@
      "best_views": 133802,
      "best_title": "15 GENIUS British Car Features Ahead of Their Time",
      "best_id": "Z-k8AXLZ__k"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC-EIqCOQk1DUZj7HkZWQulA",
+   "channel_title": "Tehreer",
+   "channel_created": "2026-09-12",
+   "channel_age_days": 45,
+   "subs": 1680,
+   "found_at": "2026-10-28T01:00:28Z",
+   "validated_at": "2026-10-30T01:01:20Z",
+   "niche": "रूस का सम्पूर्ण इतिहास | The Entire History of RUSSIA | Full Documentary",
+   "path": [],
+   "queries": [
+    "history entire complete",
+    "entire history russia",
+    "entire history turkey"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "N_9kvbBFnlY",
+    "title": "सऊदी अरब का सम्पूर्ण इतिहास | The Entire History of SAUDI ARABIA | Full Documentary",
+    "views": 73511
+   },
+   "ratio": 43.8,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 15321,
+    "hits": 6
+   },
+   "market": {
+    "n_videos": 123,
+    "n_channels": 110,
+    "max_subs": 15500000,
+    "median_subs": 1720,
+    "big_channels": 24,
+    "top_views": 2055850,
+    "demand_videos": 57,
+    "demand_channels": 45,
+    "young_hits": 5
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 110, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 138,
+   "competitors": [
+    {
+     "id": "UCQupRtdcuvpMMJ3Mp6SXI-A",
+     "title": "The Understory",
+     "subs": 47300,
+     "age_days": 184,
+     "videos": 2,
+     "best_views": 2055850,
+     "best_title": "The Complete History of Dune (Frank Herbert's Books Only)",
+     "best_id": "5g4hHH8z5cI"
+    },
+    {
+     "id": "UCLuIudjbquBATgqkIJxQi6A",
+     "title": "Animated History ",
+     "subs": 99400,
+     "age_days": 389,
+     "videos": 1,
+     "best_views": 1249326,
+     "best_title": "1500 Years of Russian History in 27 Minutes",
+     "best_id": "pBJpDpMqigw"
+    },
+    {
+     "id": "UCiMIeIhx3a-F1In-PQuRO7g",
+     "title": "MrRhexx",
+     "subs": 841000,
+     "age_days": 5497,
+     "videos": 1,
+     "best_views": 1249313,
+     "best_title": "The Complete History of the Forgotten Realms - D&D",
+     "best_id": "6jVXtm-QTlA"
+    },
+    {
+     "id": "UCQIALZmFX6TaaZomCDSC8bg",
+     "title": "History Timelines",
+     "subs": 18000,
+     "age_days": 2313,
+     "videos": 1,
+     "best_views": 1182219,
+     "best_title": "Timeline of Russian Rulers (862–2025)",
+     "best_id": "n3CNvBv5oCQ"
+    },
+    {
+     "id": "UCUYK0BJZF3yNb2fw1EdAXUQ",
+     "title": "The Rest Is History",
+     "subs": 604000,
+     "age_days": 1651,
+     "videos": 2,
+     "best_views": 1174202,
+     "best_title": "The Complete History of The Beatles With Conan O'Brien",
+     "best_id": "k9sinuL10M8"
+    },
+    {
+     "id": "UC_338PMI9UqDGbuz45SEWEA",
+     "title": "Bookstawa",
+     "subs": 901000,
+     "age_days": 6164,
+     "videos": 2,
+     "best_views": 1062398,
+     "best_title": "COMPLETE - Modern History in 13 Hours for UPSC by Bookstawa",
+     "best_id": "2LaAsCWiaik"
+    },
+    {
+     "id": "UCtLMkoJe2JPtrtxA-KfrdDw",
+     "title": "WinterWatch",
+     "subs": 20100,
+     "age_days": 496,
+     "videos": 1,
+     "best_views": 650195,
+     "best_title": "The COMPLETE History of Game Of Thrones",
+     "best_id": "WM7rffns03Q"
+    },
+    {
+     "id": "UCO01ytfzgXYy4glnPJm4PPQ",
+     "title": "Matt Walsh",
+     "subs": 3470000,
+     "age_days": 5399,
+     "videos": 1,
+     "best_views": 573434,
+     "best_title": "The Banned History Of The Russian Revolution",
+     "best_id": "I5Y5wrxrenw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCf5z9xMsxU-kYg7qOxPJpmQ",
+   "channel_title": "Stoic Secret",
+   "channel_created": "2026-09-02",
+   "channel_age_days": 56,
+   "subs": 2540,
+   "found_at": "2026-10-29T01:00:37Z",
+   "validated_at": "2026-10-30T01:01:36Z",
+   "niche": "10 Stoic Lessons to Become Emotionally Untouchable |Stoicism Philosophy",
+   "path": [],
+   "queries": [
+    "stoic philosophy",
+    "marcus aurelius",
+    "stoicism stoic philosophy"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "jbj29nc6KHs",
+    "title": "10 Stoic Lessons to Become Emotionally Untouchable |Stoicism Philosophy",
+    "views": 96659
+   },
+   "ratio": 38.1,
+   "channel_stats": {
+    "videos": 25,
+    "median_views": 3430,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 75,
+    "n_channels": 29,
+    "max_subs": 9060000,
+    "median_subs": 54500,
+    "big_channels": 11,
+    "top_views": 1442986,
+    "demand_videos": 40,
+    "demand_channels": 24,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 9 060 000 подписчиков",
+    "Медиана подписчиков 54 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 110,
+   "competitors": [
+    {
+     "id": "UCFmGjqbrbAkspMBRJiGxmMw",
+     "title": "Stoic Directions",
+     "subs": 147000,
+     "age_days": 1127,
+     "videos": 6,
+     "best_views": 1442986,
+     "best_title": "MORNING STOICISM (LISTEN EVERY DAY) - Wake Up Early, Start Your Day Right | STOICISM",
+     "best_id": "4b8rMITRiVo"
+    },
+    {
+     "id": "UCvQECJukTDE2i6aCoMnS-Vg",
+     "title": "Big Think",
+     "subs": 9060000,
+     "age_days": 7333,
+     "videos": 1,
+     "best_views": 478151,
+     "best_title": "Stoicism for people who don’t want self-help | Massimo Pigliucci: Full Interview",
+     "best_id": "iPQhrnwhySs"
+    },
+    {
+     "id": "UC4fPXccaIXAVnKCE3_4wpnA",
+     "title": "Stoic Lens ",
+     "subs": 61800,
+     "age_days": 353,
+     "videos": 1,
+     "best_views": 464794,
+     "best_title": "13 Stoic Lessons by Marcus Aurelius That Will Change Your Life | Stay Calm & Mentally Strong",
+     "best_id": "sHBpx3zGGOY"
+    },
+    {
+     "id": "UCkUaT0T03TJvafYkfATM2Ag",
+     "title": "Daily Stoic",
+     "subs": 2070000,
+     "age_days": 3913,
+     "videos": 3,
+     "best_views": 457688,
+     "best_title": "31 of the absolute BEST lessons from Marcus Aurelius",
+     "best_id": "0o8nr62zjCk"
+    },
+    {
+     "id": "UChwJVmMTiEnsbtky062aQSg",
+     "title": "Stoic Power Hub",
+     "subs": 18500,
+     "age_days": 267,
+     "videos": 17,
+     "best_views": 419034,
+     "best_title": "10 Stoic Lessons That Will Make You Mentally Strong and Unshakable | Stoicism Philosophy ",
+     "best_id": "_9bMoH6KzGk"
+    },
+    {
+     "id": "UC-gdon1T5zHxgrMoTJid6Mw",
+     "title": "Tagalog Stoic Wisdom",
+     "subs": 112000,
+     "age_days": 641,
+     "videos": 1,
+     "best_views": 377406,
+     "best_title": "10 Stoic Lessons para Maging Mentally Strong at Emotionally Untouchable | Stoicism",
+     "best_id": "nsfjl2PKUmI"
+    },
+    {
+     "id": "UCwAHJVo8UiYz1zXM4qABAqg",
+     "title": "Stoic Quiet",
+     "subs": 7980,
+     "age_days": 156,
+     "videos": 1,
+     "best_views": 298314,
+     "best_title": "Stoicism for Women | 12 Ancient Lessons to Transform Your Life",
+     "best_id": "cV9TQvKPC-c"
+    },
+    {
+     "id": "UC5Jnt7OgEHro3W7kr-jjCrw",
+     "title": "Big Think Clips",
+     "subs": 346000,
+     "age_days": 329,
+     "videos": 1,
+     "best_views": 294091,
+     "best_title": "5 Stoic lessons to become your best self in 2026 | Massimo Pigliucci",
+     "best_id": "4EmuBcIlWBs"
     }
    ]
   },
@@ -2464,6 +3367,394 @@
    ]
   },
   {
+   "channel_id": "UCgOTgrYmmU72dpqaJo_EUDg",
+   "channel_title": "Townic",
+   "channel_created": "2026-09-15",
+   "channel_age_days": 44,
+   "subs": 325,
+   "found_at": "2026-10-30T01:00:17Z",
+   "validated_at": "2026-10-30T01:00:51Z",
+   "niche": "13 Ancient Structures Across Arizona No One Can Explain",
+   "path": [],
+   "queries": [
+    "arizona history",
+    "lost civilizations",
+    "arizona ancient structures"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "lB1FdENqJ30",
+    "title": "13 Ancient Structures Across Arizona No One Can Explain",
+    "views": 64928
+   },
+   "ratio": 199.8,
+   "channel_stats": {
+    "videos": 11,
+    "median_views": 724,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 99,
+    "n_channels": 69,
+    "max_subs": 25800000,
+    "median_subs": 15800,
+    "big_channels": 27,
+    "top_views": 11361589,
+    "demand_videos": 40,
+    "demand_channels": 31,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 69, лимит 30",
+    "Есть канал с 25 800 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 63,
+   "competitors": [
+    {
+     "id": "UCsXVk37bltHxD1rDPwtNM8Q",
+     "title": "Kurzgesagt – In a Nutshell",
+     "subs": 25800000,
+     "age_days": 4860,
+     "videos": 1,
+     "best_views": 11361589,
+     "best_title": "We Finally Know More About Humanity’s First Civilization",
+     "best_id": "_y9JuojAIg0"
+    },
+    {
+     "id": "UCcOQFuXnvDuIac2u2DKB7rA",
+     "title": "Josh the Intern",
+     "subs": 980000,
+     "age_days": 4199,
+     "videos": 1,
+     "best_views": 1721234,
+     "best_title": "This Forgotten Civilization Could Break History",
+     "best_id": "ZX92pRVCeFI"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7368,
+     "videos": 4,
+     "best_views": 1433740,
+     "best_title": "Lost Technologies of Ancient Civilizations | Ancient Aliens",
+     "best_id": "gPZKTfRYRjo"
+    },
+    {
+     "id": "UCT6Y5JJPKe_JDMivpKgVXew",
+     "title": "Fall of Civilizations",
+     "subs": 1520000,
+     "age_days": 2839,
+     "videos": 1,
+     "best_views": 1213319,
+     "best_title": "20. Persia - An Empire in Ashes",
+     "best_id": "CAsKpXoxZAQ"
+    },
+    {
+     "id": "UC6uGYezl7-dtRlaXohwo5ew",
+     "title": "Sleepy Time Historian",
+     "subs": 175000,
+     "age_days": 990,
+     "videos": 3,
+     "best_views": 1095864,
+     "best_title": "The Missing 100,000 Years: What Humans Did BEFORE Civilization | History for Sleep",
+     "best_id": "FEe4kEP2SqA"
+    },
+    {
+     "id": "UC5PstSsGrRwj2o6asQpC4Rg",
+     "title": "FLAGRANT",
+     "subs": 2000000,
+     "age_days": 2669,
+     "videos": 1,
+     "best_views": 865335,
+     "best_title": "Lost Civilizations of the Amazon, Why They Burned Alexandria, & What Atlantis Really Is | #698",
+     "best_id": "P4X3zVCmmew"
+    },
+    {
+     "id": "UCxAt0KkZZUxgG3yxl-WDM2A",
+     "title": "Secret Origins",
+     "subs": 681000,
+     "age_days": 1483,
+     "videos": 3,
+     "best_views": 761054,
+     "best_title": "The Lost Civilization Beneath the Oceans: What Was Erased 50,000 Years Ago",
+     "best_id": "yP7TXB7wIdY"
+    },
+    {
+     "id": "UCmOCpBKeoBPp-HwarhIBA2g",
+     "title": "Best Documentary",
+     "subs": 8430000,
+     "age_days": 3831,
+     "videos": 1,
+     "best_views": 452072,
+     "best_title": "Lost Civilizations: Forgotten Cities in Jordan",
+     "best_id": "JzFcpA_dvWE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCDPxdAVAtq7E_6Z-qm68d8w",
+   "channel_title": "మన ధన సూత్రం | Mana Dhana Sutram",
+   "channel_created": "2026-09-14",
+   "channel_age_days": 45,
+   "subs": 6580,
+   "found_at": "2026-10-30T01:00:13Z",
+   "validated_at": "2026-10-30T01:01:08Z",
+   "niche": "మీరు లేకపోయినా నడిచే 10 BUSINESS లు?  | Job చేస్తున్నవాళ్ల కోసం?| Telugu Finance | Mana Dhana Sutram",
+   "path": [],
+   "queries": [
+    "mana dhana sutram",
+    "telugu finance",
+    "sutram dhana mana"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "FdobysLvx1U",
+    "title": "మీరు లేకపోయినా నడిచే 10 BUSINESS లు?  | Job చేస్తున్నవాళ్ల కోసం?| Telugu Finance | Mana Dhana Sutram",
+    "views": 393830
+   },
+   "ratio": 59.9,
+   "channel_stats": {
+    "videos": 22,
+    "median_views": 16095,
+    "hits": 6
+   },
+   "market": {
+    "n_videos": 59,
+    "n_channels": 13,
+    "max_subs": 5560000,
+    "median_subs": 142000,
+    "big_channels": 7,
+    "top_views": 393830,
+    "demand_videos": 20,
+    "demand_channels": 8,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 5 560 000 подписчиков",
+    "Медиана подписчиков 142 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 59,
+   "competitors": [
+    {
+     "id": "UCDPxdAVAtq7E_6Z-qm68d8w",
+     "title": "మన ధన సూత్రం | Mana Dhana Sutram",
+     "subs": 6580,
+     "age_days": 45,
+     "videos": 22,
+     "best_views": 393830,
+     "best_title": "మీరు లేకపోయినా నడిచే 10 BUSINESS లు?  | Job చేస్తున్నవాళ్ల కోసం?| Telugu Finance | Mana Dhana Sutram",
+     "best_id": "FdobysLvx1U"
+    },
+    {
+     "id": "UChiofp_leIyBYw6LESTjeJQ",
+     "title": "Telugu Assets",
+     "subs": 449000,
+     "age_days": 2375,
+     "videos": 9,
+     "best_views": 339447,
+     "best_title": "Smart Debt Blueprint | Loans Can Make You Rich or Poor! 10 Rules of Smart Borrowing",
+     "best_id": "n5aLodVnpJI"
+    },
+    {
+     "id": "UCeEP6GESh2t4-e2132uj3Sg",
+     "title": "DAY TRADER తెలుగు",
+     "subs": 2710000,
+     "age_days": 2909,
+     "videos": 3,
+     "best_views": 284845,
+     "best_title": "Complete Financial Planning in Telugu",
+     "best_id": "0B8wJ3nY8AY"
+    },
+    {
+     "id": "UCQ2A6LCgzkgS0rxO3q_2FQQ",
+     "title": "SumanTV Finance",
+     "subs": 286000,
+     "age_days": 2168,
+     "videos": 11,
+     "best_views": 212894,
+     "best_title": "Revanth Chalamala - Best Financial Lesson for Middle Class | Telugu Finance podcast | SumanTV Lasya",
+     "best_id": "lmvEnmsnrKs"
+    },
+    {
+     "id": "UCKmn_4m22nDfvtWidauSMyw",
+     "title": "Smart Money Mindset -Telugu",
+     "subs": 142000,
+     "age_days": 2591,
+     "videos": 3,
+     "best_views": 194230,
+     "best_title": "How to Become RICH With Low Salary | Complete Financial Planning Guide",
+     "best_id": "uyIWHGi6y9o"
+    },
+    {
+     "id": "UCzaRorDlS1gd6EROE-xGm-Q",
+     "title": "Boss Wallah (Telugu)",
+     "subs": 5560000,
+     "age_days": 2745,
+     "videos": 3,
+     "best_views": 156009,
+     "best_title": "Financial Planning For 2026 In Telugu - 6  practical wealth management tips for 2026| Kowshik Maridi",
+     "best_id": "e9VrmXiFcX4"
+    },
+    {
+     "id": "UCC4lTWoN48kO-ZalhS_gfdA",
+     "title": "iDream Money Purse",
+     "subs": 65100,
+     "age_days": 942,
+     "videos": 1,
+     "best_views": 91352,
+     "best_title": "Middle Class వాల్ల కోసం Best Investment Plans 2026 💰 | Ram Prasad Financial Tips | iDream",
+     "best_id": "KGS6Ugd0C1E"
+    },
+    {
+     "id": "UCqA2ZPcBYbWqmKU3iFX2KwA",
+     "title": "Street Byte",
+     "subs": 1290000,
+     "age_days": 4318,
+     "videos": 1,
+     "best_views": 76204,
+     "best_title": "Mutual Funds | SIP | Fixed Deposit  | SWP | Financial Podcast | Street Byte | Silly Monks",
+     "best_id": "GXWKmK8iw2M"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCcrr5mYPfB5E30mOvPdsk3g",
+   "channel_title": "Stoic Force",
+   "channel_created": "2026-09-06",
+   "channel_age_days": 52,
+   "subs": 1850,
+   "found_at": "2026-10-29T01:00:37Z",
+   "validated_at": "2026-10-30T01:01:31Z",
+   "niche": "Stoicism for Women: 12 Ancient Lessons Every Woman Needs to Transform Her Life",
+   "path": [],
+   "queries": [
+    "marcus aurelius",
+    "personal growth",
+    "stoicism yourself become"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "mhe5as76GnU",
+    "title": "Stoicism for Women: 12 Ancient Lessons Every Woman Needs to Transform Her Life",
+    "views": 72590
+   },
+   "ratio": 39.2,
+   "channel_stats": {
+    "videos": 24,
+    "median_views": 5883,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 75,
+    "n_channels": 45,
+    "max_subs": 44700000,
+    "median_subs": 54500,
+    "big_channels": 17,
+    "top_views": 2486967,
+    "demand_videos": 48,
+    "demand_channels": 30,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 45, лимит 30",
+    "Есть канал с 44 700 000 подписчиков",
+    "Медиана подписчиков 54 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 52,
+   "competitors": [
+    {
+     "id": "UC2r0MaYV4ni7rilxvcjZ-mg",
+     "title": "Jim Rohn Real Seminars",
+     "subs": 156000,
+     "age_days": 380,
+     "videos": 7,
+     "best_views": 2486967,
+     "best_title": "How to Fix Your Entire Life in 1 Day (Jim Rohn Seminar)",
+     "best_id": "32KUrAdSrgo"
+    },
+    {
+     "id": "UCxA3ya0zJZbadABlr2AG4UA",
+     "title": "Desi Philosopher",
+     "subs": 335000,
+     "age_days": 1828,
+     "videos": 1,
+     "best_views": 1207031,
+     "best_title": "Marcus Aurelius 2hrs Of No ADs Philosophy",
+     "best_id": "VB7F0RPFR5k"
+    },
+    {
+     "id": "UCkWNtZoFf2uiXgTj2jyQ64A",
+     "title": "Rohnspired",
+     "subs": 32100,
+     "age_days": 169,
+     "videos": 1,
+     "best_views": 977992,
+     "best_title": "Walk Alone, Build Yourself! | Powerful Motivational Jim Rohn | Discipline, Self Growth & Success",
+     "best_id": "wL_83jevT4A"
+    },
+    {
+     "id": "UCFmGjqbrbAkspMBRJiGxmMw",
+     "title": "Stoic Directions",
+     "subs": 147000,
+     "age_days": 1127,
+     "videos": 6,
+     "best_views": 862748,
+     "best_title": "10 Stoic Rules That’ll Will Manifest Everything You Want - EVERYTHING WILL COME TO YOU | STOICISM",
+     "best_id": "GaUExqfivQA"
+    },
+    {
+     "id": "UCycre4hdhul0-PnkUD-J8fA",
+     "title": "AudioBook Rise",
+     "subs": 95500,
+     "age_days": 351,
+     "videos": 3,
+     "best_views": 702618,
+     "best_title": "Give Yourself  90 days to Change Everything | Best Audiobooks",
+     "best_id": "NMHETVJDP48"
+    },
+    {
+     "id": "UCxb9rPaXCXilvN-eMEh9d5g",
+     "title": "the Stoic Mode.",
+     "subs": 177000,
+     "age_days": 1385,
+     "videos": 3,
+     "best_views": 644556,
+     "best_title": "Focus on Yourself and Stay Silent | Stoicism Philosophy",
+     "best_id": "6aUlj-dp3h8"
+    },
+    {
+     "id": "UCN-UBTpkhK3QrlYaeNnbfuw",
+     "title": "Inspire Story",
+     "subs": 42700,
+     "age_days": 401,
+     "videos": 1,
+     "best_views": 488739,
+     "best_title": "How to Improve Yourself 1% Every Day in 2026 | Denzel Washington",
+     "best_id": "ojbxC2I2hDQ"
+    },
+    {
+     "id": "UC4fPXccaIXAVnKCE3_4wpnA",
+     "title": "Stoic Lens ",
+     "subs": 61800,
+     "age_days": 353,
+     "videos": 2,
+     "best_views": 464794,
+     "best_title": "13 Stoic Lessons by Marcus Aurelius That Will Change Your Life | Stay Calm & Mentally Strong",
+     "best_id": "sHBpx3zGGOY"
+    }
+   ]
+  },
+  {
    "channel_id": "UCJ8tXS258N8bLpiOox5zr2A",
    "channel_title": "WW2 Storyteller",
    "channel_created": "2026-09-18",
@@ -3372,6 +4663,136 @@
    ]
   },
   {
+   "channel_id": "UCoZEncvPKBa4aXzeY-2Feow",
+   "channel_title": "Nature Decoded Lab",
+   "channel_created": "2026-09-01",
+   "channel_age_days": 56,
+   "subs": 4700,
+   "found_at": "2026-10-28T01:00:06Z",
+   "validated_at": "2026-10-30T01:01:48Z",
+   "niche": "NEPAL–TIBET में प्रकृति का कहर! हिमालय फिर क्यों टूटा?",
+   "path": [],
+   "queries": [
+    "hindi documentary",
+    "natural disasters",
+    "disaster tsunami cyclone"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Nf-OeGC8mjw",
+    "title": "सिर्फ 1 बांध नहीं, 62 Dams तबाह | 1975 Banqiao Disaster का पूरा सच",
+    "views": 102447
+   },
+   "ratio": 21.8,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 39737,
+    "hits": 5
+   },
+   "market": {
+    "n_videos": 83,
+    "n_channels": 64,
+    "max_subs": 45800000,
+    "median_subs": 92800,
+    "big_channels": 32,
+    "top_views": 32139523,
+    "demand_videos": 69,
+    "demand_channels": 53,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 64, лимит 30",
+    "Есть канал с 45 800 000 подписчиков",
+    "Медиана подписчиков 92 800 выше лимита"
+   ],
+   "notes": [],
+   "score": 12,
+   "competitors": [
+    {
+     "id": "UCkYVerz4P_kAZNbDdg2SAeg",
+     "title": "TerraGreen",
+     "subs": 4620000,
+     "age_days": 1135,
+     "videos": 1,
+     "best_views": 32139523,
+     "best_title": "1,000 Ants vs. Natural Disasters",
+     "best_id": "x1O5HNNyFTY"
+    },
+    {
+     "id": "UCx790OVgpTC1UVBQIqu3gnQ",
+     "title": "★ Kids Roma Show",
+     "subs": 45800000,
+     "age_days": 4188,
+     "videos": 1,
+     "best_views": 4262523,
+     "best_title": "Adam and Mom Learn Natural Disaster Safety for Kids",
+     "best_id": "onrHWTCXnCY"
+    },
+    {
+     "id": "UCLe1rvgvvNh-DbGM2y0ekEw",
+     "title": "𝗨𝗻𝗸𝗻𝗼𝘄𝗻 𝗜𝘁𝗶𝗵𝗮𝗮𝘀",
+     "subs": 39200,
+     "age_days": 160,
+     "videos": 1,
+     "best_views": 2296858,
+     "best_title": "1947: किसी को आज़ादी मिली, किसी को मौत | भारत के बँटवारे की पूरी कहानी | Full Documentary",
+     "best_id": "IyBEtYQW6lo"
+    },
+    {
+     "id": "UCsv8nQFOUrfrdk0BU3ecKqw",
+     "title": "OLIVER SHOW",
+     "subs": 2700000,
+     "age_days": 1884,
+     "videos": 1,
+     "best_views": 2185408,
+     "best_title": "STAY SAFE! 🏠🌪️ Natural Disaster Rules with Adam and Mom",
+     "best_id": "-znPckoA3k8"
+    },
+    {
+     "id": "UCkG49maW4sr4pfxYmz9Jj0g",
+     "title": "Flashback Frenzy",
+     "subs": 26700,
+     "age_days": 383,
+     "videos": 2,
+     "best_views": 1842649,
+     "best_title": "The ENTIRE History of Alexander's Conquest (Hindi Documentary)",
+     "best_id": "sN9WCeBeaPA"
+    },
+    {
+     "id": "UCDPk9MG2RexnOMGTD-YnSnA",
+     "title": "Nat Geo Animals",
+     "subs": 6530000,
+     "age_days": 6975,
+     "videos": 1,
+     "best_views": 1669385,
+     "best_title": "Exploring a Potential East Coast Tsunami (Full Episode) | X-Ray Earth | Nat Geo Animals",
+     "best_id": "2tMCrutzckE"
+    },
+    {
+     "id": "UCLWhUPF668K0jWTrMw-DpJg",
+     "title": "The WillPower Star",
+     "subs": 2880000,
+     "age_days": 3443,
+     "videos": 2,
+     "best_views": 1579815,
+     "best_title": "How Simpsons Predict the Future ? |  Full Documentary in Hindi",
+     "best_id": "UVtrHgRCT08"
+    },
+    {
+     "id": "UCXoi9MAKmS_T4Z6UUDGS-Ug",
+     "title": "Nature Tabaahi",
+     "subs": 27300,
+     "age_days": 77,
+     "videos": 1,
+     "best_views": 1550316,
+     "best_title": "100 फीट ऊंची लहर और 5 दिन की आग | 1755 Lisbon Mega Tsunami & Firestorm | Hindi Documentary",
+     "best_id": "QFGZUUtZkZA"
+    }
+   ]
+  },
+  {
    "channel_id": "UCS7W63SpRiX5NdNsGjDpMlA",
    "channel_title": "The War Economy",
    "channel_created": "2026-09-29",
@@ -3758,6 +5179,136 @@
      "best_views": 1976735,
      "best_title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
      "best_id": "rBBAuJS1Ux0"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC7Y35ZbInAFBgb0FIg2bA8w",
+   "channel_title": "SCENE REPORTS",
+   "channel_created": "2026-09-21",
+   "channel_age_days": 38,
+   "subs": 865,
+   "found_at": "2026-10-30T01:00:25Z",
+   "validated_at": "2026-10-30T01:00:46Z",
+   "niche": "Killer Thinks He Got Away With It — 40 Years Later, Police Knock",
+   "path": [],
+   "queries": [
+    "true crime documentary",
+    "true crime",
+    "killer murder thinks"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "eI81YE2zH5g",
+    "title": "Killer Thinks He Got Away With It — 40 Years Later, Police Knock",
+    "views": 436312
+   },
+   "ratio": 504.4,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 240,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 100,
+    "n_channels": 55,
+    "max_subs": 20700000,
+    "median_subs": 151000,
+    "big_channels": 31,
+    "top_views": 15671898,
+    "demand_videos": 80,
+    "demand_channels": 43,
+    "young_hits": 4
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 55, лимит 30",
+    "Есть канал с 20 700 000 подписчиков",
+    "Медиана подписчиков 151 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 9,
+   "competitors": [
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 115000,
+     "age_days": 246,
+     "videos": 3,
+     "best_views": 15671898,
+     "best_title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+     "best_id": "rJYy0pHZDxA"
+    },
+    {
+     "id": "UC0JJtK3m8pwy6rVgnBz47Rw",
+     "title": "Rotten Mango",
+     "subs": 6970000,
+     "age_days": 1359,
+     "videos": 1,
+     "best_views": 6071467,
+     "best_title": "Delusional Killer Targets Doctor Couple Thinking They’re In A Love Triangle",
+     "best_id": "Nn8eKF9KONo"
+    },
+    {
+     "id": "UCVXKabRhXSQXh_U0au5JSzQ",
+     "title": "EWU Crime Storytime",
+     "subs": 2390000,
+     "age_days": 1877,
+     "videos": 1,
+     "best_views": 3919622,
+     "best_title": "Neighbor Thinks He Got Away With Murder",
+     "best_id": "vNaYVSHC69k"
+    },
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2560000,
+     "age_days": 4885,
+     "videos": 8,
+     "best_views": 3536945,
+     "best_title": "What The Neighbors Saw | Full Episode",
+     "best_id": "x1LGC3c2-NQ"
+    },
+    {
+     "id": "UCzwCEE_PchiBULMnAJqhGVg",
+     "title": "Raj Shamani",
+     "subs": 20700000,
+     "age_days": 6335,
+     "videos": 1,
+     "best_views": 1938869,
+     "best_title": "Death Investigator: What Dead Bodies Reveal About Murder | Barbara Butcher | FO575 Raj Shamani",
+     "best_id": "lgBLqo8TwgE"
+    },
+    {
+     "id": "UCIvrrLDLHfGxgfc7CgIGUfg",
+     "title": "The Decoder",
+     "subs": 515000,
+     "age_days": 1647,
+     "videos": 1,
+     "best_views": 1341882,
+     "best_title": "Husband Hires a Private Detective Then His Wife and Her Coworker Are Found Dead",
+     "best_id": "0mjBPN23PCI"
+    },
+    {
+     "id": "UC1Ts1y5XprQQc8ZgNRRL9oQ",
+     "title": "Final Trace",
+     "subs": 5510,
+     "age_days": 351,
+     "videos": 1,
+     "best_views": 1208028,
+     "best_title": "Killer Priest Has No Idea He's Getting Arrested For Double Murder",
+     "best_id": "xyo1KStYAhs"
+    },
+    {
+     "id": "UCrD9iL5Lkzio-llw6dXDw_w",
+     "title": "Unreal True Crime",
+     "subs": 150000,
+     "age_days": 1340,
+     "videos": 9,
+     "best_views": 1131257,
+     "best_title": "CAUTION!!! This Case Made ME Question HUMANITY - True Crime Documentary",
+     "best_id": "sqUw44QIpiA"
     }
    ]
   },
