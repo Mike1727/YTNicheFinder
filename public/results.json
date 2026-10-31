@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T01:01:48Z",
+ "generated_at": "2026-10-31T01:01:22Z",
  "quota": {
-  "day": "2026-10-29",
-  "used": 5720,
+  "day": "2026-10-30",
+  "used": 2654,
   "budget": 9000
  },
  "pending": 0,
@@ -4274,6 +4274,136 @@
    ]
   },
   {
+   "channel_id": "UCu_IxBlCvVwHoJ05qj4rS3Q",
+   "channel_title": "Mr Red US ",
+   "channel_created": "2026-09-25",
+   "channel_age_days": 35,
+   "subs": 2750,
+   "found_at": "2026-10-31T01:00:23Z",
+   "validated_at": "2026-10-31T01:01:14Z",
+   "niche": "\"Friendly\" Mom Has No Idea a 21-Year-Old Bite Just Exposed Her and Her Cop Husband",
+   "path": [],
+   "queries": [
+    "true crime",
+    "true crime documentary",
+    "idea has killer"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "pmuLmNWD5z8",
+    "title": "\"Friendly\" Mom Has No Idea a 21-Year-Old Bite Just Exposed Her and Her Cop Husband",
+    "views": 471315
+   },
+   "ratio": 171.4,
+   "channel_stats": {
+    "videos": 13,
+    "median_views": 685,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 96,
+    "n_channels": 52,
+    "max_subs": 7730000,
+    "median_subs": 74650,
+    "big_channels": 25,
+    "top_views": 3555415,
+    "demand_videos": 74,
+    "demand_channels": 38,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 52, лимит 30",
+    "Есть канал с 7 730 000 подписчиков",
+    "Медиана подписчиков 74 650 выше лимита"
+   ],
+   "notes": [],
+   "score": 23,
+   "competitors": [
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2570000,
+     "age_days": 4886,
+     "videos": 4,
+     "best_views": 3555415,
+     "best_title": "What The Neighbors Saw | Full Episode",
+     "best_id": "x1LGC3c2-NQ"
+    },
+    {
+     "id": "UCbW-Cu6lcOrW3g5e2rdyLNw",
+     "title": "Beyond Evil Podcast",
+     "subs": 334000,
+     "age_days": 1391,
+     "videos": 1,
+     "best_views": 2937799,
+     "best_title": "Killer Roommate Has No Idea CCTV Caught Everything",
+     "best_id": "EyYH75mPL6I"
+    },
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 115000,
+     "age_days": 247,
+     "videos": 3,
+     "best_views": 2917866,
+     "best_title": "Killer Wife Has No Idea Police Found Her Husband's Body",
+     "best_id": "NaiyDTULub8"
+    },
+    {
+     "id": "UC5w9XTUkDCmAQ1BKC8tAh-A",
+     "title": "Red Thread Interrogations",
+     "subs": 431000,
+     "age_days": 1407,
+     "videos": 1,
+     "best_views": 2810460,
+     "best_title": "Mom Had No Idea Her 16-Year-Old Son Is A Killer",
+     "best_id": "hJw2t5qX-20"
+    },
+    {
+     "id": "UCvQanARUwscyWmaHArQFhiA",
+     "title": "Tangled Web Interrogations ",
+     "subs": 162000,
+     "age_days": 2309,
+     "videos": 2,
+     "best_views": 1548158,
+     "best_title": "Dumbest Killer Duo Has No Idea Their Victim Survived",
+     "best_id": "O_6Q4ZiUZ40"
+    },
+    {
+     "id": "UC08wrceRCWhajGG4udhETww",
+     "title": "Investigation Discovery",
+     "subs": 1850000,
+     "age_days": 6765,
+     "videos": 1,
+     "best_views": 1502181,
+     "best_title": "A Deadly Obsession | FULL EPISODE RECAP | Evil Lives Here | ID",
+     "best_id": "AtgWy8xrHm8"
+    },
+    {
+     "id": "UCgCq0mBLgnCxgymFXY4Mhiw",
+     "title": "Worst Cases",
+     "subs": 89800,
+     "age_days": 1439,
+     "videos": 1,
+     "best_views": 1458228,
+     "best_title": "Killer Has No Idea Police Are Watching Him Dispose Of The Body From A Helicopter",
+     "best_id": "KkKl3dlidx4"
+    },
+    {
+     "id": "UC1Ts1y5XprQQc8ZgNRRL9oQ",
+     "title": "Final Trace",
+     "subs": 5520,
+     "age_days": 352,
+     "videos": 1,
+     "best_views": 1211780,
+     "best_title": "Killer Priest Has No Idea He's Getting Arrested For Double Murder",
+     "best_id": "xyo1KStYAhs"
+    }
+   ]
+  },
+  {
    "channel_id": "UCzloLV6b2Qx8LYpNgcU_Vig",
    "channel_title": "Philophecy",
    "channel_created": "2026-08-30",
@@ -4789,6 +4919,136 @@
      "best_views": 1550316,
      "best_title": "100 फीट ऊंची लहर और 5 दिन की आग | 1755 Lisbon Mega Tsunami & Firestorm | Hindi Documentary",
      "best_id": "QFGZUUtZkZA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCwHMReRB03ujxh_RcIVaI9g",
+   "channel_title": "How They Lived",
+   "channel_created": "2026-09-28",
+   "channel_age_days": 32,
+   "subs": 1690,
+   "found_at": "2026-10-31T01:00:17Z",
+   "validated_at": "2026-10-31T01:01:22Z",
+   "niche": "What Was Family Life Like in Mughal Delhi (1650)",
+   "path": [],
+   "queries": [
+    "animated history",
+    "what was life like",
+    "life like family"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "zXjxEqKAFbg",
+    "title": "What Was Family Life Like in Mughal Delhi (1650)",
+    "views": 200965
+   },
+   "ratio": 118.9,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 1545,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 112,
+    "n_channels": 71,
+    "max_subs": 40400000,
+    "median_subs": 84000,
+    "big_channels": 31,
+    "top_views": 10237719,
+    "demand_videos": 79,
+    "demand_channels": 48,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 71, лимит 30",
+    "Есть канал с 40 400 000 подписчиков",
+    "Медиана подписчиков 84 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 12,
+   "competitors": [
+    {
+     "id": "UCoZd78hRUdxxsuGiABuHF_A",
+     "title": "Historically",
+     "subs": 1620000,
+     "age_days": 1332,
+     "videos": 2,
+     "best_views": 10237719,
+     "best_title": "The ENTIRE History of ROME [No AI]",
+     "best_id": "EHLI2WZUtXs"
+    },
+    {
+     "id": "UCXI2sj5kaCfMCkYcGk1m44A",
+     "title": "Serious History",
+     "subs": 861000,
+     "age_days": 1037,
+     "videos": 2,
+     "best_views": 7543077,
+     "best_title": "Extreme Vigilante Justice in History",
+     "best_id": "wSyqqTYqUKo"
+    },
+    {
+     "id": "UC5Hi0UkephOloKgZKLM9e-w",
+     "title": "The Anazala Family ",
+     "subs": 14300000,
+     "age_days": 2120,
+     "videos": 1,
+     "best_views": 6732511,
+     "best_title": "A Week in The Life Of The Anazala Family!",
+     "best_id": "C4S5TplIevo"
+    },
+    {
+     "id": "UCXmqR3oz1H_dvDc6nerTvgw",
+     "title": "The Power of the Word",
+     "subs": 974000,
+     "age_days": 975,
+     "videos": 1,
+     "best_views": 4838308,
+     "best_title": "The Life of Jesus Like You’ve Never Seen Before",
+     "best_id": "7PDABcZ_kVY"
+    },
+    {
+     "id": "UCvPXiKxH-eH9xq-80vpgmKQ",
+     "title": "Epic History",
+     "subs": 3200000,
+     "age_days": 4252,
+     "videos": 1,
+     "best_views": 4194979,
+     "best_title": "Alexander’s Speech That Crushed a Mutiny",
+     "best_id": "2Ih1ffiuwj0"
+    },
+    {
+     "id": "UCPD_ssNliyxReKVRkViacag",
+     "title": "Family Flicks",
+     "subs": 1050000,
+     "age_days": 1494,
+     "videos": 1,
+     "best_views": 4063440,
+     "best_title": "The Funniest Pet Antics | The Secret Life of Pets Movies | Family Flicks",
+     "best_id": "SxpbRo_Zhjw"
+    },
+    {
+     "id": "UCVnEvilFBSA4BRgP1xRJ92w",
+     "title": "Life As We GOmez",
+     "subs": 2110000,
+     "age_days": 2949,
+     "videos": 4,
+     "best_views": 3934092,
+     "best_title": "BEST Christmas Ever?! Gomez Family Christmas Morning Special 2025 | Life As We Gomez",
+     "best_id": "RGt63qtJO3s"
+    },
+    {
+     "id": "UCj5XYDEEJbUXoJugGkP4SZg",
+     "title": "It’s Nora",
+     "subs": 1270000,
+     "age_days": 2594,
+     "videos": 1,
+     "best_views": 3742218,
+     "best_title": "CHAOTIC Family Road Trip To COLORADO 🏔️ (EP 14) | Toca Life World 🌍",
+     "best_id": "74GlVlWjlbU"
     }
    ]
   },
