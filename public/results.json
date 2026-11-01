@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T01:01:22Z",
+ "generated_at": "2026-11-01T01:01:32Z",
  "quota": {
-  "day": "2026-10-30",
-  "used": 2654,
+  "day": "2026-10-31",
+  "used": 2961,
   "budget": 9000
  },
  "pending": 0,
@@ -2205,6 +2205,135 @@
    ]
   },
   {
+   "channel_id": "UC50IzzKL6m83K5u_FQGgpog",
+   "channel_title": "Meridian Geographic Docs",
+   "channel_created": "2026-09-28",
+   "channel_age_days": 33,
+   "subs": 1620,
+   "found_at": "2026-11-01T01:00:44Z",
+   "validated_at": "2026-11-01T01:01:15Z",
+   "niche": "Scientists Sent a Robot 27,000 Feet to the Ocean Floor — The Footage Left Everyone Speechless!",
+   "path": [],
+   "queries": [
+    "trench mariana shouldn",
+    "scientists sent robot feet",
+    "footage mariana trench revealed"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "1iXbGEQjXDo",
+    "title": "Scientists Sent a Robot 27,000 Feet to the Ocean Floor — The Footage Left Everyone Speechless!",
+    "views": 493398
+   },
+   "ratio": 304.6,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 2886,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 86,
+    "n_channels": 67,
+    "max_subs": 44500000,
+    "median_subs": 14000,
+    "big_channels": 17,
+    "top_views": 4316509,
+    "demand_videos": 35,
+    "demand_channels": 27,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 67, лимит 30",
+    "Есть канал с 44 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 112,
+   "competitors": [
+    {
+     "id": "UCutYrnlsE_yETh5tpkEsLUw",
+     "title": "Shivan Decode ",
+     "subs": 5240,
+     "age_days": 334,
+     "videos": 1,
+     "best_views": 4316509,
+     "best_title": "Mariana Trench: What Really Exists 11 KM Below the Ocean?",
+     "best_id": "jzyAHsYqUm8"
+    },
+    {
+     "id": "UC8SebcMtzuzp_Ca9HQZUQ2g",
+     "title": "Uncharted Depths",
+     "subs": 33800,
+     "age_days": 359,
+     "videos": 8,
+     "best_views": 4116581,
+     "best_title": "Mariana Trench: What They Found In The Deepest Place On Earth",
+     "best_id": "mQutXlTHCOU"
+    },
+    {
+     "id": "UCqZQJ4600a9wIfMPbYc60OQ",
+     "title": "Sabin Civil Engineering",
+     "subs": 6960000,
+     "age_days": 5079,
+     "videos": 1,
+     "best_views": 3424788,
+     "best_title": "Crushing Pressure: The Mysteries of Mariana Trench",
+     "best_id": "MNH0k4gz1Nk"
+    },
+    {
+     "id": "UCy6-V0dTuvNB_uFXpE5K5uQ",
+     "title": "BeyondTheBlue",
+     "subs": 257000,
+     "age_days": 678,
+     "videos": 3,
+     "best_views": 2674619,
+     "best_title": "Nothing About The Mariana Trench Is Normal... Here's Why",
+     "best_id": "NKBkBM4WWaQ"
+    },
+    {
+     "id": "UCE08yuKd8vfMhtC0YoUYBSw",
+     "title": "Yesterday",
+     "subs": 154000,
+     "age_days": 422,
+     "videos": 1,
+     "best_views": 2551516,
+     "best_title": "Why the Mariana Trench Still Terrifies Scientists",
+     "best_id": "W5v_IrhO-1w"
+    },
+    {
+     "id": "UC6IxnFzHofFJ5X2PycSMsww",
+     "title": "xkcd's What If?",
+     "subs": 1380000,
+     "age_days": 1157,
+     "videos": 1,
+     "best_views": 2393229,
+     "best_title": "What if you set off a nuke in the Mariana Trench?",
+     "best_id": "alkJ7xScBiw"
+    },
+    {
+     "id": "UCjxkSFIPOQxlc__B5ZnANCQ",
+     "title": "World Untangled",
+     "subs": 5440,
+     "age_days": 436,
+     "videos": 1,
+     "best_views": 2356354,
+     "best_title": "Mariana Trench: What We Found in the Deepest Place on Earth?",
+     "best_id": "a1Dy-1RDTmA"
+    },
+    {
+     "id": "UCX2IOB5QecICpfcb1GKHM_Q",
+     "title": "Gaurav Katare",
+     "subs": 2000000,
+     "age_days": 5858,
+     "videos": 1,
+     "best_views": 2124863,
+     "best_title": "Why NO SCIENTIST wants to go back inside The Mariana Trench",
+     "best_id": "lOUP3kLiaV4"
+    }
+   ]
+  },
+  {
    "channel_id": "UCf5z9xMsxU-kYg7qOxPJpmQ",
    "channel_title": "Stoic Secret",
    "channel_created": "2026-09-02",
@@ -4144,6 +4273,135 @@
    ]
   },
   {
+   "channel_id": "UCsnFDDUoz6m4SP8AzIqD36g",
+   "channel_title": "History Secrets",
+   "channel_created": "2026-10-22",
+   "channel_age_days": 9,
+   "subs": 654,
+   "found_at": "2026-11-01T01:00:47Z",
+   "validated_at": "2026-11-01T01:01:32Z",
+   "niche": "The Book of Enoch Describes Jesus — And It's Not What the Church Taught You",
+   "path": [],
+   "queries": [
+    "ancient egypt",
+    "hidden history",
+    "book enoch reveals"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "pyXEdpoeDgA",
+    "title": "The Book of Enoch Describes Jesus — And It's Not What the Church Taught You",
+    "views": 102218
+   },
+   "ratio": 156.3,
+   "channel_stats": {
+    "videos": 9,
+    "median_views": 558,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 108,
+    "n_channels": 70,
+    "max_subs": 26600000,
+    "median_subs": 38500,
+    "big_channels": 25,
+    "top_views": 3755760,
+    "demand_videos": 77,
+    "demand_channels": 55,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 70, лимит 30",
+    "Есть канал с 26 600 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 32,
+   "competitors": [
+    {
+     "id": "UCIFk2uvCNcEmZ77g0ESKLcQ",
+     "title": "The Why Files",
+     "subs": 6030000,
+     "age_days": 2236,
+     "videos": 2,
+     "best_views": 3755760,
+     "best_title": "The Lost Labyrinth of Hawara: Evidence of Atlantis in Egypt",
+     "best_id": "NVLrQ0twtDA"
+    },
+    {
+     "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+     "title": "National Geographic",
+     "subs": 26600000,
+     "age_days": 7482,
+     "videos": 4,
+     "best_views": 3695316,
+     "best_title": "What Archaeologists Discovered in Ancient Egypt | Lost Treasures of Egypt MEGA Episode | Nat Geo",
+     "best_id": "koj-eJo2o-c"
+    },
+    {
+     "id": "UC1vUksRWfEfd6V4pPDIQ0jw",
+     "title": "Shawn Ryan Clips",
+     "subs": 3190000,
+     "age_days": 2512,
+     "videos": 1,
+     "best_views": 3537701,
+     "best_title": "What Secrets Are Hidden in the Book of Enoch?",
+     "best_id": "v2zbVptplvQ"
+    },
+    {
+     "id": "UCR4bC9a1LYNcr0JseMcjhIg",
+     "title": "Enoch Unsealed",
+     "subs": 97800,
+     "age_days": 4891,
+     "videos": 3,
+     "best_views": 3191430,
+     "best_title": "The Book Of Enoch Describes What's Beneath The Ocean Floor — And Why God Sealed It There",
+     "best_id": "oM9SxP53RoI"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7370,
+     "videos": 6,
+     "best_views": 2204244,
+     "best_title": "The Mystery Hidden Under Antarctica | Ancient Aliens | Marathon",
+     "best_id": "t1KN4ynFVfI"
+    },
+    {
+     "id": "UCGttrUON87gWfU6dMWm1fcA",
+     "title": "Tucker Carlson",
+     "subs": 5780000,
+     "age_days": 1201,
+     "videos": 1,
+     "best_views": 2128674,
+     "best_title": "The Secret History of Biblical Giants, Demons, and the Advanced Civilizations Before the Great Flood",
+     "best_id": "5x9vR5sKHFI"
+    },
+    {
+     "id": "UC11aHtNnc5bEPLI4jf6mnYg",
+     "title": "Predictive History",
+     "subs": 2950000,
+     "age_days": 1229,
+     "videos": 4,
+     "best_views": 1258370,
+     "best_title": "Secret History #END:  Pax Judaica",
+     "best_id": "WFWizN3QoPg"
+    },
+    {
+     "id": "UCoKOHg2lt4gHxQ7zS3nRZiQ",
+     "title": "Lost American History",
+     "subs": 46400,
+     "age_days": 500,
+     "videos": 1,
+     "best_views": 1222086,
+     "best_title": "101 Dark US History Facts They Never Taught You in School",
+     "best_id": "DbhONljZsQc"
+    }
+   ]
+  },
+  {
    "channel_id": "UCJ8TRR6WsTKWGC-SsxepNOw",
    "channel_title": "Historium TV",
    "channel_created": "2026-08-29",
@@ -4529,6 +4787,136 @@
      "best_views": 1007724,
      "best_title": "Michael Jackson – Human Nature (Lyrics)",
      "best_id": "b0x5t4PAkbY"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCix9VJpTircvUyxpvnK9JKQ",
+   "channel_title": "Mr K",
+   "channel_created": "2026-10-07",
+   "channel_age_days": 24,
+   "subs": 721,
+   "found_at": "2026-11-01T01:00:35Z",
+   "validated_at": "2026-11-01T01:01:23Z",
+   "niche": "10 Mafia Members Who Disappeared and Were Never Found",
+   "path": [],
+   "queries": [
+    "true crime documentary",
+    "mafia documentary",
+    "mafia became fbi"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "rpmkMJaAzVU",
+    "title": "10 Mafia Members Who Disappeared and Were Never Found",
+    "views": 131655
+   },
+   "ratio": 182.6,
+   "channel_stats": {
+    "videos": 9,
+    "median_views": 4975,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 112,
+    "n_channels": 68,
+    "max_subs": 26600000,
+    "median_subs": 55300,
+    "big_channels": 30,
+    "top_views": 3261256,
+    "demand_videos": 88,
+    "demand_channels": 50,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 68, лимит 30",
+    "Есть канал с 26 600 000 подписчиков",
+    "Медиана подписчиков 55 300 выше лимита"
+   ],
+   "notes": [],
+   "score": 19,
+   "competitors": [
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2570000,
+     "age_days": 4887,
+     "videos": 2,
+     "best_views": 3261256,
+     "best_title": "Coached to Kill | Full Episode",
+     "best_id": "4bIgYWRod34"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7370,
+     "videos": 5,
+     "best_views": 2685685,
+     "best_title": "The Men Who Ruled New York’s Mafia | American Godfathers: The Five Families",
+     "best_id": "v-q0j8il3ZQ"
+    },
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 115000,
+     "age_days": 248,
+     "videos": 1,
+     "best_views": 2260687,
+     "best_title": "Killer Ex-Wife Has No Clue She's About To Be Arrested for Murder",
+     "best_id": "rH84S-gPw7w"
+    },
+    {
+     "id": "UC50uCdUubc04xXZz7bqv5ng",
+     "title": "Investigation",
+     "subs": 5370000,
+     "age_days": 3986,
+     "videos": 1,
+     "best_views": 1718249,
+     "best_title": "The Ndrangheta: Italy’s most powerful mafia empire",
+     "best_id": "x-HBo_jozw8"
+    },
+    {
+     "id": "UCVVTthHLGBuNeKf5z6jGV2A",
+     "title": "Blackfiles",
+     "subs": 458000,
+     "age_days": 611,
+     "videos": 3,
+     "best_views": 1515673,
+     "best_title": "The ONLY Gangster the FBI Gave Up Trying to Catch",
+     "best_id": "ZwW8b9-Nf6o"
+    },
+    {
+     "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+     "title": "National Geographic",
+     "subs": 26600000,
+     "age_days": 7482,
+     "videos": 1,
+     "best_views": 1490633,
+     "best_title": "Mob Betrayals from New York to Chicago (Full Episode) | Inside the American Mob Compilation",
+     "best_id": "4Bs47iEWuHc"
+    },
+    {
+     "id": "UCHJuQZuzapBh-CuhRYxIZrg",
+     "title": "Insider",
+     "subs": 9620000,
+     "age_days": 4054,
+     "videos": 1,
+     "best_views": 1358022,
+     "best_title": "How FBI Undercover Agents Actually Work (Italian Mafia) | Authorized Account | Insider",
+     "best_id": "swY4pA7nuKk"
+    },
+    {
+     "id": "UCrD9iL5Lkzio-llw6dXDw_w",
+     "title": "Unreal True Crime",
+     "subs": 150000,
+     "age_days": 1342,
+     "videos": 15,
+     "best_views": 1147079,
+     "best_title": "CAUTION!!! This Case Made ME Question HUMANITY - True Crime Documentary",
+     "best_id": "sqUw44QIpiA"
     }
    ]
   },
