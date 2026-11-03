@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-02T01:01:12Z",
+ "generated_at": "2026-11-03T01:01:54Z",
  "quota": {
-  "day": "2026-11-01",
-  "used": 2040,
+  "day": "2026-11-02",
+  "used": 2958,
   "budget": 9000
  },
  "pending": 0,
@@ -138,6 +138,64 @@
      "best_views": 341918,
      "best_title": "She Lost Everything… Then Transformed Her Life and Found Herself Again#drama",
      "best_id": "_LgUybXOoG8"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCqz_L3yJvGQrYyQhZAvXkxQ",
+   "channel_title": "深海降下ログ",
+   "channel_created": "2026-10-15",
+   "channel_age_days": 18,
+   "subs": 4420,
+   "found_at": "2026-11-03T01:01:01Z",
+   "validated_at": "2026-11-03T01:01:34Z",
+   "niche": "【実写】海の底に「湖」がある…水深1,260mのブラインプール、近づいた生き物に何が起きるのか",
+   "path": [],
+   "queries": [
+    "がある 海の底に 260mのブラインプール",
+    "海の底に がある 水深1 260mのブラインプール",
+    "深海の死骸に群がるサメ 大きな生き物が海の底に沈むと 最後に何が残るのか"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "XbySWivy_nY",
+    "title": "【実写】海の底に「湖」がある…水深1,260mのブラインプール、近づいた生き物に何が起きるのか",
+    "views": 1144825
+   },
+   "ratio": 259.0,
+   "channel_stats": {
+    "videos": 5,
+    "median_views": 61844,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 1,
+    "n_channels": 1,
+    "max_subs": 4420,
+    "median_subs": 4420,
+    "big_channels": 0,
+    "top_views": 66759,
+    "demand_videos": 1,
+    "demand_channels": 1,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Лучшее видео ниши набрало 66 759  нужно от 100 000"
+   ],
+   "notes": [],
+   "score": 35434,
+   "competitors": [
+    {
+     "id": "UCqz_L3yJvGQrYyQhZAvXkxQ",
+     "title": "深海降下ログ",
+     "subs": 4420,
+     "age_days": 18,
+     "videos": 1,
+     "best_views": 66759,
+     "best_title": "【実写】深海の死骸に群がるサメ…大きな生き物が海の底に沈むと、最後に何が残るのか",
+     "best_id": "k6-dpHAQsHA"
     }
    ]
   },
@@ -3754,6 +3812,135 @@
    ]
   },
   {
+   "channel_id": "UC-dok9dN2ZfNJoy4LT6WqSw",
+   "channel_title": "They Already Knew",
+   "channel_created": "2026-10-22",
+   "channel_age_days": 11,
+   "subs": 1330,
+   "found_at": "2026-11-03T01:01:27Z",
+   "validated_at": "2026-11-03T01:01:54Z",
+   "niche": "54-Year-Old Has No Idea Police Matched His Beer Can to a 1996 Murder",
+   "path": [],
+   "queries": [
+    "they already knew",
+    "genetic genealogy",
+    "idea has police"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "kWpFmFPLaHI",
+    "title": "84-Year-Old Has No Idea His Stocking Cap Just Solved a 1974 Murder",
+    "views": 56654
+   },
+   "ratio": 42.6,
+   "channel_stats": {
+    "videos": 14,
+    "median_views": 55241,
+    "hits": 8
+   },
+   "market": {
+    "n_videos": 73,
+    "n_channels": 58,
+    "max_subs": 13000000,
+    "median_subs": 33200,
+    "big_channels": 19,
+    "top_views": 15752647,
+    "demand_videos": 40,
+    "demand_channels": 32,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 58, лимит 30",
+    "Есть канал с 13 000 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 57,
+   "competitors": [
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 116000,
+     "age_days": 250,
+     "videos": 4,
+     "best_views": 15752647,
+     "best_title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+     "best_id": "rJYy0pHZDxA"
+    },
+    {
+     "id": "UCAwylBbx8RiRD3VsaYdwNTw",
+     "title": "Video Advice",
+     "subs": 3780000,
+     "age_days": 4016,
+     "videos": 1,
+     "best_views": 1639994,
+     "best_title": "They Already Told Us What’s Coming… It Was Written in 1997",
+     "best_id": "ZpfWwzlsFVc"
+    },
+    {
+     "id": "UCgCq0mBLgnCxgymFXY4Mhiw",
+     "title": "Worst Cases",
+     "subs": 90000,
+     "age_days": 1442,
+     "videos": 1,
+     "best_views": 1466765,
+     "best_title": "Killer Has No Idea Police Are Watching Him Dispose Of The Body From A Helicopter",
+     "best_id": "KkKl3dlidx4"
+    },
+    {
+     "id": "UCuobtuGxJny9V5lX5a1ieuw",
+     "title": "Sergeant Steve",
+     "subs": 707000,
+     "age_days": 671,
+     "videos": 1,
+     "best_views": 1447247,
+     "best_title": "Evil Husband Bullies Wife in Front of Police, BAD Idea",
+     "best_id": "djlh9aE76Bw"
+    },
+    {
+     "id": "UCnej50nPDuWlDxfIq87IGeQ",
+     "title": "Othram Studios",
+     "subs": 71000,
+     "age_days": 250,
+     "videos": 1,
+     "best_views": 1206569,
+     "best_title": "She Left Them Behind... 60 Years Later, DNA Revealed Why",
+     "best_id": "c5b_pWreoQc"
+    },
+    {
+     "id": "UCtbdyi6xVsQVUA2IuiTtM2g",
+     "title": "Judge Williams",
+     "subs": 406000,
+     "age_days": 1623,
+     "videos": 1,
+     "best_views": 1114446,
+     "best_title": "“Friendly” Priest Has No Idea Police Are About To Arrest Him For Murder",
+     "best_id": "hp0SlHnnRyc"
+    },
+    {
+     "id": "UCYOfoV7p5AK_fOFqBDRWk_g",
+     "title": "DOCS 187",
+     "subs": 15400,
+     "age_days": 41,
+     "videos": 2,
+     "best_views": 710404,
+     "best_title": "“Friendly” Officer Has No Idea Police Are About To Arrest Him For Murder",
+     "best_id": "NOFl_FnrCh0"
+    },
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7710,
+     "videos": 1,
+     "best_views": 709531,
+     "best_title": "Investigative Genealogist Answers DNA Questions | Tech Support | WIRED",
+     "best_id": "yxv4-W1nm4U"
+    }
+   ]
+  },
+  {
    "channel_id": "UCcrr5mYPfB5E30mOvPdsk3g",
    "channel_title": "Stoic Force",
    "channel_created": "2026-09-06",
@@ -5177,6 +5364,136 @@
      "best_views": 968678,
      "best_title": "How British SAS are Secretly Fighting Russia",
      "best_id": "A0_iOV-Jo-4"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC4hSUooV6lgML6PjNA1rsgA",
+   "channel_title": "Cruise Ship Uncovered",
+   "channel_created": "2026-10-03",
+   "channel_age_days": 30,
+   "subs": 6290,
+   "found_at": "2026-11-03T01:00:19Z",
+   "validated_at": "2026-11-03T01:01:44Z",
+   "niche": "Villa Vie Odyssey: The Truth About The Never-Ending Cruise That Ended",
+   "path": [],
+   "queries": [
+    "cruise ship documentary",
+    "royal caribbean",
+    "cruise ship happens"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "yfBYSLXST6U",
+    "title": "Villa Vie Odyssey: The Truth About The Never-Ending Cruise That Ended",
+    "views": 821280
+   },
+   "ratio": 130.6,
+   "channel_stats": {
+    "videos": 15,
+    "median_views": 4853,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 107,
+    "n_channels": 60,
+    "max_subs": 10600000,
+    "median_subs": 99450,
+    "big_channels": 30,
+    "top_views": 1820193,
+    "demand_videos": 68,
+    "demand_channels": 38,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 60, лимит 30",
+    "Есть канал с 10 600 000 подписчиков",
+    "Медиана подписчиков 99 450 выше лимита"
+   ],
+   "notes": [],
+   "score": 13,
+   "competitors": [
+    {
+     "id": "UCzgWZmqmKpmsr4oPWITusKA",
+     "title": "Beyond Facts",
+     "subs": 758000,
+     "age_days": 2527,
+     "videos": 1,
+     "best_views": 1820193,
+     "best_title": "Inside the World’s Largest Cruise Ship Ever Built",
+     "best_id": "HJGo9rGXzzE"
+    },
+    {
+     "id": "UCSNpKEljp_Yqlo-1lUpnJNg",
+     "title": "Novella",
+     "subs": 1070000,
+     "age_days": 3488,
+     "videos": 1,
+     "best_views": 1627981,
+     "best_title": "Most Incredible Cruise Ship Videos Ever Captured",
+     "best_id": "1xIsuxgI22o"
+    },
+    {
+     "id": "UCjVJmgfWMtRHMLvMX6Y2K1w",
+     "title": "CRUISE CURRENTS",
+     "subs": 14900,
+     "age_days": 422,
+     "videos": 1,
+     "best_views": 1250259,
+     "best_title": "Cruise Buffet Leftovers: The Shocking Reality Behind Uneaten Food!",
+     "best_id": "pVpYWwGFzq4"
+    },
+    {
+     "id": "UClb6yg8d7eoZF6vnL4e8mog",
+     "title": "Dark Records",
+     "subs": 655000,
+     "age_days": 4076,
+     "videos": 1,
+     "best_views": 1234880,
+     "best_title": "The Most Infamous Cruise Ship Disasters",
+     "best_id": "JTojwvsa25U"
+    },
+    {
+     "id": "UC9RM-iSvTu1uPJb8X5yp3EQ",
+     "title": "Wendover Productions",
+     "subs": 4920000,
+     "age_days": 6108,
+     "videos": 1,
+     "best_views": 1154047,
+     "best_title": "The Cruise Industry's Arms Race",
+     "best_id": "7NBa5o--y3k"
+    },
+    {
+     "id": "UC38WpfKtu2PQ1N4zEiqxU3A",
+     "title": "Big Ships!",
+     "subs": 71000,
+     "age_days": 1048,
+     "videos": 4,
+     "best_views": 856140,
+     "best_title": "Oasis Of The Seas: Life On Board The Largest Cruise Ship In The World",
+     "best_id": "S8CmEmmy-H0"
+    },
+    {
+     "id": "UC4hSUooV6lgML6PjNA1rsgA",
+     "title": "Cruise Ship Uncovered",
+     "subs": 6290,
+     "age_days": 30,
+     "videos": 2,
+     "best_views": 821280,
+     "best_title": "Villa Vie Odyssey: The Truth About The Never-Ending Cruise That Ended",
+     "best_id": "yfBYSLXST6U"
+    },
+    {
+     "id": "UCcyq283he07B7_KUX07mmtA",
+     "title": "Business Insider",
+     "subs": 10600000,
+     "age_days": 6240,
+     "videos": 1,
+     "best_views": 768435,
+     "best_title": "How A Cruise Ship Operates At The Edge Of The World | Risky Business",
+     "best_id": "inIYXrNOyos"
     }
    ]
   },
