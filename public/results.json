@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T01:01:54Z",
+ "generated_at": "2026-11-04T01:01:27Z",
  "quota": {
-  "day": "2026-11-02",
-  "used": 2958,
+  "day": "2026-11-03",
+  "used": 2347,
   "budget": 9000
  },
  "pending": 0,
@@ -1743,6 +1743,135 @@
      "best_views": 34059,
      "best_title": "Climate Risk and YOUR Insurance, WHAT CHANGED ?",
      "best_id": "4aYI8hohYbs"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCXuajBBk_lhdQH3FRQfd5GA",
+   "channel_title": "Finance Stack",
+   "channel_created": "2026-10-26",
+   "channel_age_days": 8,
+   "subs": 1100,
+   "found_at": "2026-11-04T01:01:14Z",
+   "validated_at": "2026-11-04T01:01:27Z",
+   "niche": "When The Economy Crashes, These Countries Will Go Bankrupt First",
+   "path": [],
+   "queries": [
+    "first crashes countries",
+    "economy crashes countries bankrupt",
+    "happens trump loses midterms"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "lL14_pa32j8",
+    "title": "When The Economy Crashes, These Countries Will Go Bankrupt First",
+    "views": 172859
+   },
+   "ratio": 157.1,
+   "channel_stats": {
+    "videos": 4,
+    "median_views": 48297,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 63,
+    "n_channels": 56,
+    "max_subs": 34200000,
+    "median_subs": 1745,
+    "big_channels": 22,
+    "top_views": 10270965,
+    "demand_videos": 29,
+    "demand_channels": 25,
+    "young_hits": 5
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 56, лимит 30",
+    "Есть канал с 34 200 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 294,
+   "competitors": [
+    {
+     "id": "UCCTTwVZP8gfX4KXlkJWdT3Q",
+     "title": "honestav",
+     "subs": 288000,
+     "age_days": 1046,
+     "videos": 1,
+     "best_views": 10270965,
+     "best_title": "honestav & mgk - Crash First (OFFICIAL MUSIC VIDEO)",
+     "best_id": "TABcblk9w8M"
+    },
+    {
+     "id": "UCK1XzxcKXB_v_dcw_tflC1A",
+     "title": "OBF",
+     "subs": 741000,
+     "age_days": 4350,
+     "videos": 1,
+     "best_views": 8628926,
+     "best_title": "Which Rich Country Goes Bankrupt First?",
+     "best_id": "zhQVjly5Gos"
+    },
+    {
+     "id": "UCnThE8FLrlN-tYvZhZL0uaA",
+     "title": "Finance Bureau",
+     "subs": 134000,
+     "age_days": 385,
+     "videos": 1,
+     "best_views": 4235422,
+     "best_title": "What Happens If Trump Loses The Midterms?",
+     "best_id": "AyMHJBLc_tA"
+    },
+    {
+     "id": "UCvixJtaXuNdMPUGdOPcY8Ag",
+     "title": "David Pakman",
+     "subs": 3690000,
+     "age_days": 6269,
+     "videos": 1,
+     "best_views": 2166556,
+     "best_title": "Do you realize what happens to Trump if they lose?",
+     "best_id": "DYpzbMW8fgw"
+    },
+    {
+     "id": "UCIALMKvObZNtJ6AmdCLP7Lg",
+     "title": "Bloomberg Television",
+     "subs": 3330000,
+     "age_days": 3471,
+     "videos": 1,
+     "best_views": 854193,
+     "best_title": "Will Trump & Republicans Get ‘Absolutely Hammered’ in US Midterm Elections?",
+     "best_id": "ECDVB1ZpoXk"
+    },
+    {
+     "id": "UCZZ1hYlH54T6Sd0NB4U4DQA",
+     "title": "Hadi Rahim",
+     "subs": 82800,
+     "age_days": 1101,
+     "videos": 1,
+     "best_views": 724698,
+     "best_title": "Will the Midterm Elections End Trump?",
+     "best_id": "42Mikh0XhLU"
+    },
+    {
+     "id": "UC8-Th83bH_thdKZDJCrn88g",
+     "title": "The Tonight Show Starring Jimmy Fallon",
+     "subs": 34200000,
+     "age_days": 7604,
+     "videos": 1,
+     "best_views": 564911,
+     "best_title": "Trump Says He Will Become \"Mr. Veto\" If Democrats Win Midterms, Gives Speech at Reflecting Pool",
+     "best_id": "j4L-DHQA4zw"
+    },
+    {
+     "id": "UCfdNM3NAhaBOXCafH7krzrA",
+     "title": "The Infographics Show",
+     "subs": 15500000,
+     "age_days": 5729,
+     "videos": 1,
+     "best_views": 326758,
+     "best_title": "Why Paying Off US Debt Would Crash the World Economy",
+     "best_id": "8M8U9Tj15bI"
     }
    ]
   },
