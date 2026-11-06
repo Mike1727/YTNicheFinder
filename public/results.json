@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-04T01:01:27Z",
+ "generated_at": "2026-11-06T01:01:26Z",
  "quota": {
-  "day": "2026-11-03",
-  "used": 2347,
+  "day": "2026-11-05",
+  "used": 3267,
   "budget": 9000
  },
  "pending": 0,
@@ -1872,6 +1872,135 @@
      "best_views": 326758,
      "best_title": "Why Paying Off US Debt Would Crash the World Economy",
      "best_id": "8M8U9Tj15bI"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC_Ywcgjflp3fY3wJJ_Y3rvg",
+   "channel_title": "Margin of Safety",
+   "channel_created": "2026-10-27",
+   "channel_age_days": 9,
+   "subs": 115,
+   "found_at": "2026-11-06T01:00:30Z",
+   "validated_at": "2026-11-06T01:01:01Z",
+   "niche": "Sydney's Most Dangerous Building Was Hiding in Plain Sight",
+   "path": [],
+   "queries": [
+    "engineering failure",
+    "engineering explained",
+    "plain building sydney"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "vNxWC3qheSs",
+    "title": "Sydney's Most Dangerous Building Was Hiding in Plain Sight",
+    "views": 66610
+   },
+   "ratio": 579.2,
+   "channel_stats": {
+    "videos": 3,
+    "median_views": 614,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 53,
+    "n_channels": 32,
+    "max_subs": 15500000,
+    "median_subs": 24050,
+    "big_channels": 13,
+    "top_views": 2582628,
+    "demand_videos": 34,
+    "demand_channels": 22,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 32, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 199,
+   "competitors": [
+    {
+     "id": "UCR1IuLEqb6UEA_zQ81kwXfg",
+     "title": "Real Engineering",
+     "subs": 5120000,
+     "age_days": 4802,
+     "videos": 1,
+     "best_views": 2582628,
+     "best_title": "The Plane That's 38% Nose",
+     "best_id": "6B96xetwrqI"
+    },
+    {
+     "id": "UCMOqf8ab-42UUQIdVoKwjlQ",
+     "title": "Practical Engineering",
+     "subs": 4840000,
+     "age_days": 7200,
+     "videos": 3,
+     "best_views": 2019547,
+     "best_title": "The Hidden Engineering of Runways",
+     "best_id": "ZJqY1WLX4zA"
+    },
+    {
+     "id": "UClqhvGmHcvWL9w3R48t9QXQ",
+     "title": "Engineering Explained",
+     "subs": 4240000,
+     "age_days": 5613,
+     "videos": 6,
+     "best_views": 1496848,
+     "best_title": "Owning A Lucid Has Been Super Disappointing",
+     "best_id": "1WiQAOmESH0"
+    },
+    {
+     "id": "UC6n8I1UDTKP1IWjQMg6_TwA",
+     "title": "The B1M",
+     "subs": 4090000,
+     "age_days": 5387,
+     "videos": 1,
+     "best_views": 1219598,
+     "best_title": "The 10 Biggest Mega Build Disasters of 2025",
+     "best_id": "QvHBvm9JIcc"
+    },
+    {
+     "id": "UCkQO3QsgTpNTsOw6ujimT5Q",
+     "title": "BE AMAZED",
+     "subs": 13500000,
+     "age_days": 4124,
+     "videos": 1,
+     "best_views": 980408,
+     "best_title": "Mistakes That Cost BILLIONS",
+     "best_id": "BXlR9t7RTHc"
+    },
+    {
+     "id": "UCCRkSQuy74rHjM2OczpGjrw",
+     "title": "Modern-Day Edison",
+     "subs": 5450,
+     "age_days": 3459,
+     "videos": 1,
+     "best_views": 597891,
+     "best_title": "What Does the Neutral Wire Actually Do | Electrical Engineering Explained",
+     "best_id": "egm30Z4BYoM"
+    },
+    {
+     "id": "UCUSTg2kjJJw26Onpzn5A6SA",
+     "title": "Hiding In Plain Sight",
+     "subs": 11300,
+     "age_days": 288,
+     "videos": 5,
+     "best_views": 406071,
+     "best_title": "Something Huge Was Left Unfinished in Sydney",
+     "best_id": "Jh5ag5SehP4"
+    },
+    {
+     "id": "UC54w2TX_xUNPQ0d-3VvbsHQ",
+     "title": "Futurology",
+     "subs": 361000,
+     "age_days": 2899,
+     "videos": 1,
+     "best_views": 369251,
+     "best_title": "The F-47 Engineering Explained",
+     "best_id": "ZdvJ3uHTNm8"
     }
    ]
   },
@@ -4718,6 +4847,136 @@
    ]
   },
   {
+   "channel_id": "UCOlImxBgK-vYxR5KsQe63eQ",
+   "channel_title": "Hood Warmoth",
+   "channel_created": "2026-10-15",
+   "channel_age_days": 21,
+   "subs": 755,
+   "found_at": "2026-11-06T01:00:07Z",
+   "validated_at": "2026-11-06T01:01:18Z",
+   "niche": "The Real Reason Delta Force Switched to the HK416",
+   "path": [],
+   "queries": [
+    "real reason after",
+    "real reason delta force",
+    "real reason special forces"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "JdTybQeccFg",
+    "title": "The Real Reason Delta Force Switched to the HK416",
+    "views": 93109
+   },
+   "ratio": 123.3,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 7965,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 79,
+    "n_channels": 57,
+    "max_subs": 21600000,
+    "median_subs": 57300,
+    "big_channels": 23,
+    "top_views": 8520149,
+    "demand_videos": 55,
+    "demand_channels": 41,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 57, лимит 30",
+    "Есть канал с 21 600 000 подписчиков",
+    "Медиана подписчиков 57 300 выше лимита"
+   ],
+   "notes": [],
+   "score": 29,
+   "competitors": [
+    {
+     "id": "UCGq-a57w-aPwyi3pW7XLiHw",
+     "title": "The Diary Of A CEO",
+     "subs": 21600000,
+     "age_days": 2785,
+     "videos": 1,
+     "best_views": 8520149,
+     "best_title": "Andrew Huberman: The Real Reason You Can't Get Deep Sleep & Wake Up Exhausted",
+     "best_id": "MGxcosNuC8k"
+    },
+    {
+     "id": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+     "title": "Johnny Harris",
+     "subs": 8010000,
+     "age_days": 5629,
+     "videos": 1,
+     "best_views": 6514038,
+     "best_title": "The REAL reason the US can’t beat Iran",
+     "best_id": "-DDbYSg0Alw"
+    },
+    {
+     "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+     "title": "The Diary Of A CEO Clips",
+     "subs": 2920000,
+     "age_days": 1722,
+     "videos": 2,
+     "best_views": 4208670,
+     "best_title": "The REAL Reason AI Is Already Escaping",
+     "best_id": "YZ6zokLdhP0"
+    },
+    {
+     "id": "UCHu0zb_l4Gb5X3Ow9XmCVIA",
+     "title": "Paint it",
+     "subs": 10800,
+     "age_days": 292,
+     "videos": 1,
+     "best_views": 2510676,
+     "best_title": "All U.S. Special Operations Forces Explained",
+     "best_id": "sTHPdX--Ycs"
+    },
+    {
+     "id": "UCRvB7vscpepPN38-ECZjcTQ",
+     "title": "Special Forces TV",
+     "subs": 67000,
+     "age_days": 1031,
+     "videos": 5,
+     "best_views": 1345421,
+     "best_title": "Why do Special Forces wear Arc’teryx?",
+     "best_id": "SmVpNajAWVk"
+    },
+    {
+     "id": "UCUEmaeh13ai1ivT5wzz5Lhg",
+     "title": "Maxinomics",
+     "subs": 829000,
+     "age_days": 1470,
+     "videos": 1,
+     "best_views": 1331364,
+     "best_title": "The Real Reason We Left the Gold Standard",
+     "best_id": "u9MbexXL_4s"
+    },
+    {
+     "id": "UCq-R7vWsp_NR-BGx8Lo02qA",
+     "title": "Militopia",
+     "subs": 6320,
+     "age_days": 416,
+     "videos": 6,
+     "best_views": 1195406,
+     "best_title": "Why Delta Force Operators Don't Salute, Don't Use Rank, and Don't Look Like Soldiers",
+     "best_id": "Dlx4pw09nN8"
+    },
+    {
+     "id": "UC1QTjGnvpPbTAgfqAQVbLHw",
+     "title": "Seth Capehart MD",
+     "subs": 538000,
+     "age_days": 5471,
+     "videos": 2,
+     "best_views": 1121584,
+     "best_title": "The Real Reason We're All Exhausted",
+     "best_id": "Z2EIZuDFOuQ"
+    }
+   ]
+  },
+  {
    "channel_id": "UCJ8TRR6WsTKWGC-SsxepNOw",
    "channel_title": "Historium TV",
    "channel_created": "2026-08-29",
@@ -6403,6 +6662,266 @@
      "best_views": 1131257,
      "best_title": "CAUTION!!! This Case Made ME Question HUMANITY - True Crime Documentary",
      "best_id": "sqUw44QIpiA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC6bTDmQmnGLm1oyM9tuNj5Q",
+   "channel_title": "Smart Code Studios",
+   "channel_created": "2026-10-06",
+   "channel_age_days": 30,
+   "subs": 3310,
+   "found_at": "2026-11-06T01:00:28Z",
+   "validated_at": "2026-11-06T01:01:26Z",
+   "niche": "The ENTIRE History of AI in 16 Minutes",
+   "path": [],
+   "queries": [
+    "history documentary",
+    "tech documentary",
+    "history entire minutes"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "UAkQhCV2v_o",
+    "title": "The ENTIRE History of AI in 16 Minutes",
+    "views": 287656
+   },
+   "ratio": 86.9,
+   "channel_stats": {
+    "videos": 5,
+    "median_views": 2802,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 121,
+    "n_channels": 68,
+    "max_subs": 21400000,
+    "median_subs": 117500,
+    "big_channels": 37,
+    "top_views": 65266292,
+    "demand_videos": 100,
+    "demand_channels": 60,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 68, лимит 30",
+    "Есть канал с 21 400 000 подписчиков",
+    "Медиана подписчиков 117 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 8,
+   "competitors": [
+    {
+     "id": "UCHnyfMqiRRG1u-2MsSQLbXA",
+     "title": "Veritasium",
+     "subs": 21400000,
+     "age_days": 5951,
+     "videos": 1,
+     "best_views": 65266292,
+     "best_title": "The Closest Thing We Have to Alien Technology",
+     "best_id": "MiUHjLxm3V0"
+    },
+    {
+     "id": "UCK7tptUDHh-RYDsdxO1-5QQ",
+     "title": "The Wall Street Journal",
+     "subs": 6730000,
+     "age_days": 7080,
+     "videos": 1,
+     "best_views": 10372647,
+     "best_title": "The North Korean Operatives Hiding Inside U.S. Companies | WSJ Documentary",
+     "best_id": "RUhdmIFpb-w"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7375,
+     "videos": 12,
+     "best_views": 8043326,
+     "best_title": "Greatest Unsolved Mysteries Ever | Mysteries Unearthed with Danny Trejo",
+     "best_id": "DgPEBq4Ke8g"
+    },
+    {
+     "id": "UCHbCoS79jPGHoHxqn5qWxVw",
+     "title": "VLAD - Meditative History ",
+     "subs": 27500,
+     "age_days": 262,
+     "videos": 1,
+     "best_views": 3307651,
+     "best_title": "The Entire History of Iran in 20 Minutes",
+     "best_id": "vIO1krG2-tE"
+    },
+    {
+     "id": "UCq6OAftTQOuUBRdtUDq5SUA",
+     "title": "PBS Documentaries",
+     "subs": 449000,
+     "age_days": 5356,
+     "videos": 2,
+     "best_views": 3007068,
+     "best_title": "The Real History of Africa They Never Taught You | Full Documentary | Africa's Great Civilizations",
+     "best_id": "2XS7s9S6q8Q"
+    },
+    {
+     "id": "UCrFfcsFcqaK-wsZoDy3gGkw",
+     "title": "History with Dave",
+     "subs": 86100,
+     "age_days": 523,
+     "videos": 1,
+     "best_views": 2959862,
+     "best_title": "The ENTIRE History of Medieval Europe (NO AI)",
+     "best_id": "kVEldvGXg4w"
+    },
+    {
+     "id": "UCzGOgrMVgeDJdQgjhijmSnQ",
+     "title": "Fun History",
+     "subs": 126000,
+     "age_days": 787,
+     "videos": 1,
+     "best_views": 2769994,
+     "best_title": "The History of the World in 20 Minutes",
+     "best_id": "KnviRvdmFTc"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 964000,
+     "age_days": 3081,
+     "videos": 1,
+     "best_views": 2591709,
+     "best_title": "Debunking the biggest myths history made you believe | BBC Timestamp",
+     "best_id": "f8R_bMndsAs"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCgUNR7vQMWeci-JXJ7Crwww",
+   "channel_title": "China Under Stress",
+   "channel_created": "2026-09-09",
+   "channel_age_days": 57,
+   "subs": 981,
+   "found_at": "2026-11-06T01:00:30Z",
+   "validated_at": "2026-11-06T01:01:10Z",
+   "niche": "China Built a 117-Story Megatower — And It's Already Falling Apart",
+   "path": [],
+   "queries": [
+    "engineering documentary",
+    "china infrastructure",
+    "china built already"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "bvF74No5XUI",
+    "title": "China Built a 117-Story Megatower — And It's Already Falling Apart",
+    "views": 275496
+   },
+   "ratio": 280.8,
+   "channel_stats": {
+    "videos": 25,
+    "median_views": 5429,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 105,
+    "n_channels": 54,
+    "max_subs": 15500000,
+    "median_subs": 161500,
+    "big_channels": 32,
+    "top_views": 6320297,
+    "demand_videos": 74,
+    "demand_channels": 40,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 54, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 161 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 8,
+   "competitors": [
+    {
+     "id": "UCFMkPeE8jiPirJMv9kttuIg",
+     "title": "CoolVision",
+     "subs": 1170000,
+     "age_days": 3924,
+     "videos": 1,
+     "best_views": 6320297,
+     "best_title": "I spent 4 days in China’s Most Futuristic City",
+     "best_id": "P7W20hdgWXY"
+    },
+    {
+     "id": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+     "title": "Johnny Harris",
+     "subs": 8010000,
+     "age_days": 5629,
+     "videos": 1,
+     "best_views": 5730924,
+     "best_title": "The REAL reason China built so much",
+     "best_id": "axRhjqd-rus"
+    },
+    {
+     "id": "UC2AKC2ataf3T-h02AloR21w",
+     "title": "Top Unreal Planet 4K",
+     "subs": 19300,
+     "age_days": 469,
+     "videos": 2,
+     "best_views": 1999205,
+     "best_title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+     "best_id": "rBBAuJS1Ux0"
+    },
+    {
+     "id": "UCE7qCIhvBXz5W1W_F0WcPgQ",
+     "title": "EXPLORE HORIZONS",
+     "subs": 28700,
+     "age_days": 674,
+     "videos": 1,
+     "best_views": 1951228,
+     "best_title": "Impossible Places | China’s Most Futuristic Wonders You Won’t Believe Exist | 4K Travel Documentary",
+     "best_id": "BLQHhrv7Lp8"
+    },
+    {
+     "id": "UCB2cc07u85faIJewBuqBnjA",
+     "title": "Hider Planet",
+     "subs": 56800,
+     "age_days": 392,
+     "videos": 1,
+     "best_views": 1935700,
+     "best_title": "Impossible Places | World's Most Dangerous Constructions Even Engineer Can't Believe |4K Documentary",
+     "best_id": "_w23teVc3_o"
+    },
+    {
+     "id": "UCVBICP0SNaKk8iuWIyNSpWw",
+     "title": "NextGen Manufacturing",
+     "subs": 172000,
+     "age_days": 362,
+     "videos": 2,
+     "best_views": 1699341,
+     "best_title": "How China Built an Impossible Bridge Above the Clouds",
+     "best_id": "OojAbcSArJU"
+    },
+    {
+     "id": "UC2rkYCTONhrjDhiKZXLSL2w",
+     "title": "Hidden World Docs",
+     "subs": 33000,
+     "age_days": 273,
+     "videos": 4,
+     "best_views": 1267828,
+     "best_title": "China Built an Underwater Tunnel So Insane Even Americans Can't Believe It's Real",
+     "best_id": "y7GFrNHSZ4E"
+    },
+    {
+     "id": "UCDA38HtNUTpGoV2fC-u8Epw",
+     "title": "Infinite Planet TV",
+     "subs": 100000,
+     "age_days": 5077,
+     "videos": 1,
+     "best_views": 1016411,
+     "best_title": "CHINA 2050: A Country That Lives in the Future | 4K Documentary",
+     "best_id": "iebCgX_89Tk"
     }
    ]
   },
