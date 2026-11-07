@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-06T01:01:26Z",
+ "generated_at": "2026-11-07T01:01:19Z",
  "quota": {
-  "day": "2026-11-05",
-  "used": 3267,
+  "day": "2026-11-06",
+  "used": 2959,
   "budget": 9000
  },
  "pending": 0,
@@ -138,6 +138,134 @@
      "best_views": 341918,
      "best_title": "She Lost Everything… Then Transformed Her Life and Found Herself Again#drama",
      "best_id": "_LgUybXOoG8"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCUd4r3dx7qISkHklC_oB16w",
+   "channel_title": "Sleepy Lost World",
+   "channel_created": "2026-09-08",
+   "channel_age_days": 59,
+   "subs": 5160,
+   "found_at": "2026-11-07T01:00:26Z",
+   "validated_at": "2026-11-07T01:01:19Z",
+   "niche": "How Life Was Inside a Medieval Castle in Winter | History for Sleep",
+   "path": [],
+   "queries": [
+    "history for sleep",
+    "sleep history",
+    "sleep history inside"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "x9tRtFdZ8j4",
+    "title": "How Life Was Inside a Medieval Castle in Winter | History for Sleep",
+    "views": 69268
+   },
+   "ratio": 13.4,
+   "channel_stats": {
+    "videos": 46,
+    "median_views": 6085,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 82,
+    "n_channels": 22,
+    "max_subs": 717000,
+    "median_subs": 34900,
+    "big_channels": 6,
+    "top_views": 3422344,
+    "demand_videos": 63,
+    "demand_channels": 21,
+    "young_hits": 1
+   },
+   "status": "pass",
+   "reasons": [],
+   "notes": [
+    "Есть каналов от 100 000 подписчиков: 6"
+   ],
+   "score": 438,
+   "competitors": [
+    {
+     "id": "UC2TsKs8KgTLPZf5d0hcJcGQ",
+     "title": "Chat History Compilations",
+     "subs": 236000,
+     "age_days": 1246,
+     "videos": 2,
+     "best_views": 3422344,
+     "best_title": "Go To Sleep While I Teach You History Facts for Two Hours",
+     "best_id": "gT66JQYWdZE"
+    },
+    {
+     "id": "UC6uGYezl7-dtRlaXohwo5ew",
+     "title": "Sleepy Time Historian",
+     "subs": 175000,
+     "age_days": 998,
+     "videos": 3,
+     "best_views": 2845205,
+     "best_title": "What Did Early Humans ACTUALLY Do All Day? | History for Sleep",
+     "best_id": "AHTEnwz0bL4"
+    },
+    {
+     "id": "UC6LYB8YhQKo2H6EK3q6U6kw",
+     "title": "Bedtime & Historian ",
+     "subs": 118000,
+     "age_days": 493,
+     "videos": 10,
+     "best_views": 660000,
+     "best_title": "The First Crusade (1096–1099) | The Battle for the Holy Land | Medieval History",
+     "best_id": "oI7gRvhi-S4"
+    },
+    {
+     "id": "UCcUEjyUhd-s3Dj0TS0Ekjow",
+     "title": "Sleepy History with Oliver",
+     "subs": 36300,
+     "age_days": 279,
+     "videos": 2,
+     "best_views": 533820,
+     "best_title": "Evenings Inside a Normal Home in the 1700s",
+     "best_id": "6ijnwbRFkCo"
+    },
+    {
+     "id": "UC0hbE5F59CW6mJozT2jzr7g",
+     "title": "Sleepy America Tales",
+     "subs": 4570,
+     "age_days": 416,
+     "videos": 1,
+     "best_views": 425139,
+     "best_title": "Fall Asleep to the ENTIRE History of Area 51",
+     "best_id": "30TzUbjBX9Q"
+    },
+    {
+     "id": "UC32Km2_H8Lo5Ulop6Nhzwug",
+     "title": "Sleepy History Channel",
+     "subs": 61000,
+     "age_days": 467,
+     "videos": 34,
+     "best_views": 414537,
+     "best_title": "The Seven Wonders of the Ancient World | No Adverts",
+     "best_id": "LheSNj9s__A"
+    },
+    {
+     "id": "UCy3Hgwj12x3fDQUcutNm2DA",
+     "title": "Sleepless Historian",
+     "subs": 717000,
+     "age_days": 3230,
+     "videos": 2,
+     "best_views": 410325,
+     "best_title": "Boring Greek Myths For Sleep | The entire ODYSSEY explained - and more | 4 Stories",
+     "best_id": "4mMTjYJ3zd4"
+    },
+    {
+     "id": "UCxsLxGlOErRciZHaz2j_CWA",
+     "title": "Sleepy History",
+     "subs": 34500,
+     "age_days": 535,
+     "videos": 1,
+     "best_views": 353297,
+     "best_title": "8 Hours of Sleepy History Instead of Overthinking | History for Sleep and Rain Sounds",
+     "best_id": "72_xzdGqXzg"
     }
    ]
   },
@@ -3420,6 +3548,135 @@
      "best_views": 1696953,
      "best_title": "WILD AMAZON | Discovering Mysterious Predators Yet To Be Known | Animal Documentary",
      "best_id": "uxT-S4TkrpA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCKrczN1eKrkobjVbGfe99hg",
+   "channel_title": "The War Archives ",
+   "channel_created": "2026-09-22",
+   "channel_age_days": 45,
+   "subs": 771,
+   "found_at": "2026-11-07T01:00:13Z",
+   "validated_at": "2026-11-07T01:01:04Z",
+   "niche": "What 370,000 German POWs Saw Through the Windows of an American Train",
+   "path": [],
+   "queries": [
+    "the war archives",
+    "ww2 documentary",
+    "german american soldiers"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "4sZqvCR4R88",
+    "title": "What 370,000 German POWs Saw Through the Windows of an American Train",
+    "views": 300132
+   },
+   "ratio": 389.3,
+   "channel_stats": {
+    "videos": 7,
+    "median_views": 3279,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 83,
+    "n_channels": 67,
+    "max_subs": 15500000,
+    "median_subs": 13200,
+    "big_channels": 25,
+    "top_views": 10109922,
+    "demand_videos": 52,
+    "demand_channels": 41,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 67, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 80,
+   "competitors": [
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 964000,
+     "age_days": 3082,
+     "videos": 1,
+     "best_views": 10109922,
+     "best_title": "Breathtaking WW1 battlefield uncovers a soldier untouched since the war | BBC Timestamp",
+     "best_id": "xuApAxqWRi0"
+    },
+    {
+     "id": "UC3MJVwoumJMTqCe9IaEhtiw",
+     "title": "World at War",
+     "subs": 1330000,
+     "age_days": 4915,
+     "videos": 1,
+     "best_views": 2041853,
+     "best_title": "WWII, Top Secret Axis Files Declassified",
+     "best_id": "yzvmOvXW54Y"
+    },
+    {
+     "id": "UCB1eDEd1AYG3YrRIJSZzMOQ",
+     "title": "Real Time History",
+     "subs": 767000,
+     "age_days": 3283,
+     "videos": 3,
+     "best_views": 1998115,
+     "best_title": "First Year of WW2 1939-1940 (Full Documentary)",
+     "best_id": "NApuFNz3VuE"
+    },
+    {
+     "id": "UC230PkZMmx9xACq65AGCSJw",
+     "title": "WAR MEMORIES",
+     "subs": 23200,
+     "age_days": 4435,
+     "videos": 1,
+     "best_views": 861714,
+     "best_title": "The Battle of Truk: Rare Footage of Japan’s Fortress Annihilated in 48 Hours | WW2 Documentary",
+     "best_id": "Na4wLhW06Zk"
+    },
+    {
+     "id": "UCMXLenT5ywg3ydl2dlesMbg",
+     "title": "WW2 Explained",
+     "subs": 13200,
+     "age_days": 329,
+     "videos": 1,
+     "best_views": 804576,
+     "best_title": "Why German Soldiers Found Americans More Dangerous Than Professional British Troops",
+     "best_id": "vx0yjOMSlxM"
+    },
+    {
+     "id": "UCUFrfvd3CeQnguMBHXhrjsw",
+     "title": "Ken Burns",
+     "subs": 117000,
+     "age_days": 5280,
+     "videos": 1,
+     "best_views": 785720,
+     "best_title": "The War | Full Episode 1 | \"A Necessary War\" (December 1941 - December 1942) | PBS",
+     "best_id": "I2dqguOMkko"
+    },
+    {
+     "id": "UCp3uSnYYkzZk4tRohiT_9Nw",
+     "title": "WW2 Records",
+     "subs": 185000,
+     "age_days": 386,
+     "videos": 1,
+     "best_views": 746952,
+     "best_title": "When This German Ace Saved 9 Americans — One Became His Brother for Life",
+     "best_id": "kbmzgEK5KdI"
+    },
+    {
+     "id": "UC-QTh5HFiw28MwFrmFrRjzA",
+     "title": "Beginning To Now",
+     "subs": 336000,
+     "age_days": 2096,
+     "videos": 1,
+     "best_views": 703678,
+     "best_title": "The ENTIRE History of WW2 - IN COLOR (NO AI) | 4K Documentary",
+     "best_id": "OD8Cno2lyJo"
     }
    ]
   },
@@ -7052,6 +7309,136 @@
      "best_views": 1740690,
      "best_title": "Forbidden History (2026) The Advanced Lost Technologies That Hold Earth's True History",
      "best_id": "NTWumAIItPE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UClwbIhux27uHQUDRcOtKHiQ",
+   "channel_title": "Phull Stop with Richa & Ali",
+   "channel_created": "2026-09-17",
+   "channel_age_days": 50,
+   "subs": 7920,
+   "found_at": "2026-11-07T01:00:44Z",
+   "validated_at": "2026-11-07T01:01:11Z",
+   "niche": "Who’s Nalasopara’s Biggest Celebrity? | Musafiri with Richa Chadha | S1E3",
+   "path": [],
+   "queries": [
+    "richa chadha",
+    "ali fazal",
+    "musafiri chadha richa"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "adGQmoWbGbU",
+    "title": "500 Year Old European City in Vasai? | Musafiri with Richa Chadha | S1E5",
+    "views": 233256
+   },
+   "ratio": 29.5,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 215297,
+    "hits": 5
+   },
+   "market": {
+    "n_videos": 48,
+    "n_channels": 32,
+    "max_subs": 9990000,
+    "median_subs": 817000,
+    "big_channels": 27,
+    "top_views": 56370011,
+    "demand_videos": 23,
+    "demand_channels": 18,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 32, лимит 30",
+    "Есть канал с 9 990 000 подписчиков",
+    "Медиана подписчиков 817 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 3,
+   "competitors": [
+    {
+     "id": "UCn9BuiRZGR_tPM2GGT4jN-w",
+     "title": "Excel Movies",
+     "subs": 4750000,
+     "age_days": 6320,
+     "videos": 2,
+     "best_views": 56370011,
+     "best_title": "Mirzapur The Movie | Official Hindi Trailer |Ali Fazal |  Pankaj Tripathi | Divyenndu | 4th Sept",
+     "best_id": "5vMWZhHPlaw"
+    },
+    {
+     "id": "UCv41ean41z5cRWdHiK5YvEw",
+     "title": "Mirchi Plus",
+     "subs": 7730000,
+     "age_days": 5825,
+     "videos": 1,
+     "best_views": 1982167,
+     "best_title": "Mirzapur Cast Exclusive Interview | Ravi Kishan meme, Shreya Ghoshal | Ali Fazal, Jitendra, Divyendu",
+     "best_id": "FKz3jb0mSUg"
+    },
+    {
+     "id": "UCSP4V2wUWm9sHzBgDyr_dRQ",
+     "title": "Shekhar Suman",
+     "subs": 543000,
+     "age_days": 226,
+     "videos": 1,
+     "best_views": 1817487,
+     "best_title": "Shekhar Tonite Ep-3 | Shekhar Suman | Ft. Ali Fazal | Full Episode",
+     "best_id": "eZP2lTipwaM"
+    },
+    {
+     "id": "UCEeymg2i7_IevKCsdzAjmOw",
+     "title": "ADMD Comedy Tv",
+     "subs": 590000,
+     "age_days": 948,
+     "videos": 1,
+     "best_views": 504598,
+     "best_title": "Mirzapur The Movie | Star Cast Special | Pankaj Tripathi | Ali Fazal | Kapil Sharma Show | 2026",
+     "best_id": "QObPxxUzqZ8"
+    },
+    {
+     "id": "UCXSWwwSYaBxhmC1dKQh7Upg",
+     "title": "Mashable India",
+     "subs": 1570000,
+     "age_days": 3040,
+     "videos": 1,
+     "best_views": 444828,
+     "best_title": "Ali Fazal Eats Mumbai’s Best Iftari | Baida Roti, Nihari & Taj Ice Cream | Bohri Mohalla Food Tour",
+     "best_id": "2mcNBiJQ1a0"
+    },
+    {
+     "id": "UCnYi7-zHuWn6Yp4hcEtOzvA",
+     "title": "Revere Records",
+     "subs": 1380000,
+     "age_days": 5612,
+     "videos": 1,
+     "best_views": 422506,
+     "best_title": "Prassthanam (2019) Full Movie | Sanjay Dutt | Jackie Shroff | Ali Fazal | Political Action Drama",
+     "best_id": "dDctZfEw4uQ"
+    },
+    {
+     "id": "UClwbIhux27uHQUDRcOtKHiQ",
+     "title": "Phull Stop with Richa & Ali",
+     "subs": 7920,
+     "age_days": 50,
+     "videos": 6,
+     "best_views": 332946,
+     "best_title": "Who’s Nalasopara’s Biggest Celebrity? | Musafiri with Richa Chadha | S1E3",
+     "best_id": "CO6HSAcVRMQ"
+    },
+    {
+     "id": "UCycORvCTjr7zn-fxttE81zw",
+     "title": "The Urban Guide",
+     "subs": 1380000,
+     "age_days": 2089,
+     "videos": 3,
+     "best_views": 290660,
+     "best_title": "Trying BEST LUCKNOWI FOOD WITH MIRZAPUR'S GUDDU BHAIYA | The Urban Guide",
+     "best_id": "62JllFEKNbo"
     }
    ]
   }
