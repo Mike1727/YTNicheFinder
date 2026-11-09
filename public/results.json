@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-08T01:01:05Z",
+ "generated_at": "2026-11-09T01:01:51Z",
  "quota": {
-  "day": "2026-11-07",
-  "used": 2040,
+  "day": "2026-11-08",
+  "used": 3267,
   "budget": 9000
  },
  "pending": 0,
@@ -1746,6 +1746,134 @@
    ]
   },
   {
+   "channel_id": "UC3b0OGosZWLtCFFMpdzERpw",
+   "channel_title": "Forgotten Costume Jewelry",
+   "channel_created": "2026-09-21",
+   "channel_age_days": 48,
+   "subs": 1950,
+   "found_at": "2026-11-09T01:00:18Z",
+   "validated_at": "2026-11-09T01:01:40Z",
+   "niche": "The Tragic End of Judith Leiber: The Red Carpet Bag Brand That Closed Every Store in 2023",
+   "path": [],
+   "queries": [
+    "vintage costume jewelry",
+    "american costume jewelry",
+    "jewelry whatever happened"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "9cFe-PCs3MY",
+    "title": "The Tragic End of Judith Leiber: The Red Carpet Bag Brand That Closed Every Store in 2023",
+    "views": 75733
+   },
+   "ratio": 38.8,
+   "channel_stats": {
+    "videos": 50,
+    "median_views": 872,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 85,
+    "n_channels": 41,
+    "max_subs": 440000,
+    "median_subs": 6190,
+    "big_channels": 4,
+    "top_views": 522841,
+    "demand_videos": 4,
+    "demand_channels": 4,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30"
+   ],
+   "notes": [],
+   "score": 355,
+   "competitors": [
+    {
+     "id": "UCv7mY6CXR9MY912cRKR_y7Q",
+     "title": "Goldsmith Verdict",
+     "subs": 6530,
+     "age_days": 142,
+     "videos": 1,
+     "best_views": 522841,
+     "best_title": "These 7 Vintage Jewelry Brands That Look Fake But Are Worth Thousands",
+     "best_id": "h0OPQaYIoik"
+    },
+    {
+     "id": "UCdnJJ2_mzqHwKIX_SmCVHTA",
+     "title": "Antiques Roadshow PBS",
+     "subs": 440000,
+     "age_days": 7294,
+     "videos": 1,
+     "best_views": 248907,
+     "best_title": "Is This Vintage Jewelry Collection The Real Deal? | Antiques Roadshow Best Moment",
+     "best_id": "FAoUoR5RXuo"
+    },
+    {
+     "id": "UCWYCpXmczmgdDwHTYKAKyVg",
+     "title": "The Antique Nomad",
+     "subs": 92700,
+     "age_days": 3012,
+     "videos": 1,
+     "best_views": 109240,
+     "best_title": "What Sells & What Doesn’t in Vintage Jewelry",
+     "best_id": "smIqHQU-CLM"
+    },
+    {
+     "id": "UCBYfQ5_9SwXLI5VcTFDHsOg",
+     "title": "Forgotten Fragrance Empires",
+     "subs": 5340,
+     "age_days": 243,
+     "videos": 1,
+     "best_views": 51103,
+     "best_title": "Whatever Happened to Avon Jewelry? The Pins and Pearls Every American Mom Bought From Her Avon Lady",
+     "best_id": "BJ4KwTOu9c4"
+    },
+    {
+     "id": "UCZA1t1la4Cn_GCRlCOVXoTg",
+     "title": "Kelsey Olive",
+     "subs": 75900,
+     "age_days": 1522,
+     "videos": 1,
+     "best_views": 46627,
+     "best_title": "Vintage Jewelry Brands Worth $100s (Don't Miss These!)",
+     "best_id": "iCmxAR_nRAY"
+    },
+    {
+     "id": "UClSNP4s-_ZqcWR70uXDac0g",
+     "title": "Jewel Verdict",
+     "subs": 28000,
+     "age_days": 238,
+     "videos": 1,
+     "best_views": 42515,
+     "best_title": "10 Costume Jewelry Brands Worth More Than Real Gold (Check Grandma's Box)",
+     "best_id": "ha2rHyeNoRU"
+    },
+    {
+     "id": "UC_Jc08oOoYtIVdAMOKUSRRw",
+     "title": "The Nurse Flipper",
+     "subs": 130000,
+     "age_days": 6541,
+     "videos": 2,
+     "best_views": 34417,
+     "best_title": "Hidden Gems: Vintage Brooches That Sell for BIG Money",
+     "best_id": "RenRdDbt_14"
+    },
+    {
+     "id": "UCkN5jNYky03jok8jy5mKhzw",
+     "title": "No Longer Here",
+     "subs": 236000,
+     "age_days": 6432,
+     "videos": 1,
+     "best_views": 32491,
+     "best_title": "12 Vintage Jewelry Pieces Grandma Owned That Look Fake but Are Worth Thousands",
+     "best_id": "frkchVm1DZA"
+    }
+   ]
+  },
+  {
    "channel_id": "UC_mA-D4ZzYUAVaFSRfXd4Fw",
    "channel_title": "Fragile Luxury",
    "channel_created": "2026-09-08",
@@ -3294,6 +3422,135 @@
    ]
   },
   {
+   "channel_id": "UCmjNCP2f_R5us-fragi-SHA",
+   "channel_title": "PANACEA",
+   "channel_created": "2026-10-08",
+   "channel_age_days": 31,
+   "subs": 4500,
+   "found_at": "2026-11-09T01:01:05Z",
+   "validated_at": "2026-11-09T01:01:51Z",
+   "niche": "The Creepy Reason Ancient Humans Invented Castration (It Was Never Just A Punishment)",
+   "path": [],
+   "queries": [
+    "ancient biohacking",
+    "ancient medicine",
+    "ancient invented humans"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "tUggkUTFF9A",
+    "title": "The Creepy Reason Ancient Humans Invented Circumcision (It Was Never About Religion).",
+    "views": 59584
+   },
+   "ratio": 13.2,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 4937,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 78,
+    "n_channels": 55,
+    "max_subs": 26600000,
+    "median_subs": 27000,
+    "big_channels": 14,
+    "top_views": 5438903,
+    "demand_videos": 47,
+    "demand_channels": 27,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 55, лимит 30",
+    "Есть канал с 26 600 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 97,
+   "competitors": [
+    {
+     "id": "UCBQ0JNXTJeYXDJRrxGfyl1w",
+     "title": "Lore Explained",
+     "subs": 11800,
+     "age_days": 1841,
+     "videos": 1,
+     "best_views": 5438903,
+     "best_title": "What Did Ancient Humans Do For Pleasure?",
+     "best_id": "oGQRvdyFjM4"
+    },
+    {
+     "id": "UC0QHWhjbe5fGJEPz3sVb6nw",
+     "title": "Doctor Mike",
+     "subs": 15100000,
+     "age_days": 3733,
+     "videos": 2,
+     "best_views": 4069941,
+     "best_title": "The Ancient Medicine of Uncontacted Amazon Tribes | Paul Rosolie",
+     "best_id": "43_pBMrpYtE"
+    },
+    {
+     "id": "UC_7R-sfi7bi8dkzmSlBdUVw",
+     "title": "Axen",
+     "subs": 65700,
+     "age_days": 194,
+     "videos": 1,
+     "best_views": 3430243,
+     "best_title": "What Did Ancient Humans Do all Day Before Jobs Existed?",
+     "best_id": "TQd2k1pEXp4"
+    },
+    {
+     "id": "UCmJf6_W7W-Q7rTd5skVEgqA",
+     "title": "NORTH 02",
+     "subs": 768000,
+     "age_days": 3014,
+     "videos": 3,
+     "best_views": 2033235,
+     "best_title": "The Human Evolution Iceberg Explained",
+     "best_id": "ttNB5QMOunk"
+    },
+    {
+     "id": "UCSd_37JhlS1-cTL-XhPuKdQ",
+     "title": "Homestead Roots",
+     "subs": 515000,
+     "age_days": 4688,
+     "videos": 1,
+     "best_views": 1874716,
+     "best_title": "20 Forgotten Medicinal Plants That Will Heal You Instantly",
+     "best_id": "fnz8NWnEBAc"
+    },
+    {
+     "id": "UCt5OA3LingpZBeEyPYmputQ",
+     "title": "New Scientist",
+     "subs": 646000,
+     "age_days": 7286,
+     "videos": 3,
+     "best_views": 1837991,
+     "best_title": "Ancient Human Species We Once Co-Existed With",
+     "best_id": "mLrAJo6-SH4"
+    },
+    {
+     "id": "UCpgrEMx8diLrw7YNQ6r3uUw",
+     "title": "Ink Explainer",
+     "subs": 165000,
+     "age_days": 213,
+     "videos": 4,
+     "best_views": 1732970,
+     "best_title": "Why Are We the Only Human Species Left? What happened to others...",
+     "best_id": "OCr6NteWSQ8"
+    },
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7716,
+     "videos": 1,
+     "best_views": 1297979,
+     "best_title": "Medical Historian Answers History of Medicine Questions | Tech Support | WIRED",
+     "best_id": "Pjl8n8u9Xfw"
+    }
+   ]
+  },
+  {
    "channel_id": "UC0Wsj86YQlHQFsu0vYLYFWw",
    "channel_title": "Warrior Archives",
    "channel_created": "2026-10-05",
@@ -4327,6 +4584,135 @@
    ]
   },
   {
+   "channel_id": "UCkmMgYQqShA4khYZd-wqR7Q",
+   "channel_title": "Red Case",
+   "channel_created": "2026-10-12",
+   "channel_age_days": 27,
+   "subs": 374,
+   "found_at": "2026-11-09T01:00:33Z",
+   "validated_at": "2026-11-09T01:01:20Z",
+   "niche": "63-Year-Old Man Has No Idea DNA Evidence From His Cadillac Will Expose Him 35 Years Later",
+   "path": [],
+   "queries": [
+    "true crime documentary",
+    "true crime",
+    "idea has friendly"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "CB6l6HStP6o",
+    "title": "63-Year-Old Man Has No Idea DNA Evidence From His Cadillac Will Expose Him 35 Years Later",
+    "views": 89492
+   },
+   "ratio": 239.3,
+   "channel_stats": {
+    "videos": 7,
+    "median_views": 3577,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 110,
+    "n_channels": 66,
+    "max_subs": 11800000,
+    "median_subs": 20950,
+    "big_channels": 24,
+    "top_views": 15921164,
+    "demand_videos": 74,
+    "demand_channels": 35,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 66, лимит 30",
+    "Есть канал с 11 800 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 59,
+   "competitors": [
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 118000,
+     "age_days": 256,
+     "videos": 2,
+     "best_views": 15921164,
+     "best_title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+     "best_id": "rJYy0pHZDxA"
+    },
+    {
+     "id": "UC0JJtK3m8pwy6rVgnBz47Rw",
+     "title": "Rotten Mango",
+     "subs": 6980000,
+     "age_days": 1369,
+     "videos": 1,
+     "best_views": 4848406,
+     "best_title": "13 Year Old Realizes His TWIN Brother Is A Killer In The Middle Of Interrogation",
+     "best_id": "jzaVF-vQR_k"
+    },
+    {
+     "id": "UCYOfoV7p5AK_fOFqBDRWk_g",
+     "title": "DOCS 187",
+     "subs": 17800,
+     "age_days": 47,
+     "videos": 3,
+     "best_views": 4121295,
+     "best_title": "\"Friendly\" NYPD Officer Has No Idea The $7,000 Hitman She Paid Is An FBI Agent",
+     "best_id": "o0pKDRi9P68"
+    },
+    {
+     "id": "UCVXKabRhXSQXh_U0au5JSzQ",
+     "title": "EWU Crime Storytime",
+     "subs": 2390000,
+     "age_days": 1887,
+     "videos": 2,
+     "best_views": 3970506,
+     "best_title": "Neighbor Thinks He Got Away With Murder",
+     "best_id": "vNaYVSHC69k"
+    },
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2580000,
+     "age_days": 4895,
+     "videos": 7,
+     "best_views": 3908233,
+     "best_title": "The Mansion Above Dale Hollow Lake | Full Episode",
+     "best_id": "MDsiBut2SXQ"
+    },
+    {
+     "id": "UC7_MOIpN8fn_UZAivnn10_Q",
+     "title": "M7 Crime Storytime",
+     "subs": 546000,
+     "age_days": 1401,
+     "videos": 1,
+     "best_views": 2562142,
+     "best_title": "Killer Has No Idea His Own Camera Filmed Him Dragging The Body",
+     "best_id": "zjDyunQ_E1c"
+    },
+    {
+     "id": "UCOK0fZAUx82plnLhTKZW6qg",
+     "title": "Annie Elise",
+     "subs": 1850000,
+     "age_days": 3937,
+     "videos": 1,
+     "best_views": 1863099,
+     "best_title": "Chris Watts Admits the Murders Were Pre-Planned & Throws Mistress Under the Bus?",
+     "best_id": "dVYdsdeMtHI"
+    },
+    {
+     "id": "UCQ9E1aC-uPscclk79tp1Alw",
+     "title": "Behind Detective's Mind",
+     "subs": 20500,
+     "age_days": 185,
+     "videos": 3,
+     "best_views": 1515397,
+     "best_title": "“Friendly” Cop Has No Idea AirTag Exposed Her Deadly Secret",
+     "best_id": "ewCKwhXUK2A"
+    }
+   ]
+  },
+  {
    "channel_id": "UC-dok9dN2ZfNJoy4LT6WqSw",
    "channel_title": "They Already Knew",
    "channel_created": "2026-10-22",
@@ -4841,6 +5227,135 @@
      "best_views": 1771009,
      "best_title": "A Massive Earthquake Unleashed a Sudden Global Ice Age! Will Anyone Survive This Instant Freeze?!",
      "best_id": "12_GU3PeQuk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCfTD1TTaLoeF02x8wWFUcKw",
+   "channel_title": "The Wealth Engine",
+   "channel_created": "2026-10-03",
+   "channel_age_days": 36,
+   "subs": 5150,
+   "found_at": "2026-11-09T01:00:30Z",
+   "validated_at": "2026-11-09T01:01:30Z",
+   "niche": "How Economy Actually  Work?",
+   "path": [],
+   "queries": [
+    "economics documentary",
+    "international trade",
+    "economy actually work"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "YqAiWBFwbpg",
+    "title": "How Economy Actually  Work?",
+    "views": 488393
+   },
+   "ratio": 94.8,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 1077,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 100,
+    "n_channels": 88,
+    "max_subs": 23000000,
+    "median_subs": 14650,
+    "big_channels": 33,
+    "top_views": 4177507,
+    "demand_videos": 34,
+    "demand_channels": 27,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 88, лимит 30",
+    "Есть канал с 23 000 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 43,
+   "competitors": [
+    {
+     "id": "UCmbF1cyNa6y7uNYiqYmSVJw",
+     "title": "LITTLE BIT BETTER",
+     "subs": 1420000,
+     "age_days": 2040,
+     "videos": 2,
+     "best_views": 4177507,
+     "best_title": "Once You Understand Economics, You Can't Be MANIPULATED Anymore",
+     "best_id": "zxVoCw3P1Gc"
+    },
+    {
+     "id": "UCmGSJVG3mCRXVOP4yZrU1Dw",
+     "title": "Johnny Harris",
+     "subs": 8010000,
+     "age_days": 5632,
+     "videos": 1,
+     "best_views": 3730357,
+     "best_title": "How Money Actually Works",
+     "best_id": "XXpqejgnaB0"
+    },
+    {
+     "id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+     "title": "Bloomberg Originals",
+     "subs": 5200000,
+     "age_days": 7549,
+     "videos": 4,
+     "best_views": 3008863,
+     "best_title": "What's Wrong With Germany?",
+     "best_id": "IlbPO9Vmuuo"
+    },
+    {
+     "id": "UCfW7Uk_vJfa2t5IeWikYv6Q",
+     "title": "Explained In minutes",
+     "subs": 129000,
+     "age_days": 255,
+     "videos": 1,
+     "best_views": 2601502,
+     "best_title": "Entire INDIAN Economics in 18 Mins",
+     "best_id": "HGe-SUyPZ38"
+    },
+    {
+     "id": "UCK1XzxcKXB_v_dcw_tflC1A",
+     "title": "OBF",
+     "subs": 742000,
+     "age_days": 4355,
+     "videos": 1,
+     "best_views": 2527499,
+     "best_title": "How To Destroy An Economy",
+     "best_id": "B1yXAfP0AAI"
+    },
+    {
+     "id": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+     "title": "FRONTLINE PBS | Official",
+     "subs": 4860000,
+     "age_days": 4841,
+     "videos": 2,
+     "best_views": 2013400,
+     "best_title": "Before the Great Recession, “The Warning” (full documentary)",
+     "best_id": "ZZ25uZtey34"
+    },
+    {
+     "id": "UCsooa4yRKGN_zEE8iknghZA",
+     "title": "TED-Ed",
+     "subs": 23000000,
+     "age_days": 5731,
+     "videos": 1,
+     "best_views": 786162,
+     "best_title": "What are tariffs, and how do they work?",
+     "best_id": "BSdEiOYvKpE"
+    },
+    {
+     "id": "UCvPXiKxH-eH9xq-80vpgmKQ",
+     "title": "Epic History",
+     "subs": 3200000,
+     "age_days": 4261,
+     "videos": 1,
+     "best_views": 638909,
+     "best_title": "Rise of China - The Economic Revolution that made China a Superpower",
+     "best_id": "J7b6X-fp62c"
     }
    ]
   },
