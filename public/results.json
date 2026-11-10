@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-09T01:01:51Z",
+ "generated_at": "2026-11-10T01:01:34Z",
  "quota": {
-  "day": "2026-11-08",
-  "used": 3267,
+  "day": "2026-11-09",
+  "used": 2857,
   "budget": 9000
  },
  "pending": 0,
@@ -2132,6 +2132,134 @@
    ]
   },
   {
+   "channel_id": "UCmy4A2pS0nWLlcxbG0jvJwQ",
+   "channel_title": "Jiang Youni",
+   "channel_created": "2026-09-25",
+   "channel_age_days": 45,
+   "subs": 1030,
+   "found_at": "2026-11-10T01:00:29Z",
+   "validated_at": "2026-11-10T01:01:26Z",
+   "niche": "The history of architecture in New York",
+   "path": [],
+   "queries": [
+    "lifestyle live",
+    "live entertainment",
+    "youni jiang beauty"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "TU065s1SvQQ",
+    "title": "The history of architecture in New York",
+    "views": 346356
+   },
+   "ratio": 336.3,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 147,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 48,
+    "n_channels": 30,
+    "max_subs": 14100000,
+    "median_subs": 23750,
+    "big_channels": 7,
+    "top_views": 666708,
+    "demand_videos": 12,
+    "demand_channels": 11,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 14 100 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 241,
+   "competitors": [
+    {
+     "id": "UCk5ocL7_sgJbXGnR0Aen0VQ",
+     "title": "Nopiex Live",
+     "subs": 207000,
+     "age_days": 1187,
+     "videos": 1,
+     "best_views": 666708,
+     "best_title": "👶The Baby in Yellow Horror Funny Gameplay #live #livestream #horrorgaming #shortslive #granny",
+     "best_id": "Fv9qaIt-0Jo"
+    },
+    {
+     "id": "UCZGQHNFGp1ZZ8ugAt_0MRuA",
+     "title": "8 POINT ENTERTAINMENT",
+     "subs": 75300,
+     "age_days": 2673,
+     "videos": 1,
+     "best_views": 650963,
+     "best_title": "Soppana Sundari Song Live Performance  | D. Imman Live in Singapore | Vaikom Vijaya Lakshmi",
+     "best_id": "0UBDfvURYfo"
+    },
+    {
+     "id": "UC4es3f3-jkbqS-FdirJjj6w",
+     "title": "Muda Saputra Entertainment ",
+     "subs": 2030,
+     "age_days": 4294,
+     "videos": 1,
+     "best_views": 556773,
+     "best_title": "Negoro Angin (Denny Caknan) Live Muda Saputra Entertainment | VIRAL TIKTOK",
+     "best_id": "oJQcZmZHScw"
+    },
+    {
+     "id": "UCvwn9pGVzKmMS6Ssd8R0pog",
+     "title": "Andreas Eskander",
+     "subs": 14100000,
+     "age_days": 2864,
+     "videos": 1,
+     "best_views": 481474,
+     "best_title": "I GOT ARRESTED AT MY HOUSE… (LIVE)",
+     "best_id": "peq-gh0Lncw"
+    },
+    {
+     "id": "UC0YrTpFN3nH-_Bo6i1oLPRQ",
+     "title": "Nathiya’s lifestyle ",
+     "subs": 9350,
+     "age_days": 263,
+     "videos": 2,
+     "best_views": 260264,
+     "best_title": "Nathiya’s lifestyle  cooking live",
+     "best_id": "Lh1J8GVmaos"
+    },
+    {
+     "id": "UCCWbdBcb846ZkIDGnFI1SWA",
+     "title": "1Z ENTERTAINMENT",
+     "subs": 110000,
+     "age_days": 1135,
+     "videos": 1,
+     "best_views": 105825,
+     "best_title": "Stell 'Crazy' Live Showcase",
+     "best_id": "t0838Z0Iw_c"
+    },
+    {
+     "id": "UCB9JtV2su0yjFIwrnQxZn2w",
+     "title": "National Documentary",
+     "subs": 2310,
+     "age_days": 190,
+     "videos": 1,
+     "best_views": 101025,
+     "best_title": "Living in Japan | How People Live Across Cities and Villages | 4K Documentary",
+     "best_id": "pulhNdUWkBk"
+    },
+    {
+     "id": "UCElGBUWDCa05jRzc2PfmGqQ",
+     "title": "Tom MacDonald",
+     "subs": 5280000,
+     "age_days": 6391,
+     "videos": 1,
+     "best_views": 98658,
+     "best_title": "I’M LIVE! Lots to talk about…",
+     "best_id": "36JdUbfrioE"
+    }
+   ]
+  },
+  {
    "channel_id": "UC_Ywcgjflp3fY3wJJ_Y3rvg",
    "channel_title": "Margin of Safety",
    "channel_created": "2026-10-27",
@@ -2261,6 +2389,135 @@
    ]
   },
   {
+   "channel_id": "UCcOAlu4XQNLAi9MtHG5qjAA",
+   "channel_title": "The Farm Blueprint",
+   "channel_created": "2026-09-23",
+   "channel_age_days": 47,
+   "subs": 2700,
+   "found_at": "2026-11-10T01:00:55Z",
+   "validated_at": "2026-11-10T01:01:18Z",
+   "niche": "How a 3,000-Year-Old Dream Built the Suez Canal | Full History",
+   "path": [],
+   "queries": [
+    "smart farming",
+    "5 layer farming system",
+    "history farming built"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "mLTY3vPDya0",
+    "title": "How a 3,000-Year-Old Dream Built the Suez Canal | Full History",
+    "views": 1186980
+   },
+   "ratio": 439.6,
+   "channel_stats": {
+    "videos": 13,
+    "median_views": 6270,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 49,
+    "n_channels": 44,
+    "max_subs": 6750000,
+    "median_subs": 9730,
+    "big_channels": 13,
+    "top_views": 965571,
+    "demand_videos": 14,
+    "demand_channels": 12,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 44, лимит 30",
+    "Есть канал с 6 750 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 186,
+   "competitors": [
+    {
+     "id": "UCRnt3WDhjHT30Xs5h9w3gqg",
+     "title": "Discover Agriculture",
+     "subs": 2200000,
+     "age_days": 2848,
+     "videos": 1,
+     "best_views": 965571,
+     "best_title": "1 Acre, 13 Income Streams, ₹10 Lakh Profit | Integrated Farming System",
+     "best_id": "v-VyaQCOYT4"
+    },
+    {
+     "id": "UCzsHYjHL1dZ4_3-DxgrOQOw",
+     "title": "Agriculture Insight",
+     "subs": 263000,
+     "age_days": 777,
+     "videos": 1,
+     "best_views": 509301,
+     "best_title": "Unbelievable Modern China Farming Technology – How Farmers Reap 1.8 Billion Tons Each Year",
+     "best_id": "aA4fDksOdyU"
+    },
+    {
+     "id": "UCKVdzjYl4LoH9dD49lPhctA",
+     "title": "Agro Adventure",
+     "subs": 75100,
+     "age_days": 2232,
+     "videos": 1,
+     "best_views": 481558,
+     "best_title": "The Most Profitable Way to Design a 1-Acre Farm | How to Turn 1 Acre into a 7-Stream Income Engine",
+     "best_id": "GUHDveZbZ24"
+    },
+    {
+     "id": "UCoah0FMpaTxHpZlF09kqQmg",
+     "title": "프로세스 케이 Process K",
+     "subs": 470000,
+     "age_days": 1693,
+     "videos": 1,
+     "best_views": 397454,
+     "best_title": "The process of growing vegetables using amazing technology. Korea's cutting-edge smart farm",
+     "best_id": "jVCPF7puUpM"
+    },
+    {
+     "id": "UCIW5RbT99hk8hTLVghccJSw",
+     "title": "ShemCooks",
+     "subs": 2840,
+     "age_days": 723,
+     "videos": 1,
+     "best_views": 259967,
+     "best_title": "Inside Kenya’s Multi-Million Smart Farm | From Farm to Fork",
+     "best_id": "0BHcGitvGO0"
+    },
+    {
+     "id": "UCmcLe3_zLmccB0puSlJHEWw",
+     "title": "AgriTalk By Abhinav Roy",
+     "subs": 424000,
+     "age_days": 1057,
+     "videos": 2,
+     "best_views": 121918,
+     "best_title": "5-Layer Natural Farming: Google Engineer का 6.5 Acres Farm Tour | 2000+ Plants, Zero Budget",
+     "best_id": "85pvXECoH0o"
+    },
+    {
+     "id": "UCFtmEceTl8O9QbxXz1e22Zg",
+     "title": "Kronoset",
+     "subs": 10300,
+     "age_days": 196,
+     "videos": 1,
+     "best_views": 120325,
+     "best_title": "The History of Farm Windmills — Why America Built 6 Million of Them to Settle the Plains",
+     "best_id": "T6KHmTLtxkw"
+    },
+    {
+     "id": "UCYzz2SkhAaM0FDKuGk-IPZg",
+     "title": "Richard Aguilar",
+     "subs": 203000,
+     "age_days": 4855,
+     "videos": 3,
+     "best_views": 92637,
+     "best_title": "How SMART FARMING in China Is Changing Global Food",
+     "best_id": "nQdtlj5PB5w"
+    }
+   ]
+  },
+  {
    "channel_id": "UC8agTrUkdvwma6cYk9mBd8A",
    "channel_title": "Last Grill",
    "channel_created": "2026-09-01",
@@ -2386,6 +2643,134 @@
      "best_views": 49928,
      "best_title": "7 Best Gas Grills For Barbecues In 2026",
      "best_id": "4u_GvGyyTD0"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCi87UMwgHNeiV-eMgcDbDbw",
+   "channel_title": "naked & natural",
+   "channel_created": "2026-11-09",
+   "channel_age_days": 0,
+   "subs": 2290,
+   "found_at": "2026-11-10T01:00:29Z",
+   "validated_at": "2026-11-10T01:01:34Z",
+   "niche": "Educational Fine Art Photography: Estate Architecture, Garden Lighting & Form Framing (Feat Hilary C",
+   "path": [],
+   "queries": [
+    "garden form architecture",
+    "educational fine art photography"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "PVnkCZGW6Dk",
+    "title": "Educational Fine Art Photography: Estate Architecture, Garden Lighting & Form Framing (Feat Hilary C",
+    "views": 51374
+   },
+   "ratio": 22.4,
+   "channel_stats": {
+    "videos": 1,
+    "median_views": 51701,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 18,
+    "n_channels": 18,
+    "max_subs": 8060000,
+    "median_subs": 60100,
+    "big_channels": 7,
+    "top_views": 11706409,
+    "demand_videos": 9,
+    "demand_channels": 9,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 8 060 000 подписчиков",
+    "Медиана подписчиков 60 100 выше лимита"
+   ],
+   "notes": [],
+   "score": 150,
+   "competitors": [
+    {
+     "id": "UC6iyrmtXY7E3QwI-J3PlX-A",
+     "title": "Let's Play",
+     "subs": 192000,
+     "age_days": 1002,
+     "videos": 1,
+     "best_views": 11706409,
+     "best_title": "Adel is Painting Valentine’s Art | Learn Colors | Toddler Learning Video",
+     "best_id": "0Hie14srs64"
+    },
+    {
+     "id": "UC0k238zFx-Z8xFH0sxCrPJg",
+     "title": "Architectural Digest",
+     "subs": 8060000,
+     "age_days": 7355,
+     "videos": 1,
+     "best_views": 347468,
+     "best_title": "Inside the Restoration of Coco Chanel's Garden on the French Riviera | Architectural Digest",
+     "best_id": "h-aCj63M2qA"
+    },
+    {
+     "id": "UCgxg48_pay4R67s-7WOgWFA",
+     "title": "The Local Project",
+     "subs": 1470000,
+     "age_days": 3065,
+     "videos": 1,
+     "best_views": 244406,
+     "best_title": "Architect Designs a Home Around a Breathtaking Hidden Garden (House Tour)",
+     "best_id": "iJiVEXRqbjw"
+    },
+    {
+     "id": "UCj1KxA1NgsMWiFQcFFazHTw",
+     "title": "Old alax",
+     "subs": 1640,
+     "age_days": 69,
+     "videos": 1,
+     "best_views": 167179,
+     "best_title": "Educational Fine Art Photography: Estate Architecture, Garden Lighting & Form Framing (Feat. Laura)",
+     "best_id": "zWNnRu_jDmI"
+    },
+    {
+     "id": "UCO5-gofb4X7_PSotemtttiw",
+     "title": "HomeInspire",
+     "subs": 96100,
+     "age_days": 2096,
+     "videos": 1,
+     "best_views": 124752,
+     "best_title": "Inside Architect Tim Robinson's Hackney Home & Hidden Garden Studio",
+     "best_id": "OhR-Ehkjgd8"
+    },
+    {
+     "id": "UCg_Z6ZUt_FnQsRuebCOd7pQ",
+     "title": "Richard Brockwell ( Black and White Photography )",
+     "subs": 18700,
+     "age_days": 1142,
+     "videos": 1,
+     "best_views": 120893,
+     "best_title": "\"I Fixed My Black and White Photography With ONE Setting\"",
+     "best_id": "m4xXivDh0ko"
+    },
+    {
+     "id": "UCY0ceNJ1gybHYUmGjoz0YsA",
+     "title": "Gary Gough",
+     "subs": 125000,
+     "age_days": 6410,
+     "videos": 1,
+     "best_views": 93578,
+     "best_title": "Fine Art Landscape Photography - THIS IS DIFFERENT!",
+     "best_id": "CSNAA3fJkJo"
+    },
+    {
+     "id": "UCHM8OiUDdW-9jpCHv6-gITg",
+     "title": "Martin Osner",
+     "subs": 25700,
+     "age_days": 5135,
+     "videos": 1,
+     "best_views": 92725,
+     "best_title": "Composition in Photography: The Part Nobody Teaches",
+     "best_id": "0H-t9N1hDj0"
     }
    ]
   },
