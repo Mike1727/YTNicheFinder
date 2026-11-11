@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-10T01:01:34Z",
+ "generated_at": "2026-11-11T01:02:11Z",
  "quota": {
-  "day": "2026-11-09",
-  "used": 2857,
+  "day": "2026-11-10",
+  "used": 3264,
   "budget": 9000
  },
  "pending": 0,
@@ -582,6 +582,134 @@
      "best_views": 681427,
      "best_title": "The Entire History of IRAN in 35 minutes",
      "best_id": "JA7W5rWq6hY"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCaGzrbHPXS8GniYUAdOK_iw",
+   "channel_title": "Nancy Grace: Crime Uncovered",
+   "channel_created": "2026-10-23",
+   "channel_age_days": 18,
+   "subs": 2820,
+   "found_at": "2026-11-11T01:00:37Z",
+   "validated_at": "2026-11-11T01:01:40Z",
+   "niche": "Nancy Grace: BOMBSHELL! Tiger King star Carole Baskins missing hubbys signature was 'traced'.",
+   "path": [],
+   "queries": [
+    "nancy grace",
+    "nancy grace true crime",
+    "nancy grace bombshell"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "m6bgokUeG6Y",
+    "title": "Nancy Grace: BOMBSHELL! Tiger King star Carole Baskins missing hubbys signature was 'traced'.",
+    "views": 465088
+   },
+   "ratio": 164.9,
+   "channel_stats": {
+    "videos": 14,
+    "median_views": 5289,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 85,
+    "n_channels": 13,
+    "max_subs": 1430000,
+    "median_subs": 25700,
+    "big_channels": 5,
+    "top_views": 1569599,
+    "demand_videos": 69,
+    "demand_channels": 5,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 1 430 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1138,
+   "competitors": [
+    {
+     "id": "UCFgSizoPkSkkldoDslZUaYQ",
+     "title": "Nancy Grace",
+     "subs": 1070000,
+     "age_days": 3436,
+     "videos": 65,
+     "best_views": 1569599,
+     "best_title": "NOLAN WELLS BOMBSHELL: DEAD TEEN'S MESSAGES DELETED AFTER BODY \"WASHES ASHORE?\"",
+     "best_id": "OBKigjcCYmk"
+    },
+    {
+     "id": "UC2OREBiIbDChxvmDeg30Bsg",
+     "title": "Stephen A. Smith",
+     "subs": 1430000,
+     "age_days": 1510,
+     "videos": 2,
+     "best_views": 553974,
+     "best_title": "Stephen A Smith: \"I Need More Evidence!\" Nancy Grace Demands Truth in Nolan Wells Tragedy",
+     "best_id": "2sep6EE0HKk"
+    },
+    {
+     "id": "UCaGzrbHPXS8GniYUAdOK_iw",
+     "title": "Nancy Grace: Crime Uncovered",
+     "subs": 2820,
+     "age_days": 18,
+     "videos": 6,
+     "best_views": 465088,
+     "best_title": "Nancy Grace: BOMBSHELL! Tiger King star Carole Baskins missing hubbys signature was 'traced'.",
+     "best_id": "m6bgokUeG6Y"
+    },
+    {
+     "id": "UCb2vdEzE-yoCECVp83c5E2A",
+     "title": "Taylor House Publishing",
+     "subs": 167000,
+     "age_days": 5211,
+     "videos": 2,
+     "best_views": 89959,
+     "best_title": "Nancy Grace EXPOSED Nolan Wells' Cover-Up!!",
+     "best_id": "7fT_w8Pu6vw"
+    },
+    {
+     "id": "UCo6HAmo7vVewHUzP-U77IyQ",
+     "title": "AT2",
+     "subs": 107000,
+     "age_days": 5328,
+     "videos": 1,
+     "best_views": 81025,
+     "best_title": "Nancy Grace Had Brandon Tatum SHOOK!",
+     "best_id": "uuWjci8AL5o"
+    },
+    {
+     "id": "UCaQOKaiF1i0Ih0jTyPLsIdA",
+     "title": "BIGGKISH",
+     "subs": 224000,
+     "age_days": 3378,
+     "videos": 1,
+     "best_views": 49729,
+     "best_title": "🚨Nancy Grace Drops Bombshell On The Nolan Wells Case.",
+     "best_id": "KzhXPf3imW8"
+    },
+    {
+     "id": "UCYFmzkcOHCi_OZH3ZQXv1Tw",
+     "title": "Tamera Nealy",
+     "subs": 86500,
+     "age_days": 1272,
+     "videos": 1,
+     "best_views": 29557,
+     "best_title": "Nancy Grace’s Latest BOMBSHELL Changes EVERYTHING in Nolan Wells Case",
+     "best_id": "IdWsgK3YPqc"
+    },
+    {
+     "id": "UCTpLteTDwmGvoRaEBE5EVoA",
+     "title": "True Crime Victims",
+     "subs": 8960,
+     "age_days": 862,
+     "videos": 1,
+     "best_views": 15745,
+     "best_title": "LATEST Nolan Wells Case Takes a Shocking Turn New Witness Emerges With Bombshell Claims| Nancy Grace",
+     "best_id": "0jA6ABGAuiE"
     }
    ]
   },
@@ -1613,6 +1741,135 @@
      "best_views": 600921,
      "best_title": "He (Accidentally) Built the Amazon of Manufacturing",
      "best_id": "bE9QiASLFsQ"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCcV8Cy0roqLLr0_6jGsnKIw",
+   "channel_title": "Hazine-i Evrak",
+   "channel_created": "2026-10-11",
+   "channel_age_days": 30,
+   "subs": 1100,
+   "found_at": "2026-11-11T01:00:27Z",
+   "validated_at": "2026-11-11T01:02:11Z",
+   "niche": "Ertuğrul Gazi'nin Gerçek Hikâyesi: Kayı Boyu ve Anadolu'ya Göç",
+   "path": [],
+   "queries": [
+    "tarih belgeseli",
+    "osmanlı belgeseli",
+    "gazi gerçek osman"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "SfF7qvQBfPw",
+    "title": "Ertuğrul Gazi'nin Gerçek Hikâyesi: Kayı Boyu ve Anadolu'ya Göç",
+    "views": 101570
+   },
+   "ratio": 92.3,
+   "channel_stats": {
+    "videos": 5,
+    "median_views": 2749,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 89,
+    "n_channels": 41,
+    "max_subs": 11900000,
+    "median_subs": 6690,
+    "big_channels": 11,
+    "top_views": 1110858,
+    "demand_videos": 36,
+    "demand_channels": 20,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30",
+    "Есть канал с 11 900 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 369,
+   "competitors": [
+    {
+     "id": "UCnk1NZzywdKmTDSJ_qLUc5w",
+     "title": "Gizem Laboratuvarı",
+     "subs": 67500,
+     "age_days": 618,
+     "videos": 4,
+     "best_views": 1110858,
+     "best_title": "İSTANBUL NASIL FETHEDİLDİ? | YAPAY ZEKA İLE CANLANDIRILDI!",
+     "best_id": "Q4lhTwNIfiI"
+    },
+    {
+     "id": "UCkt16_ZlaQFZYfotcUQWmVQ",
+     "title": "Gerçeği Bul",
+     "subs": 1030000,
+     "age_days": 4052,
+     "videos": 1,
+     "best_views": 606151,
+     "best_title": "Emeviler: İslam Tarihinin En Karanlık Sayfası",
+     "best_id": "g7dMFiVWkcI"
+    },
+    {
+     "id": "UCQVvNTb-Etyew4OH4RsQrCA",
+     "title": "Uyku Meddahı",
+     "subs": 35900,
+     "age_days": 297,
+     "videos": 24,
+     "best_views": 497093,
+     "best_title": "Osmanlı’da Padişah Olarak Yaşamak Nasıldı | Uyku Belgeseli",
+     "best_id": "Y_9NLgXiYKU"
+    },
+    {
+     "id": "UCaEs8Vj-Ozxx7WsAjYcKjiA",
+     "title": "Kronik Tarih",
+     "subs": 568000,
+     "age_days": 2383,
+     "videos": 3,
+     "best_views": 483430,
+     "best_title": "Kuruluştan Yıkılışa: 1200 Yıllık Roma İmparatorluğu Tarihi",
+     "best_id": "U3DMdWybUkk"
+    },
+    {
+     "id": "UC5d5B0ZEjB7w5ndj7ORpx3Q",
+     "title": "Uyumadan Önce Osmanlı Tarihi",
+     "subs": 3690,
+     "age_days": 659,
+     "videos": 1,
+     "best_views": 443373,
+     "best_title": "Osmanlı'nın En Acımasız Padişahı: Yavuz Sultan Selim'in 8 Yıllık Dehşet Saltanatı",
+     "best_id": "8Eq5i2geNdg"
+    },
+    {
+     "id": "UCnCPmDV12y76GXXNdtOyyjA",
+     "title": "Uyku ve Tarih Sırları",
+     "subs": 18200,
+     "age_days": 247,
+     "videos": 7,
+     "best_views": 402314,
+     "best_title": "İlk İnsanlar Bütün Gün GERÇEKTE Ne Yapıyorlardı? | Uyku İçin Tarih Belgeseli",
+     "best_id": "36dLD0d7Np8"
+    },
+    {
+     "id": "UCy-aBM4PCg9nBjZLaHLDaCw",
+     "title": "Hasanoğlan Köy Enstitüsü",
+     "subs": 361000,
+     "age_days": 5200,
+     "videos": 1,
+     "best_views": 398029,
+     "best_title": "İlk Defa: Osmanlı’da 1 Gün Nasıldı?  110 Yıllık Gerçek Görüntüler  Renklendirilmiş Osmanlı Şehirleri",
+     "best_id": "-Pau7Lgr-Q4"
+    },
+    {
+     "id": "UCToMn-OBzjTPFxqggK6l3YQ",
+     "title": "Gece Gelen Tarih",
+     "subs": 26400,
+     "age_days": 428,
+     "videos": 2,
+     "best_views": 346430,
+     "best_title": "Paris’i Fetheden Yetim Kız Neyi Saklıyordu? Coco Chanel - Belgesel",
+     "best_id": "IQ87f4dOsUU"
     }
    ]
   },
@@ -4448,6 +4705,135 @@
      "best_views": 1956697,
      "best_title": "The ENTIRE History of WW2 Explained",
      "best_id": "Nlu6Fe-vbYQ"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCEAeK_yX-iOURirieDr0Luw",
+   "channel_title": "虚实剧场ShortTV",
+   "channel_created": "2026-10-09",
+   "channel_age_days": 32,
+   "subs": 4780,
+   "found_at": "2026-11-11T01:00:48Z",
+   "validated_at": "2026-11-11T01:01:48Z",
+   "niche": "Ex dumped him at sea to die!Wakes beast system—rides a croc&village beauty begs to marry",
+   "path": [],
+   "queries": [
+    "small video",
+    "thai drama2025",
+    "poor guy gets"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Ele341jrras",
+    "title": "Ex dumped him at sea to die!Wakes beast system—rides a croc&village beauty begs to marry",
+    "views": 655198
+   },
+   "ratio": 137.1,
+   "channel_stats": {
+    "videos": 23,
+    "median_views": 3920,
+    "hits": 5
+   },
+   "market": {
+    "n_videos": 63,
+    "n_channels": 48,
+    "max_subs": 45200000,
+    "median_subs": 44850,
+    "big_channels": 13,
+    "top_views": 1991336,
+    "demand_videos": 41,
+    "demand_channels": 35,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 48, лимит 30",
+    "Есть канал с 45 200 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 77,
+   "competitors": [
+    {
+     "id": "UCfGLuQh7P5pzQYsHEZhaZsA",
+     "title": "CDrama-Lens",
+     "subs": 29900,
+     "age_days": 469,
+     "videos": 1,
+     "best_views": 1991336,
+     "best_title": "【Movie✨】Poor Guy Hugs Wrong Girl at Airport, She’s a Rich Heiress! Fate Brings Them Together!💘#drama",
+     "best_id": "WUFbY6xcXYI"
+    },
+    {
+     "id": "UCd1tp8Tg_tySDBPzfq-ZatQ",
+     "title": "Dragon X-No1Drama",
+     "subs": 175000,
+     "age_days": 477,
+     "videos": 1,
+     "best_views": 1190516,
+     "best_title": "A poor guy hired as the CEO’s bodyguard—3 seconds later he crushed a merc squad. “Lord Death!”",
+     "best_id": "CNxbh2LDbhM"
+    },
+    {
+     "id": "UCXSHOjS30YMaGRgwuuxBfLw",
+     "title": "ChronicLawVEVO",
+     "subs": 393000,
+     "age_days": 3137,
+     "videos": 1,
+     "best_views": 996814,
+     "best_title": "Chronic Law, YGR - Small Talk (Official Music Video)",
+     "best_id": "RXjSgDtTOl0"
+    },
+    {
+     "id": "UCnvT5clnO6oeYTT5E6q1ibg",
+     "title": "Dragon Lord Drama",
+     "subs": 26600,
+     "age_days": 168,
+     "videos": 2,
+     "best_views": 994160,
+     "best_title": "Poor guy saves beauty! Unaware she's richest heir! She offers $10B to marry him!",
+     "best_id": "uV03gWRDEF0"
+    },
+    {
+     "id": "UCCsrRTpVLRuMV2t3s1SQxfA",
+     "title": "GEM: Film Library",
+     "subs": 369000,
+     "age_days": 1180,
+     "videos": 1,
+     "best_views": 869699,
+     "best_title": "Dark World | Thai Full Movie | Action Drama Fantasy",
+     "best_id": "ZdZkfKUVcdo"
+    },
+    {
+     "id": "UCLXIKaEfHMNsN-CbC7sZ3MA",
+     "title": "Tales By Jordan",
+     "subs": 7440,
+     "age_days": 58,
+     "videos": 1,
+     "best_views": 738172,
+     "best_title": "Poor guy missed his interview to help a woman-she was the boss. His life changed forever",
+     "best_id": "97C9F1V98Gg"
+    },
+    {
+     "id": "UCgNVL5L76rsI3bkEbUnt_sQ",
+     "title": "Vortex Drama",
+     "subs": 96700,
+     "age_days": 489,
+     "videos": 2,
+     "best_views": 660823,
+     "best_title": "Poor Guy Betrayed by Girlfriend—Awakens Cashback System, 100x Cashback on Spending, Rises to the Top",
+     "best_id": "lplBvbCQNHk"
+    },
+    {
+     "id": "UCTDIWZUvof-zuaNWPj6rf0A",
+     "title": "Valor Drama",
+     "subs": 60600,
+     "age_days": 167,
+     "videos": 4,
+     "best_views": 601159,
+     "best_title": "🔥Poor Guy Woke Up to 5 Sons—One Second Later, His System Paid Him $10M & His Wife Was a Hot CEO!",
+     "best_id": "-6placu7wtw"
     }
    ]
   },
@@ -8079,6 +8465,136 @@
      "best_views": 1016411,
      "best_title": "CHINA 2050: A Country That Lives in the Future | 4K Documentary",
      "best_id": "iebCgX_89Tk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCvFkZTrmpU7IYQmjkyTjzlw",
+   "channel_title": "Earth Origins",
+   "channel_created": "2026-09-25",
+   "channel_age_days": 46,
+   "subs": 2810,
+   "found_at": "2026-11-11T01:00:48Z",
+   "validated_at": "2026-11-11T01:02:01Z",
+   "niche": "PLANET OCEAN | A Journey Through Earth’s Living Blue World",
+   "path": [],
+   "queries": [
+    "david attenborough",
+    "nat geo wild",
+    "ocean sea life"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "0xuxrGiNllQ",
+    "title": "PLANET OCEAN | A Journey Through Earth’s Living Blue World",
+    "views": 373662
+   },
+   "ratio": 133.0,
+   "channel_stats": {
+    "videos": 14,
+    "median_views": 15997,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 101,
+    "n_channels": 43,
+    "max_subs": 26600000,
+    "median_subs": 243000,
+    "big_channels": 26,
+    "top_views": 22056395,
+    "demand_videos": 95,
+    "demand_channels": 39,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 43, лимит 30",
+    "Есть канал с 26 600 000 подписчиков",
+    "Медиана подписчиков 243 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 8,
+   "competitors": [
+    {
+     "id": "UCRPNk3TA5cbyB-8hvNgsP5g",
+     "title": "Nick Kratka",
+     "subs": 6950000,
+     "age_days": 1849,
+     "videos": 1,
+     "best_views": 22056395,
+     "best_title": "I Caught Every Exotic Ocean Animal!",
+     "best_id": "4TcKGZeg9AI"
+    },
+    {
+     "id": "UCsv8nQFOUrfrdk0BU3ecKqw",
+     "title": "OLIVER SHOW",
+     "subs": 2710000,
+     "age_days": 1896,
+     "videos": 1,
+     "best_views": 6532808,
+     "best_title": "Toy Sea Animals Came to Life! 🦈",
+     "best_id": "upcY48r_Gb8"
+    },
+    {
+     "id": "UCMVw4uhBuyz9GtO0r8t8r0Q",
+     "title": "Papa Joel",
+     "subs": 3010000,
+     "age_days": 2731,
+     "videos": 1,
+     "best_views": 4895607,
+     "best_title": "Sea Animals for Kids Ocean adventure",
+     "best_id": "vq324mCKZJs"
+    },
+    {
+     "id": "UCJjUlbs-ZEo4draiZzz66sQ",
+     "title": "WILD NATURE - Nature animal documentary",
+     "subs": 243000,
+     "age_days": 835,
+     "videos": 1,
+     "best_views": 4355069,
+     "best_title": "Win or Die (FULL EPISODE) | Deadliest Battles for Survival | Animal documentary",
+     "best_id": "qprNraWQZF4"
+    },
+    {
+     "id": "UCiK9ODIN1_AEte6eV7m7jZA",
+     "title": "Underwater Earth 4K",
+     "subs": 30100,
+     "age_days": 180,
+     "videos": 2,
+     "best_views": 3381718,
+     "best_title": "The Deep Ocean: The Last Unknown World on Earth",
+     "best_id": "Sbm4VisY6_A"
+    },
+    {
+     "id": "UCDPk9MG2RexnOMGTD-YnSnA",
+     "title": "Nat Geo Animals",
+     "subs": 6540000,
+     "age_days": 6987,
+     "videos": 36,
+     "best_views": 2959116,
+     "best_title": "Rare Wildlife of China’s Mountains (Full Episode) | The Hidden Kingdoms of China | Nat Geo Animals",
+     "best_id": "dXRRLQEd5r4"
+    },
+    {
+     "id": "UCkXiYodooLCuCmPEhrz32Ig",
+     "title": "MyMy toon",
+     "subs": 1950000,
+     "age_days": 5279,
+     "videos": 1,
+     "best_views": 2910143,
+     "best_title": "SEA LIFE WHALE HAS A BABY! | Sea Life Animation | Convenience Store MUKBANG animation | asmr | MYMY",
+     "best_id": "JFYYad58pGs"
+    },
+    {
+     "id": "UCwmZiChSryoWQCZMIQezgTg",
+     "title": "BBC Earth",
+     "subs": 14600000,
+     "age_days": 6468,
+     "videos": 13,
+     "best_views": 2889020,
+     "best_title": "1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth",
+     "best_id": "Vd7iuPV_AF0"
     }
    ]
   },
