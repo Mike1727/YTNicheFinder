@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-11T01:02:11Z",
+ "generated_at": "2026-11-12T01:01:39Z",
  "quota": {
-  "day": "2026-11-10",
-  "used": 3264,
+  "day": "2026-11-11",
+  "used": 2960,
   "budget": 9000
  },
  "pending": 0,
@@ -7689,6 +7689,136 @@
    ]
   },
   {
+   "channel_id": "UCt9mRY8c2aSC0IuS3gjmFHg",
+   "channel_title": "The Quiet Story",
+   "channel_created": "2026-09-19",
+   "channel_age_days": 53,
+   "subs": 613,
+   "found_at": "2026-11-12T01:01:01Z",
+   "validated_at": "2026-11-12T01:01:18Z",
+   "niche": "The Mahindra Story | Naam Badla, Kismat Kaise Badli?",
+   "path": [],
+   "queries": [
+    "the quiet story",
+    "business documentary hindi",
+    "india kaise mahindra"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "w1p8z8KrNkk",
+    "title": "The Mahindra Story | Naam Badla, Kismat Kaise Badli?",
+    "views": 1100043
+   },
+   "ratio": 1794.5,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 627,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 71,
+    "n_channels": 59,
+    "max_subs": 10600000,
+    "median_subs": 107000,
+    "big_channels": 30,
+    "top_views": 4219409,
+    "demand_videos": 54,
+    "demand_channels": 44,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 59, лимит 30",
+    "Есть канал с 10 600 000 подписчиков",
+    "Медиана подписчиков 107 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 12,
+   "competitors": [
+    {
+     "id": "UCmTM_hPCeckqN3cPWtYZZcg",
+     "title": "The Deshbhakt",
+     "subs": 6930000,
+     "age_days": 7026,
+     "videos": 1,
+     "best_views": 4219409,
+     "best_title": "Was Yash As Ravan 'Glorified' In This Visual Masterpiece? | Ramayana Movie Review | Akash Banerjee",
+     "best_id": "RnhNcxRLEeU"
+    },
+    {
+     "id": "UCHs3bWyXIw_6J0ORvg97b2w",
+     "title": "Live Hindi",
+     "subs": 4300000,
+     "age_days": 4165,
+     "videos": 5,
+     "best_views": 3997825,
+     "best_title": "Why Mumbai Dabbawala Failed After 136 Years? 😭 Business Case Study | Live Hindi",
+     "best_id": "S27AaRox8jM"
+    },
+    {
+     "id": "UCRKosUcTVIsh5_-tQOynHSg",
+     "title": "Hidden Ops India",
+     "subs": 111000,
+     "age_days": 235,
+     "videos": 1,
+     "best_views": 3891898,
+     "best_title": "SLEEPER BUS BUSINESS का पूरा हिसाब | Investment, Expenses, Revenue & Real Profit | 2D Animation",
+     "best_id": "SymrHu0ZJXs"
+    },
+    {
+     "id": "UChJdx8vlNQFLDpStPpeikWw",
+     "title": "WillStar Films",
+     "subs": 54500,
+     "age_days": 224,
+     "videos": 2,
+     "best_views": 3811393,
+     "best_title": "Biopic of Ratan Tata | Full Movie in Hindi",
+     "best_id": "uDT3p_tlu3Y"
+    },
+    {
+     "id": "UCPses8rwXNB9NAeRzmU02Tw",
+     "title": "THE SOUND WAVE",
+     "subs": 56100,
+     "age_days": 377,
+     "videos": 1,
+     "best_views": 3309240,
+     "best_title": "Quiet Storm – Who Checks on the Man Everybody Depends On? | Soulful R&B",
+     "best_id": "eTgn2q8wC94"
+    },
+    {
+     "id": "UCCHUinFvaEPIaVesb2AcpPg",
+     "title": "First Indian Camper",
+     "subs": 412000,
+     "age_days": 3505,
+     "videos": 1,
+     "best_views": 2254244,
+     "best_title": "Mahindra Veero Caravan 🚘 | India’s Most Practical Caravan | Japanese design",
+     "best_id": "kszeDRuu21c"
+    },
+    {
+     "id": "UCrwSMlDM6FGLwHOtZ5JZpVA",
+     "title": "His Story",
+     "subs": 7610000,
+     "age_days": 1773,
+     "videos": 1,
+     "best_views": 1862084,
+     "best_title": "Never Defend The Quiet Kid..",
+     "best_id": "TAeCx8PNda0"
+    },
+    {
+     "id": "UCVGmQpB6_ixzDLpZdA6oCHQ",
+     "title": "melodyspot",
+     "subs": 116000,
+     "age_days": 896,
+     "videos": 1,
+     "best_views": 1659143,
+     "best_title": "🎵 Loving in the Quiet – Melodyspot | Emotional Cinematic Ballad 💖 Sad Love Song",
+     "best_id": "iaQnTmkQ8no"
+    }
+   ]
+  },
+  {
    "channel_id": "UCS7W63SpRiX5NdNsGjDpMlA",
    "channel_title": "The War Economy",
    "channel_created": "2026-09-29",
@@ -7945,6 +8075,136 @@
      "best_views": 2276856,
      "best_title": "Where Did the Waffen SS Go After 1945?",
      "best_id": "bLsTflKB5lw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCEDXsFTrrqVAGtIpepwuHBw",
+   "channel_title": "Amritva Explains",
+   "channel_created": "2026-10-25",
+   "channel_age_days": 17,
+   "subs": 2490,
+   "found_at": "2026-11-12T01:01:01Z",
+   "validated_at": "2026-11-12T01:01:38Z",
+   "niche": "The Truth of Dmart That No one's Tell You || The Dmart Story",
+   "path": [],
+   "queries": [
+    "case study",
+    "tata motors",
+    "complete truth minutes"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "HTL0JNqp-kk",
+    "title": "The JAGUAR Story",
+    "views": 70616
+   },
+   "ratio": 28.4,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 47321,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 50,
+    "n_channels": 41,
+    "max_subs": 9830000,
+    "median_subs": 242000,
+    "big_channels": 24,
+    "top_views": 2895649,
+    "demand_videos": 29,
+    "demand_channels": 23,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30",
+    "Есть канал с 9 830 000 подписчиков",
+    "Медиана подписчиков 242 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 10,
+   "competitors": [
+    {
+     "id": "UC0k238zFx-Z8xFH0sxCrPJg",
+     "title": "Architectural Digest",
+     "subs": 8060000,
+     "age_days": 7357,
+     "videos": 1,
+     "best_views": 2895649,
+     "best_title": "Inside L.A.'s Most Famous House Built on the Edge of a Cliff | Inside History | Architectural Digest",
+     "best_id": "8vVToLhtsEM"
+    },
+    {
+     "id": "UC0L1suV8pVgO4pCAIBNGx5w",
+     "title": "60 Minutes Australia",
+     "subs": 6760000,
+     "age_days": 5054,
+     "videos": 1,
+     "best_views": 1894365,
+     "best_title": "The truth about “tradwives” and the men who want them | 60 Minutes Australia",
+     "best_id": "P0CXoASDQ6U"
+    },
+    {
+     "id": "UCKZozRVHRYsYHGEyNKuhhdA",
+     "title": "Think School",
+     "subs": 6620000,
+     "age_days": 2450,
+     "videos": 4,
+     "best_views": 1334404,
+     "best_title": "India’s NEXT Economic Crisis: Super El Niño 2026 | Case Study",
+     "best_id": "fNNz9a2OIn4"
+    },
+    {
+     "id": "UCgR3SrM8T6GCFUTuxSFlR7A",
+     "title": "Anime Balls Deep",
+     "subs": 2410000,
+     "age_days": 4689,
+     "videos": 1,
+     "best_views": 1293187,
+     "best_title": "The TERRIFYING Truth About Coco’s Identity & Power | Witch Hat Atelier Complete Story",
+     "best_id": "WTno9237ARM"
+    },
+    {
+     "id": "UCRT5u7WaTrJVD_tdRpQIs5A",
+     "title": "The Behavioral Arts ",
+     "subs": 1520000,
+     "age_days": 1883,
+     "videos": 1,
+     "best_views": 763612,
+     "best_title": "The Truth About Patrick Clancy! Behavioral Analysts React to 60 Minutes Interview! (ft.Chase Hughes)",
+     "best_id": "FlQZD4Tf_EM"
+    },
+    {
+     "id": "UCytiKJcsuKFARvAeUABvRBA",
+     "title": "HinExp",
+     "subs": 107000,
+     "age_days": 205,
+     "videos": 2,
+     "best_views": 685443,
+     "best_title": "How DMart Is Dying ? The Problem Nobody Saw Coming | | Business Case Study",
+     "best_id": "vzQuy_P5QX4"
+    },
+    {
+     "id": "UC4xHgRbbercOV-l9RNL67aw",
+     "title": "Anime Loop",
+     "subs": 5030,
+     "age_days": 618,
+     "videos": 1,
+     "best_views": 616219,
+     "best_title": "The Gate of Truth Explained in 19 Minutes (FMAB)",
+     "best_id": "P6F56dB_5mQ"
+    },
+    {
+     "id": "UCPgfM-dk3XAb4T3DtT6Nwsw",
+     "title": "CA Rahul Malodia",
+     "subs": 6970000,
+     "age_days": 2610,
+     "videos": 1,
+     "best_views": 529033,
+     "best_title": "MUKESH AMBANI Biggest MASTERSTROKE! - Jio Case Study | CA Rahul Malodia",
+     "best_id": "BvrgGNyDTSc"
     }
    ]
   },
@@ -8595,6 +8855,136 @@
      "best_views": 2889020,
      "best_title": "1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth",
      "best_id": "Vd7iuPV_AF0"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCPYUFxTXp6XrgwJ-LL6N1tg",
+   "channel_title": "America’s Dark Corners",
+   "channel_created": "2026-10-04",
+   "channel_age_days": 38,
+   "subs": 4950,
+   "found_at": "2026-11-12T01:00:37Z",
+   "validated_at": "2026-11-12T01:01:28Z",
+   "niche": "11 American Murder Houses That Nobody Wants to Buy",
+   "path": [],
+   "queries": [
+    "american true crime",
+    "true crime stories",
+    "houses murder today"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "gOHS1hkYtTw",
+    "title": "11 American Murder Houses That Nobody Wants to Buy",
+    "views": 505532
+   },
+   "ratio": 102.1,
+   "channel_stats": {
+    "videos": 30,
+    "median_views": 15719,
+    "hits": 9
+   },
+   "market": {
+    "n_videos": 94,
+    "n_channels": 55,
+    "max_subs": 11400000,
+    "median_subs": 242000,
+    "big_channels": 34,
+    "top_views": 15979139,
+    "demand_videos": 80,
+    "demand_channels": 47,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 55, лимит 30",
+    "Есть канал с 11 400 000 подписчиков",
+    "Медиана подписчиков 242 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 5,
+   "competitors": [
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 119000,
+     "age_days": 259,
+     "videos": 1,
+     "best_views": 15979139,
+     "best_title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+     "best_id": "rJYy0pHZDxA"
+    },
+    {
+     "id": "UCVXKabRhXSQXh_U0au5JSzQ",
+     "title": "EWU Crime Storytime",
+     "subs": 2400000,
+     "age_days": 1890,
+     "videos": 1,
+     "best_views": 3893195,
+     "best_title": "Cops Discover the Most Horrific Murder of Their Careers",
+     "best_id": "V7hG6dgmLMI"
+    },
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2590000,
+     "age_days": 4898,
+     "videos": 4,
+     "best_views": 3820088,
+     "best_title": "What The Neighbors Saw | Full Episode",
+     "best_id": "x1LGC3c2-NQ"
+    },
+    {
+     "id": "UCtPrkXdtCM5DACLufB9jbsA",
+     "title": "MrBallen",
+     "subs": 11400000,
+     "age_days": 4252,
+     "videos": 3,
+     "best_views": 2961523,
+     "best_title": "A true crime show solved this man’s murder",
+     "best_id": "QAjPHwqXLrk"
+    },
+    {
+     "id": "UC7_MOIpN8fn_UZAivnn10_Q",
+     "title": "M7 Crime Storytime",
+     "subs": 547000,
+     "age_days": 1404,
+     "videos": 1,
+     "best_views": 2867292,
+     "best_title": "Killer Has No Idea His Own Camera Filmed Him Dragging The Body",
+     "best_id": "zjDyunQ_E1c"
+    },
+    {
+     "id": "UCr-BYW60bAtDcNtz6AoiHZQ",
+     "title": "SR PAY",
+     "subs": 2390000,
+     "age_days": 2139,
+     "videos": 2,
+     "best_views": 2606865,
+     "best_title": "The Secret Under the Bed: The Full Story of the Bed Box Case",
+     "best_id": "Rwa7pTAcksA"
+    },
+    {
+     "id": "UCsj4q8PpycUpUgBc6JqE1lg",
+     "title": "Criminally Obsessed",
+     "subs": 248000,
+     "age_days": 1002,
+     "videos": 2,
+     "best_views": 2578019,
+     "best_title": "DEAD SILENCE: The Casey Pitzer Investigation",
+     "best_id": "4napQvgrWk8"
+    },
+    {
+     "id": "UCz8K1occVvDTYDfFo7N5EZw",
+     "title": "Law&Crime Network",
+     "subs": 7740000,
+     "age_days": 4093,
+     "videos": 2,
+     "best_views": 2110693,
+     "best_title": "Prime Crime: Young Woman Disappears Moments After Arriving at Work",
+     "best_id": "0cO50hNA2cs"
     }
    ]
   },
