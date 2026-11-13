@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-12T01:01:39Z",
+ "generated_at": "2026-11-13T01:01:43Z",
  "quota": {
-  "day": "2026-11-11",
-  "used": 2960,
+  "day": "2026-11-12",
+  "used": 3572,
   "budget": 9000
  },
  "pending": 0,
@@ -138,6 +138,134 @@
      "best_views": 341918,
      "best_title": "She Lost Everything… Then Transformed Her Life and Found Herself Again#drama",
      "best_id": "_LgUybXOoG8"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCv6ulYocaJjrFN8IUuq0XFg",
+   "channel_title": "Geo Scope",
+   "channel_created": "2026-10-16",
+   "channel_age_days": 27,
+   "subs": 750,
+   "found_at": "2026-11-13T01:00:49Z",
+   "validated_at": "2026-11-13T01:01:35Z",
+   "niche": "Why Every World Map Makes Greenland as Big as Africa | Geo Scope",
+   "path": [],
+   "queries": [
+    "geo scope",
+    "geography explained",
+    "geo scope big"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "AM2fBwJLkyI",
+    "title": "“This Country Has a Plan for When It Disappears | Geo Scope",
+    "views": 50578
+   },
+   "ratio": 67.4,
+   "channel_stats": {
+    "videos": 18,
+    "median_views": 437,
+    "hits": 0
+   },
+   "market": {
+    "n_videos": 27,
+    "n_channels": 13,
+    "max_subs": 443000,
+    "median_subs": 44100,
+    "big_channels": 6,
+    "top_views": 2065224,
+    "demand_videos": 9,
+    "demand_channels": 6,
+    "young_hits": 1
+   },
+   "status": "pass",
+   "reasons": [],
+   "notes": [
+    "Есть каналов от 100 000 подписчиков: 6"
+   ],
+   "score": 444,
+   "competitors": [
+    {
+     "id": "UCb0JxFSwHTzH0AEsAzQHV4w",
+     "title": "Map Pack",
+     "subs": 443000,
+     "age_days": 1296,
+     "videos": 1,
+     "best_views": 2065224,
+     "best_title": "3 Hours Of Geography Facts (You Won't Believe )",
+     "best_id": "dqZEnHT_4l8"
+    },
+    {
+     "id": "UCh4JTTIajPxowryqDrz0llw",
+     "title": "JerryThink",
+     "subs": 198000,
+     "age_days": 1192,
+     "videos": 1,
+     "best_views": 646033,
+     "best_title": "California's Bay Area Explained! #sanfrancisco #sanjose #oakland #bayarea #california #geography",
+     "best_id": "0Jpdp5tRvJ0"
+    },
+    {
+     "id": "UCKIwJ734FQFP2nWBxvNx_YQ",
+     "title": "Urban Atlas",
+     "subs": 214000,
+     "age_days": 3709,
+     "videos": 3,
+     "best_views": 565161,
+     "best_title": "The Geography of Iran Explained.",
+     "best_id": "5xKIUpEpj0Q"
+    },
+    {
+     "id": "UCV_aVa7t6zk4yv2tcZlLmYA",
+     "title": "Tyler Rumple",
+     "subs": 186000,
+     "age_days": 1558,
+     "videos": 1,
+     "best_views": 126448,
+     "best_title": "American Reacts to the Geography of Europe EXPLAINED",
+     "best_id": "A2kxzdYqFrg"
+    },
+    {
+     "id": "UCv6ulYocaJjrFN8IUuq0XFg",
+     "title": "Geo Scope",
+     "subs": 750,
+     "age_days": 27,
+     "videos": 12,
+     "best_views": 64438,
+     "best_title": "Where Did 130 New Countries Come From?",
+     "best_id": "_7zhASXvvns"
+    },
+    {
+     "id": "UC5EcQrgvXsgGLR4ukxBTM8w",
+     "title": "FactSpark",
+     "subs": 180000,
+     "age_days": 2415,
+     "videos": 1,
+     "best_views": 52470,
+     "best_title": "The Geography of Australia's Desert explained",
+     "best_id": "uNdIBvyAJEk"
+    },
+    {
+     "id": "UCxiZFebGmeJYi4hYQWESE_g",
+     "title": "ThunderEDUC",
+     "subs": 216000,
+     "age_days": 2947,
+     "videos": 1,
+     "best_views": 25476,
+     "best_title": "GRADE 12 GEOGRAPHY PAPER 2 FINAL REVISION 2026 | GEOGRAPHY PAPER 2 GRADE 12 EXAM SCOPE THUNDEREDUC",
+     "best_id": "Su4tf4UKb2k"
+    },
+    {
+     "id": "UCbvwTWN_YVaI1PTCVNd6U4g",
+     "title": "Merit Minds",
+     "subs": 33700,
+     "age_days": 576,
+     "videos": 1,
+     "best_views": 16519,
+     "best_title": "Complete Geography of Telangana | Rivers, Soils, Climate & Map Explained 📘",
+     "best_id": "0raWTAXoz2c"
     }
    ]
   },
@@ -453,6 +581,134 @@
      "best_views": 1913,
      "best_title": "The DEADLIEST Medieval Siege Myths Hollywood Got DEAD WRONG..!",
      "best_id": "wM1ixxjYVJE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCQh5G_QYEhHBGM6rpLuoEtA",
+   "channel_title": "Frank Holden WWII",
+   "channel_created": "2026-10-08",
+   "channel_age_days": 35,
+   "subs": 349,
+   "found_at": "2026-11-13T01:00:14Z",
+   "validated_at": "2026-11-13T01:01:11Z",
+   "niche": "The US Army Forced German POWs to Watch One Film. Historians Say 1,000 Burned Their Uniforms",
+   "path": [],
+   "queries": [
+    "german pows one",
+    "army forced german pows",
+    "corporal told patton bridge"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "wNpBg-eT7Uo",
+    "title": "The US Army Forced German POWs to Watch One Film. Historians Say 1,000 Burned Their Uniforms",
+    "views": 72341
+   },
+   "ratio": 207.3,
+   "channel_stats": {
+    "videos": 50,
+    "median_views": 187,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 80,
+    "n_channels": 61,
+    "max_subs": 114000,
+    "median_subs": 1430,
+    "big_channels": 3,
+    "top_views": 772382,
+    "demand_videos": 35,
+    "demand_channels": 28,
+    "young_hits": 8
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 61, лимит 30"
+   ],
+   "notes": [],
+   "score": 1355,
+   "competitors": [
+    {
+     "id": "UC-U3V7FbR0Z-BQH1I7be3Sw",
+     "title": "The World War Archive",
+     "subs": 1490,
+     "age_days": 44,
+     "videos": 9,
+     "best_views": 772382,
+     "best_title": "German POWs in Wisconsin Got Donuts at Midnight. One Cried When America Sent Him Home.",
+     "best_id": "Z0tyAP29iKY"
+    },
+    {
+     "id": "UCSS1PahxH_4RtIevF8geDOg",
+     "title": "Patton's Rescript",
+     "subs": 3820,
+     "age_days": 2281,
+     "videos": 1,
+     "best_views": 763139,
+     "best_title": "A Corporal Told Patton His Map Was Wrong in Front of the Whole Staff — The Next Day He Was Sergeant",
+     "best_id": "h5yFOT2SJ7Y"
+    },
+    {
+     "id": "UCt1258m7gj9YV_FZ2Iwuq7A",
+     "title": "World War Footage",
+     "subs": 103000,
+     "age_days": 4674,
+     "videos": 1,
+     "best_views": 697847,
+     "best_title": "German POWs March Through Berlin — Stunning Footage Restored in 4K",
+     "best_id": "ObEs5C16CUQ"
+    },
+    {
+     "id": "UCQDl5IREJC6zcNIZWeRj_rg",
+     "title": "Canadians At War",
+     "subs": 62900,
+     "age_days": 416,
+     "videos": 2,
+     "best_views": 575468,
+     "best_title": "“You’re Still Nurses” — German Female POWs Shocked by How Canadians Treated Them",
+     "best_id": "ahd2CSwHQaY"
+    },
+    {
+     "id": "UClT07UxrW2NAWL-zhKWmGmg",
+     "title": "Forged in WW",
+     "subs": 5460,
+     "age_days": 434,
+     "videos": 1,
+     "best_views": 413613,
+     "best_title": "The Black Corporal Who Took the Shot Nobody Else Would — With Patton Watching",
+     "best_id": "5XVsx1hBziI"
+    },
+    {
+     "id": "UC_udDSxIM4tvlK9s77Hl1Bw",
+     "title": "Retrospect History",
+     "subs": 21700,
+     "age_days": 431,
+     "videos": 1,
+     "best_views": 409672,
+     "best_title": "German POWs Were Shocked By Their First Sight of America",
+     "best_id": "ScoqodpXbn4"
+    },
+    {
+     "id": "UC1TtwUovQCQvOTXFOnKgpKQ",
+     "title": "WWII POW Files",
+     "subs": 1600,
+     "age_days": 46,
+     "videos": 1,
+     "best_views": 328766,
+     "best_title": "German POWs Were Served a Full American Meal. They Thought It Was Their Last.",
+     "best_id": "gfWCFTSQJbw"
+    },
+    {
+     "id": "UCU4PAPf_koMMRjDVpLB1qPA",
+     "title": "WWII Desk",
+     "subs": 6700,
+     "age_days": 68,
+     "videos": 2,
+     "best_views": 323276,
+     "best_title": "German POWs in America Were Ordered to Watch One Film. 1,000 Burned Their Uniforms.",
+     "best_id": "vP4FI__ge6E"
     }
    ]
   },
@@ -2256,6 +2512,135 @@
      "best_views": 34059,
      "best_title": "Climate Risk and YOUR Insurance, WHAT CHANGED ?",
      "best_id": "4aYI8hohYbs"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC06OJDZzMwSpsWX9VFW6hEQ",
+   "channel_title": "Ancient Egypt Chronicles Channel",
+   "channel_created": "2026-10-23",
+   "channel_age_days": 20,
+   "subs": 1100,
+   "found_at": "2026-11-13T01:00:40Z",
+   "validated_at": "2026-11-13T01:01:27Z",
+   "niche": "Inside Pepi II’s Sealed Pyramid: First LiDAR of Humanity’s Oldest Sacred Texts",
+   "path": [],
+   "queries": [
+    "old kingdom",
+    "giza plateau",
+    "inside pyramid sealed"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "v0Y30JNs3Zs",
+    "title": "Hunt for Imhotep at Saqqara: Gold-Covered Mummy and a Mystery Stick",
+    "views": 80517
+   },
+   "ratio": 73.2,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 27790,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 75,
+    "n_channels": 66,
+    "max_subs": 44500000,
+    "median_subs": 3430,
+    "big_channels": 13,
+    "top_views": 1210007,
+    "demand_videos": 17,
+    "demand_channels": 16,
+    "young_hits": 5
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 66, лимит 30",
+    "Есть канал с 44 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 321,
+   "competitors": [
+    {
+     "id": "UCftwRNsjfRo08xYE31tkiyw",
+     "title": "WIRED",
+     "subs": 13000000,
+     "age_days": 7720,
+     "videos": 1,
+     "best_views": 1210007,
+     "best_title": "We Know More About The Pyramids Than You Think",
+     "best_id": "enMPLaB1oEo"
+    },
+    {
+     "id": "UCPJIOLhRrhbt3HILdvb3JmA",
+     "title": "IMPOSSIBLE ARCHIVES",
+     "subs": 5000,
+     "age_days": 71,
+     "videos": 4,
+     "best_views": 1167421,
+     "best_title": "4K Djedi Robot Entered the Great Pyramid's Sealed Shaft - Revealing NEVER Before SEEN Footage",
+     "best_id": "pvANZ5xuBQU"
+    },
+    {
+     "id": "UC_MyeFKqSUGBbgB6CZIMvSA",
+     "title": "Joe Blow",
+     "subs": 27600,
+     "age_days": 422,
+     "videos": 1,
+     "best_views": 895183,
+     "best_title": "Joe Rogan BLOWN AWAY by New Giza Pyramid Scans",
+     "best_id": "GZgx8UydeiE"
+    },
+    {
+     "id": "UCnxGkOGNMqQEUMvroOWps6Q",
+     "title": "JRE Clips",
+     "subs": 8320000,
+     "age_days": 3585,
+     "videos": 1,
+     "best_views": 606035,
+     "best_title": "Radar Scans Reveal Underground Structures Beneath Giza — Researcher Says the Pyramids Weren’t Tombs",
+     "best_id": "k0YYjLIgkwA"
+    },
+    {
+     "id": "UC2Stn8atEra7SMdPWyQoSLA",
+     "title": "UnchartedX",
+     "subs": 758000,
+     "age_days": 3054,
+     "videos": 1,
+     "best_views": 532062,
+     "best_title": "Smoking Gun Evidence for Ancient, Machined Stone! The Granite Cornice blocks on the Giza Plateau.",
+     "best_id": "BOBZatWU-c8"
+    },
+    {
+     "id": "UCAVxoa11gRHcit9_onvTkMQ",
+     "title": "Ambrose Discovery",
+     "subs": 106000,
+     "age_days": 120,
+     "videos": 1,
+     "best_views": 415153,
+     "best_title": "Scientists Fear What's Behind the Great Pyramid's Sealed Door — Hawass Says It Could Rewrite History",
+     "best_id": "drY0r2qlfQg"
+    },
+    {
+     "id": "UC3Kg36SlJdjWvPwLNDBesyQ",
+     "title": "What the Earth Hid",
+     "subs": 1730,
+     "age_days": 81,
+     "videos": 1,
+     "best_views": 392802,
+     "best_title": "Egyptologists Just Found Out What Lies Beyond the Great Pyramid’s Sealed Doors",
+     "best_id": "scGJOuHEPSw"
+    },
+    {
+     "id": "UCmLQqA5g62GIfQa9oME05wQ",
+     "title": "Origins Explained",
+     "subs": 3900000,
+     "age_days": 3951,
+     "videos": 1,
+     "best_views": 155377,
+     "best_title": "They Found Something BIGGER Than the Pyramids Under Egypt",
+     "best_id": "FwHtq7yoXQA"
     }
    ]
   },
@@ -6650,6 +7035,136 @@
    ]
   },
   {
+   "channel_id": "UChEHYxDtW6PmMv81tgCMbiQ",
+   "channel_title": "Beyond The Evidence",
+   "channel_created": "2026-09-24",
+   "channel_age_days": 49,
+   "subs": 730,
+   "found_at": "2026-11-13T01:00:51Z",
+   "validated_at": "2026-11-13T01:01:18Z",
+   "niche": "The Diggs Family Massacre: Five Victims, One Unsolved Case (True Crime Documentary)",
+   "path": [],
+   "queries": [
+    "true crime family",
+    "diggs family massacre five",
+    "kuria family horrific massacre"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "nbVfL9Ao1gc",
+    "title": "The Diggs Family Massacre: Five Victims, One Unsolved Case (True Crime Documentary)",
+    "views": 68347
+   },
+   "ratio": 93.6,
+   "channel_stats": {
+    "videos": 7,
+    "median_views": 246,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 46,
+    "n_channels": 33,
+    "max_subs": 11400000,
+    "median_subs": 151000,
+    "big_channels": 18,
+    "top_views": 3466872,
+    "demand_videos": 31,
+    "demand_channels": 23,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 33, лимит 30",
+    "Есть канал с 11 400 000 подписчиков",
+    "Медиана подписчиков 151 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 26,
+   "competitors": [
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2590000,
+     "age_days": 4899,
+     "videos": 3,
+     "best_views": 3466872,
+     "best_title": "The Setup Murder of Kristil Krug | Full Episode",
+     "best_id": "poEm6LhKdKo"
+    },
+    {
+     "id": "UCtPrkXdtCM5DACLufB9jbsA",
+     "title": "MrBallen",
+     "subs": 11400000,
+     "age_days": 4253,
+     "videos": 1,
+     "best_views": 2966417,
+     "best_title": "A true crime show solved this man’s murder",
+     "best_id": "QAjPHwqXLrk"
+    },
+    {
+     "id": "UCIrgpHvUm1FMtv-C1xwkJtw",
+     "title": "Arizona’s Family (3TV / CBS 5) ",
+     "subs": 372000,
+     "age_days": 6951,
+     "videos": 1,
+     "best_views": 1900682,
+     "best_title": "Jodi Arias: Unraveling the Obsession | True Crime Arizona",
+     "best_id": "xt4EHxymIlg"
+    },
+    {
+     "id": "UCz8K1occVvDTYDfFo7N5EZw",
+     "title": "Law&Crime Network",
+     "subs": 7740000,
+     "age_days": 4094,
+     "videos": 1,
+     "best_views": 1080471,
+     "best_title": "Disturbing Michigan Killings: Family of 8 Found Dead",
+     "best_id": "dg4HyIHXL6k"
+    },
+    {
+     "id": "UCXONTfGmLC7ltFgLAlHs24g",
+     "title": "Ty Notts",
+     "subs": 241000,
+     "age_days": 3835,
+     "videos": 2,
+     "best_views": 1005825,
+     "best_title": "5 True Crime Cases Too Dark for Netflix",
+     "best_id": "mytGAhD4Z6I"
+    },
+    {
+     "id": "UCh34myfeCNr0CLOpKF43mIQ",
+     "title": "True Crime- FLO",
+     "subs": 11000,
+     "age_days": 230,
+     "videos": 1,
+     "best_views": 808951,
+     "best_title": "She Had No Idea This Was Her Last Day Alive | True Crime Documentary",
+     "best_id": "PlDhggiGoNo"
+    },
+    {
+     "id": "UC2kmsI6Xyoa4CVI5vhYz1wQ",
+     "title": "Deadly True Crime",
+     "subs": 293000,
+     "age_days": 4144,
+     "videos": 2,
+     "best_views": 695262,
+     "best_title": "The Darkest Case Files an Agent Ever Investigated | Deadly Kin",
+     "best_id": "0MZTmcrngdw"
+    },
+    {
+     "id": "UCPWQWav6BpPvtanCtloXkiw",
+     "title": "The CW Network",
+     "subs": 1970000,
+     "age_days": 7202,
+     "videos": 1,
+     "best_views": 691809,
+     "best_title": "Murdaugh Family Case Documentary - PART 1 | Crime Nation | The CW",
+     "best_id": "JZUwNik4BWM"
+    }
+   ]
+  },
+  {
    "channel_id": "UCu_IxBlCvVwHoJ05qj4rS3Q",
    "channel_title": "Mr Red US ",
    "channel_created": "2026-09-25",
@@ -8205,6 +8720,136 @@
      "best_views": 529033,
      "best_title": "MUKESH AMBANI Biggest MASTERSTROKE! - Jio Case Study | CA Rahul Malodia",
      "best_id": "BvrgGNyDTSc"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCPEI2Wop7lpAEY9QnjiSzFw",
+   "channel_title": "Open Files",
+   "channel_created": "2026-09-22",
+   "channel_age_days": 51,
+   "subs": 898,
+   "found_at": "2026-11-13T01:00:51Z",
+   "validated_at": "2026-11-13T01:01:43Z",
+   "niche": "भाई की हैवानियत का शिकार बनी मासूम बहन | Khushboo Jani Case | True crime story",
+   "path": [],
+   "queries": [
+    "true crime hindi",
+    "open files",
+    "case crime true"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "A_ProEcVQM8",
+    "title": "7 महीने तक भाई को ज़हर पिलाती रही बहन | Jigar Patel Case | True Crime Story",
+    "views": 52989
+   },
+   "ratio": 59.0,
+   "channel_stats": {
+    "videos": 18,
+    "median_views": 7214,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 105,
+    "n_channels": 41,
+    "max_subs": 33300000,
+    "median_subs": 206000,
+    "big_channels": 27,
+    "top_views": 20249521,
+    "demand_videos": 96,
+    "demand_channels": 35,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30",
+    "Есть канал с 33 300 000 подписчиков",
+    "Медиана подписчиков 206 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 10,
+   "competitors": [
+    {
+     "id": "UC-CSyyi47VX1lD9zyeABW3w",
+     "title": "Dhruv Rathee",
+     "subs": 33300000,
+     "age_days": 5057,
+     "videos": 1,
+     "best_views": 20249521,
+     "best_title": "Ambani, Modi and Epstein | What does the EVIDENCE Say? | Dhruv Rathee",
+     "best_id": "VIDh6X3xPfI"
+    },
+    {
+     "id": "UCNpjH9MosivtBOa45Hbu39g",
+     "title": "Red File",
+     "subs": 119000,
+     "age_days": 260,
+     "videos": 1,
+     "best_views": 15990717,
+     "best_title": "“Friendly” Cop Has No Idea Police Already Matched Her DNA After 23 Years",
+     "best_id": "rJYy0pHZDxA"
+    },
+    {
+     "id": "UCikpumVCosztN-ZUthleRug",
+     "title": "Volksgeist",
+     "subs": 930000,
+     "age_days": 3542,
+     "videos": 1,
+     "best_views": 6729996,
+     "best_title": "The Epstein Files.",
+     "best_id": "SOW-7mCsutg"
+    },
+    {
+     "id": "UC0JJtK3m8pwy6rVgnBz47Rw",
+     "title": "Rotten Mango",
+     "subs": 6990000,
+     "age_days": 1373,
+     "videos": 1,
+     "best_views": 4122867,
+     "best_title": "Unpacking 3 Million Pages Of Epstein Files + Epstein’s Secret 2 Hour Interview",
+     "best_id": "iwSKdtALJcg"
+    },
+    {
+     "id": "UCVXKabRhXSQXh_U0au5JSzQ",
+     "title": "EWU Crime Storytime",
+     "subs": 2400000,
+     "age_days": 1891,
+     "videos": 1,
+     "best_views": 3987819,
+     "best_title": "Neighbor Thinks He Got Away With Murder",
+     "best_id": "vNaYVSHC69k"
+    },
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2590000,
+     "age_days": 4899,
+     "videos": 3,
+     "best_views": 3314559,
+     "best_title": "Coached to Kill | Full Episode",
+     "best_id": "4bIgYWRod34"
+    },
+    {
+     "id": "UCkO3uAmES7hmFfLOBRgzY_Q",
+     "title": "Wronged",
+     "subs": 1900000,
+     "age_days": 1160,
+     "videos": 17,
+     "best_views": 3219438,
+     "best_title": "The Shocking Twist Everyone Missed in the Twisha Sharma Case | Hindi | Wronged",
+     "best_id": "5kmhV4jot1Y"
+    },
+    {
+     "id": "UCtPrkXdtCM5DACLufB9jbsA",
+     "title": "MrBallen",
+     "subs": 11400000,
+     "age_days": 4253,
+     "videos": 1,
+     "best_views": 2966417,
+     "best_title": "A true crime show solved this man’s murder",
+     "best_id": "QAjPHwqXLrk"
     }
    ]
   },
