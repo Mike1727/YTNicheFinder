@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-13T01:01:43Z",
+ "generated_at": "2026-11-14T01:01:17Z",
  "quota": {
-  "day": "2026-11-12",
-  "used": 3572,
+  "day": "2026-11-13",
+  "used": 2653,
   "budget": 9000
  },
  "pending": 0,
@@ -4707,6 +4707,135 @@
    ]
   },
   {
+   "channel_id": "UC2uCR19O097Yib9-k6LHPyQ",
+   "channel_title": "HomeDiscover",
+   "channel_created": "2026-11-01",
+   "channel_age_days": 12,
+   "subs": 1330,
+   "found_at": "2026-11-14T01:00:45Z",
+   "validated_at": "2026-11-14T01:01:17Z",
+   "niche": "Every Interior Design Style Explained",
+   "path": [],
+   "queries": [
+    "every style design",
+    "every interior design style",
+    "every american house style"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "ZjTcljYfwnE",
+    "title": "Every Interior Design Style Explained",
+    "views": 143953
+   },
+   "ratio": 108.2,
+   "channel_stats": {
+    "videos": 2,
+    "median_views": 85342,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 52,
+    "n_channels": 38,
+    "max_subs": 4220000,
+    "median_subs": 49100,
+    "big_channels": 14,
+    "top_views": 6435972,
+    "demand_videos": 20,
+    "demand_channels": 18,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 38, лимит 30",
+    "Есть канал с 4 220 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 83,
+   "competitors": [
+    {
+     "id": "UC_mmaVYaFmlfdxuKb6U69Yw",
+     "title": "Speeed",
+     "subs": 2650000,
+     "age_days": 867,
+     "videos": 1,
+     "best_views": 6435972,
+     "best_title": "Interior Design for Boys",
+     "best_id": "HEMlIn6MDD8"
+    },
+    {
+     "id": "UChDexmcQfMhynTrnSsXC6_Q",
+     "title": "Five By Nine",
+     "subs": 234000,
+     "age_days": 470,
+     "videos": 3,
+     "best_views": 2101578,
+     "best_title": "the 15 rules of interior design in 15 minutes",
+     "best_id": "poUqN7ALI_E"
+    },
+    {
+     "id": "UCr3cBLTYmIK9kY0F_OdFWFQ",
+     "title": "Casually Explained",
+     "subs": 4220000,
+     "age_days": 3994,
+     "videos": 1,
+     "best_views": 1466152,
+     "best_title": "Casually Explained: Interior Design",
+     "best_id": "LihDIFKUaTs"
+    },
+    {
+     "id": "UC8JOgFXp-I3YV6dsKqqQdUw",
+     "title": "Caroline Winkler",
+     "subs": 1210000,
+     "age_days": 4729,
+     "videos": 1,
+     "best_views": 882424,
+     "best_title": "How to Design a Room from Start to Finish",
+     "best_id": "tonzvI7RnEA"
+    },
+    {
+     "id": "UCfMzHbDDomwPjT6WfeAIETw",
+     "title": "Vivien Albrecht",
+     "subs": 332000,
+     "age_days": 2644,
+     "videos": 1,
+     "best_views": 489651,
+     "best_title": "The Interior Style Everyone Is Copying Right Now",
+     "best_id": "y612B8WqmEU"
+    },
+    {
+     "id": "UCe0RgdmeQ5Y-41XKM36pEVg",
+     "title": "Jennifer Lynn - Interior Designer ",
+     "subs": 15900,
+     "age_days": 2489,
+     "videos": 1,
+     "best_views": 478321,
+     "best_title": "5 Interior Design Trends Going Out Of Style in 2026",
+     "best_id": "1M_9rN1R4fc"
+    },
+    {
+     "id": "UC6-X3epFE06GDWRHLQG_YMA",
+     "title": "Rebecca Robeson",
+     "subs": 1460000,
+     "age_days": 6526,
+     "videos": 1,
+     "best_views": 391236,
+     "best_title": "Interior Design Trends 2026 (What’s In & What’s Out)",
+     "best_id": "tDY86xOcQ1I"
+    },
+    {
+     "id": "UChmxGAJgT_FnZNW_7CRP2Og",
+     "title": "The Sunday Times Style",
+     "subs": 221000,
+     "age_days": 2989,
+     "videos": 1,
+     "best_views": 335719,
+     "best_title": "How This Interior Designer Maximised Every Awkward Space In His Unconventional One-Bed House",
+     "best_id": "DgMf4ykxI-k"
+    }
+   ]
+  },
+  {
    "channel_id": "UCLT3rRTusCOQ0S39oKl61wQ",
    "channel_title": "মরীচিকা",
    "channel_created": "2026-09-12",
@@ -6512,6 +6641,135 @@
      "best_views": 638909,
      "best_title": "Rise of China - The Economic Revolution that made China a Superpower",
      "best_id": "J7b6X-fp62c"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCKnOdn0TY6IvnVlsmtKZ4TQ",
+   "channel_title": "SITCOM RECEIPTS",
+   "channel_created": "2026-09-23",
+   "channel_age_days": 51,
+   "subs": 1370,
+   "found_at": "2026-11-14T01:00:58Z",
+   "validated_at": "2026-11-14T01:01:09Z",
+   "niche": "What Would It Take to Build Airwolf Today? The Real Price of TV's Supersonic Helicopter",
+   "path": [],
+   "queries": [
+    "classic tv",
+    "could they afford",
+    "would build take"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "DQDt_0UP0e0",
+    "title": "What Would It Take to Build Airwolf Today? The Real Price of TV's Supersonic Helicopter",
+    "views": 185994
+   },
+   "ratio": 135.8,
+   "channel_stats": {
+    "videos": 38,
+    "median_views": 1847,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 81,
+    "n_channels": 56,
+    "max_subs": 19900000,
+    "median_subs": 46150,
+    "big_channels": 22,
+    "top_views": 980933,
+    "demand_videos": 52,
+    "demand_channels": 37,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 56, лимит 30",
+    "Есть канал с 19 900 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 34,
+   "competitors": [
+    {
+     "id": "UCCfpI5ggGDPkD0F0Qfsbdpw",
+     "title": "Trending Machine",
+     "subs": 461000,
+     "age_days": 2569,
+     "videos": 3,
+     "best_views": 980933,
+     "best_title": "60 Insanely Cheap Houses | DIY and Prefab Homes You Can Actually Afford",
+     "best_id": "U1PDR1_dZ-w"
+    },
+    {
+     "id": "UCfdSURGQ-dJ6O0X2j-oIhSA",
+     "title": "Fine Print",
+     "subs": 106000,
+     "age_days": 469,
+     "videos": 1,
+     "best_views": 883970,
+     "best_title": "The UK Can't Afford To Work",
+     "best_id": "vOEr2S1eEi0"
+    },
+    {
+     "id": "UCtva7dADkHlOCXAoznLr6nQ",
+     "title": "Nick Jones Too",
+     "subs": 178000,
+     "age_days": 612,
+     "videos": 1,
+     "best_views": 803402,
+     "best_title": "A God Story You Can't Afford To Scroll Past",
+     "best_id": "NN4xgLcUQvY"
+    },
+    {
+     "id": "UCjPR68IfHV0aY9s6cF5u0uQ",
+     "title": "Damien Talks Money",
+     "subs": 427000,
+     "age_days": 2369,
+     "videos": 1,
+     "best_views": 596812,
+     "best_title": "How Much House Can You Afford? (By Salary)",
+     "best_id": "ntxmoAofTHk"
+    },
+    {
+     "id": "UC1lRz_clX4l9ORCtjDRBs1g",
+     "title": "Jetro",
+     "subs": 98200,
+     "age_days": 4715,
+     "videos": 1,
+     "best_views": 511121,
+     "best_title": "Can You Afford A Normal Life in Los Santos?",
+     "best_id": "lCWCoVwJJbk"
+    },
+    {
+     "id": "UC7WDD6yHgzdqijHluCi1z-Q",
+     "title": "The Act Man",
+     "subs": 1970000,
+     "age_days": 5043,
+     "videos": 1,
+     "best_views": 506087,
+     "best_title": "This is Why You Can't Afford a PC",
+     "best_id": "GizP6xEesuo"
+    },
+    {
+     "id": "UC4wAEAMzWIHc2AJEgO-Iuvw",
+     "title": "Demi",
+     "subs": 609000,
+     "age_days": 4679,
+     "videos": 1,
+     "best_views": 413262,
+     "best_title": "DBD: This Build lets you take INFINITE hits...",
+     "best_id": "qUMZ78EW5l0"
+    },
+    {
+     "id": "UC2Bm4qXVUx9Md-hmHz3WuXw",
+     "title": "Vanessa Wingårdh",
+     "subs": 284000,
+     "age_days": 721,
+     "videos": 1,
+     "best_views": 403350,
+     "best_title": "Walmart Knows What You Can Afford",
+     "best_id": "cHmord8K0Bo"
     }
    ]
   },
