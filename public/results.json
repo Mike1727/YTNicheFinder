@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T01:01:17Z",
+ "generated_at": "2026-11-15T01:01:16Z",
  "quota": {
-  "day": "2026-11-13",
-  "used": 2653,
+  "day": "2026-11-14",
+  "used": 2654,
   "budget": 9000
  },
  "pending": 0,
@@ -7163,6 +7163,136 @@
    ]
   },
   {
+   "channel_id": "UCT_2Y5mmAwVB3ZXwp5AnOVQ",
+   "channel_title": "Reich on Record",
+   "channel_created": "2026-10-24",
+   "channel_age_days": 21,
+   "subs": 1900,
+   "found_at": "2026-11-15T01:00:56Z",
+   "validated_at": "2026-11-15T01:01:16Z",
+   "niche": "They Asked Rundstedt What Surprised Germany About Russia. He Named One Thing.",
+   "path": [],
+   "queries": [
+    "nazi germany",
+    "third reich",
+    "one asked germany"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "07ypeEs0Le4",
+    "title": "They Asked Rundstedt Why Germany Let the British Army Escape at Dunkirk. He Named One Order.",
+    "views": 125377
+   },
+   "ratio": 66.0,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 6753,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 79,
+    "n_channels": 54,
+    "max_subs": 26600000,
+    "median_subs": 59050,
+    "big_channels": 24,
+    "top_views": 6136274,
+    "demand_videos": 57,
+    "demand_channels": 40,
+    "young_hits": 6
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 54, лимит 30",
+    "Есть канал с 26 600 000 подписчиков",
+    "Медиана подписчиков 59 050 выше лимита"
+   ],
+   "notes": [],
+   "score": 29,
+   "competitors": [
+    {
+     "id": "UCb8sfMalVgTMvA68dfKzA5Q",
+     "title": "Elephants in Rooms - Ken LaCorte",
+     "subs": 956000,
+     "age_days": 1143,
+     "videos": 1,
+     "best_views": 6136274,
+     "best_title": "Here was the world Hitler planned",
+     "best_id": "II9QtBSJUq0"
+    },
+    {
+     "id": "UCmOCpBKeoBPp-HwarhIBA2g",
+     "title": "Best Documentary",
+     "subs": 8450000,
+     "age_days": 3847,
+     "videos": 3,
+     "best_views": 3579901,
+     "best_title": "Downfall of the Third Reich: UNCENSORED Archival History (1942-1945)",
+     "best_id": "j-ha-OXe6Dk"
+    },
+    {
+     "id": "UCPdaxSov0mgwh77JvjQO2jQ",
+     "title": "Man Carrying Thing",
+     "subs": 1020000,
+     "age_days": 5603,
+     "videos": 1,
+     "best_views": 2462092,
+     "best_title": "I read the 1,200 page book about the N@zis",
+     "best_id": "Wox12RYtydE"
+    },
+    {
+     "id": "UC3MJVwoumJMTqCe9IaEhtiw",
+     "title": "World at War",
+     "subs": 1340000,
+     "age_days": 4923,
+     "videos": 6,
+     "best_views": 2084542,
+     "best_title": "WWII, Top Secret Axis Files Declassified",
+     "best_id": "yzvmOvXW54Y"
+    },
+    {
+     "id": "UCV0COfVgeu-nKCj-wjSHIhA",
+     "title": "The Dictator Lab",
+     "subs": 52800,
+     "age_days": 529,
+     "videos": 1,
+     "best_views": 2011748,
+     "best_title": "How Did Hitler Fund a Huge Military When Germany Was Broke?",
+     "best_id": "Tj0iLXCU-wM"
+    },
+    {
+     "id": "UCmb7zAvq9IxHi_UnP93AVSQ",
+     "title": "Jesse Welles",
+     "subs": 804000,
+     "age_days": 4315,
+     "videos": 1,
+     "best_views": 1314014,
+     "best_title": "The Nerd Reich",
+     "best_id": "Lwz1XwHwWhY"
+    },
+    {
+     "id": "UC2NvZIJkFixLm_vCltoo1lA",
+     "title": "Clear and Present History",
+     "subs": 73300,
+     "age_days": 845,
+     "videos": 1,
+     "best_views": 1242856,
+     "best_title": "Road to WW2: Germany's Revenge (1918-1939)",
+     "best_id": "sgUt-LcV4Uw"
+    },
+    {
+     "id": "UC88lvyJe7aHZmcvzvubDFRg",
+     "title": "Timeline - World History Documentaries",
+     "subs": 5910000,
+     "age_days": 3588,
+     "videos": 1,
+     "best_views": 1224067,
+     "best_title": "Inside Hitler’s Last Days: Rare Footage Of The Third Reich’s Fall",
+     "best_id": "qUvLaPwaWU0"
+    }
+   ]
+  },
+  {
    "channel_id": "UCJ8TRR6WsTKWGC-SsxepNOw",
    "channel_title": "Historium TV",
    "channel_created": "2026-08-29",
@@ -9368,6 +9498,136 @@
      "best_views": 1131257,
      "best_title": "CAUTION!!! This Case Made ME Question HUMANITY - True Crime Documentary",
      "best_id": "sqUw44QIpiA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCS_gThFRoaFUUQ5l1K8TIIw",
+   "channel_title": "Nebula Nexus Global Entertainment",
+   "channel_created": "2026-09-18",
+   "channel_age_days": 57,
+   "subs": 1560,
+   "found_at": "2026-11-15T01:00:51Z",
+   "validated_at": "2026-11-15T01:01:08Z",
+   "niche": "2500 Years Back in Time! A Man Accidentally Lands His Jet in 500 BC | AI Time Travel Short Film",
+   "path": [],
+   "queries": [
+    "ai generated movie",
+    "time travel adventure",
+    "film short time"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "EI3vjvR6cu4",
+    "title": "2500 Years Back in Time! A Man Accidentally Lands His Jet in 500 BC | AI Time Travel Short Film",
+    "views": 560226
+   },
+   "ratio": 359.1,
+   "channel_stats": {
+    "videos": 16,
+    "median_views": 338,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 91,
+    "n_channels": 78,
+    "max_subs": 25800000,
+    "median_subs": 83050,
+    "big_channels": 37,
+    "top_views": 95556711,
+    "demand_videos": 78,
+    "demand_channels": 65,
+    "young_hits": 8
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 78, лимит 30",
+    "Есть канал с 25 800 000 подписчиков",
+    "Медиана подписчиков 83 050 выше лимита"
+   ],
+   "notes": [],
+   "score": 9,
+   "competitors": [
+    {
+     "id": "UCQnhXRLVlz161PmIuqA9e4A",
+     "title": "MYTHRA",
+     "subs": 322000,
+     "age_days": 7207,
+     "videos": 1,
+     "best_views": 95556711,
+     "best_title": "She Gave Birth to a Dragon | The Mothers Monster | Full Fantasy Movie 4K",
+     "best_id": "dqCGNrQ6N_o"
+    },
+    {
+     "id": "UCss1HdV4LelR3oVzp-l6tzw",
+     "title": "Forevergreen Film",
+     "subs": 30600,
+     "age_days": 529,
+     "videos": 1,
+     "best_views": 13358672,
+     "best_title": "FOREVERGREEN — Academy Award®–Nominated Animated Short Film | Now Streaming for a Limited Time",
+     "best_id": "B4EPW7JUMTM"
+    },
+    {
+     "id": "UC0lLeNdvLrFozQRsQ1TQiAw",
+     "title": "The Art of Aaron Blaise",
+     "subs": 1370000,
+     "age_days": 5116,
+     "videos": 1,
+     "best_views": 10866856,
+     "best_title": "SNOW BEAR - A Hand-Drawn Animated Short Film (4K) by Aaron Blaise",
+     "best_id": "xOXolSQcEb4"
+    },
+    {
+     "id": "UCTWiOA2IQyW_QaGv4t2UaCQ",
+     "title": "ACMofficial",
+     "subs": 1280000,
+     "age_days": 6385,
+     "videos": 7,
+     "best_views": 6703126,
+     "best_title": "Labubu | Short Horror Film",
+     "best_id": "dTRY95bvm-g"
+    },
+    {
+     "id": "UC0w1d6Hny6WWtrq8nASNKSA",
+     "title": "Causality",
+     "subs": 63600,
+     "age_days": 183,
+     "videos": 1,
+     "best_views": 4000859,
+     "best_title": "The World After World War III | Sci-Fi Short Film",
+     "best_id": "BZkPquCm6v8"
+    },
+    {
+     "id": "UCwQjQ4WrqXQcVUe2HNpd9Mg",
+     "title": "Teer",
+     "subs": 22400,
+     "age_days": 171,
+     "videos": 2,
+     "best_views": 3663151,
+     "best_title": "End of Humanity | Short AI Film",
+     "best_id": "VBlxAP8hGZ8"
+    },
+    {
+     "id": "UCAVom224BJV4-Z39VcTF-yw",
+     "title": "The Noctuary",
+     "subs": 37600,
+     "age_days": 1457,
+     "videos": 1,
+     "best_views": 3210141,
+     "best_title": "MIMIC | A Short Horror Film",
+     "best_id": "qGOstBqhh3E"
+    },
+    {
+     "id": "UCgXLDPYiYjp9arAFVwWkVnA",
+     "title": "Zeetalx Studio",
+     "subs": 7850,
+     "age_days": 115,
+     "videos": 1,
+     "best_views": 2605757,
+     "best_title": "She Was Humiliated at School—Then Her 8 Billionaire Brothers Arrived! 😱 | Drama Movie",
+     "best_id": "QfZsicnqhWA"
     }
    ]
   },
