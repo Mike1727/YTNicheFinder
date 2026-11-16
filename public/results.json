@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T01:01:16Z",
+ "generated_at": "2026-11-16T01:01:33Z",
  "quota": {
-  "day": "2026-11-14",
-  "used": 2654,
+  "day": "2026-11-15",
+  "used": 2959,
   "budget": 9000
  },
  "pending": 0,
@@ -4320,6 +4320,135 @@
    ]
   },
   {
+   "channel_id": "UC2wN71Uf2zrpOuw1xP-wl_g",
+   "channel_title": "Father Kirill | Orthodoxy, History & Evidence.",
+   "channel_created": "2026-09-22",
+   "channel_age_days": 54,
+   "subs": 454,
+   "found_at": "2026-11-16T01:00:31Z",
+   "validated_at": "2026-11-16T01:01:33Z",
+   "niche": "The Most Dangerous Question for Islam",
+   "path": [],
+   "queries": [
+    "orthodox christianity",
+    "orthodox church",
+    "priest orthodox explains"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "hNoqywmmtzY",
+    "title": "The Most Dangerous Question for Islam",
+    "views": 50112
+   },
+   "ratio": 110.4,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 1621,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 61,
+    "n_channels": 41,
+    "max_subs": 5510000,
+    "median_subs": 27500,
+    "big_channels": 11,
+    "top_views": 734582,
+    "demand_videos": 30,
+    "demand_channels": 24,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 41, лимит 30",
+    "Есть канал с 5 510 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 102,
+   "competitors": [
+    {
+     "id": "UCjjBjVc0b1cIpNGEeZtS2lg",
+     "title": "Tucker Carlson Network",
+     "subs": 2060000,
+     "age_days": 1091,
+     "videos": 1,
+     "best_views": 734582,
+     "best_title": "Orthodox Christian Priest Slams Zionism",
+     "best_id": "am0K2NOwBec"
+    },
+    {
+     "id": "UC4ocopmnWmwViIHELoo1Gkg",
+     "title": "harmony",
+     "subs": 302000,
+     "age_days": 4845,
+     "videos": 2,
+     "best_views": 604408,
+     "best_title": "What You'll See in the Orthodox Church",
+     "best_id": "OXOj5uyu-ys"
+    },
+    {
+     "id": "UCg9BLAsEXdVWSdjo0Gd5GFw",
+     "title": "The Way with Brian Davila",
+     "subs": 168000,
+     "age_days": 433,
+     "videos": 3,
+     "best_views": 546155,
+     "best_title": "Roman Catholic Priest Vs Coptic Orthodox Priest: How to choose a church and Eucharist",
+     "best_id": "ZuU1sBD1F80"
+    },
+    {
+     "id": "UCE63fBeQIoJ2P2mlBkQDchA",
+     "title": "Bryce Crawford Podcast",
+     "subs": 1290000,
+     "age_days": 1027,
+     "videos": 1,
+     "best_views": 474845,
+     "best_title": "Conversation With An Orthodox Priest! (EP 180)",
+     "best_id": "izHxkH3C2dk"
+    },
+    {
+     "id": "UCv2mxauv0f8b5CxM9f9b6ig",
+     "title": "Christian Faith Archive ",
+     "subs": 40500,
+     "age_days": 404,
+     "videos": 2,
+     "best_views": 363613,
+     "best_title": "7 Beliefs That Separate Orthodox Christians From Every Other Church",
+     "best_id": "emXel94_glo"
+    },
+    {
+     "id": "UCiLqiXa5O85APUBQV7X5w9Q",
+     "title": "Redeemed Zoomer",
+     "subs": 725000,
+     "age_days": 2451,
+     "videos": 1,
+     "best_views": 336208,
+     "best_title": "Every Orthodox Church explained ",
+     "best_id": "JPR7FGtL9T8"
+    },
+    {
+     "id": "UChA3ExC41xd1bHoeCQyXsIA",
+     "title": "SamShamounClips",
+     "subs": 18400,
+     "age_days": 593,
+     "videos": 1,
+     "best_views": 254867,
+     "best_title": "Sam Shamoun Reacts to A BRAVE Orthodox Priest Defending his Faith against Heretics!",
+     "best_id": "2GUQDrPKggo"
+    },
+    {
+     "id": "UCyvnlLWfxE9w_ULUv-RV-4A",
+     "title": "Bread and Banter",
+     "subs": 3040,
+     "age_days": 265,
+     "videos": 1,
+     "best_views": 226171,
+     "best_title": "Eastern Orthodox Priest Confronts Two Protestants | EP.14",
+     "best_id": "TxqOqKxYrmo"
+    }
+   ]
+  },
+  {
    "channel_id": "UCZrd_ozHQKO7drMkRAZLjxQ",
    "channel_title": "THE CAMBODIAN LIFE",
    "channel_created": "2026-09-22",
@@ -5348,6 +5477,135 @@
      "best_views": 601159,
      "best_title": "🔥Poor Guy Woke Up to 5 Sons—One Second Later, His System Paid Him $10M & His Wife Was a Hot CEO!",
      "best_id": "-6placu7wtw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCWnOAPiENTRsDTtFLtNk2tw",
+   "channel_title": "Mystery Travel TV",
+   "channel_created": "2026-09-30",
+   "channel_age_days": 46,
+   "subs": 933,
+   "found_at": "2026-11-16T01:00:58Z",
+   "validated_at": "2026-11-16T01:01:25Z",
+   "niche": "15 GIGANTIC THINGS IN IMPOSSIBLE PLACES | How Did They Even Appear Here? | 4K Travel Documentary",
+   "path": [],
+   "queries": [
+    "mystery travel tv",
+    "impossible places",
+    "impossible places travel"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "EuVzc9g36o8",
+    "title": "15 GIGANTIC THINGS IN IMPOSSIBLE PLACES | How Did They Even Appear Here? | 4K Travel Documentary",
+    "views": 182404
+   },
+   "ratio": 195.5,
+   "channel_stats": {
+    "videos": 20,
+    "median_views": 2328,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 85,
+    "n_channels": 43,
+    "max_subs": 26600000,
+    "median_subs": 43600,
+    "big_channels": 15,
+    "top_views": 6286196,
+    "demand_videos": 63,
+    "demand_channels": 30,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 43, лимит 30",
+    "Есть канал с 26 600 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 77,
+   "competitors": [
+    {
+     "id": "UCB2cc07u85faIJewBuqBnjA",
+     "title": "Hider Planet",
+     "subs": 57000,
+     "age_days": 402,
+     "videos": 7,
+     "best_views": 6286196,
+     "best_title": "Impossible Places | Top 25 World Biggest Bridges You Won't Believe Exist",
+     "best_id": "A2AnvaAntKY"
+    },
+    {
+     "id": "UCe8G9fApuCUh7dQr95UWhag",
+     "title": "New Travel Insight",
+     "subs": 196000,
+     "age_days": 630,
+     "videos": 8,
+     "best_views": 3609127,
+     "best_title": "30 Most Extreme Corners of Planet Earth | 4K Travel Documentary",
+     "best_id": "KzfeiYSA5G4"
+    },
+    {
+     "id": "UC3-TwPBZonGRCm6m3RYGcfQ",
+     "title": "Impossible Travel",
+     "subs": 45800,
+     "age_days": 1834,
+     "videos": 4,
+     "best_views": 2884896,
+     "best_title": "How People Live in Netherlands | The Dark Secret Behind 18 Million People Living Below Sea Level",
+     "best_id": "m5tvfuoSzOQ"
+    },
+    {
+     "id": "UC5raTSxG5BByGBy38-wbN8A",
+     "title": "Pure Earth",
+     "subs": 22000,
+     "age_days": 424,
+     "videos": 3,
+     "best_views": 2402430,
+     "best_title": "IMPOSSIBLE PLACES: 30 Extremely Surreal Wonders on Earth | 4K Travel Documentary",
+     "best_id": "XJVe7NM4GBE"
+    },
+    {
+     "id": "UCkjJyLxx36BJiXAOFaY_5EA",
+     "title": "Unknown Planet",
+     "subs": 28100,
+     "age_days": 6174,
+     "videos": 10,
+     "best_views": 2074580,
+     "best_title": "Impossible Places | World’s Most Dangerous Structures That Will Leave You Speechless | 4K Travel",
+     "best_id": "WzWs4dBRLI8"
+    },
+    {
+     "id": "UC2AKC2ataf3T-h02AloR21w",
+     "title": "Top Unreal Planet 4K",
+     "subs": 19300,
+     "age_days": 479,
+     "videos": 2,
+     "best_views": 2022524,
+     "best_title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+     "best_id": "rBBAuJS1Ux0"
+    },
+    {
+     "id": "UCE7qCIhvBXz5W1W_F0WcPgQ",
+     "title": "EXPLORE HORIZONS",
+     "subs": 29400,
+     "age_days": 684,
+     "videos": 3,
+     "best_views": 1953226,
+     "best_title": "Impossible Places | China’s Most Futuristic Wonders You Won’t Believe Exist | 4K Travel Documentary",
+     "best_id": "BLQHhrv7Lp8"
+    },
+    {
+     "id": "UCJdFqZKOUqsq3ndTa6reo1A",
+     "title": "Aventurex",
+     "subs": 9260,
+     "age_days": 212,
+     "videos": 1,
+     "best_views": 1566209,
+     "best_title": "Impossible Places | The Most INACCESSIBLE Villages No One Believes Exist | 4K Travel Documentary",
+     "best_id": "8s0NVSditLk"
     }
    ]
   },
@@ -8068,6 +8326,136 @@
      "best_views": 763863,
      "best_title": "US Navy's NEW Weapon Is Already On a Destroyer — And Only ONE Warship Has It",
      "best_id": "rDjz-EZaGcA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCGbhpUoQyhO2XnsU-wt9NnA",
+   "channel_title": "Haul Drive",
+   "channel_created": "2026-10-16",
+   "channel_age_days": 30,
+   "subs": 84,
+   "found_at": "2026-11-16T01:00:29Z",
+   "validated_at": "2026-11-16T01:01:17Z",
+   "niche": "Why Did Eddie Stobart Collapse? The Full Story",
+   "path": [],
+   "queries": [
+    "australian outback",
+    "road train",
+    "survive truckers road"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "8HxGz1HvKdQ",
+    "title": "Why Did Eddie Stobart Collapse? The Full Story",
+    "views": 73675
+   },
+   "ratio": 736.8,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 1183,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 95,
+    "n_channels": 72,
+    "max_subs": 4930000,
+    "median_subs": 60400,
+    "big_channels": 29,
+    "top_views": 3260466,
+    "demand_videos": 58,
+    "demand_channels": 51,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 72, лимит 30",
+    "Есть канал с 4 930 000 подписчиков",
+    "Медиана подписчиков 60 400 выше лимита"
+   ],
+   "notes": [],
+   "score": 17,
+   "competitors": [
+    {
+     "id": "UCuj-Tt5acrmGbujvRxVv9Fg",
+     "title": "DOVE CLUBB",
+     "subs": 4630000,
+     "age_days": 1807,
+     "videos": 1,
+     "best_views": 3260466,
+     "best_title": "Surviving In A Cyber Truck OVER NIGHT... (Stalker Watching Us)",
+     "best_id": "NLqXif8bG0c"
+    },
+    {
+     "id": "UC4jHfw4LOnSdKNTgZqOeIzQ",
+     "title": "Deadliest Roads",
+     "subs": 1450000,
+     "age_days": 2950,
+     "videos": 1,
+     "best_views": 2754032,
+     "best_title": "Timber Truckers: Surviving Total Isolation in Gabon | Deadliest Roads",
+     "best_id": "VPznjHwmitc"
+    },
+    {
+     "id": "UC7-Z34pbJ0ZAOJRmUCEz0Cg",
+     "title": "Geography By Geoff",
+     "subs": 1130000,
+     "age_days": 1897,
+     "videos": 1,
+     "best_views": 2678866,
+     "best_title": "Why Nobody Lives On This HUGE Stretch Of Australian Coast",
+     "best_id": "f6gVTfmNKGc"
+    },
+    {
+     "id": "UC_fnXHS-vdTMPcyvCCCk4lQ",
+     "title": "Wild Craft",
+     "subs": 9760,
+     "age_days": 293,
+     "videos": 1,
+     "best_views": 2551135,
+     "best_title": "Stuck 8x8 Expedition Truck vs Amazon Crocodiles: Epic Survival in a Deep Flood | Van Life",
+     "best_id": "vYPHMIvWHFY"
+    },
+    {
+     "id": "UCQCrKxBj5Id79syQEsY2Qxg",
+     "title": "Simon Wilson",
+     "subs": 2290000,
+     "age_days": 3619,
+     "videos": 1,
+     "best_views": 2474838,
+     "best_title": "53 Hours on Australia's Luxury Outback Train",
+     "best_id": "95gN8nmrnDA"
+    },
+    {
+     "id": "UCvm-CFjWK502uw3E9B7UV1Q",
+     "title": "Truck Culture",
+     "subs": 14200,
+     "age_days": 1275,
+     "videos": 1,
+     "best_views": 2063656,
+     "best_title": "How Truck Drivers Sleep in Their Cab on the Coldest Nights",
+     "best_id": "jiSZmaEeUBc"
+    },
+    {
+     "id": "UCV_X7eK-qeYAZZd6E5Dt-fw",
+     "title": "Chris Howett",
+     "subs": 428000,
+     "age_days": 4092,
+     "videos": 1,
+     "best_views": 1877446,
+     "best_title": "I Took a Road Train Across Australia",
+     "best_id": "FkosNJ7ObH4"
+    },
+    {
+     "id": "UC1nwRlpSOjjdyOegdaDttGA",
+     "title": "CUTAWAY",
+     "subs": 3420,
+     "age_days": 200,
+     "videos": 1,
+     "best_views": 1418441,
+     "best_title": "How Truckers Sleep at -50°C When the Engine Could Die Overnight",
+     "best_id": "rZWlDJfJI18"
     }
    ]
   },
