@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T01:01:33Z",
+ "generated_at": "2026-11-17T01:01:41Z",
  "quota": {
-  "day": "2026-11-15",
-  "used": 2959,
+  "day": "2026-11-16",
+  "used": 3265,
   "budget": 9000
  },
  "pending": 0,
@@ -398,6 +398,135 @@
    ]
   },
   {
+   "channel_id": "UCmI7P5iApkGUlGLah-2Xbmw",
+   "channel_title": "UNKNOWN ORIGINS 🔥",
+   "channel_created": "2026-10-08",
+   "channel_age_days": 39,
+   "subs": 315,
+   "found_at": "2026-11-17T01:00:21Z",
+   "validated_at": "2026-11-17T01:01:15Z",
+   "niche": "🌍 दिवाली की रात NASA ने अंतरिक्ष से भारत को देखा तो क्या हुआ? 😱🚀",
+   "path": [],
+   "queries": [
+    "रहस origins unknown",
+    "ऊपर ऊपर रहस",
+    "रहस dev diwali"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "XEV8KpuLXL4",
+    "title": "🌍 दिवाली की रात NASA ने अंतरिक्ष से भारत को देखा तो क्या हुआ? 😱🚀",
+    "views": 176998
+   },
+   "ratio": 561.9,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 395,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 11,
+    "n_channels": 10,
+    "max_subs": 647000,
+    "median_subs": 14000,
+    "big_channels": 3,
+    "top_views": 164004,
+    "demand_videos": 1,
+    "demand_channels": 1,
+    "young_hits": 0
+   },
+   "status": "weak",
+   "reasons": [],
+   "notes": [
+    "Есть каналов от 100 000 подписчиков: 3",
+    "Спрос подтверждён одним каналом и одним видео: это может быть разовый хит"
+   ],
+   "score": 280,
+   "competitors": [
+    {
+     "id": "UCyVYa8485Ox6kPFPu8jZolw",
+     "title": "Ravi worldtube",
+     "subs": 133000,
+     "age_days": 4550,
+     "videos": 1,
+     "best_views": 164004,
+     "best_title": "अमरनाथ से जुड़ी दिव्य एवं अनसुनी इतिहास और रहस्य( Amarnath unknown history & mystery)",
+     "best_id": "vOmfd2on850"
+    },
+    {
+     "id": "UC8zgsI6mi7KTknc2i3Qtzhg",
+     "title": "Anveshan Lab",
+     "subs": 916,
+     "age_days": 305,
+     "videos": 1,
+     "best_views": 46948,
+     "best_title": "​99% लोग नहीं जानते! ट्रेन के ऊपर लगे तार का रहस्य 🇮🇳 | AnveshanLab",
+     "best_id": "1c3Ui5FQyNM"
+    },
+    {
+     "id": "UChuXhovtRu7VTbzq1h1i5Dw",
+     "title": "Aaj Tak Radio",
+     "subs": 647000,
+     "age_days": 2475,
+     "videos": 1,
+     "best_views": 12729,
+     "best_title": "Banaras की Dev Deepawali, Katki mela और Shiv के 'त्रिपुरारि' बनने की कहानी: Babamandal EP 21",
+     "best_id": "W1LSwz1XJeo"
+    },
+    {
+     "id": "UCpkwdB00t2qlLAXY5mpbpgA",
+     "title": "DAIVIK SHAKTIYA shorts",
+     "subs": 172000,
+     "age_days": 1377,
+     "videos": 1,
+     "best_views": 11152,
+     "best_title": "कार्तिक पूर्णिमा की रात 24 नवंबर को ये 1 दीया जरूर रखना! जानिए क्यों? #purnima",
+     "best_id": "KEyaUnp6UqI"
+    },
+    {
+     "id": "UCoPHLUhlLOC3FrKsYSvrH1g",
+     "title": "The First Talk",
+     "subs": 11500,
+     "age_days": 311,
+     "videos": 1,
+     "best_views": 650,
+     "best_title": "Diwali की रात तंत्र-मंत्र और हवन का रहस्य!  लक्ष्मी पूजा का असली महत्व | | The First Talk",
+     "best_id": "Pg02GmuUm5A"
+    },
+    {
+     "id": "UCjzVXJ6RtapwARbc7KidW6A",
+     "title": "Rajeev Kumar chaudhary ",
+     "subs": 38400,
+     "age_days": 698,
+     "videos": 1,
+     "best_views": 86,
+     "best_title": "कैलासा मंदिर का रहस्य 😱 पहाड़ को ऊपर से नीचे काटकर कैसे बनाया गया यह चमत्कार | Ellora Temple History",
+     "best_id": "g7Fs1eeT0WU"
+    },
+    {
+     "id": "UCrvikKmOQvfeYhSEfysA0ow",
+     "title": "Capital Radio Ayodhya",
+     "subs": 1260,
+     "age_days": 1032,
+     "videos": 1,
+     "best_views": 75,
+     "best_title": "Mahadev कैसे बने Tripurari? Kashi Dev Deepawali का सबसे बड़ा रहस्य!",
+     "best_id": "V0AC-3hs9yU"
+    },
+    {
+     "id": "UCOaXyAcnz98I2bM9C13CdWQ",
+     "title": "Gyan astro",
+     "subs": 16500,
+     "age_days": 4519,
+     "videos": 1,
+     "best_views": 30,
+     "best_title": "कार्तिक पूर्णिमा 2026: संपूर्ण व्रत कथा व रहस्य | Kartik Purnima 2026 Date | Dev Diwali Katha",
+     "best_id": "wd5AsnX4SYU"
+    }
+   ]
+  },
+  {
    "channel_id": "UCqz_L3yJvGQrYyQhZAvXkxQ",
    "channel_title": "深海降下ログ",
    "channel_created": "2026-10-15",
@@ -452,6 +581,135 @@
      "best_views": 66759,
      "best_title": "【実写】深海の死骸に群がるサメ…大きな生き物が海の底に沈むと、最後に何が残るのか",
      "best_id": "k6-dpHAQsHA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UClW98ec3oye5Lr6DeFWY58A",
+   "channel_title": "Sarah Johnson",
+   "channel_created": "2026-10-09",
+   "channel_age_days": 38,
+   "subs": 9750,
+   "found_at": "2026-11-17T01:00:27Z",
+   "validated_at": "2026-11-17T01:01:41Z",
+   "niche": "Goodwill’s $7 Billion Empire Is Collapsing — And Nobody Can Save It",
+   "path": [],
+   "queries": [
+    "nobody save collapsing",
+    "goodwill billion empire collapsing",
+    "walmart billion empire collapsing"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "NJa3BblBayA",
+    "title": "Costco’s $400 Billion Empire Is Collapsing — And Nobody Can Save It",
+    "views": 236498
+   },
+   "ratio": 24.3,
+   "channel_stats": {
+    "videos": 24,
+    "median_views": 8716,
+    "hits": 9
+   },
+   "market": {
+    "n_videos": 101,
+    "n_channels": 71,
+    "max_subs": 15500000,
+    "median_subs": 27,
+    "big_channels": 2,
+    "top_views": 759332,
+    "demand_videos": 13,
+    "demand_channels": 6,
+    "young_hits": 4
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 71, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1598,
+   "competitors": [
+    {
+     "id": "UCnjgxChqYYnyoqO4k_Q1d6Q",
+     "title": "The Diary Of A CEO Clips",
+     "subs": 2970000,
+     "age_days": 1733,
+     "videos": 1,
+     "best_views": 759332,
+     "best_title": "The REAL Reason Nobody Is Coming To Save Us",
+     "best_id": "G-zB7kcVS4w"
+    },
+    {
+     "id": "UCfdNM3NAhaBOXCafH7krzrA",
+     "title": "The Infographics Show",
+     "subs": 15500000,
+     "age_days": 5742,
+     "videos": 1,
+     "best_views": 498724,
+     "best_title": "The 60-Minute Collapse of the Xbox Empire",
+     "best_id": "Fm5p1Wzfr4Q"
+    },
+    {
+     "id": "UCU8t8rG612sMg7vo0XMNvYQ",
+     "title": "Behind The Strip",
+     "subs": 3710,
+     "age_days": 58,
+     "videos": 1,
+     "best_views": 453911,
+     "best_title": "The $500M Casino Town Nobody Can Save — Laughlin’s Collapse Is Already Too Late",
+     "best_id": "5VSWOquggEk"
+    },
+    {
+     "id": "UClW98ec3oye5Lr6DeFWY58A",
+     "title": "Sarah Johnson",
+     "subs": 9750,
+     "age_days": 38,
+     "videos": 20,
+     "best_views": 448607,
+     "best_title": "Goodwill’s $7 Billion Empire Is Collapsing — And Nobody Can Save It",
+     "best_id": "7QxzqyOfJns"
+    },
+    {
+     "id": "UCqNPxjcjuTfOrmBmVblRsCA",
+     "title": "Vertical Truth",
+     "subs": 1130,
+     "age_days": 66,
+     "videos": 1,
+     "best_views": 161075,
+     "best_title": "Dubai’s Tallest Hotel Is Collapsing From the Inside—And Nobody Can Save It",
+     "best_id": "yG-MmBMAfwg"
+    },
+    {
+     "id": "UC37HMnfbbzYFp-hXZzhOEsA",
+     "title": "Russell Hargrove YT",
+     "subs": 116,
+     "age_days": 27,
+     "videos": 2,
+     "best_views": 56739,
+     "best_title": "Pepsi’s $200 Billion Empire Is Collapsing — And Nobody Can Save It",
+     "best_id": "4gR1kNQLYCo"
+    },
+    {
+     "id": "UCeCPFG4NDii817sVYvL6PoQ",
+     "title": "Business by Dann",
+     "subs": 86,
+     "age_days": 12,
+     "videos": 1,
+     "best_views": 23778,
+     "best_title": "Alibaba’s $800 Billion Empire Is Crumbling — And Nobody Can Save It",
+     "best_id": "A3KfPYCCwkI"
+    },
+    {
+     "id": "UCOAUdbMNn3K0s6VpFff-rVA",
+     "title": "Food Meter",
+     "subs": 5610,
+     "age_days": 4511,
+     "videos": 1,
+     "best_views": 14928,
+     "best_title": "Doritos $8 Billion Empire Is Collapsing — And Nobody Can Save It",
+     "best_id": "slAN2WqEGG8"
     }
    ]
   },
@@ -4703,6 +4961,135 @@
      "best_views": 1297979,
      "best_title": "Medical Historian Answers History of Medicine Questions | Tech Support | WIRED",
      "best_id": "Pjl8n8u9Xfw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCZYVk8sxQ2AhGOu6oU7B78Q",
+   "channel_title": "Wealt Growth Hindi ",
+   "channel_created": "2026-10-09",
+   "channel_age_days": 38,
+   "subs": 2310,
+   "found_at": "2026-11-17T01:01:02Z",
+   "validated_at": "2026-11-17T01:01:32Z",
+   "niche": "सब्ज़ी मंडी का छुपा हुआ बिज़नेस मॉडल | Middleman Business Model Hidden Business ",
+   "path": [],
+   "queries": [
+    "business ideas in hindi",
+    "village business ideas",
+    "business hidden investment"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "-Cj6wC4BNSk",
+    "title": "सुबह 4 बजे शुरू करो ये 7 बिज़नेस | चुपचाप लाखों कमाओ | Low Investment Business Ideas",
+    "views": 107396
+   },
+   "ratio": 46.5,
+   "channel_stats": {
+    "videos": 18,
+    "median_views": 915,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 55,
+    "n_channels": 26,
+    "max_subs": 7210000,
+    "median_subs": 81500,
+    "big_channels": 12,
+    "top_views": 2931959,
+    "demand_videos": 18,
+    "demand_channels": 13,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 7 210 000 подписчиков",
+    "Медиана подписчиков 81 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 86,
+   "competitors": [
+    {
+     "id": "UCztcqaBRULVNDp_fsOsqcQw",
+     "title": "Manufacturer's Guide",
+     "subs": 3330000,
+     "age_days": 3021,
+     "videos": 3,
+     "best_views": 2931959,
+     "best_title": "घर के छोटे कमरे से ₹5,000 में शुरू करे बिज़नेस🔥मोटी कमाई✅हर जगह है डिमांड | Small business ideas 2026",
+     "best_id": "jRH6WnX2uiA"
+    },
+    {
+     "id": "UCTR1Tk8SaMO9qw930kIOMHQ",
+     "title": "Sagar Sinha ",
+     "subs": 5340000,
+     "age_days": 3214,
+     "videos": 1,
+     "best_views": 1920332,
+     "best_title": "नौकरी के साथ शुरू करो ये 7 बिज़नेस जो कभी बंद नहीं होंगे  | Part Time Business | SAGAR SINHA",
+     "best_id": "C61zD9uMwuc"
+    },
+    {
+     "id": "UCJ8Dpk8UZUHmypkA9hDdhPA",
+     "title": "Growth Ved",
+     "subs": 100000,
+     "age_days": 642,
+     "videos": 1,
+     "best_views": 504316,
+     "best_title": "नौकरी के भरोसे मत रहो! ये 7 Small Businesses करो जो कभी बंद नहीं होंगे 💰 | Warren Buffett",
+     "best_id": "IReWf4XGyWw"
+    },
+    {
+     "id": "UCvl3XNnfw77JFYvCoSsNrAg",
+     "title": "The Pratik's Playbook",
+     "subs": 2810,
+     "age_days": 141,
+     "videos": 1,
+     "best_views": 434168,
+     "best_title": "₹0 लगाए बिना शुरू होने वाला Business 😳 Zero Investment Business Idea",
+     "best_id": "-usOAbcAhqM"
+    },
+    {
+     "id": "UClbqFnwW_1qjWwO2zl0ggvw",
+     "title": "Harshvarrdhan Jain",
+     "subs": 7210000,
+     "age_days": 3877,
+     "videos": 1,
+     "best_views": 203211,
+     "best_title": "10 High income Business ideas | Harshvarrdhan Jain",
+     "best_id": "HAGcMewUpwI"
+    },
+    {
+     "id": "UCAKecemIWF4CSkvuuw76feA",
+     "title": "Boss Wallah Daily Hindi",
+     "subs": 223000,
+     "age_days": 1650,
+     "videos": 9,
+     "best_views": 192408,
+     "best_title": "2026 के सबसे Profitable Small Business Ideas | Daily Income Business Ideas in Hindi",
+     "best_id": "38PmesbskEk"
+    },
+    {
+     "id": "UCZzKRmZPLSD4Y0p2hcx1-eg",
+     "title": "Chitresh Soni ",
+     "subs": 392000,
+     "age_days": 2923,
+     "videos": 1,
+     "best_views": 176374,
+     "best_title": "Next Big Opportunities: 5 Business Ideas For 2026 | Ft: Basesh U Gala | Chitresh Soni Podcasts",
+     "best_id": "3jE_m1G1Emc"
+    },
+    {
+     "id": "UC4SiibB5HQBTJcd18rDNHLw",
+     "title": "dhana vedika",
+     "subs": 3240,
+     "age_days": 88,
+     "videos": 1,
+     "best_views": 147521,
+     "best_title": "గ్రామంలో కోటీశ్వరుడు అవ్వడం ఎలా? | 8 best village business ideas",
+     "best_id": "qLTGrzBijcQ"
     }
    ]
   },
@@ -9626,6 +10013,136 @@
      "best_views": 2966417,
      "best_title": "A true crime show solved this man’s murder",
      "best_id": "QAjPHwqXLrk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCE4nPjSNHkw-4qMKn6661uA",
+   "channel_title": "Skill to Earn",
+   "channel_created": "2026-10-17",
+   "channel_age_days": 30,
+   "subs": 998,
+   "found_at": "2026-11-17T01:01:02Z",
+   "validated_at": "2026-11-17T01:01:23Z",
+   "niche": "Business Ideas With Job – 8 Small Business Ghar Baithe Kamao",
+   "path": [],
+   "queries": [
+    "earn money online",
+    "small business ideas",
+    "ideas business earn"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "bSJn-EGPMHI",
+    "title": "Business Ideas With Job – 8 Small Business Ghar Baithe Kamao",
+    "views": 82742
+   },
+   "ratio": 82.9,
+   "channel_stats": {
+    "videos": 9,
+    "median_views": 746,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 61,
+    "n_channels": 46,
+    "max_subs": 9410000,
+    "median_subs": 197500,
+    "big_channels": 25,
+    "top_views": 10065317,
+    "demand_videos": 43,
+    "demand_channels": 33,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 46, лимит 30",
+    "Есть канал с 9 410 000 подписчиков",
+    "Медиана подписчиков 197 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 10,
+   "competitors": [
+    {
+     "id": "UCxgAuX3XZROujMmGphN_scA",
+     "title": "Mark Tilbury",
+     "subs": 9410000,
+     "age_days": 4629,
+     "videos": 2,
+     "best_views": 10065317,
+     "best_title": "I Tried The LAZIEST Way to Make Money With AI",
+     "best_id": "LlhTEttKcwQ"
+    },
+    {
+     "id": "UCsJfDna-9xsG-NmM0kwgEkg",
+     "title": "fayefilms",
+     "subs": 1580000,
+     "age_days": 2328,
+     "videos": 1,
+     "best_views": 2750947,
+     "best_title": "How I make $10,000 a month as a STUDENT (and how you can too) 💸",
+     "best_id": "j_KrWStXYDk"
+    },
+    {
+     "id": "UCdh-RTjbQp4SHWSKUhPwPaw",
+     "title": "Growth Story Studio",
+     "subs": 61800,
+     "age_days": 1447,
+     "videos": 1,
+     "best_views": 2623106,
+     "best_title": "8 BORING BUSINESSES That Make Money While You Sleep",
+     "best_id": "13q83q7rFbw"
+    },
+    {
+     "id": "UCUBmH4V_BpyXr1zqKNQWrJA",
+     "title": "Tim Richard",
+     "subs": 193000,
+     "age_days": 4668,
+     "videos": 2,
+     "best_views": 2198002,
+     "best_title": "9 Machines Making People Rich in 2026 (Nobody Is Talking About These)",
+     "best_id": "xR_D-LdLqK8"
+    },
+    {
+     "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+     "title": "Dan Martell",
+     "subs": 3170000,
+     "age_days": 5518,
+     "videos": 1,
+     "best_views": 1826509,
+     "best_title": "The Only 25 Ways to Make Money in 2026",
+     "best_id": "DhEMFeo_gL8"
+    },
+    {
+     "id": "UCQ4FNww3XoNgqIlkBqEAVCg",
+     "title": "Iman Gadzhi",
+     "subs": 6380000,
+     "age_days": 3978,
+     "videos": 3,
+     "best_views": 1686813,
+     "best_title": "5 Proven Ways To Make Money With AI (No Experience)",
+     "best_id": "DZoeGR_tatA"
+    },
+    {
+     "id": "UCw6Dxk_YQdVE-Vy-OVJsRYQ",
+     "title": "Creative Hive",
+     "subs": 306000,
+     "age_days": 4553,
+     "videos": 1,
+     "best_views": 1073922,
+     "best_title": "The 5 most profitable creative businesses to start in 2026",
+     "best_id": "KZS7HsWQFQM"
+    },
+    {
+     "id": "UCUcW21cHj7uk8VOa8WNsEQg",
+     "title": "Money Talk With Leon",
+     "subs": 69500,
+     "age_days": 579,
+     "videos": 1,
+     "best_views": 1067539,
+     "best_title": "The SIMPLEST Way To Make Money Online With Claude AI In 2027",
+     "best_id": "-pp851qDmOY"
     }
    ]
   },
