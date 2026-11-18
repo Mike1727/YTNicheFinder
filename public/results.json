@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T01:01:41Z",
+ "generated_at": "2026-11-18T01:01:16Z",
  "quota": {
-  "day": "2026-11-16",
-  "used": 3265,
+  "day": "2026-11-17",
+  "used": 2347,
   "budget": 9000
  },
  "pending": 0,
@@ -10923,6 +10923,136 @@
      "best_views": 2889020,
      "best_title": "1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth",
      "best_id": "Vd7iuPV_AF0"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCu2kJqpQ8eYtrE4pC7q15Dw",
+   "channel_title": "AJ Unfiltered",
+   "channel_created": "2026-09-30",
+   "channel_age_days": 48,
+   "subs": 325,
+   "found_at": "2026-11-18T01:00:16Z",
+   "validated_at": "2026-11-18T01:01:16Z",
+   "niche": "He Spent ₹76 Lakh Travelling the World  🚗🌍",
+   "path": [],
+   "queries": [
+    "indian travel vlogger",
+    "youtube monetization",
+    "money travel free"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "FrRSUV7AYkc",
+    "title": "How Nomad Shubham Earns Money From Travel",
+    "views": 56869
+   },
+   "ratio": 175.0,
+   "channel_stats": {
+    "videos": 22,
+    "median_views": 467,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 82,
+    "n_channels": 58,
+    "max_subs": 18300000,
+    "median_subs": 153500,
+    "big_channels": 31,
+    "top_views": 12240695,
+    "demand_videos": 58,
+    "demand_channels": 38,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 58, лимит 30",
+    "Есть канал с 18 300 000 подписчиков",
+    "Медиана подписчиков 153 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 8,
+   "competitors": [
+    {
+     "id": "UChQ-d14tHB62nskossxO0tw",
+     "title": "Joe Fazer",
+     "subs": 2510000,
+     "age_days": 3603,
+     "videos": 1,
+     "best_views": 12240695,
+     "best_title": "I Survived India's Brutal 4 Day Sleeper Train",
+     "best_id": "trqa3ozcsig"
+    },
+    {
+     "id": "UCIKAsBdkwH3ERoJd3hJQ-Jg",
+     "title": "Kanishk Gupta",
+     "subs": 2160000,
+     "age_days": 3438,
+     "videos": 3,
+     "best_views": 7113983,
+     "best_title": "India's Secret Heaven in Uttarakhand | Darma Valley and Villages",
+     "best_id": "-pc8cTYXnYs"
+    },
+    {
+     "id": "UCBElRVEL-H0eDYdL2mb1Sng",
+     "title": "Travel with AK",
+     "subs": 2130000,
+     "age_days": 2527,
+     "videos": 3,
+     "best_views": 5790335,
+     "best_title": "CHINA Shocked an INDIAN (Welcome to Year 2080)🇨🇳",
+     "best_id": "-UHM6iNcv84"
+    },
+    {
+     "id": "UC0Ize0RLIbGdH5x4wI45G-A",
+     "title": "Drew Binsky",
+     "subs": 7550000,
+     "age_days": 5227,
+     "videos": 1,
+     "best_views": 3477861,
+     "best_title": "In India, I Just Had My Travel Nightmare",
+     "best_id": "qR60uVaupGQ"
+    },
+    {
+     "id": "UC0rukNLl0RnA0cfc3zdrgGw",
+     "title": "Sunny Singh Rajput",
+     "subs": 213000,
+     "age_days": 3328,
+     "videos": 1,
+     "best_views": 3405014,
+     "best_title": "World's Cheapest Country : LAOS 🇱🇦 | Under 20,000₹",
+     "best_id": "VY8VQE6wzO4"
+    },
+    {
+     "id": "UCK-HHyVCfKYzhxVOJgBt73w",
+     "title": "Keerthi",
+     "subs": 3010000,
+     "age_days": 1565,
+     "videos": 1,
+     "best_views": 2858575,
+     "best_title": "I travelled in General Coach for 5 days ( I Was Touched )",
+     "best_id": "xmIGL_KFp0o"
+    },
+    {
+     "id": "UCM-1kVx5mtuQklVXw07jD0w",
+     "title": "Nahana",
+     "subs": 181000,
+     "age_days": 1927,
+     "videos": 2,
+     "best_views": 1551957,
+     "best_title": "India Sucks! Don't Ever Come Here 🇮🇳",
+     "best_id": "pts9xS5ismg"
+    },
+    {
+     "id": "UCq6VFHwMzcMXbuKyG7SQYIg",
+     "title": "penguinz0",
+     "subs": 18300000,
+     "age_days": 7134,
+     "videos": 1,
+     "best_views": 1297653,
+     "best_title": "Huge Youtube Monetization Change",
+     "best_id": "wqHvj2PLTQk"
     }
    ]
   },
