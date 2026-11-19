@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T01:01:16Z",
+ "generated_at": "2026-11-19T01:01:32Z",
  "quota": {
-  "day": "2026-11-17",
-  "used": 2347,
+  "day": "2026-11-18",
+  "used": 2961,
   "budget": 9000
  },
  "pending": 0,
@@ -4062,6 +4062,135 @@
    ]
   },
   {
+   "channel_id": "UCgBr2zNf-689J8HmZUCJifw",
+   "channel_title": "Explorer Unveiled",
+   "channel_created": "2026-10-18",
+   "channel_age_days": 31,
+   "subs": 1680,
+   "found_at": "2026-11-19T01:00:50Z",
+   "validated_at": "2026-11-19T01:01:32Z",
+   "niche": "The Secret of Egyptian Granite Cutting May Finally Be Solved Graham Hancock.",
+   "path": [],
+   "queries": [
+    "found scientists finally",
+    "secret egyptian granite cutting",
+    "archaeologists unearthed something oregon"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Q_Q-Dhze1pk",
+    "title": "The Secret of Egyptian Granite Cutting May Finally Be Solved Graham Hancock.",
+    "views": 124583
+   },
+   "ratio": 74.2,
+   "channel_stats": {
+    "videos": 43,
+    "median_views": 1256,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 123,
+    "n_channels": 90,
+    "max_subs": 44500000,
+    "median_subs": 6440,
+    "big_channels": 18,
+    "top_views": 3440093,
+    "demand_videos": 50,
+    "demand_channels": 39,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 90, лимит 30",
+    "Есть канал с 44 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 131,
+   "competitors": [
+    {
+     "id": "UCdxuNy-HHb-F3PNG4SRqiOw",
+     "title": "JRE Collection ( Fan Channel)",
+     "subs": 100000,
+     "age_days": 5553,
+     "videos": 2,
+     "best_views": 3440093,
+     "best_title": "Joe Rogan: \"Scientists FINALLY Opened The Book of Enoch, Then THIS Happened\"",
+     "best_id": "uIW7yJzT1X8"
+    },
+    {
+     "id": "UCAksyQw6LlPRw-rYhEPADMA",
+     "title": "First Humans ",
+     "subs": 48500,
+     "age_days": 543,
+     "videos": 2,
+     "best_views": 2500866,
+     "best_title": "Scientists Finally Solved The Roanoke Colony Mystery - After 400 Years",
+     "best_id": "cUc3uz9RmCA"
+    },
+    {
+     "id": "UCWBtLCE-BnzZx3DneqDiXWQ",
+     "title": "Astrum Earth",
+     "subs": 509000,
+     "age_days": 800,
+     "videos": 1,
+     "best_views": 1197012,
+     "best_title": "Scientists Finally Know Why Japan’s 2011 Tsunami Was So Big",
+     "best_id": "uSv41lZbBxA"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 967000,
+     "age_days": 3094,
+     "videos": 1,
+     "best_views": 1080996,
+     "best_title": "Has science finally found the real Atlantis? | BBC Timestamp",
+     "best_id": "_oKJSelSI7U"
+    },
+    {
+     "id": "UCH4BNI0-FOK2dMXoFtViWHw",
+     "title": "Be Smart",
+     "subs": 5890000,
+     "age_days": 5359,
+     "videos": 1,
+     "best_views": 1046090,
+     "best_title": "Scientists Finally Figured Out What Love Is For",
+     "best_id": "pYP1CFr_QLo"
+    },
+    {
+     "id": "UCAPjn_clh9rxktGSBntLl_w",
+     "title": "Abyss Archive",
+     "subs": 38600,
+     "age_days": 244,
+     "videos": 1,
+     "best_views": 937992,
+     "best_title": "Archaeologists Unearthed Something in Oregon That Changes Human Origins Forever",
+     "best_id": "imVV-ZioAS4"
+    },
+    {
+     "id": "UCJ1SxEaxrC5RTLs8OPq0iuQ",
+     "title": "Optic Expedition",
+     "subs": 224000,
+     "age_days": 331,
+     "videos": 2,
+     "best_views": 861964,
+     "best_title": "Archaeologists Unearthed Something in Oregon That Changes Human Origins Forever",
+     "best_id": "yRy_LtwqEz4"
+    },
+    {
+     "id": "UCRWH9H1yxLfNQo84P1NWC3w",
+     "title": "IntoTheMap ",
+     "subs": 29600,
+     "age_days": 1564,
+     "videos": 1,
+     "best_views": 756167,
+     "best_title": "I FINALLY Cut Granite with my Ancient Egyptian Drill",
+     "best_id": "dNGHIE5_TFY"
+    }
+   ]
+  },
+  {
    "channel_id": "UC50IzzKL6m83K5u_FQGgpog",
    "channel_title": "Meridian Geographic Docs",
    "channel_created": "2026-09-28",
@@ -4574,6 +4703,135 @@
      "best_views": 497521,
      "best_title": "Southern California HIT by Coastal Flooding – 8.1 FT Tide Coming (Latest Updates)",
      "best_id": "VJCGe2euskc"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCqLYQflHdtnAdXuM8NPDkdQ",
+   "channel_title": "Lost American Armory",
+   "channel_created": "2026-10-17",
+   "channel_age_days": 32,
+   "subs": 440,
+   "found_at": "2026-11-19T01:00:21Z",
+   "validated_at": "2026-11-19T01:01:13Z",
+   "niche": "25 “Unauthorized” Rifle Mods American GIs Made in Vietnam That the Army Never Approved",
+   "path": [],
+   "queries": [
+    "vietnam war documentary",
+    "american soldiers vietnam",
+    "gis american vietnam"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "HkpbCtvj320",
+    "title": "25 “Unauthorized” Gear Mods American GIs Made in Vietnam That the Army Never Approved",
+    "views": 57365
+   },
+   "ratio": 130.4,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 827,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 99,
+    "n_channels": 52,
+    "max_subs": 5910000,
+    "median_subs": 19950,
+    "big_channels": 18,
+    "top_views": 4190595,
+    "demand_videos": 49,
+    "demand_channels": 30,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 52, лимит 30",
+    "Есть канал с 5 910 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 104,
+   "competitors": [
+    {
+     "id": "UC3MJVwoumJMTqCe9IaEhtiw",
+     "title": "World at War",
+     "subs": 1340000,
+     "age_days": 4927,
+     "videos": 3,
+     "best_views": 4190595,
+     "best_title": "How America's Deadliest Mistake Began: The Full Story of the Vietnam War | UNCENSORED",
+     "best_id": "JslGeRB-X84"
+    },
+    {
+     "id": "UCf-U0uPVQZtcqXUWa_Hl4Mw",
+     "title": "Into the Shadows",
+     "subs": 1300000,
+     "age_days": 1931,
+     "videos": 2,
+     "best_views": 1734744,
+     "best_title": "Why American Soldiers Started Killing Their Own Officers in Vietnam",
+     "best_id": "EKe3okNPmzQ"
+    },
+    {
+     "id": "UCKmqYReXoCMbVgxaT5XuM4w",
+     "title": "Frontline by ITN",
+     "subs": 747000,
+     "age_days": 6522,
+     "videos": 4,
+     "best_views": 1633090,
+     "best_title": "After Tet | Vietnam War Combat Footage | Archive Documentary (1968)",
+     "best_id": "ufzjpG_Dzt4"
+    },
+    {
+     "id": "UCm1yxl_4qMbStLHpHQu6xWg",
+     "title": "Unknown Frequencies",
+     "subs": 94700,
+     "age_days": 753,
+     "videos": 2,
+     "best_views": 1106177,
+     "best_title": "The ENTIRE History of The Vietnam War Explained",
+     "best_id": "79PHRzE9pDU"
+    },
+    {
+     "id": "UC4ZhXetWsCmjaHyFaTdVbog",
+     "title": "True Vietnam Docs",
+     "subs": 24600,
+     "age_days": 289,
+     "videos": 5,
+     "best_views": 1090242,
+     "best_title": "The TERRIFYING First 30 Days Every Vietnam FNG (F**king New Guy) Faced",
+     "best_id": "YEllz3IALvg"
+    },
+    {
+     "id": "UC3fOzMSxcmCXZLmAM9vy1IQ",
+     "title": "War Stories",
+     "subs": 1370000,
+     "age_days": 2302,
+     "videos": 1,
+     "best_views": 868851,
+     "best_title": "Britain's Vietnam: The Forgotten Jungle War That Cost An Empire",
+     "best_id": "r9dawFEHkTA"
+    },
+    {
+     "id": "UC88lvyJe7aHZmcvzvubDFRg",
+     "title": "Timeline - World History Documentaries",
+     "subs": 5910000,
+     "age_days": 3592,
+     "videos": 1,
+     "best_views": 842164,
+     "best_title": "Uncensored Footage From The My Lai Massacre: Vietnam War's Darkest Day",
+     "best_id": "LWo9vnXOfXg"
+    },
+    {
+     "id": "UC_gzVSoLuneYS6tg-mLvO4A",
+     "title": "The Entire War",
+     "subs": 7200,
+     "age_days": 49,
+     "videos": 1,
+     "best_views": 768847,
+     "best_title": "The ENTIRE History of the Vietnam War in 17 Minutes",
+     "best_id": "OqKTrSlQXSA"
     }
    ]
   },
@@ -11053,6 +11311,136 @@
      "best_views": 1297653,
      "best_title": "Huge Youtube Monetization Change",
      "best_id": "wqHvj2PLTQk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCMMK3F-TlFEmgXIhkfrpLJw",
+   "channel_title": "RohoshyoPedia",
+   "channel_created": "2026-09-22",
+   "channel_age_days": 57,
+   "subs": 1380,
+   "found_at": "2026-11-19T01:00:40Z",
+   "validated_at": "2026-11-19T01:01:22Z",
+   "niche": "মুরগি আসলে খাওয়ার জন্য ছিল না?! | মুরগির অবিশ্বাস্য ও অজানা ইতিহাস | History of Chicken",
+   "path": [],
+   "queries": [
+    "bangla documentary",
+    "history documentary",
+    "history আসল বছর"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "DnFaUtq-l-8",
+    "title": "বিরিয়ানির ইতিহাস - বিরিয়ানির জন্ম কিভাবে হয়েছিল ? History of Biryani | Bangla Documentary",
+    "views": 161650
+   },
+   "ratio": 117.1,
+   "channel_stats": {
+    "videos": 25,
+    "median_views": 1314,
+    "hits": 3
+   },
+   "market": {
+    "n_videos": 113,
+    "n_channels": 73,
+    "max_subs": 15500000,
+    "median_subs": 122000,
+    "big_channels": 37,
+    "top_views": 8201449,
+    "demand_videos": 97,
+    "demand_channels": 59,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 73, лимит 30",
+    "Есть канал с 15 500 000 подписчиков",
+    "Медиана подписчиков 122 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 7,
+   "competitors": [
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15500000,
+     "age_days": 7388,
+     "videos": 8,
+     "best_views": 8201449,
+     "best_title": "Greatest Unsolved Mysteries Ever | Mysteries Unearthed with Danny Trejo",
+     "best_id": "DgPEBq4Ke8g"
+    },
+    {
+     "id": "UC0Ize0RLIbGdH5x4wI45G-A",
+     "title": "Drew Binsky",
+     "subs": 7550000,
+     "age_days": 5228,
+     "videos": 1,
+     "best_views": 6398451,
+     "best_title": "Entering Bangladesh | World's Deadliest Traffic",
+     "best_id": "CIy9wAkQvr8"
+    },
+    {
+     "id": "UCq6OAftTQOuUBRdtUDq5SUA",
+     "title": "PBS Documentaries",
+     "subs": 454000,
+     "age_days": 5369,
+     "videos": 1,
+     "best_views": 3123479,
+     "best_title": "The Real History of Africa They Never Taught You | Full Documentary | Africa's Great Civilizations",
+     "best_id": "2XS7s9S6q8Q"
+    },
+    {
+     "id": "UCUFrfvd3CeQnguMBHXhrjsw",
+     "title": "Ken Burns",
+     "subs": 122000,
+     "age_days": 5292,
+     "videos": 2,
+     "best_views": 2969357,
+     "best_title": "The Civil War | Full Episode 1 | 1861: \"The Cause\" | PBS",
+     "best_id": "OVP38FRjEmA"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 967000,
+     "age_days": 3094,
+     "videos": 1,
+     "best_views": 2810160,
+     "best_title": "Debunking the biggest myths history made you believe | BBC Timestamp",
+     "best_id": "f8R_bMndsAs"
+    },
+    {
+     "id": "UC50uCdUubc04xXZz7bqv5ng",
+     "title": "Investigation",
+     "subs": 5410000,
+     "age_days": 4004,
+     "videos": 1,
+     "best_views": 2284293,
+     "best_title": "BANGLADESH: Surviving the world's most crowded nation",
+     "best_id": "qtiV8sxCImM"
+    },
+    {
+     "id": "UCZ4jB-tLmk48D2YQvfFz45A",
+     "title": "ADYOPANTO",
+     "subs": 1830000,
+     "age_days": 2418,
+     "videos": 1,
+     "best_views": 2242772,
+     "best_title": "আসলে কেমন ছিল পৃথিবীতে ডাইনোসরদের শেষ দিন | আদ্যোপান্ত | The Last Day of the Dinosaurs",
+     "best_id": "kqqoVPMa04M"
+    },
+    {
+     "id": "UC-QTh5HFiw28MwFrmFrRjzA",
+     "title": "Beginning To Now",
+     "subs": 338000,
+     "age_days": 2108,
+     "videos": 1,
+     "best_views": 1955221,
+     "best_title": "The ENTIRE History of The World (NO AI) | 4K Documentary",
+     "best_id": "zohg5rx5ptU"
     }
    ]
   },
