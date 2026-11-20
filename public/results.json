@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T01:01:32Z",
+ "generated_at": "2026-11-20T01:01:17Z",
  "quota": {
-  "day": "2026-11-18",
-  "used": 2961,
+  "day": "2026-11-19",
+  "used": 2346,
   "budget": 9000
  },
  "pending": 0,
@@ -581,6 +581,135 @@
      "best_views": 66759,
      "best_title": "【実写】深海の死骸に群がるサメ…大きな生き物が海の底に沈むと、最後に何が残るのか",
      "best_id": "k6-dpHAQsHA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC5OMFzatX4soWmBQurT5e6g",
+   "channel_title": "TomSmith",
+   "channel_created": "2026-10-20",
+   "channel_age_days": 30,
+   "subs": 5990,
+   "found_at": "2026-11-20T01:00:23Z",
+   "validated_at": "2026-11-20T01:01:17Z",
+   "niche": "Nikola Tesla Said He Knew How To Speak To God — And Revealed The Exact Method",
+   "path": [],
+   "queries": [
+    "tesla nikola said",
+    "nikola tesla said knew",
+    "nikola tesla said dead"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "BP04x42zzGU",
+    "title": "Nikola Tesla’s Papers Describe a Structure Older Than Humanity — And Where It Was Buried",
+    "views": 124170
+   },
+   "ratio": 20.7,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 23783,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 41,
+    "n_channels": 33,
+    "max_subs": 2450000,
+    "median_subs": 464,
+    "big_channels": 5,
+    "top_views": 1653867,
+    "demand_videos": 13,
+    "demand_channels": 11,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 33, лимит 30",
+    "Есть канал с 2 450 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 2265,
+   "competitors": [
+    {
+     "id": "UCSvQIaXSik2emJ83jlwvQLQ",
+     "title": "Rishabh Bidhuri",
+     "subs": 2450000,
+     "age_days": 2469,
+     "videos": 1,
+     "best_views": 1653867,
+     "best_title": "Nikola Tesla's Secret Code to Unlock the Universe",
+     "best_id": "Be3-NnOyQqU"
+    },
+    {
+     "id": "UC5OMFzatX4soWmBQurT5e6g",
+     "title": "TomSmith",
+     "subs": 5990,
+     "age_days": 30,
+     "videos": 5,
+     "best_views": 1066118,
+     "best_title": "Nikola Tesla Said He Knew How To Speak To God — And Revealed The Exact Method",
+     "best_id": "gkE9m-l5Yl0"
+    },
+    {
+     "id": "UCKCS2T2uR_7h4zpVETbcFjg",
+     "title": "David Bayer",
+     "subs": 704000,
+     "age_days": 4469,
+     "videos": 1,
+     "best_views": 696295,
+     "best_title": "This Nikola Tesla Technique Will Make You Unstoppable",
+     "best_id": "F6xmLlFoFGg"
+    },
+    {
+     "id": "UCrjEW5AXYHbURTzG9J8ylrg",
+     "title": "Clave Sabia",
+     "subs": 6620,
+     "age_days": 1115,
+     "videos": 1,
+     "best_views": 468894,
+     "best_title": "Test a Woman’s Character in 2 Simple Ways | Deep Nikola Tesla Quote | Golden wisdom 2.0 | ",
+     "best_id": "6PaTD_X-Uvs"
+    },
+    {
+     "id": "UCSZ-btOg0op4YuXk0732kKw",
+     "title": "In Their Shoes",
+     "subs": 4610,
+     "age_days": 52,
+     "videos": 1,
+     "best_views": 310299,
+     "best_title": "Your Life as Nikola Tesla",
+     "best_id": "ck8QZWgNJA0"
+    },
+    {
+     "id": "UC-w6ewC0s0u4r86H3mjwcVA",
+     "title": "New Discovery",
+     "subs": 67500,
+     "age_days": 274,
+     "videos": 1,
+     "best_views": 299389,
+     "best_title": "Before She Died, Nikola Tesla's Assistant Revealed What They Truly Discovered That Night",
+     "best_id": "Kiz-fSWwlNE"
+    },
+    {
+     "id": "UC9-S7MUG8Eqn2f15v05QvzQ",
+     "title": "Angela Rose",
+     "subs": 479000,
+     "age_days": 2112,
+     "videos": 1,
+     "best_views": 278826,
+     "best_title": "Why did Donald Trump JUST Mention Nikola Tesla?",
+     "best_id": "g4DLaog0nsk"
+    },
+    {
+     "id": "UCrO-OP7b-9l1VICFsZhiSIw",
+     "title": "The Omitted Century",
+     "subs": 2570,
+     "age_days": 292,
+     "videos": 1,
+     "best_views": 192491,
+     "best_title": "Tesla Gave One Final Interview Before Dying In 1943 — What He Said About the Old World",
+     "best_id": "evcwjA_oEno"
     }
    ]
   },
