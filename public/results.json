@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-20T01:01:17Z",
+ "generated_at": "2026-11-21T01:01:38Z",
  "quota": {
-  "day": "2026-11-19",
-  "used": 2346,
+  "day": "2026-11-20",
+  "used": 3265,
   "budget": 9000
  },
  "pending": 0,
@@ -581,6 +581,134 @@
      "best_views": 66759,
      "best_title": "【実写】深海の死骸に群がるサメ…大きな生き物が海の底に沈むと、最後に何が残るのか",
      "best_id": "k6-dpHAQsHA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCd5uBF-0k5ZS29LvOx-upJw",
+   "channel_title": "The founder story",
+   "channel_created": "2026-11-06",
+   "channel_age_days": 14,
+   "subs": 3210,
+   "found_at": "2026-11-21T01:00:44Z",
+   "validated_at": "2026-11-21T01:01:20Z",
+   "niche": "History of Mahindra-भारत से अमेरिका तक का सफर in 17 minutes",
+   "path": [],
+   "queries": [
+    "history minutes सफर",
+    "history mahindra सफर minutes",
+    "history kia kia बदल"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "llji8ERYKPw",
+    "title": "History of KIA - KIA का भारत पर कब्ज़ा! सिर्फ 6 साल में कैसे बदल गया पूरा इतिहास in 17 minutes",
+    "views": 486919
+   },
+   "ratio": 151.7,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 93778,
+    "hits": 5
+   },
+   "market": {
+    "n_videos": 10,
+    "n_channels": 9,
+    "max_subs": 1310000,
+    "median_subs": 3210,
+    "big_channels": 2,
+    "top_views": 1156101,
+    "demand_videos": 5,
+    "demand_channels": 4,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 1 310 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 10372,
+   "competitors": [
+    {
+     "id": "UCd5uBF-0k5ZS29LvOx-upJw",
+     "title": "The founder story",
+     "subs": 3210,
+     "age_days": 14,
+     "videos": 2,
+     "best_views": 1156101,
+     "best_title": "History of Mahindra-भारत से अमेरिका तक का सफर in 17 minutes",
+     "best_id": "Umy8MQtpoPk"
+    },
+    {
+     "id": "UCLicPM8QXMXS-TC6lkrKCBQ",
+     "title": "Torque Reborn",
+     "subs": 43900,
+     "age_days": 379,
+     "videos": 1,
+     "best_views": 812423,
+     "best_title": "Mahindra Evolution 1947 – 2026 | 79 Years of Power, Legacy & Innovation",
+     "best_id": "UqK0zoCjK3k"
+    },
+    {
+     "id": "UC5oE0fPV9YK0GknHl9YspFA",
+     "title": "History Connect",
+     "subs": 832000,
+     "age_days": 1143,
+     "videos": 1,
+     "best_views": 296307,
+     "best_title": "Emergency में बसा NOIDA ? | Noida का असली इतिहास जिसने NCR बदल दिया !",
+     "best_id": "v1M-Vb5JlJg"
+    },
+    {
+     "id": "UC-ZKwu_tc3x8riPyom1LUkg",
+     "title": "History Climax",
+     "subs": 15000,
+     "age_days": 51,
+     "videos": 1,
+     "best_views": 294621,
+     "best_title": "History of Punjab | वो कहानी जिसने भारत का इतिहास बदल दिया",
+     "best_id": "f_HxmV8sfKo"
+    },
+    {
+     "id": "UCWqw-SWQV2Ek3HJ_Jr6sFmA",
+     "title": "The Officer's Academy",
+     "subs": 1310000,
+     "age_days": 2346,
+     "videos": 1,
+     "best_views": 2438,
+     "best_title": "मुस्लिम लीग  एक संगठन जिसने भारत का इतिहास बदल दिया! BPSC TRE NEW PATTERN | Modern Indian History",
+     "best_id": "mohcRXtlK9E"
+    },
+    {
+     "id": "UCNvvOmLqcDRgT-Y1p3jNoVA",
+     "title": "Ronak History",
+     "subs": 12,
+     "age_days": 560,
+     "videos": 1,
+     "best_views": 169,
+     "best_title": "The ENTIRE History of Mahindra in 12 minute",
+     "best_id": "_DWtSnpRpwg"
+    },
+    {
+     "id": "UCSC1H51wv1FIG6I0wd-sMNQ",
+     "title": "History_Vision_88",
+     "subs": 1,
+     "age_days": 734,
+     "videos": 1,
+     "best_views": 9,
+     "best_title": "History of Mahindra | 1945 to 2026     Mahindra Company की पूरी कहानी | From 1945 to Today.   ",
+     "best_id": "2ROK7RxvUak"
+    },
+    {
+     "id": "UCn-UVmk32UWeF6XWNmeA80w",
+     "title": "Garage se empire",
+     "subs": 0,
+     "age_days": 3,
+     "videos": 1,
+     "best_views": 5,
+     "best_title": "History of Mahindra - दो भाइयों से SUV King तक का सफर | Scorpio, Thar, Bolero की कहानी in 18 minutes",
+     "best_id": "ggIWAsnbPXo"
     }
    ]
   },
@@ -3289,6 +3417,135 @@
    ]
   },
   {
+   "channel_id": "UCoF0xEdvg0RE_Btgdiy24KQ",
+   "channel_title": "Cash&Ezra",
+   "channel_created": "2026-11-09",
+   "channel_age_days": 11,
+   "subs": 1250,
+   "found_at": "2026-11-21T01:00:28Z",
+   "validated_at": "2026-11-21T01:01:38Z",
+   "niche": "A Shipwreck Tore Them Apart… A Century Couldn't Keep Them Apart | Titanic Love | BL Movie 4K",
+   "path": [],
+   "queries": [
+    "movie love titanic",
+    "shipwreck tore apart century",
+    "saved man loved but"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "5ikG3e2P2fA",
+    "title": "A Shipwreck Tore Them Apart… A Century Couldn't Keep Them Apart | Titanic Love | BL Movie 4K",
+    "views": 54100
+   },
+   "ratio": 43.3,
+   "channel_stats": {
+    "videos": 4,
+    "median_views": 4197,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 42,
+    "n_channels": 35,
+    "max_subs": 8870000,
+    "median_subs": 20600,
+    "big_channels": 12,
+    "top_views": 3983463,
+    "demand_videos": 27,
+    "demand_channels": 20,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 35, лимит 30",
+    "Есть канал с 8 870 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 223,
+   "competitors": [
+    {
+     "id": "UC6LDwTYRfjQwkakw5R95OyA",
+     "title": "JoBlo Movie Clips",
+     "subs": 8870000,
+     "age_days": 4417,
+     "videos": 6,
+     "best_views": 3983463,
+     "best_title": "Hitting The Iceberg Scene | TITANIC (1997) Movie CLIP HD",
+     "best_id": "7RSnE0Um_Fk"
+    },
+    {
+     "id": "UCN5La6xiqEK-Cx9q8UsiE6w",
+     "title": "Wakas Critica",
+     "subs": 30900,
+     "age_days": 276,
+     "videos": 1,
+     "best_views": 1235141,
+     "best_title": "Titanic (1997) Full Movie in English | Epic Historical Romantic Movie | Leonardo D | Explain & Facts",
+     "best_id": "HcStCUVTbc0"
+    },
+    {
+     "id": "UCykRfCXBwtgRr1m4IXfA76w",
+     "title": "Love in Shadows",
+     "subs": 4070,
+     "age_days": 108,
+     "videos": 1,
+     "best_views": 1059572,
+     "best_title": "She Saved a Wounded Man to Break a Curse—But He Was the Dragon King",
+     "best_id": "AHo_ndP5Q2E"
+    },
+    {
+     "id": "UCpNS-jhohAizAOFFWr5c9qw",
+     "title": "Amber Halo",
+     "subs": 304000,
+     "age_days": 540,
+     "videos": 2,
+     "best_views": 959418,
+     "best_title": "On 1st Day Out Of Prison, She Saved Dying Man With Blood!——He Was CEO Who Loved Her! Fate Changed!",
+     "best_id": "NZ7SXrV9d5c"
+    },
+    {
+     "id": "UCBU3VGefEXS31DwIUfejPew",
+     "title": "Disney Plus UK",
+     "subs": 148000,
+     "age_days": 2180,
+     "videos": 1,
+     "best_views": 867231,
+     "best_title": "\"You Jump, I Jump\" | Titanic | Disney+ UK",
+     "best_id": "d4w1JtcA48Q"
+    },
+    {
+     "id": "UCigruLhTtZ_iVM6kbpH4M4w",
+     "title": "Many Drama",
+     "subs": 141000,
+     "age_days": 532,
+     "videos": 1,
+     "best_views": 816051,
+     "best_title": "After Her Husband Betrayed Her, She Saved A Buried Man—Unaware He Was A Billionaire CEO. Love Begins",
+     "best_id": "qlvkYqb9qt4"
+    },
+    {
+     "id": "UCDFRBu8-XbILATyrscZZH5w",
+     "title": "Cider Theater",
+     "subs": 117000,
+     "age_days": 225,
+     "videos": 1,
+     "best_views": 455776,
+     "best_title": "The Injured Man a Single Mom Saved Was a Mafia Boss—He Left His Fortune to Her and Her Child.",
+     "best_id": "aqiGwAWkdLQ"
+    },
+    {
+     "id": "UCEk26VN9XTtdCNQbqRp9kLQ",
+     "title": "Flutter Club",
+     "subs": 101000,
+     "age_days": 141,
+     "videos": 1,
+     "best_views": 452349,
+     "best_title": "She Saved a Hurt Man, Thinking Him Ordinary—But He Was a Cold Tycoon with 10 Cars Who Spoiled Her!",
+     "best_id": "RcHBrjTvH7o"
+    }
+   ]
+  },
+  {
    "channel_id": "UC_Ywcgjflp3fY3wJJ_Y3rvg",
    "channel_title": "Margin of Safety",
    "channel_created": "2026-10-27",
@@ -3543,6 +3800,135 @@
      "best_views": 92637,
      "best_title": "How SMART FARMING in China Is Changing Global Food",
      "best_id": "nQdtlj5PB5w"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC4Tx6Tcu3i35bu7qEPKq1ww",
+   "channel_title": "The Bede brief",
+   "channel_created": "2026-10-07",
+   "channel_age_days": 44,
+   "subs": 843,
+   "found_at": "2026-11-21T01:00:25Z",
+   "validated_at": "2026-11-21T01:01:29Z",
+   "niche": "The Fabian Society: The secret blueprint behind modern politics",
+   "path": [],
+   "queries": [
+    "modern world economic",
+    "fabian society secret blueprint",
+    "poppy poem flanders flower"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "_mZpUFmwS80",
+    "title": "The Fabian Society: The secret blueprint behind modern politics",
+    "views": 117573
+   },
+   "ratio": 139.5,
+   "channel_stats": {
+    "videos": 8,
+    "median_views": 267,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 63,
+    "n_channels": 54,
+    "max_subs": 15500000,
+    "median_subs": 6635,
+    "big_channels": 15,
+    "top_views": 1265374,
+    "demand_videos": 21,
+    "demand_channels": 17,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 54, лимит 30",
+    "Есть канал с 15 500 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 182,
+   "competitors": [
+    {
+     "id": "UCLKI0chw5s8edFWlWA2D-qw",
+     "title": "Global Stats",
+     "subs": 341000,
+     "age_days": 2715,
+     "videos": 1,
+     "best_views": 1265374,
+     "best_title": "World’s Largest Economies | GDP History & Projection (1 AD–2100)",
+     "best_id": "NtJCdiK7opw"
+    },
+    {
+     "id": "UCfdNM3NAhaBOXCafH7krzrA",
+     "title": "The Infographics Show",
+     "subs": 15500000,
+     "age_days": 5746,
+     "videos": 1,
+     "best_views": 568106,
+     "best_title": "The Math Behind the Modern Economy is Broken",
+     "best_id": "UpGszNE-y2w"
+    },
+    {
+     "id": "UC2ZlTEFAKb9Qvgw4r_aCztg",
+     "title": "Green & Pleasant",
+     "subs": 62400,
+     "age_days": 518,
+     "videos": 2,
+     "best_views": 563551,
+     "best_title": "The Secret Society Running Britain for 140 Years",
+     "best_id": "AiUV0rM9v7s"
+    },
+    {
+     "id": "UC4fQ-Cy8UpLPMwehPg-8ltQ",
+     "title": "andrew gold | heretics.",
+     "subs": 900000,
+     "age_days": 1108,
+     "videos": 1,
+     "best_views": 556514,
+     "best_title": "The Truth About The Fabians - Barrister Steven Barrett",
+     "best_id": "oq3npc3d8ys"
+    },
+    {
+     "id": "UCZ4AMrDcNrfy3X6nsU8-rPg",
+     "title": "Economics Explained",
+     "subs": 2890000,
+     "age_days": 5185,
+     "videos": 1,
+     "best_views": 346543,
+     "best_title": "Why Is the World In So Much Debt",
+     "best_id": "b665H_Tywg0"
+    },
+    {
+     "id": "UCw-kH-Od73XDAt7qtH9uBYA",
+     "title": "World Economic Forum",
+     "subs": 1080000,
+     "age_days": 7338,
+     "videos": 4,
+     "best_views": 293534,
+     "best_title": "\"Everything has changed\" - Gita Gopinath on the global economy in 2026",
+     "best_id": "-PkbDtWZrOY"
+    },
+    {
+     "id": "UCDuP4cE68bSCnbSGlF9Hw0A",
+     "title": "The Winston Marshall Show - Clips Channel",
+     "subs": 112000,
+     "age_days": 735,
+     "videos": 1,
+     "best_views": 231874,
+     "best_title": "The Fabian Society's Real Goal Finally EXPOSED | Steven Barrett",
+     "best_id": "rhtbSUrw4H4"
+    },
+    {
+     "id": "UCn65Ma-zHYgnr56LPAwWDTw",
+     "title": "Capital.com",
+     "subs": 284000,
+     "age_days": 3476,
+     "videos": 1,
+     "best_views": 204770,
+     "best_title": "The World Economy Just Crossed a Line",
+     "best_id": "JGjC3BFry1c"
     }
    ]
   },
@@ -10530,6 +10916,136 @@
      "best_views": 1067539,
      "best_title": "The SIMPLEST Way To Make Money Online With Claude AI In 2027",
      "best_id": "-pp851qDmOY"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCjxwSgRbTOJAtCzz-4Egeqw",
+   "channel_title": "TurnUrLightOff",
+   "channel_created": "2026-10-28",
+   "channel_age_days": 23,
+   "subs": 309,
+   "found_at": "2026-11-21T01:00:19Z",
+   "validated_at": "2026-11-21T01:01:11Z",
+   "niche": "5 DISTURBING Abandoned Building Encounters Caught On Camera",
+   "path": [],
+   "queries": [
+    "caught on camera",
+    "urban exploration",
+    "abandoned building encounters"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "RAYG4D36ISA",
+    "title": "5 DISTURBING Abandoned Building Encounters Caught On Camera",
+    "views": 59930
+   },
+   "ratio": 193.9,
+   "channel_stats": {
+    "videos": 10,
+    "median_views": 4683,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 103,
+    "n_channels": 50,
+    "max_subs": 8540000,
+    "median_subs": 154500,
+    "big_channels": 29,
+    "top_views": 5263739,
+    "demand_videos": 65,
+    "demand_channels": 37,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 50, лимит 30",
+    "Есть канал с 8 540 000 подписчиков",
+    "Медиана подписчиков 154 500 выше лимита"
+   ],
+   "notes": [],
+   "score": 10,
+   "competitors": [
+    {
+     "id": "UCusg9Be-vPAan_zvzqlEXGw",
+     "title": "UNSORTED",
+     "subs": 340000,
+     "age_days": 933,
+     "videos": 1,
+     "best_views": 5263739,
+     "best_title": "85 Incredible Moments Caught on CCTV Camera",
+     "best_id": "EpsH-vYBC6o"
+    },
+    {
+     "id": "UCY4xpHkk6y-cBmdjWzwPANg",
+     "title": "Eugene DingleBerry",
+     "subs": 2060000,
+     "age_days": 1249,
+     "videos": 1,
+     "best_views": 4061714,
+     "best_title": "Exploring the Abandoned Mall Where the Homeless Created a Society..",
+     "best_id": "6wPnmwzO1i4"
+    },
+    {
+     "id": "UC7htuVs06oduI3xSfTdcxPA",
+     "title": "48 Hours",
+     "subs": 2600000,
+     "age_days": 4907,
+     "videos": 1,
+     "best_views": 3395281,
+     "best_title": "What the Cameras Saw | Full Episode",
+     "best_id": "rudFjx_abes"
+    },
+    {
+     "id": "UCT_xWt2Pq8p0LpufXDCqAgA",
+     "title": "Tenebris",
+     "subs": 65500,
+     "age_days": 422,
+     "videos": 3,
+     "best_views": 3122947,
+     "best_title": "6 Times Urban Explorers Barely Escaped Death",
+     "best_id": "1SQKHjI0htY"
+    },
+    {
+     "id": "UCgKtk2_FoF-rvN_MpHAumuw",
+     "title": "BodyCamBust",
+     "subs": 368000,
+     "age_days": 1079,
+     "videos": 1,
+     "best_views": 3070292,
+     "best_title": "The Moment This Karen Realized She Was Caught On Camera",
+     "best_id": "c1CmwNHU8WM"
+    },
+    {
+     "id": "UC02htytGSVVUsTGTFZEgtcg",
+     "title": "imactuallyLazy",
+     "subs": 2120000,
+     "age_days": 1988,
+     "videos": 1,
+     "best_views": 2289924,
+     "best_title": "Why You Should NEVER Explore Abandoned Hospitals",
+     "best_id": "UnKSmlc3CP4"
+    },
+    {
+     "id": "UCgYoHLOa7cTejxQ60KuG3_A",
+     "title": "Phobix",
+     "subs": 12100,
+     "age_days": 2784,
+     "videos": 1,
+     "best_views": 1885922,
+     "best_title": "6 Most Disturbing Urban Exploration Moments Caught On Camera (Vol. 1)",
+     "best_id": "aBNPlIaeriA"
+    },
+    {
+     "id": "UC1-E7rqDXJZM0BtmKPU6JyQ",
+     "title": "2swag",
+     "subs": 1550000,
+     "age_days": 1326,
+     "videos": 2,
+     "best_views": 1825810,
+     "best_title": "Exploring a Toxic Abandoned Indoor Waterpark | Stuck in Time Since 2020...",
+     "best_id": "DJ5P-4q1RkE"
     }
    ]
   },
