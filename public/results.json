@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T01:01:38Z",
+ "generated_at": "2026-11-22T01:01:22Z",
  "quota": {
-  "day": "2026-11-20",
-  "used": 3265,
+  "day": "2026-11-21",
+  "used": 2347,
   "budget": 9000
  },
  "pending": 0,
@@ -4573,6 +4573,135 @@
      "best_views": 573434,
      "best_title": "The Banned History Of The Russian Revolution",
      "best_id": "I5Y5wrxrenw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCPsNZ0LUZ-GfbYn9gXoVzTw",
+   "channel_title": "AivantaFlow",
+   "channel_created": "2026-10-12",
+   "channel_age_days": 40,
+   "subs": 193,
+   "found_at": "2026-11-22T01:00:38Z",
+   "validated_at": "2026-11-22T01:01:22Z",
+   "niche": "The Lost World of Amazon | Full Movie  Lost City, Ancient Civilization & Mystery Adventure",
+   "path": [],
+   "queries": [
+    "monster movie kong",
+    "lost world amazon movie",
+    "last dragon epic fantasy"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "ATAbdcQ28pY",
+    "title": "The Lost World of Amazon | Full Movie  Lost City, Ancient Civilization & Mystery Adventure",
+    "views": 93598
+   },
+   "ratio": 485.0,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 226,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 74,
+    "n_channels": 66,
+    "max_subs": 25800000,
+    "median_subs": 10800,
+    "big_channels": 17,
+    "top_views": 11521806,
+    "demand_videos": 49,
+    "demand_channels": 41,
+    "young_hits": 7
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 66, лимит 30",
+    "Есть канал с 25 800 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 136,
+   "competitors": [
+    {
+     "id": "UChyNc-Y-u3mNExR298gzvCg",
+     "title": "Build verse",
+     "subs": 26300,
+     "age_days": 120,
+     "videos": 1,
+     "best_views": 11521806,
+     "best_title": "She Gave Birth to a Dragon | The Mother’s Monster | Full Fantasy Movie",
+     "best_id": "0ehyKe4KieI"
+    },
+    {
+     "id": "UCF-yHmXbMKxxTPD9gD4o8zw",
+     "title": "Dark Age Datacore",
+     "subs": 61400,
+     "age_days": 140,
+     "videos": 1,
+     "best_views": 11245727,
+     "best_title": "The Secret Buried in the Dragon’s Bones Could Destroy the Realm |Full Fantasy Movie#MedievalFantasy",
+     "best_id": "SXzu-VMzSIc"
+    },
+    {
+     "id": "UC1Myj674wRVXB9I4c6Hm5zA",
+     "title": "Apple TV",
+     "subs": 2510000,
+     "age_days": 3145,
+     "videos": 2,
+     "best_views": 9394947,
+     "best_title": "Monarch: Legacy of Monsters — All Titan Sightings From Season 1 | Apple TV",
+     "best_id": "hcnEfb9Qoc4"
+    },
+    {
+     "id": "UCL7x-uraux5ojN1BjzmIY_Q",
+     "title": "DRAEVORY FILMS",
+     "subs": 47400,
+     "age_days": 42,
+     "videos": 2,
+     "best_views": 8789347,
+     "best_title": "She Gave Birth to Three Dragons… | The Dragon Mother: The Beginning - Epic Fantasy Film 4K",
+     "best_id": "zjfTlsGyQnA"
+    },
+    {
+     "id": "UC5FCyk1QkTBLgWm-w866PGg",
+     "title": "Epic AI Films",
+     "subs": 271000,
+     "age_days": 801,
+     "videos": 1,
+     "best_views": 7719727,
+     "best_title": "She Is Alone With Five Baby Dragons And The Dark Army Is Close | AGE OF DRAGONS | Full Movie 4K 2026",
+     "best_id": "_VqQezjbLes"
+    },
+    {
+     "id": "UCj7qkU6M_ZIEwV2OSuyoQyg",
+     "title": "VeylornStudios",
+     "subs": 52800,
+     "age_days": 148,
+     "videos": 1,
+     "best_views": 7695857,
+     "best_title": "THE LOST KIND | FULL MOVIE | 4K Epic Dark Fantasy Film (Complete Story)",
+     "best_id": "6pbhGtHRTwA"
+    },
+    {
+     "id": "UC4jHfw4LOnSdKNTgZqOeIzQ",
+     "title": "Deadliest Roads",
+     "subs": 1460000,
+     "age_days": 2956,
+     "videos": 1,
+     "best_views": 5263448,
+     "best_title": "Guyana, The Convoys of the Lost World",
+     "best_id": "Cw_a8BnM68g"
+    },
+    {
+     "id": "UCZ2MWgBwTbdqRPxjDCypRvg",
+     "title": "Documentary Empire",
+     "subs": 14600,
+     "age_days": 318,
+     "videos": 1,
+     "best_views": 3484100,
+     "best_title": "The Lost Civilization Hidden Inside the Amazon Jungle | Full Documentary",
+     "best_id": "wMNSqFBFjsQ"
     }
    ]
   },
