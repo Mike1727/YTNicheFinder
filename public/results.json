@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T01:01:13Z",
+ "generated_at": "2026-11-24T01:01:46Z",
  "quota": {
-  "day": "2026-11-22",
-  "used": 2040,
+  "day": "2026-11-23",
+  "used": 3266,
   "budget": 9000
  },
  "pending": 0,
@@ -2129,6 +2129,135 @@
    ]
   },
   {
+   "channel_id": "UC1H6Et41FOjsw-sHeL24nAg",
+   "channel_title": "Vanished Files",
+   "channel_created": "2026-10-08",
+   "channel_age_days": 46,
+   "subs": 3430,
+   "found_at": "2026-11-24T01:00:39Z",
+   "validated_at": "2026-11-24T01:01:46Z",
+   "niche": "Disappeared NEW 2026 ☠💢 The Last Summer 🕵💀 Real Missing Persons Cases",
+   "path": [],
+   "queries": [
+    "real persons disappeared",
+    "disappeared last summer real",
+    "disappeared off grid real"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "vHxTROwYTrI",
+    "title": "Disappeared NEW 2026 ☠💢 The Last Summer 🕵💀 Real Missing Persons Cases",
+    "views": 111591
+   },
+   "ratio": 32.5,
+   "channel_stats": {
+    "videos": 45,
+    "median_views": 12220,
+    "hits": 10
+   },
+   "market": {
+    "n_videos": 59,
+    "n_channels": 32,
+    "max_subs": 25800000,
+    "median_subs": 12300,
+    "big_channels": 7,
+    "top_views": 3445495,
+    "demand_videos": 24,
+    "demand_channels": 13,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 32, лимит 30",
+    "Есть канал с 25 800 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 441,
+   "competitors": [
+    {
+     "id": "UCt3JiNkefsfbA2N4SgEkoiQ",
+     "title": "Visual Venture",
+     "subs": 2050000,
+     "age_days": 1989,
+     "videos": 1,
+     "best_views": 3445495,
+     "best_title": "Missing Children Who Turned Up Alive Years Later",
+     "best_id": "nZ9uaTTbCwU"
+    },
+    {
+     "id": "UC-BWs8Kc2I87wrqb6CctM_w",
+     "title": "Silas Investigates",
+     "subs": 7960,
+     "age_days": 111,
+     "videos": 2,
+     "best_views": 741403,
+     "best_title": "10 People Who VANISHED Then REAPPEARED With Strange Stories | Where Were They?",
+     "best_id": "S3D5CWVF4lc"
+    },
+    {
+     "id": "UC1AtJIwlt9tI-Z-QKQJJ_Vw",
+     "title": "Wild Line",
+     "subs": 84300,
+     "age_days": 4675,
+     "videos": 1,
+     "best_views": 458195,
+     "best_title": "This Off-Grid Water Plant Was Meant To Change The World — Then It Disappeared",
+     "best_id": "1QX3UcgoxTU"
+    },
+    {
+     "id": "UCctfIbo24UITlmfJbednOqA",
+     "title": "The Lore Lodge",
+     "subs": 838000,
+     "age_days": 5278,
+     "videos": 1,
+     "best_views": 433193,
+     "best_title": "The REAL Reason People Keep Going Missing in the National Parks",
+     "best_id": "a3R3qPyhtsI"
+    },
+    {
+     "id": "UCPaLZm7SD-zoweGALooq0rg",
+     "title": "North To Alaska",
+     "subs": 291000,
+     "age_days": 1287,
+     "videos": 1,
+     "best_views": 262663,
+     "best_title": "Winter Has Arrived at Our Off-Grid Alaska Cabin",
+     "best_id": "q_d2B8eXMJA"
+    },
+    {
+     "id": "UCj3dz5z4zca7sTiYa7ZixwQ",
+     "title": "Cold Trace - True Crime Stories",
+     "subs": 196000,
+     "age_days": 979,
+     "videos": 1,
+     "best_views": 255665,
+     "best_title": "The Most Chilling Missing Person Case | He Left A Family BBQ… Then Vanished",
+     "best_id": "NPeCyn3KQPg"
+    },
+    {
+     "id": "UCdd_z6f9AYQEIwMsG5Y-IPA",
+     "title": " X-Zone - Case Missing People",
+     "subs": 33700,
+     "age_days": 831,
+     "videos": 1,
+     "best_views": 250925,
+     "best_title": "The Strangest Cases of Disappearances That Remain UNSOLVED to This Day",
+     "best_id": "-WHFkPmZoyY"
+    },
+    {
+     "id": "UC7CudIQVZ3d18ln9dhx9anw",
+     "title": "小军钓鱼记",
+     "subs": 5460,
+     "age_days": 2636,
+     "videos": 22,
+     "best_views": 212821,
+     "best_title": "Disappeared 2026 | The Silent Son | Real Missing Persons Cases - Full Episodes",
+     "best_id": "OQMqTMoWgE8"
+    }
+   ]
+  },
+  {
    "channel_id": "UCOGL2D26c9m4jyvx2vDwXaQ",
    "channel_title": "Deep Past",
    "channel_created": "2026-09-28",
@@ -3285,6 +3414,135 @@
      "best_views": 326758,
      "best_title": "Why Paying Off US Debt Would Crash the World Economy",
      "best_id": "8M8U9Tj15bI"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCbJbWUZWVYpG040cw4pVUXg",
+   "channel_title": "Under Ice & Iron",
+   "channel_created": "2026-11-16",
+   "channel_age_days": 7,
+   "subs": 150,
+   "found_at": "2026-11-24T01:00:15Z",
+   "validated_at": "2026-11-24T01:01:28Z",
+   "niche": "The Brand-New Ship That Snapped in Half at the Dock",
+   "path": [],
+   "queries": [
+    "maritime history",
+    "marine engineer",
+    "fitzgerald edmund dock"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "pt6fjE53HF8",
+    "title": "The Brand-New Ship That Snapped in Half at the Dock",
+    "views": 70155
+   },
+   "ratio": 467.7,
+   "channel_stats": {
+    "videos": 4,
+    "median_views": 395,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 75,
+    "n_channels": 62,
+    "max_subs": 5910000,
+    "median_subs": 2805,
+    "big_channels": 12,
+    "top_views": 2488958,
+    "demand_videos": 25,
+    "demand_channels": 19,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 62, лимит 30",
+    "Есть канал с 5 910 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 278,
+   "competitors": [
+    {
+     "id": "UCGE6IOQwtNX0X6x9ZgJsRVQ",
+     "title": "Epic Adventure Archives",
+     "subs": 96500,
+     "age_days": 1537,
+     "videos": 1,
+     "best_views": 2488958,
+     "best_title": "Inside the Bering Sea: One of Earth’s Most Violent Waters",
+     "best_id": "FD1IUn1xHA4"
+    },
+    {
+     "id": "UC_Lnb8ZHqqgLbp-7hltuT9w",
+     "title": "CNA Insider",
+     "subs": 2720000,
+     "age_days": 4639,
+     "videos": 1,
+     "best_views": 516941,
+     "best_title": "The Philippines' Sulu Sultanate That Dominated Maritime Trade For Centuries | The Mark Of Empire",
+     "best_id": "2SOaHjdpZRQ"
+    },
+    {
+     "id": "UCkcUnAUQyyCbjyE_cTSeS0w",
+     "title": "TJ3 History",
+     "subs": 320000,
+     "age_days": 2786,
+     "videos": 1,
+     "best_views": 506685,
+     "best_title": "The Battle of the Coral Sea | FULL DOCUMENTARY",
+     "best_id": "f8A9ZeqdI9U"
+    },
+    {
+     "id": "UC-rhmn9JLIKAUb9XX0rjA7g",
+     "title": "Der Legionär English",
+     "subs": 27300,
+     "age_days": 6787,
+     "videos": 1,
+     "best_views": 445445,
+     "best_title": "Underwater Drone Descends to the SS Edmund Fitzgerald and What It Saw Shook the World!",
+     "best_id": "sbhubmqlsDA"
+    },
+    {
+     "id": "UCO3dOAbyNSozXcOgrT3gyJg",
+     "title": "Ridoy The Sailor",
+     "subs": 650000,
+     "age_days": 1958,
+     "videos": 4,
+     "best_views": 418713,
+     "best_title": "ঝড়ের সময় কি করি  | Sailor's vlog | Marine Engineer | Ridoy The Sailor",
+     "best_id": "6nLvxsCUbhI"
+    },
+    {
+     "id": "UCy_SmKxe-Q39WcuHyWxb6Ww",
+     "title": "Explorer Vault",
+     "subs": 15700,
+     "age_days": 217,
+     "videos": 1,
+     "best_views": 416489,
+     "best_title": "After 14 Years, an Underwater Robot Explored the Edmund Fitzgerald — What It Captured Was Chilling",
+     "best_id": "f4q-KdkbE9s"
+    },
+    {
+     "id": "UCsE8PTncfn2Vga48jH46HnQ",
+     "title": "Oceanliner Designs",
+     "subs": 984000,
+     "age_days": 2197,
+     "videos": 4,
+     "best_views": 392872,
+     "best_title": "3 Hours Of Maritime History | Oceanliner Designs",
+     "best_id": "kab2Lq9z8QI"
+    },
+    {
+     "id": "UC32Km2_H8Lo5Ulop6Nhzwug",
+     "title": "Sleepy History Channel",
+     "subs": 65900,
+     "age_days": 484,
+     "videos": 4,
+     "best_views": 303986,
+     "best_title": "The Fascinating History of Ocean Exploration | No Adverts",
+     "best_id": "5LfzBnridhQ"
     }
    ]
   },
@@ -8192,6 +8450,136 @@
    ]
   },
   {
+   "channel_id": "UCFPQzVe8IsEDm5OuVpO4tig",
+   "channel_title": "Cryon",
+   "channel_created": "2026-10-24",
+   "channel_age_days": 30,
+   "subs": 140,
+   "found_at": "2026-11-24T01:00:53Z",
+   "validated_at": "2026-11-24T01:01:19Z",
+   "niche": "Extinct Animals That Are Coming Back",
+   "path": [],
+   "queries": [
+    "animals extinct coming",
+    "extinct animals coming back",
+    "mythical creatures really existed"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "n66QcNatauk",
+    "title": "Extinct Animals That Are Coming Back",
+    "views": 71682
+   },
+   "ratio": 512.0,
+   "channel_stats": {
+    "videos": 4,
+    "median_views": 2851,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 76,
+    "n_channels": 38,
+    "max_subs": 21800000,
+    "median_subs": 87750,
+    "big_channels": 17,
+    "top_views": 7508211,
+    "demand_videos": 59,
+    "demand_channels": 30,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 38, лимит 30",
+    "Есть канал с 21 800 000 подписчиков",
+    "Медиана подписчиков 87 750 выше лимита"
+   ],
+   "notes": [],
+   "score": 40,
+   "competitors": [
+    {
+     "id": "UCVOKP-_OYHTnKFDSP89NfAQ",
+     "title": "Mavora",
+     "subs": 65800,
+     "age_days": 487,
+     "videos": 13,
+     "best_views": 7508211,
+     "best_title": "28 Last Photos of Extinct Animals | Full Series",
+     "best_id": "LsOpR7ibbU4"
+    },
+    {
+     "id": "UCHXXj0KkMdqW8SDOSoftesg",
+     "title": "GroovyGavin",
+     "subs": 3310000,
+     "age_days": 2708,
+     "videos": 1,
+     "best_views": 4421290,
+     "best_title": "How This Extinct Creature is Getting Brought Back to Life...",
+     "best_id": "wvq0b2WFnAo"
+    },
+    {
+     "id": "UCeo6xqqnxVpeIg2-vYnLGDQ",
+     "title": "Dr. Dead Dino",
+     "subs": 28300,
+     "age_days": 379,
+     "videos": 2,
+     "best_views": 3414950,
+     "best_title": "Extinct Animals That Are RETURNING!",
+     "best_id": "pUQknnbDuqc"
+    },
+    {
+     "id": "UCWbM5p20UDzs1VLGa9ku2Jw",
+     "title": "Myths-creature",
+     "subs": 24100,
+     "age_days": 471,
+     "videos": 5,
+     "best_views": 3360184,
+     "best_title": "7 EXTINCT Animals That Might Still Be ALIVE",
+     "best_id": "W1sle9pQhEM"
+    },
+    {
+     "id": "UCKqVLMxUfwVO68IKjzKEolQ",
+     "title": "MuzStudio",
+     "subs": 93100,
+     "age_days": 1241,
+     "videos": 1,
+     "best_views": 2702361,
+     "best_title": "Extinct Animals That Are Coming Back | MuzStudio",
+     "best_id": "60urBv8Y1VQ"
+    },
+    {
+     "id": "UC7E9XYQ8hbV54ZDuOKYYxmA",
+     "title": "Forrest Galante",
+     "subs": 3080000,
+     "age_days": 5336,
+     "videos": 5,
+     "best_views": 2638428,
+     "best_title": "6 Extinct Animals Found in 2025",
+     "best_id": "xtSbi6wFyTc"
+    },
+    {
+     "id": "UC4GYgpgZzfMhYr9y6rs5O6Q",
+     "title": "Trust Me Bro",
+     "subs": 1440000,
+     "age_days": 1128,
+     "videos": 2,
+     "best_views": 2057547,
+     "best_title": "Mythical Creatures That Turned Out To Be Real",
+     "best_id": "TvhuqC8oxlY"
+    },
+    {
+     "id": "UCQoPrZpOtAqLL1tFEey-Xzw",
+     "title": "WILD Xfact",
+     "subs": 85900,
+     "age_days": 1318,
+     "videos": 1,
+     "best_views": 1928769,
+     "best_title": "Myth or Truth? 6 Mythical Creatures That Actually Existed",
+     "best_id": "Q-OQtw5tdQw"
+    }
+   ]
+  },
+  {
    "channel_id": "UCKnOdn0TY6IvnVlsmtKZ4TQ",
    "channel_title": "SITCOM RECEIPTS",
    "channel_created": "2026-09-23",
@@ -11175,6 +11563,136 @@
      "best_views": 1825810,
      "best_title": "Exploring a Toxic Abandoned Indoor Waterpark | Stuck in Time Since 2020...",
      "best_id": "DJ5P-4q1RkE"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC2MaaIjaRPRzTo1U8YzIqeQ",
+   "channel_title": "Mr. Extinct",
+   "channel_created": "2026-10-13",
+   "channel_age_days": 41,
+   "subs": 852,
+   "found_at": "2026-11-24T01:00:53Z",
+   "validated_at": "2026-11-24T01:01:38Z",
+   "niche": "Would A Sperm Whale Survive Every Prehistoric Ocean?",
+   "path": [],
+   "queries": [
+    "prehistoric animals",
+    "extinct animals",
+    "survive prehistoric every"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "MB2gNt7-qkg",
+    "title": "Would A Grizzly Bear Survive Every Prehistoric Era?",
+    "views": 102667
+   },
+   "ratio": 120.5,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 25628,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 95,
+    "n_channels": 59,
+    "max_subs": 25800000,
+    "median_subs": 124000,
+    "big_channels": 31,
+    "top_views": 13421030,
+    "demand_videos": 76,
+    "demand_channels": 46,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 59, лимит 30",
+    "Есть канал с 25 800 000 подписчиков",
+    "Медиана подписчиков 124 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 10,
+   "competitors": [
+    {
+     "id": "UCOf0CzjuS5rjLju4muJi7Gg",
+     "title": "Fossil",
+     "subs": 59600,
+     "age_days": 267,
+     "videos": 3,
+     "best_views": 13421030,
+     "best_title": "How Long You’d Last in Every Prehistoric Era",
+     "best_id": "nAWpLtG-kNs"
+    },
+    {
+     "id": "UCVOKP-_OYHTnKFDSP89NfAQ",
+     "title": "Mavora",
+     "subs": 65800,
+     "age_days": 487,
+     "videos": 11,
+     "best_views": 7508211,
+     "best_title": "28 Last Photos of Extinct Animals | Full Series",
+     "best_id": "LsOpR7ibbU4"
+    },
+    {
+     "id": "UCGRryxFxjXbVAtBPE9EbyMg",
+     "title": "Joe Bartolozzi",
+     "subs": 6310000,
+     "age_days": 2366,
+     "videos": 1,
+     "best_views": 5119314,
+     "best_title": "How Fast You'd Die In Every Prehistoric Era",
+     "best_id": "dYToWAsvdTc"
+    },
+    {
+     "id": "UCy6-V0dTuvNB_uFXpE5K5uQ",
+     "title": "BeyondTheBlue",
+     "subs": 273000,
+     "age_days": 701,
+     "videos": 1,
+     "best_views": 3861927,
+     "best_title": "How Long You'd Last in Every Prehistoric Ocean",
+     "best_id": "qrfhhZ-Wvmk"
+    },
+    {
+     "id": "UC0ggS8bt4v7NiZpDfGqNpZQ",
+     "title": "ExtinctZoo ",
+     "subs": 1550000,
+     "age_days": 1619,
+     "videos": 6,
+     "best_views": 3520496,
+     "best_title": "The Deadliest Sea Animal From Every Single Period",
+     "best_id": "eWu92oXtxsw"
+    },
+    {
+     "id": "UCeo6xqqnxVpeIg2-vYnLGDQ",
+     "title": "Dr. Dead Dino",
+     "subs": 28300,
+     "age_days": 379,
+     "videos": 1,
+     "best_views": 3414950,
+     "best_title": "Extinct Animals That Are RETURNING!",
+     "best_id": "pUQknnbDuqc"
+    },
+    {
+     "id": "UCWbM5p20UDzs1VLGa9ku2Jw",
+     "title": "Myths-creature",
+     "subs": 24100,
+     "age_days": 471,
+     "videos": 2,
+     "best_views": 3360184,
+     "best_title": "7 EXTINCT Animals That Might Still Be ALIVE",
+     "best_id": "W1sle9pQhEM"
+    },
+    {
+     "id": "UCHpe0VGgt2dm63CxJVCPrYw",
+     "title": "Spinosnack",
+     "subs": 610000,
+     "age_days": 693,
+     "videos": 9,
+     "best_views": 2826424,
+     "best_title": "How It Feels Like To Die In Every Prehistoric Era",
+     "best_id": "zW7RTQqgQB0"
     }
    ]
   },
