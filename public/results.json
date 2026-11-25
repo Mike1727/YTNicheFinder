@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-24T01:01:46Z",
+ "generated_at": "2026-11-25T01:01:21Z",
  "quota": {
-  "day": "2026-11-23",
-  "used": 3266,
+  "day": "2026-11-24",
+  "used": 2652,
   "budget": 9000
  },
  "pending": 0,
@@ -1610,6 +1610,135 @@
      "best_views": 43983,
      "best_title": "Ely Buendia Teaches You How to Play “Hard To Believe” | Secrets of the Chords",
      "best_id": "F7LuMl0rr7M"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCYnwrclTdj0rGbIQan197HA",
+   "channel_title": "Australian Geographic Secrets",
+   "channel_created": "2026-11-16",
+   "channel_age_days": 8,
+   "subs": 1150,
+   "found_at": "2026-11-25T01:00:29Z",
+   "validated_at": "2026-11-25T01:01:13Z",
+   "niche": "Sydney Is Hiding Something Most Australians Never Notic",
+   "path": [],
+   "queries": [
+    "never something hiding",
+    "sydney hiding something australians",
+    "uluru hiding something australians"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "_D5n3akGKMY",
+    "title": "Sydney Is Hiding Something Most Australians Never Notic",
+    "views": 130268
+   },
+   "ratio": 113.3,
+   "channel_stats": {
+    "videos": 3,
+    "median_views": 1926,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 77,
+    "n_channels": 50,
+    "max_subs": 6060000,
+    "median_subs": 2180,
+    "big_channels": 6,
+    "top_views": 3249373,
+    "demand_videos": 38,
+    "demand_channels": 26,
+    "young_hits": 11
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 50, лимит 30",
+    "Есть канал с 6 060 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 951,
+   "competitors": [
+    {
+     "id": "UCq7-Jdgw4NxokAuKjfoGdPg",
+     "title": "TheDanocracy",
+     "subs": 1640000,
+     "age_days": 5153,
+     "videos": 1,
+     "best_views": 3249373,
+     "best_title": "Area 51 Was Never Hiding Aliens. It Was Hiding Something Worse.",
+     "best_id": "79dgYnfFvW4"
+    },
+    {
+     "id": "UCIFk2uvCNcEmZ77g0ESKLcQ",
+     "title": "The Why Files",
+     "subs": 6060000,
+     "age_days": 2260,
+     "videos": 1,
+     "best_views": 1406322,
+     "best_title": "America Is Hiding Something Underground",
+     "best_id": "FJfVqp3yT8k"
+    },
+    {
+     "id": "UCCeeF8KfV12Ya_bZQrN-ieA",
+     "title": "africaregions",
+     "subs": 18600,
+     "age_days": 25,
+     "videos": 11,
+     "best_views": 665598,
+     "best_title": "The Kalahari Is Hiding Something Most South Africans Never Notice",
+     "best_id": "9m8o9JMqOwU"
+    },
+    {
+     "id": "UCH5muwkuaCG6wBUoEWgUKBg",
+     "title": "Wes Tucker",
+     "subs": 67300,
+     "age_days": 3726,
+     "videos": 1,
+     "best_views": 618317,
+     "best_title": "25 Hiding Spots Burglars Never Check (Retired Cops Use Every One)",
+     "best_id": "Wx0qyE_t478"
+    },
+    {
+     "id": "UCDn6dddFOB2rYOljsBJeYAw",
+     "title": "Crime In All Investigations",
+     "subs": 20000,
+     "age_days": 491,
+     "videos": 1,
+     "best_views": 531467,
+     "best_title": "Routine Traffic Stop Uncovers What She Was Hiding — She Never Expected It",
+     "best_id": "5wOuVS4DNyU"
+    },
+    {
+     "id": "UCDiwr9cAKh8V3VYNVvc-NtQ",
+     "title": "Border Security",
+     "subs": 672000,
+     "age_days": 1215,
+     "videos": 1,
+     "best_views": 530912,
+     "best_title": "Is This Nervous Passenger Hiding Something Fishy? | DOUBLE EPISODE | Border Security Australia",
+     "best_id": "OTUJkrO3rRw"
+    },
+    {
+     "id": "UCHJmMkuv9DsUHJSWd0Wg-RQ",
+     "title": "George Pembroke",
+     "subs": 6650,
+     "age_days": 53,
+     "videos": 1,
+     "best_views": 432924,
+     "best_title": "East Anglia Is Hiding Something Most Britons Never Notice",
+     "best_id": "Vb5RHUyPFO8"
+    },
+    {
+     "id": "UCEogcDBA1X1wWMeBEqANUow",
+     "title": "The Mir Fam",
+     "subs": 3430000,
+     "age_days": 3755,
+     "videos": 1,
+     "best_views": 425420,
+     "best_title": "HIDING SQUISHES YOU SHOULD NEVER HIDE AT 3 AM!😳",
+     "best_id": "xkGi4i8Udsg"
     }
    ]
   },
@@ -10003,6 +10132,136 @@
      "best_views": 763863,
      "best_title": "US Navy's NEW Weapon Is Already On a Destroyer — And Only ONE Warship Has It",
      "best_id": "rDjz-EZaGcA"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCAFkOtQ-JP6bf83y3E1pKpA",
+   "channel_title": "Curious North",
+   "channel_created": "2026-09-29",
+   "channel_age_days": 56,
+   "subs": 1950,
+   "found_at": "2026-11-25T01:00:41Z",
+   "validated_at": "2026-11-25T01:01:21Z",
+   "niche": "An Arab Saw What Vikings Did on the Volga — His Account Was Almost Lost",
+   "path": [],
+   "queries": [
+    "viking age",
+    "viking history",
+    "vikings did viking"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "I6Tjtv2imxk",
+    "title": "The Tribe That Terrified the Vikings to Death",
+    "views": 62187
+   },
+   "ratio": 31.9,
+   "channel_stats": {
+    "videos": 19,
+    "median_views": 7220,
+    "hits": 4
+   },
+   "market": {
+    "n_videos": 58,
+    "n_channels": 50,
+    "max_subs": 26600000,
+    "median_subs": 85150,
+    "big_channels": 25,
+    "top_views": 1499589,
+    "demand_videos": 37,
+    "demand_channels": 33,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 50, лимит 30",
+    "Есть канал с 26 600 000 подписчиков",
+    "Медиана подписчиков 85 150 выше лимита"
+   ],
+   "notes": [],
+   "score": 18,
+   "competitors": [
+    {
+     "id": "UCSHZKyawb77ixDdsGog4iWA",
+     "title": "Lex Fridman",
+     "subs": 5080000,
+     "age_days": 7370,
+     "videos": 1,
+     "best_views": 1499589,
+     "best_title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+     "best_id": "iKx3gAODybU"
+    },
+    {
+     "id": "UCRlICXvO4XR4HMeEB9JjDlA",
+     "title": "Thoughty2",
+     "subs": 5700000,
+     "age_days": 5156,
+     "videos": 1,
+     "best_views": 1126219,
+     "best_title": "We Finally Know What Killed the Vikings of Greenland",
+     "best_id": "kH-HAlW8R1I"
+    },
+    {
+     "id": "UCZEPItn2Nb62Zso5eohHAAA",
+     "title": "BBC Timestamp",
+     "subs": 968000,
+     "age_days": 3100,
+     "videos": 1,
+     "best_views": 615614,
+     "best_title": "Did archaeologists just find North America's second Viking settlement? | BBC Timestamp",
+     "best_id": "tobp1ZAaYvM"
+    },
+    {
+     "id": "UCLuIudjbquBATgqkIJxQi6A",
+     "title": "Animated History ",
+     "subs": 107000,
+     "age_days": 415,
+     "videos": 1,
+     "best_views": 544443,
+     "best_title": "300 Years of Viking History in 15 Minutes [NO AI]",
+     "best_id": "0n3cqhBgQwA"
+    },
+    {
+     "id": "UCI56Iu0wy0ryDb-MCyKiueg",
+     "title": "Sleepy UK History",
+     "subs": 24800,
+     "age_days": 276,
+     "videos": 1,
+     "best_views": 513163,
+     "best_title": "Before the Vikings There Was a Civilization in Scotland So Advanced It Terrified the NORSE",
+     "best_id": "ps0nfyQ9hJs"
+    },
+    {
+     "id": "UCEda5qL75-jnqqCSGa6_mWw",
+     "title": "Discovery Future",
+     "subs": 126000,
+     "age_days": 1324,
+     "videos": 1,
+     "best_views": 479539,
+     "best_title": "New Evidence Shows Vikings Were in America Much Longer Than We Thought",
+     "best_id": "-mG2ciX8UlY"
+    },
+    {
+     "id": "UCj1AbZ0ljhItNPrp89yw_vw",
+     "title": "Empire Hunters",
+     "subs": 5750,
+     "age_days": 177,
+     "videos": 1,
+     "best_views": 465543,
+     "best_title": "The Real History of Vikings | The Complete Story",
+     "best_id": "MOMk5XSjNck"
+    },
+    {
+     "id": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+     "title": "National Geographic",
+     "subs": 26600000,
+     "age_days": 7506,
+     "videos": 1,
+     "best_views": 427901,
+     "best_title": "The Unstoppable Viking Empire (Full Episode) | Vikings: The Rise & Fall | National Geographic",
+     "best_id": "XPTL4P1TyoA"
     }
    ]
   },
