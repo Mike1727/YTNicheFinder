@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T01:01:21Z",
+ "generated_at": "2026-11-26T01:01:46Z",
  "quota": {
-  "day": "2026-11-24",
-  "used": 2652,
+  "day": "2026-11-25",
+  "used": 2959,
   "budget": 9000
  },
  "pending": 0,
@@ -8709,6 +8709,136 @@
    ]
   },
   {
+   "channel_id": "UCHb_Il-dQxUZYGzieYcCGCQ",
+   "channel_title": "Seedhi Baat Paise Ki",
+   "channel_created": "2026-10-10",
+   "channel_age_days": 46,
+   "subs": 1210,
+   "found_at": "2026-11-26T01:00:56Z",
+   "validated_at": "2026-11-26T01:01:34Z",
+   "niche": "Side Business Ideas: Office में बैठे-बैठे भी कमाई! नौकरी के साथ 7 धंधे (₹20,000+)",
+   "path": [],
+   "queries": [
+    "seedhi baat paise ki",
+    "personal finance hindi",
+    "business money ideas"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "PyOUaKFazm4",
+    "title": "Side Business Ideas: Office में बैठे-बैठे भी कमाई! नौकरी के साथ 7 धंधे (₹20,000+)",
+    "views": 145054
+   },
+   "ratio": 119.9,
+   "channel_stats": {
+    "videos": 15,
+    "median_views": 331,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 57,
+    "n_channels": 46,
+    "max_subs": 23100000,
+    "median_subs": 63350,
+    "big_channels": 22,
+    "top_views": 2676576,
+    "demand_videos": 40,
+    "demand_channels": 32,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 46, лимит 30",
+    "Есть канал с 23 100 000 подписчиков",
+    "Медиана подписчиков 63 350 выше лимита"
+   ],
+   "notes": [],
+   "score": 35,
+   "competitors": [
+    {
+     "id": "UCdh-RTjbQp4SHWSKUhPwPaw",
+     "title": "Growth Story Studio",
+     "subs": 63200,
+     "age_days": 1456,
+     "videos": 1,
+     "best_views": 2676576,
+     "best_title": "8 BORING BUSINESSES That Make Money While You Sleep",
+     "best_id": "13q83q7rFbw"
+    },
+    {
+     "id": "UCUBmH4V_BpyXr1zqKNQWrJA",
+     "title": "Tim Richard",
+     "subs": 193000,
+     "age_days": 4677,
+     "videos": 1,
+     "best_views": 2252190,
+     "best_title": "9 Machines Making People Rich in 2026 (Nobody Is Talking About These)",
+     "best_id": "xR_D-LdLqK8"
+    },
+    {
+     "id": "UCwrzhaGy4oAHu8clPCVol3g",
+     "title": "SONU SHARMA",
+     "subs": 13100000,
+     "age_days": 7354,
+     "videos": 1,
+     "best_views": 2064173,
+     "best_title": "Rich Secrets Disclosed | Personal Finance Tips | Sonu Sharma",
+     "best_id": "PnF0u5l8D0E"
+    },
+    {
+     "id": "UCA-mWX9CvCTVFWRMb9bKc9w",
+     "title": "Dan Martell",
+     "subs": 3180000,
+     "age_days": 5527,
+     "videos": 1,
+     "best_views": 1884578,
+     "best_title": "The Only 25 Ways to Make Money in 2026",
+     "best_id": "DhEMFeo_gL8"
+    },
+    {
+     "id": "UCxgAuX3XZROujMmGphN_scA",
+     "title": "Mark Tilbury",
+     "subs": 9470000,
+     "age_days": 4638,
+     "videos": 2,
+     "best_views": 1742850,
+     "best_title": "I Built A Business From Scratch Only Following Claude’s Advice",
+     "best_id": "ZzDRSxx3zgY"
+    },
+    {
+     "id": "UCRzYN32xtBf3Yxsx5BvJWJw",
+     "title": "warikoo",
+     "subs": 7180000,
+     "age_days": 3403,
+     "videos": 2,
+     "best_views": 1035641,
+     "best_title": "7 Money Rules to Build Wealth in 2027 | Ankur Warikoo",
+     "best_id": "Psl-Erz5jCI"
+    },
+    {
+     "id": "UCLKvIYLsQISgd0FTl6OdF0A",
+     "title": "Science and Fun Motivation",
+     "subs": 717000,
+     "age_days": 1472,
+     "videos": 1,
+     "best_views": 854891,
+     "best_title": "Money Management Skills You Need to Know! | Ashu sir",
+     "best_id": "XdmqXaHeu5M"
+    },
+    {
+     "id": "UCQnmMBDbNwlr98Ib48lv6GA",
+     "title": "Sagar Sinha Podcast",
+     "subs": 859000,
+     "age_days": 1448,
+     "videos": 1,
+     "best_views": 766015,
+     "best_title": "CA Explained: क्यों नहीं बन पाते लोग Financially Free? | Sagar Sinha Podcast",
+     "best_id": "kjdKmBmhGcI"
+    }
+   ]
+  },
+  {
    "channel_id": "UCKnOdn0TY6IvnVlsmtKZ4TQ",
    "channel_title": "SITCOM RECEIPTS",
    "channel_created": "2026-09-23",
@@ -10526,6 +10656,136 @@
    ]
   },
   {
+   "channel_id": "UCQ5KSZx72YCVhnp5jGK3MmQ",
+   "channel_title": "Midnight Whispers TV423",
+   "channel_created": "2026-10-28",
+   "channel_age_days": 28,
+   "subs": 1400,
+   "found_at": "2026-11-26T01:00:23Z",
+   "validated_at": "2026-11-26T01:01:46Z",
+   "niche": "The Story of the Alderlys (1865, Appalachia) — The Family That Always Served the Youngest First",
+   "path": [],
+   "queries": [
+    "horror stories audio telugu",
+    "horror stories audio bengali",
+    "appalachian mountains one"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "pfDKYCSKFoU",
+    "title": "The Story of the Ledlow Coven (1911, Kentucky) — The Secret Society the Whole County Feared",
+    "views": 53256
+   },
+   "ratio": 38.0,
+   "channel_stats": {
+    "videos": 49,
+    "median_views": 238,
+    "hits": 0
+   },
+   "market": {
+    "n_videos": 131,
+    "n_channels": 54,
+    "max_subs": 20000000,
+    "median_subs": 98050,
+    "big_channels": 26,
+    "top_views": 4075515,
+    "demand_videos": 84,
+    "demand_channels": 43,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 54, лимит 30",
+    "Есть канал с 20 000 000 подписчиков",
+    "Медиана подписчиков 98 050 выше лимита"
+   ],
+   "notes": [],
+   "score": 16,
+   "competitors": [
+    {
+     "id": "UCFYhYSwQduqpjXgraIH0wEg",
+     "title": "Wrld",
+     "subs": 739000,
+     "age_days": 1754,
+     "videos": 1,
+     "best_views": 4075515,
+     "best_title": "I Found Something Terrifying in the Appalachian Mountains",
+     "best_id": "ouROE4v3QO4"
+    },
+    {
+     "id": "UCRVXfhLRsLWi3_IKnMDiI1Q",
+     "title": "poi",
+     "subs": 453000,
+     "age_days": 1423,
+     "videos": 2,
+     "best_views": 2846275,
+     "best_title": "Horrors of Appalachian Mountains",
+     "best_id": "104PPVnoKt8"
+    },
+    {
+     "id": "UCvCDo7i9AZk42KW-aOntomg",
+     "title": "Twin Paranormal",
+     "subs": 1420000,
+     "age_days": 3144,
+     "videos": 3,
+     "best_views": 2007143,
+     "best_title": "We ALMOST DIED in the APPALACHIAN MOUNTAINS (Very Scary)",
+     "best_id": "GkQP9ashYU8"
+    },
+    {
+     "id": "UCiSVf-UpLC9rRjAT1qRTW0g",
+     "title": "Forge Labs",
+     "subs": 6290000,
+     "age_days": 7115,
+     "videos": 1,
+     "best_views": 1481277,
+     "best_title": "100 Days in the Appalachian Mountains in Hardcore Minecraft",
+     "best_id": "3sRUyWxVeWA"
+    },
+    {
+     "id": "UCDA38HtNUTpGoV2fC-u8Epw",
+     "title": "Infinite Planet TV",
+     "subs": 104000,
+     "age_days": 5097,
+     "videos": 1,
+     "best_views": 1405828,
+     "best_title": "APPALACHIA: The Oldest Mountains on Earth",
+     "best_id": "izpFSiGE2L4"
+    },
+    {
+     "id": "UC0quLfqtExnTlNow-a25BKA",
+     "title": "Amar Raghu",
+     "subs": 3600000,
+     "age_days": 3441,
+     "videos": 4,
+     "best_views": 1238021,
+     "best_title": "FLAT NO 103 😱 [REAL HORROR STORY] ‼️💀| TELUGU HORROR STORY |",
+     "best_id": "bY8fJgklYZo"
+    },
+    {
+     "id": "UCmzj6hXrPZ_AwIZ8lgo-HuQ",
+     "title": "Mirchi Bangla",
+     "subs": 3290000,
+     "age_days": 4514,
+     "videos": 8,
+     "best_views": 1034568,
+     "best_title": "Sunday Suspense Classics | Chool | Adrish Bardhan | Mirchi Bangla Audio Story",
+     "best_id": "qgep8G8wqjA"
+    },
+    {
+     "id": "UCvG-3yOLfVD8ETddTa_6fpw",
+     "title": "HypeMyke",
+     "subs": 2340000,
+     "age_days": 6487,
+     "videos": 2,
+     "best_views": 756037,
+     "best_title": "APPALACHIAN MOUNTAINS:  We Capture Horrifying Footage (FULL MOVIE)",
+     "best_id": "i1lGcmH6-NM"
+    }
+   ]
+  },
+  {
    "channel_id": "UC4hSUooV6lgML6PjNA1rsgA",
    "channel_title": "Cruise Ship Uncovered",
    "channel_created": "2026-10-03",
@@ -11302,6 +11562,136 @@
      "best_views": 2276856,
      "best_title": "Where Did the Waffen SS Go After 1945?",
      "best_id": "bLsTflKB5lw"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCrzqwgES91Jn52UFTNVnBcw",
+   "channel_title": "Orbiss",
+   "channel_created": "2026-10-29",
+   "channel_age_days": 27,
+   "subs": 231,
+   "found_at": "2026-11-26T01:00:36Z",
+   "validated_at": "2026-11-26T01:01:24Z",
+   "niche": "HIROSHIMA & NAGASAKI THE FULL STORY EXPLAINED",
+   "path": [],
+   "queries": [
+    "cold war",
+    "animated history",
+    "history hitler world"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Wo5vT1pq2kY",
+    "title": "HIROSHIMA & NAGASAKI THE FULL STORY EXPLAINED",
+    "views": 59566
+   },
+   "ratio": 257.9,
+   "channel_stats": {
+    "videos": 21,
+    "median_views": 243,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 92,
+    "n_channels": 47,
+    "max_subs": 15600000,
+    "median_subs": 153000,
+    "big_channels": 30,
+    "top_views": 11023226,
+    "demand_videos": 76,
+    "demand_channels": 36,
+    "young_hits": 3
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 47, лимит 30",
+    "Есть канал с 15 600 000 подписчиков",
+    "Медиана подписчиков 153 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 11,
+   "competitors": [
+    {
+     "id": "UCoZd78hRUdxxsuGiABuHF_A",
+     "title": "Historically",
+     "subs": 1670000,
+     "age_days": 1358,
+     "videos": 1,
+     "best_views": 11023226,
+     "best_title": "The ENTIRE History of ROME [No AI]",
+     "best_id": "EHLI2WZUtXs"
+    },
+    {
+     "id": "UCb8sfMalVgTMvA68dfKzA5Q",
+     "title": "Elephants in Rooms - Ken LaCorte",
+     "subs": 960000,
+     "age_days": 1154,
+     "videos": 1,
+     "best_views": 6289722,
+     "best_title": "Here was the world Hitler planned",
+     "best_id": "II9QtBSJUq0"
+    },
+    {
+     "id": "UCvPXiKxH-eH9xq-80vpgmKQ",
+     "title": "Epic History",
+     "subs": 3220000,
+     "age_days": 4278,
+     "videos": 1,
+     "best_views": 4575348,
+     "best_title": "Alexander’s Speech That Crushed a Mutiny",
+     "best_id": "2Ih1ffiuwj0"
+    },
+    {
+     "id": "UCmOCpBKeoBPp-HwarhIBA2g",
+     "title": "Best Documentary",
+     "subs": 8460000,
+     "age_days": 3858,
+     "videos": 2,
+     "best_views": 4277048,
+     "best_title": "Downfall of the Third Reich: UNCENSORED Archival History (1942-1945)",
+     "best_id": "j-ha-OXe6Dk"
+    },
+    {
+     "id": "UCZwU2G-KVl-P-O-B35chZOQ",
+     "title": "History Hit",
+     "subs": 2030000,
+     "age_days": 6718,
+     "videos": 2,
+     "best_views": 2720872,
+     "best_title": "WW2 Expert Answers Hitler Questions",
+     "best_id": "jX_RENRrglo"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15600000,
+     "age_days": 7395,
+     "videos": 3,
+     "best_views": 2177189,
+     "best_title": "Inside the Biggest Invasion in Human History | World War II With Tom Hanks",
+     "best_id": "m48RUZgX1GA"
+    },
+    {
+     "id": "UCXl4i9dYBrFOabk0xGmbkRA",
+     "title": "Dwarkesh Patel",
+     "subs": 1480000,
+     "age_days": 3437,
+     "videos": 1,
+     "best_views": 1852555,
+     "best_title": "Sarah Paine – Why Russia Lost the Cold War",
+     "best_id": "FdkpWrlR5zg"
+    },
+    {
+     "id": "UCT-pU2Zws7R3noGajqZfiOg",
+     "title": "Serious History Compilations",
+     "subs": 28800,
+     "age_days": 185,
+     "videos": 6,
+     "best_views": 1716353,
+     "best_title": "2 Hours of Animated History to Fall Asleep to (NO AI)",
+     "best_id": "CwJGd819z4o"
     }
    ]
   },
