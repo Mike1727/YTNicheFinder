@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T01:01:46Z",
+ "generated_at": "2026-11-27T01:01:34Z",
  "quota": {
-  "day": "2026-11-25",
+  "day": "2026-11-26",
   "used": 2959,
   "budget": 9000
  },
@@ -842,6 +842,135 @@
    ]
   },
   {
+   "channel_id": "UCLFTHZIp5auDKkxfB57oDSQ",
+   "channel_title": "The House Archive",
+   "channel_created": "2026-10-09",
+   "channel_age_days": 48,
+   "subs": 546,
+   "found_at": "2026-11-27T01:01:03Z",
+   "validated_at": "2026-11-27T01:01:25Z",
+   "niche": "10 Strange Things Hidden Inside Old American Walls — And Why They’re There",
+   "path": [],
+   "queries": [
+    "american old things",
+    "strange things hidden inside",
+    "secret rooms hidden old"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "Em3Cqhslp2U",
+    "title": "10 Strange Things Hidden Inside Old American Walls — And Why They’re There",
+    "views": 147116
+   },
+   "ratio": 269.4,
+   "channel_stats": {
+    "videos": 14,
+    "median_views": 2706,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 50,
+    "n_channels": 42,
+    "max_subs": 15600000,
+    "median_subs": 949,
+    "big_channels": 5,
+    "top_views": 4159148,
+    "demand_videos": 11,
+    "demand_channels": 10,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 42, лимит 30",
+    "Есть канал с 15 600 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1819,
+   "competitors": [
+    {
+     "id": "UCpFC1R_aZOH3AfCuEMZrJUQ",
+     "title": "Ben Azelart Top Videos",
+     "subs": 2020000,
+     "age_days": 1102,
+     "videos": 1,
+     "best_views": 4159148,
+     "best_title": "7 SECRET Rooms To Hide From My Girlfriend!",
+     "best_id": "kn8kmNKqSH0"
+    },
+    {
+     "id": "UC4PhKcWx7UNhZlXW1XRGy-Q",
+     "title": "Family Jobs",
+     "subs": 2310,
+     "age_days": 79,
+     "videos": 1,
+     "best_views": 1958855,
+     "best_title": "Incredible Hidden Rooms And Secret Furniture on Another Level!",
+     "best_id": "2Huddmx6YnI"
+    },
+    {
+     "id": "UCCCMbgHXpLs2I7BZ_CgXxrg",
+     "title": "Secret State Files",
+     "subs": 68500,
+     "age_days": 198,
+     "videos": 2,
+     "best_views": 1057324,
+     "best_title": "Old American Homes Were Full of Strange Features — What Were They Actually For?",
+     "best_id": "BvMhYR0sCHU"
+    },
+    {
+     "id": "UCB58HbhbM93ygXfnCJ1K2kA",
+     "title": "Topper Guild Highlights",
+     "subs": 1050000,
+     "age_days": 300,
+     "videos": 1,
+     "best_views": 771913,
+     "best_title": "7 Secret Rooms To Hide From My Girlfriend!",
+     "best_id": "uA0U-TZt4cs"
+    },
+    {
+     "id": "UCVuCAtSVeaKyB1hSVCdM6FQ",
+     "title": "UnspeakableTV",
+     "subs": 316000,
+     "age_days": 327,
+     "videos": 1,
+     "best_views": 307492,
+     "best_title": "3 Secret Rooms to Hide from Poppy Playtime!",
+     "best_id": "6FFudjWTtfg"
+    },
+    {
+     "id": "UCAHL_rnUqSaXiDp5mfm9vGA",
+     "title": "Forgotten American Farm & Country Life",
+     "subs": 9200,
+     "age_days": 199,
+     "videos": 1,
+     "best_views": 299735,
+     "best_title": "25 Strange Features on Old American Barns That Had a Brilliant Purpose",
+     "best_id": "lYsM-YIb6d4"
+    },
+    {
+     "id": "UC9MAhZQQd9egwWCxrwSIsJQ",
+     "title": "HISTORY",
+     "subs": 15600000,
+     "age_days": 7396,
+     "videos": 2,
+     "best_views": 179918,
+     "best_title": "From a $450 Gamble to a 65 Million-Year-Old Discovery | American Pickers (S5, E1) | Full Episode",
+     "best_id": "oj_n65qDmpQ"
+    },
+    {
+     "id": "UCLFTHZIp5auDKkxfB57oDSQ",
+     "title": "The House Archive",
+     "subs": 546,
+     "age_days": 48,
+     "videos": 6,
+     "best_views": 147116,
+     "best_title": "10 Strange Things Hidden Inside Old American Walls — And Why They’re There",
+     "best_id": "Em3Cqhslp2U"
+    }
+   ]
+  },
+  {
    "channel_id": "UClW98ec3oye5Lr6DeFWY58A",
    "channel_title": "Sarah Johnson",
    "channel_created": "2026-10-09",
@@ -1224,6 +1353,134 @@
      "best_views": 323276,
      "best_title": "German POWs in America Were Ordered to Watch One Film. 1,000 Burned Their Uniforms.",
      "best_id": "vP4FI__ge6E"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCvYl-T7ChYwrotove9QfrBw",
+   "channel_title": "Hollywood Unmade",
+   "channel_created": "2026-10-13",
+   "channel_age_days": 44,
+   "subs": 178,
+   "found_at": "2026-11-27T01:00:13Z",
+   "validated_at": "2026-11-27T01:01:16Z",
+   "niche": "Where Did the $6 Million From the Goodfellas Lufthansa Heist Go? Almost None of It Was Ever FOUND",
+   "path": [],
+   "queries": [
+    "real far ever",
+    "did million goodfellas lufthansa",
+    "every real person behind"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "s_aoXetWndo",
+    "title": "Where Did the $6 Million From the Goodfellas Lufthansa Heist Go? Almost None of It Was Ever FOUND",
+    "views": 86444
+   },
+   "ratio": 485.6,
+   "channel_stats": {
+    "videos": 21,
+    "median_views": 48,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 21,
+    "n_channels": 20,
+    "max_subs": 6470000,
+    "median_subs": 1770,
+    "big_channels": 2,
+    "top_views": 234015,
+    "demand_videos": 6,
+    "demand_channels": 6,
+    "young_hits": 1
+   },
+   "status": "fail",
+   "reasons": [
+    "Есть канал с 6 470 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 1268,
+   "competitors": [
+    {
+     "id": "UCGsquBBYKpq9hJqltTeEGIg",
+     "title": "Concrete Kingdoms",
+     "subs": 19200,
+     "age_days": 4033,
+     "videos": 1,
+     "best_views": 234015,
+     "best_title": "Jimmy Burke Killed Way More People After the Lufthansa Heist Than Goodfellas Shows",
+     "best_id": "gujFDTvGBH4"
+    },
+    {
+     "id": "UCIcW12i3fdyCN32NjD3dAuA",
+     "title": "Dig.",
+     "subs": 53800,
+     "age_days": 2004,
+     "videos": 1,
+     "best_views": 194699,
+     "best_title": "The Real Man Behind Achilles?",
+     "best_id": "cLqAdjraE2s"
+    },
+    {
+     "id": "UCvYl-T7ChYwrotove9QfrBw",
+     "title": "Hollywood Unmade",
+     "subs": 178,
+     "age_days": 44,
+     "videos": 2,
+     "best_views": 86485,
+     "best_title": "Where Did the $6 Million From the Goodfellas Lufthansa Heist Go? Almost None of It Was Ever FOUND",
+     "best_id": "s_aoXetWndo"
+    },
+    {
+     "id": "UCAVxoa11gRHcit9_onvTkMQ",
+     "title": "Ambrose Discovery",
+     "subs": 114000,
+     "age_days": 134,
+     "videos": 1,
+     "best_views": 82193,
+     "best_title": "Megalodon Is FINALLY Proven Real… And It's Far Bigger Than You Ever Imagined",
+     "best_id": "MSdbB5h0K70"
+    },
+    {
+     "id": "UCuqt772Bwy_RZC1hgiHiW5g",
+     "title": "Mobster Minds",
+     "subs": 28400,
+     "age_days": 1515,
+     "videos": 1,
+     "best_views": 67576,
+     "best_title": "Goodfellas Never Showed What Happened During the Lufthansa Purge",
+     "best_id": "oraEC-rsuJw"
+    },
+    {
+     "id": "UCg7lal8IC-xPyKfgH4rdUcA",
+     "title": "djvlad",
+     "subs": 6470000,
+     "age_days": 7444,
+     "videos": 1,
+     "best_views": 63564,
+     "best_title": "Ed McDonald on Prosecuting $6M Mafia Lufthansa Heist, Featured in \"Goodfellas\" Movie (Part 1)",
+     "best_id": "aLB9V7ZJEgc"
+    },
+    {
+     "id": "UC5tMG3vp_fsn7RdZcJHFJsw",
+     "title": "LiamH",
+     "subs": 5480,
+     "age_days": 1864,
+     "videos": 1,
+     "best_views": 12554,
+     "best_title": "FAREVER - ULTIMATE WARRIOR BUILD GUIDE",
+     "best_id": "pJC5zBADCMI"
+    },
+    {
+     "id": "UC4xMmLIUvPGaLtqZFmiJAvg",
+     "title": "The Spill",
+     "subs": 7360,
+     "age_days": 450,
+     "videos": 1,
+     "best_views": 5706,
+     "best_title": "The Real People Behind The Taylor Swift Exposé That Totally Missed Its Target",
+     "best_id": "YCVpHjTe_IE"
     }
    ]
   },
@@ -8316,6 +8573,135 @@
      "best_views": 1218498,
      "best_title": "No Celebrity Told WAR Stories Like Lee Marvin",
      "best_id": "C6-FIlJaPNk"
+    }
+   ]
+  },
+  {
+   "channel_id": "UC0YKrvLBLgEl0ZLa7Pr8FZA",
+   "channel_title": "Da Origem ao Hoje",
+   "channel_created": "2026-11-03",
+   "channel_age_days": 23,
+   "subs": 2440,
+   "found_at": "2026-11-27T01:00:21Z",
+   "validated_at": "2026-11-27T01:01:34Z",
+   "niche": "A HISTÓRIA COMPLETA do Egito Antigo | Documentário 4K",
+   "path": [],
+   "queries": [
+    "documentário completo",
+    "império romano",
+    "documentário história completa"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "H7LNeYfN2Cc",
+    "title": "A HISTÓRIA COMPLETA do Egito Antigo | Documentário 4K",
+    "views": 87418
+   },
+   "ratio": 35.8,
+   "channel_stats": {
+    "videos": 7,
+    "median_views": 3650,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 98,
+    "n_channels": 66,
+    "max_subs": 15200000,
+    "median_subs": 36150,
+    "big_channels": 20,
+    "top_views": 3330202,
+    "demand_videos": 81,
+    "demand_channels": 51,
+    "young_hits": 4
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 66, лимит 30",
+    "Есть канал с 15 200 000 подписчиков"
+   ],
+   "notes": [],
+   "score": 44,
+   "competitors": [
+    {
+     "id": "UCcK9yDz5INb1Q9Tw82ICeVQ",
+     "title": "Um Documentário",
+     "subs": 143000,
+     "age_days": 229,
+     "videos": 10,
+     "best_views": 3330202,
+     "best_title": "Os primeiros Humanos: Como o Homo habilis lutou e sobreviveu?! | Documentário completo",
+     "best_id": "xj90-HGETCQ"
+    },
+    {
+     "id": "UCyEr1_3pP7tkD-XNddOnN0w",
+     "title": "GeoDocs",
+     "subs": 259000,
+     "age_days": 890,
+     "videos": 1,
+     "best_views": 3149474,
+     "best_title": "SIBÉRIA: Território Extremo [Documentário Completo]",
+     "best_id": "Ozsn8Iq1Zgk"
+    },
+    {
+     "id": "UCeynxaeCP0PX5_ZioeBbE9w",
+     "title": "O Diário de Titus Valério",
+     "subs": 25300,
+     "age_days": 500,
+     "videos": 1,
+     "best_views": 2294937,
+     "best_title": "Como Começou a Ditadura Militar no Brasil? (1964–1985)",
+     "best_id": "UfGD0lqHObI"
+    },
+    {
+     "id": "UCGrsCoDFIPNh72iMfzXByLg",
+     "title": "Poder de Deus",
+     "subs": 264000,
+     "age_days": 3453,
+     "videos": 1,
+     "best_views": 2149562,
+     "best_title": "A VINGANÇA DE DEUS | Documentário",
+     "best_id": "CYAAQsJNJR4"
+    },
+    {
+     "id": "UCL01QG9rG7Nvv5OBRZ7P-Fg",
+     "title": "BTN - Historia",
+     "subs": 121000,
+     "age_days": 2832,
+     "videos": 1,
+     "best_views": 2104935,
+     "best_title": "La HISTORIA COMPLETA del Mundo (SIN IA) | Documental en 4K",
+     "best_id": "dIUhOTF8HTM"
+    },
+    {
+     "id": "UCr88VYLpASHODHBn7Nh_iJw",
+     "title": "Spotniks",
+     "subs": 2250000,
+     "age_days": 4506,
+     "videos": 1,
+     "best_views": 1825588,
+     "best_title": "Como Luiz Inácio virou Lula",
+     "best_id": "B_yj29UV5qI"
+    },
+    {
+     "id": "UCKDjjeeBmdaiicey2nImISw",
+     "title": "Brasil Paralelo",
+     "subs": 5390000,
+     "age_days": 3776,
+     "videos": 7,
+     "best_views": 1545654,
+     "best_title": "A FACE OCULTA DE MICHAEL JACKSON",
+     "best_id": "rp9dzx2bnos"
+    },
+    {
+     "id": "UCH2VZQBLFTOp6I_qgnBJCuQ",
+     "title": "Canal Nostalgia",
+     "subs": 15200000,
+     "age_days": 6641,
+     "videos": 1,
+     "best_views": 1545250,
+     "best_title": "CHINA / 5 MIL ANOS DE HISTÓRIA EM 1 HORA",
+     "best_id": "deEXaVt3EgE"
     }
    ]
   },
