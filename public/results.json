@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-27T01:01:34Z",
+ "generated_at": "2026-11-28T01:01:29Z",
  "quota": {
-  "day": "2026-11-26",
-  "used": 2959,
+  "day": "2026-11-27",
+  "used": 2958,
   "budget": 9000
  },
  "pending": 0,
@@ -9873,6 +9873,136 @@
    ]
   },
   {
+   "channel_id": "UCDIqA4yCKamwXrs2DIEIM4w",
+   "channel_title": "Ember Hollow Tales",
+   "channel_created": "2026-10-13",
+   "channel_age_days": 45,
+   "subs": 1670,
+   "found_at": "2026-11-28T01:00:57Z",
+   "validated_at": "2026-11-28T01:01:29Z",
+   "niche": "7 Disturbing Appalachian Country Store Mysteries That Remain Unexplained",
+   "path": [],
+   "queries": [
+    "appalachian folklore",
+    "appalachian mysteries",
+    "appalachian disturbing mysteries"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "CdQtEKFnbRM",
+    "title": "7 Disturbing Appalachian Country Store Mysteries That Remain Unexplained",
+    "views": 103606
+   },
+   "ratio": 62.0,
+   "channel_stats": {
+    "videos": 11,
+    "median_views": 5602,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 76,
+    "n_channels": 48,
+    "max_subs": 16700000,
+    "median_subs": 79600,
+    "big_channels": 22,
+    "top_views": 14434728,
+    "demand_videos": 60,
+    "demand_channels": 39,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 48, лимит 30",
+    "Есть канал с 16 700 000 подписчиков",
+    "Медиана подписчиков 79 600 выше лимита"
+   ],
+   "notes": [],
+   "score": 27,
+   "competitors": [
+    {
+     "id": "UCg3gzldyhCHJjY7AWWTNPPA",
+     "title": "Sam and Colby",
+     "subs": 16700000,
+     "age_days": 4412,
+     "videos": 1,
+     "best_views": 14434728,
+     "best_title": "Investigating Haunted Appalachia: It Followed Us.",
+     "best_id": "JLY49l0kKk4"
+    },
+    {
+     "id": "UCRVXfhLRsLWi3_IKnMDiI1Q",
+     "title": "poi",
+     "subs": 454000,
+     "age_days": 1425,
+     "videos": 2,
+     "best_views": 2853588,
+     "best_title": "Horrors of Appalachian Mountains",
+     "best_id": "104PPVnoKt8"
+    },
+    {
+     "id": "UCGAmpBtWveYp0-3v9npnhvQ",
+     "title": "Chilling Scares",
+     "subs": 2920000,
+     "age_days": 2190,
+     "videos": 1,
+     "best_views": 2794363,
+     "best_title": "6 Most Disturbing Unsolved Appalachian Mysteries",
+     "best_id": "6lFfh2qDfyk"
+    },
+    {
+     "id": "UCx6uUCI7OBFMrfIT728Ywtw",
+     "title": "Blue Ridge Whispers",
+     "subs": 24500,
+     "age_days": 547,
+     "videos": 11,
+     "best_views": 1735872,
+     "best_title": "The Story of the Crole Clan — Appalachia’s Most Unholy Bloodline",
+     "best_id": "ipn-FJ48WYs"
+    },
+    {
+     "id": "UCsSRxYAK0PiA7d0XUR6sPFA",
+     "title": "The Paranormal Files (Official Channel)",
+     "subs": 1490000,
+     "age_days": 4278,
+     "videos": 1,
+     "best_views": 1043207,
+     "best_title": "\"I WILL NOT Go Out There At Night\" | REAL Appalachian HORROR STORIES | Ghosts, Cryptids & More...",
+     "best_id": "vp1s7AtJH4c"
+    },
+    {
+     "id": "UCzEudBPVyZGwQA5WqfpLfhA",
+     "title": "Rust & Hollow",
+     "subs": 13900,
+     "age_days": 2748,
+     "videos": 3,
+     "best_views": 878602,
+     "best_title": "19 Ancient Discoveries In The Appalachian Mountains That Scientists Can't Explain",
+     "best_id": "RFFF3IgSvZg"
+    },
+    {
+     "id": "UC9vRT_JUeHCh62UKTah5cBw",
+     "title": "Appalachian Soul Hymns",
+     "subs": 22300,
+     "age_days": 247,
+     "videos": 1,
+     "best_views": 812874,
+     "best_title": "Timeless Appalachian Hymns | Old Mountain Folk Gospel (Full Album)",
+     "best_id": "KjdtlUhCVhI"
+    },
+    {
+     "id": "UCvwo7Z0eSMpbyMSBE4Iryrg",
+     "title": "What Lurks Beneath",
+     "subs": 1290000,
+     "age_days": 2911,
+     "videos": 1,
+     "best_views": 678717,
+     "best_title": "The Appalachian Mountains Are Hiding Something Terrifying...",
+     "best_id": "pZOd2aD4BBU"
+    }
+   ]
+  },
+  {
    "channel_id": "UCJ8TRR6WsTKWGC-SsxepNOw",
    "channel_title": "Historium TV",
    "channel_created": "2026-08-29",
@@ -13902,6 +14032,136 @@
    ]
   },
   {
+   "channel_id": "UChZ1wnbhufQnkVmx__5q3-g",
+   "channel_title": "USA Military Uncovered",
+   "channel_created": "2026-11-01",
+   "channel_age_days": 26,
+   "subs": 291,
+   "found_at": "2026-11-28T01:00:16Z",
+   "validated_at": "2026-11-28T01:01:21Z",
+   "niche": "Navy SEALs: The Elite Warriors Behind America's Most Dangerous Missions",
+   "path": [],
+   "queries": [
+    "military aircraft",
+    "military news",
+    "action training marines"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "2N6Z3CqnQaI",
+    "title": "Navy SEALs: The Elite Warriors Behind America's Most Dangerous Missions",
+    "views": 62914
+   },
+   "ratio": 216.2,
+   "channel_stats": {
+    "videos": 20,
+    "median_views": 548,
+    "hits": 1
+   },
+   "market": {
+    "n_videos": 47,
+    "n_channels": 33,
+    "max_subs": 20100000,
+    "median_subs": 574000,
+    "big_channels": 24,
+    "top_views": 4829257,
+    "demand_videos": 32,
+    "demand_channels": 26,
+    "young_hits": 0
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 33, лимит 30",
+    "Есть канал с 20 100 000 подписчиков",
+    "Медиана подписчиков 574 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 5,
+   "competitors": [
+    {
+     "id": "UCWeV02HP-m1HArhpBR0TapA",
+     "title": "Jeremiah",
+     "subs": 502000,
+     "age_days": 1858,
+     "videos": 1,
+     "best_views": 4829257,
+     "best_title": "The Most Intense A-10 Warthog Footage Ever Recorded *(GRAPHIC FOOTAGE*)",
+     "best_id": "MZUBcjggysk"
+    },
+    {
+     "id": "UCYrgPWyI7xJh81wrOr6fQAw",
+     "title": "The Daily Aviation",
+     "subs": 2610000,
+     "age_days": 4432,
+     "videos": 1,
+     "best_views": 3161165,
+     "best_title": "US Air Force’s Biggest Aircraft Ever Made in Action During Intense Lifting",
+     "best_id": "ebk3_oPy2Rs"
+    },
+    {
+     "id": "UCh35n5aqG8fF2tXXEtDd0EQ",
+     "title": "Military News",
+     "subs": 270000,
+     "age_days": 2067,
+     "videos": 1,
+     "best_views": 2175293,
+     "best_title": "The New A-11 Warthog Is Absolutely Brutal!",
+     "best_id": "iWn1UCL8HI0"
+    },
+    {
+     "id": "UC2yLo_t7j_Y97vtDl4y2VOg",
+     "title": "Crimson Battalion",
+     "subs": 4410,
+     "age_days": 478,
+     "videos": 1,
+     "best_views": 876675,
+     "best_title": "U.S. and Philippine Marines Deploy Combined Firepower | KAMANDAG 9 Live Fire Training",
+     "best_id": "50d3r41ySqM"
+    },
+    {
+     "id": "UCXIJgqnII2ZOINSWNOGFThA",
+     "title": "Fox News",
+     "subs": 15600000,
+     "age_days": 7374,
+     "videos": 2,
+     "best_views": 865651,
+     "best_title": "NEW DETAILS: US aircraft carrier headed to Mideast after Iran strikes",
+     "best_id": "xZpoyYeFo3E"
+    },
+    {
+     "id": "UCYI_ychRnL7sJrG6PUSBpQA",
+     "title": "CBN News",
+     "subs": 2900000,
+     "age_days": 6815,
+     "videos": 3,
+     "best_views": 766262,
+     "best_title": "Russia and China Challenge U.S. Defenses Near Alaska as Military Threats Grow",
+     "best_id": "2u-IB_-la5g"
+    },
+    {
+     "id": "UCggfpOv6udfa8c_B_oem8wA",
+     "title": "HD Melbourne Aviation",
+     "subs": 676000,
+     "age_days": 4353,
+     "videos": 3,
+     "best_views": 633242,
+     "best_title": "✈️ RARE MILITARY & JET FIGHTER Aircraft Landings & Takeoffs 🇬🇧 RIAT 2025 RAF Fairford Plane Spotting",
+     "best_id": "fXpzkTkHqsI"
+    },
+    {
+     "id": "UCZhJe5-rIDvpIHp_svoAVsg",
+     "title": "Times Archives",
+     "subs": 424000,
+     "age_days": 2829,
+     "videos": 3,
+     "best_views": 560694,
+     "best_title": "U.S. Marines Day & Night Live-Fire Company Attacks (2026)",
+     "best_id": "M0wQ8AqvRy0"
+    }
+   ]
+  },
+  {
    "channel_id": "UCbyZZ8RchviKsSqym6D2CbA",
    "channel_title": "Golden Secrets 5B",
    "channel_created": "2026-08-31",
@@ -14158,6 +14418,136 @@
      "best_views": 290660,
      "best_title": "Trying BEST LUCKNOWI FOOD WITH MIRZAPUR'S GUDDU BHAIYA | The Urban Guide",
      "best_id": "62JllFEKNbo"
+    }
+   ]
+  },
+  {
+   "channel_id": "UCIEJhOiWpS8MKIY1qRa-n3A",
+   "channel_title": "Zero Thickness",
+   "channel_created": "2026-11-06",
+   "channel_age_days": 21,
+   "subs": 263,
+   "found_at": "2026-11-28T01:00:35Z",
+   "validated_at": "2026-11-28T01:01:14Z",
+   "niche": "What Jason Found in Mandy's Sink (GTA 6)",
+   "path": [],
+   "queries": [
+    "grand theft auto 6",
+    "gta 6",
+    "gta mandy found"
+   ],
+   "sub_queries": [],
+   "llm": false,
+   "best_video": {
+    "id": "yz-zlsZzwqM",
+    "title": "What Jason Found in Mandy's Sink (GTA 6)",
+    "views": 731640
+   },
+   "ratio": 2781.9,
+   "channel_stats": {
+    "videos": 6,
+    "median_views": 13637,
+    "hits": 2
+   },
+   "market": {
+    "n_videos": 58,
+    "n_channels": 47,
+    "max_subs": 31100000,
+    "median_subs": 1110000,
+    "big_channels": 38,
+    "top_views": 40190092,
+    "demand_videos": 51,
+    "demand_channels": 41,
+    "young_hits": 2
+   },
+   "status": "fail",
+   "reasons": [
+    "Каналов в нише 47, лимит 30",
+    "Есть канал с 31 100 000 подписчиков",
+    "Медиана подписчиков 1 110 000 выше лимита"
+   ],
+   "notes": [],
+   "score": 1,
+   "competitors": [
+    {
+     "id": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+     "title": "Rockstar Games",
+     "subs": 14300000,
+     "age_days": 7588,
+     "videos": 1,
+     "best_views": 40190092,
+     "best_title": "Grand Theft Auto VI: An Extended Look",
+     "best_id": "tJbzMqJGH4k"
+    },
+    {
+     "id": "UCiYcA0gJzg855iSKMrX3oHg",
+     "title": "CoryxKenshin",
+     "subs": 24900000,
+     "age_days": 6423,
+     "videos": 2,
+     "best_views": 13778708,
+     "best_title": "GTA 6",
+     "best_id": "x9A8elqIyK8"
+    },
+    {
+     "id": "UC1bwliGvJogr7cWK0nT2Eag",
+     "title": "MKIceAndFire",
+     "subs": 4860000,
+     "age_days": 5224,
+     "videos": 1,
+     "best_views": 13133386,
+     "best_title": "GTA 6 Gameplay Walkthrough Part 1 FULL GAME [4K PS5 PRO] - No Commentary",
+     "best_id": "YDNs_sPEcJc"
+    },
+    {
+     "id": "UC36MGPfPwOWafAXauiV4LdA",
+     "title": "TmarTn2",
+     "subs": 5760000,
+     "age_days": 5941,
+     "videos": 3,
+     "best_views": 13128313,
+     "best_title": "GTA 6 - Stealing a Jet From the Military Base",
+     "best_id": "6E2cBXFCDyQ"
+    },
+    {
+     "id": "UCvCfpQXRXdJdL07pzTIA6Cw",
+     "title": "Kai Cenat Live",
+     "subs": 16900000,
+     "age_days": 2125,
+     "videos": 1,
+     "best_views": 12666900,
+     "best_title": "🌴PLAYING GTA 6 FOR THE FIRST TIME🌴 (DAY 1)",
+     "best_id": "VZqAPdUvqnQ"
+    },
+    {
+     "id": "UCpqXJOEqGS-TCnazcHCo0rA",
+     "title": "theRadBrad",
+     "subs": 14100000,
+     "age_days": 7305,
+     "videos": 2,
+     "best_views": 10528345,
+     "best_title": "GTA 6 Walkthrough Gameplay Part 1 - INTRO (GRAND THEFT AUTO 6)",
+     "best_id": "rQLEb0W7REo"
+    },
+    {
+     "id": "UCKy1dAqELo0zrOtPkf0eTMw",
+     "title": "IGN",
+     "subs": 20100000,
+     "age_days": 7374,
+     "videos": 1,
+     "best_views": 8518151,
+     "best_title": "GTA 6 Review",
+     "best_id": "agBEh5aZ_Go"
+    },
+    {
+     "id": "UCRU9vwwARx8jEACqNpi_KFA",
+     "title": "Champs Network",
+     "subs": 734000,
+     "age_days": 3386,
+     "videos": 1,
+     "best_views": 7307969,
+     "best_title": "GTA 6 – CRAZY 5-Star Police Chase & Rampage at Vice Ocean Beach!",
+     "best_id": "8-DRGbQ1IXc"
     }
    ]
   }
